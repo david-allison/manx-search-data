@@ -1,0 +1,19 @@
+name: Check Data
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+
+jobs:
+  tests:
+    env:
+      DOTNET_CLI_TELEMETRY_OPTOUT: 1
+      DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
+      NUGET_XMLDOC_MODE: skip
+    name: Unit Testing
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2.1.0
+      - run: dotnet test
+    
