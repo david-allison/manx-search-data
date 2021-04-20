@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1915-11-13",
+	"createdCircaEnd": "1915-11-20",
+	"ident": "NedBegManxCarvalsMyChaarjyn",
+	"name": "Manx Carvals ‘MY CHAARJYN, ta foym dy hoilshagh diu’",
+	"notes": "Isle of Man Examiner. 13 & 20.11.1915 p.2"
+}
