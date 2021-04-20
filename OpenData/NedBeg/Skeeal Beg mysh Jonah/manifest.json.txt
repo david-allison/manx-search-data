@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1900-02-01",
+	"createdCircaEnd": "1900-02-28",
+	"ident": "NedBegSkeealBegMyshJonah",
+	"name": "Skeeal Beg mysh Jonah",
+	"notes": "Date (day) needs auditing with real source - likely incorrect, using whole month for now"
+}
