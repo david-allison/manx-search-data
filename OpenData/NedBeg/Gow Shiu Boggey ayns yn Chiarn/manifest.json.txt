@@ -1,0 +1,5 @@
+{
+	"created": "1899-06-14",
+	"ident": "NedBegGowShiuBoggeyAynsYnÇhiarn",
+	"name": "Gow Shiu Boggey ayns yn Çhiarn",
+}
