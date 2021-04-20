@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1900-01-01",
+	"createdCircaEnd": "1900-03-30",
+	"ident": "NedBegDeineyBeggeyVoishSkylleyChreest",
+	"name": "Deiney Beggey Voish Skylley Chreest",
+	"notes": "Written before an item dated 30.03.1900. Only one item in this collection is dated, all assumed to be c.1900."
+}
