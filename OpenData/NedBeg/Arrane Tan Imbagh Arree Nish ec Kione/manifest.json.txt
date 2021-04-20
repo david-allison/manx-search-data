@@ -1,0 +1,5 @@
+{
+	"created": "1899-05-17",
+	"ident": "NedBegTanImbaghArreeNishEcKione",
+	"name": "Arrane: Ta’n Imbagh Arree Nish ec Kione",
+}
