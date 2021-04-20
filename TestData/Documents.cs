@@ -18,7 +18,7 @@ namespace Manx_Search_Data.TestData
         /// Returns the open source documents defined in this repository.
         /// </summary>
         /// <returns></returns>
-        private static List<Document> GetOpenSourceDocuments()
+        public static List<Document> GetOpenSourceDocuments()
         {
             return FileListing.GetDocuments().Cast<Document>().ToList();
         }

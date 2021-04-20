@@ -40,5 +40,27 @@ namespace Manx_Search_Data
 
             CollectionAssert.AreEquivalent(ids, distinctIds, $"All '{nameof(Document.Ident)}s should be distinct");
         }
+
+        [Test]
+        public void AllContentsAreDistinct()
+        {
+            // PERF: This is lazy -  take the first 100 lines of each document, convert to string and hash
+            
+            Dictionary<string, string> contents = new Dictionary<string, string>();
+
+            foreach (var d in Documents.GetOpenSourceDocuments().Cast<OpenSourceDocument>().Select(x => new { Doc = x, File = x.LoadLocalFile() }))
+            {
+                var content = string.Join("\n", d.File.Take(100).Select(x => x.English + "|" + x.Manx));
+
+                if (contents.ContainsKey(content))
+                {
+                    Assert.Fail($"{d.Doc.FullCsvPath} and {contents[content]} have the same content");
+                }
+                else
+                {
+                    contents.Add(content, d.Doc.FullCsvPath);
+                }
+            }
+        }
     }
 }
