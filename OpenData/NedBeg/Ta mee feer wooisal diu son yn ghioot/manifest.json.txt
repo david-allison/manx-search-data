@@ -1,0 +1,6 @@
+{
+	"created": "1907-06-25",
+	"ident": "NedBegTaMeeFeerWooisalDiuSonYnGhioot",
+	"name": "Ta mee feer wooisal diu son yn ghioot",
+	"notes": "(Ned Beg’s letter is written on the reverse of the following letter from Cannon Kewley)\n In one of Doctor John Clague’s notebooks there is a transcription of this letter in the doctor’s own handwriting, along with transcriptions of the stories sent to Kewley."
+}
