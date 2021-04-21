@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-05-23",
+	"createdCircaEnd": "1899-06-01",
+	"ident": "NedBegCreChaTaitnysaghAsSheginDaErVe",
+	"name": "Cre cha taitnysagh as shegin da er ve",
+	"notes": "Written Between
+77. Chreest T’er Choyrt Graih Dou. (23.05.1899)	
+85. Abyl dy hebbal shin fegooish foill (01.06.1899)"
+}
