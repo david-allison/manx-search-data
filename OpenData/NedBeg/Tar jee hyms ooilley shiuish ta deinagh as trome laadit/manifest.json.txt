@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-05-17",
+	"createdCircaEnd": "1899-05-23",
+	"ident": "NedBegTarJeeHymsOoilleyShiuishTaDeinaghAsTromeLaadit",
+	"name": "Tar jee hym’s ooilley shiuish ta deinagh as trome laadit.",
+	"notes": "Written Between 
+70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
+76. Ean 16:27 (23.05.1899)"
+}
