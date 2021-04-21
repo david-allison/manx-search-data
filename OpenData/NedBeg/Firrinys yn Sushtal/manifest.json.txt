@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-05-17",
+	"createdCircaEnd": "1899-05-23",
+	"ident": "NedBegFirrinysYnSushtal",
+	"name": "Firrinys yn Sushtal",
+	"notes": "Written Between 
+70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
+76. Ean 16:27 (23.05.1899)"
+}
