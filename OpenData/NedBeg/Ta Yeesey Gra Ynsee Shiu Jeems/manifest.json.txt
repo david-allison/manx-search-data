@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-06-05",
+	"createdCircaEnd": "1899-06-10",
+	"ident": "NedBegTaYeeseyGraYnseeShiuJeems",
+	"name": "Ta Yeesey Gra “Ynsee Shiu Jeem’s”",
+	"notes": "Written Between 
+89. Jean credjal ayns yn Çhiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)
+91. Lhig da’n soilshey eu soilshean (10.06.1899)",
+} 
