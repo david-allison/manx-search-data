@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-05-23",
+	"createdCircaEnd": "1899-06-01",
+	"ident": "NedBegGowTaitnysAynsYnChiarn",
+	"name": "Gow Taitnys Ayns yn Çhiarn",
+	"notes": "Written Between 
+77. Chreest T’er Choyrt Graih Dou. (23.05.1899)	
+85. Abyl dy hebbal shin fegooish foill (01.06.1899)"
+}
