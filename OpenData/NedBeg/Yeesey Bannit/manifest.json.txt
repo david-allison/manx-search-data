@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-06-01",
+	"createdCircaEnd": "1899-06-05","
+	"ident": "NedBegYeeseyBannit",
+	"name": "Yeesey Bannit",
+	"notes": "Written Between 
+85. Abyl dy hebbal shin fegooish foill (01.06.1899)
+89. Jean credjal ayns yn Çhiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)"
+}
