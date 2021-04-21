@@ -1,6 +1,7 @@
 using Manx_Search_Data.TestData;
 using Manx_Search_Data.TestUtil;
 using NUnit.Framework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -61,6 +62,22 @@ namespace Manx_Search_Data
                     contents.Add(content, d.Doc.FullCsvPath);
                 }
             }
+        }
+
+        [Test]
+        public void PrintWordCount()
+        {
+            // Lazy - prints the word count of the corpus
+            var documents = Documents.GetOpenSourceDocuments();
+            var documentCount = documents.Count();
+
+            var lines = documents.SelectMany(x => x.LoadLocalFile()).ToList();
+            var lineCount = lines.Count();
+
+            var words = lines.Select(line => line.English.Split(" ").Count() + line.Manx.Split(" ").Count()).Sum();
+
+            Console.WriteLine($"{documentCount} documents containing {lineCount} lines ({words} words)");
+
         }
     }
 }
