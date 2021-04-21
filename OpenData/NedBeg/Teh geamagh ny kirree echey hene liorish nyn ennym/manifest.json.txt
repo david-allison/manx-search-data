@@ -1,6 +1,6 @@
 {
 	"createdCircaStart": "1899-05-23",
-	"createdCircaEnd": "1899-06-01","
+	"createdCircaEnd": "1899-06-01",
 	"ident": "NedBegTEhGeamaghNyKirreeEcheyHeneLiorishNynEnnym",
 	"name": "T’eh geamagh ny kirree echey hene liorish nyn ennym",
 	"notes": "Written Between 
