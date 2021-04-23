@@ -37,6 +37,12 @@ namespace Manx_Search_Data
         }
 
         [Theory]
+        public void DefinitionDatesAreValid(Document definition)
+        {
+            Assert.That(definition.CreatedCircaStart, Is.LessThanOrEqualTo(definition.CreatedCircaEnd), $"'{nameof(Document.CreatedCircaStart)}' was greater than '{nameof(Document.CreatedCircaEnd)}'");
+        }
+
+        [Theory]
         public void DefinitionsHasLinkedCsv(Document definition)
         {
             Assert.That(definition.CsvFileName, Is.Not.Null, $"'{nameof(Document.CsvFileName)}' must be set");
