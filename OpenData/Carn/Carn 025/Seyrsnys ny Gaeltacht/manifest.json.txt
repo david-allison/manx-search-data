@@ -2,7 +2,7 @@
 	"createdCircaStart": "1978-01-01",
 	"createdCircaEnd": "1978-12-31",
 	"ident": "Carn25ScoltaghynAynsUllee",
-	"name": "Carn 025: Scoltaghyn ayns "Ullee"",
+	"name": "Carn 025: Scoltaghyn ayns \"Ullee\"",
 	"author": "Brian Mac Stoyll",
 	"notes": "Winter 1978"
 }
