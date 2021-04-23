@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-06-12",
+	"createdCircaEnd": "1899-06-14",
+	"ident": "NedBegScruitErFastyrAalin",
+	"name": "Scruit er Fastyr Aalin",
+	"notes": "Written Between
+94.     Arrane: Yn Fastyr Aalin Shoh ta Gerjagh Mee (12.06.1899)	
+96.     Gow Shiu Boggey ayns yn Çhiarn. (14.06.1899)"
+}
