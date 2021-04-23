@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1978-01-01",
+	"createdCircaEnd": "1978-12-31",
+	"ident": "Carn21Torchagh-Chengey",
+	"name": "Carn 021: Torchagh-Chengey.",
+	"author": "Brian y Stoyll",
+	"notes": "Spring 1978 Special Poetry Issue"
+}
