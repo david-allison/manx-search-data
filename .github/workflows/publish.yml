@@ -23,11 +23,11 @@ jobs:
 
       - run: ssh -tt david2@209.97.129.212 'rm -rf /var/www/manx-corpus/OpenData/{*,.*}'
         continue-on-error: true
-        timeout-minutes: 1
+        timeout-minutes: 4
       
       - name: Copy Data to server
         run: scp -r "$GITHUB_WORKSPACE/OpenData" david2@209.97.129.212:/var/www/manx-corpus/
-        timeout-minutes: 1
+        timeout-minutes: 20
         
       - name: Rebuild
         run: ssh -t david2@209.97.129.212 'sudo /bin/systemctl stop manx-corpus.service && cd /var/www/manx-corpus/ && dotnet publish'
