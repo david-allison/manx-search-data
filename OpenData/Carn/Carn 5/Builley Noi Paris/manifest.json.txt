@@ -1,0 +1,6 @@
+{
+	"created": "1974-03-15",
+	"ident": "Carn5BuilleyNoiParis",
+	"name": "Carn 5: Builley Noi Paris",
+	"author": "Brian Mac Stoyll",
+}
