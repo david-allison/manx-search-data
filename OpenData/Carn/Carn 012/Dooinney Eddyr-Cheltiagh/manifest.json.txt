@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1976-02-01",
+	"createdCircaEnd": "1976-02-29",
+	"ident": "Carn12DooinneyEddyrCheltiagh",
+	"name": "Carn 012: Dooinney Eddyr-Cheltiagh.",
+	"author": "Brian y Stoyll",
+	"notes": "February 1976"
+}
