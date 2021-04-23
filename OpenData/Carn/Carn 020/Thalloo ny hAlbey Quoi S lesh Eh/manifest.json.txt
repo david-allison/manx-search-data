@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1977-10-31",
+	"createdCircaEnd": "1978-03-01",
+	"ident": "Carn20ThallooNyHAlbeyQuoiSLeshEh",
+	"name": "Carn 020: Thalloo ny hAlbey: Quoi S'lesh Eh?",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1977/8"
+}
