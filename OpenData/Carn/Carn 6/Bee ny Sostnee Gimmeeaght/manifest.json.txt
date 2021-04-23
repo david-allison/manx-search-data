@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1974-01-01",
+	"createdCircaEnd": "1974-12-31",
+	"ident": "Carn6BeeNySostneeGimmeeaght",
+	"name": "Carn 6: Bee ny Sostnee Gimmeeaght?",
+	"author": "Brian Mac Stoyll",
+	"notes": "Summer 1974"
+}
