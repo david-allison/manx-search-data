@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1976-01-01",
+	"createdCircaEnd": "1976-12-31",
+	"ident": "Carn14SlaneLhieuRishHarlandAsWolff",
+	"name": "Carn 014: Slane Lhieu rish Harland as Wolff?",
+	"author": "Brian y Stoyll",
+	"notes": "Summer 1976"
+}
