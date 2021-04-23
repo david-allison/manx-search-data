@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1977-01-01",
+	"createdCircaEnd": "1977-12-31",
+	"ident": "Carn17KiartyssynTheayagh-HumanRights",
+	"name": "Carn 017: Kiartyssyn Theayagh - Human Rights.",
+	"author": "Brian y Stoyll",
+	"notes": "Spring 1977"
+}
