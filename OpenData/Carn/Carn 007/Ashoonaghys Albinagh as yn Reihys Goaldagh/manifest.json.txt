@@ -1,6 +1,6 @@
 {
 	"created": "1974-10-27",
 	"ident": "Carn7AshoonaghysAlbinaghAsYnReihysGoaldagh",
-	"name": "Carn 7: Ashoonaghys Albinagh as yn Reihys Goaldagh",
+	"name": "Carn 007: Ashoonaghys Albinagh as yn Reihys Goaldagh",
 	"author": "Brian y Stoyll",
 }

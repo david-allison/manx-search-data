@@ -1,6 +1,6 @@
 {
 	"created": "1975-01-03",
 	"ident": "Carn8CeauNyPaddiesMagh",
-	"name": "Carn 8: Ceau ny Paddies Magh.",
+	"name": "Carn 008: Ceau ny Paddies Magh.",
 	"author": "Brian y Stoyll",
 }
