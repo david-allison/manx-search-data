@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1977-01-01",
+	"createdCircaEnd": "1977-12-31",
+	"ident": "Carn19Caglieeyn-Eeastee",
+	"name": "Carn 019: Caglieeyn-Eeastee/Fishing Limits",
+	"author": "Brian y Stoyll",
+	"notes": "Autumn 1977"
+}
