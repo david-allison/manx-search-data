@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1978-01-01",
+	"createdCircaEnd": "1978-12-31",
+	"ident": "Carn24SeyrsnysNyGaeltacht",
+	"name": "Carn 024: Seyrsnys ny Gaeltacht",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1978"
+}
