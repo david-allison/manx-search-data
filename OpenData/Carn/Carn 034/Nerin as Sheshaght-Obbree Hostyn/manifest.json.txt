@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1981-01-01",
+	"createdCircaEnd": "1981-12-31",
+	"ident": "Carn34NerinAsSheshaght-ObbreeHostyn",
+	"name": "Carn 034: Nerin as Sheshaght-Obbree Hostyn",
+	"author": "Brian y Stoyll",
+	"notes": "Summer 1981"
+}
