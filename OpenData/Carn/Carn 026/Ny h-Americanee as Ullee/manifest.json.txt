@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1979-01-01",
+	"createdCircaEnd": "1979-12-31",
+	"ident": "Carn26NyH-AmericaneeAsUllee",
+	"name": "Carn 026: Ny h-Americanee as Ullee.",
+	"author": "Brian Mac Stoyll",
+	"notes": "Summer 1979"
+}
