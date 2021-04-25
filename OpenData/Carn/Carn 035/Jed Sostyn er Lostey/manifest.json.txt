@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1981-01-01",
+	"createdCircaEnd": "1981-12-31",
+	"ident": "Carn35JedSostynErLostey",
+	"name": "Carn 035: Jed Sostyn er Lostey?",
+	"author": "Brian y Stoyll",
+	"notes": "Autumn 1981"
+}
