@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1983-01-01",
+	"createdCircaEnd": "1983-12-31",
+	"ident": "Carn42MoylleyAsSoylleyDiuBAS",
+	"name": "Carn 042: Moylley as Soylley Diu B.A.S.",
+	"author": "Colin y Jerree",
+	"notes": "Summer 1983"
+}
