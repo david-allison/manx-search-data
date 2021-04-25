@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1982-01-01",
+	"createdCircaEnd": "1982-12-31",
+	"ident": "Carn38ChaNelYnImpiraghtMarroo",
+	"name": "Carn 038: Cha nel yn Impiraght Marroo",
+	"author": "Brian y Stoyll",
+	"notes": "Summer 1982"
+}
