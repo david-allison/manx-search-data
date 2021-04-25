@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1982-01-01",
+	"createdCircaEnd": "1982-12-31",
+	"ident": "Carn39SheelogheNoaNyManninee",
+	"name": "Carn 039: Sheeloghe Noa ny Manninee",
+	"notes": "Autumn 1982"
+}
