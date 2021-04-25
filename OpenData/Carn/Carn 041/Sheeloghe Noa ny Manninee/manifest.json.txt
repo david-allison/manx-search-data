@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1983-01-01",
+	"createdCircaEnd": "1983-12-31",
+	"ident": "Carn41GaelgJiu",
+	"name": "Carn 041: Gaelg Jiu",
+	"author": "Colin Jerry",
+	"notes": "Spring 1983",
+}
