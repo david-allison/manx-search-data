@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1984-01-01",
+	"createdCircaEnd": "1984-12-31",
+	"ident": "Carn45NiartNyScannaneyn",
+	"name": "Carn 045: Niart ny Scannaneyn",
+	"author": "Brian y Stoyll",
+	"notes": "Spring 1984"
+}
