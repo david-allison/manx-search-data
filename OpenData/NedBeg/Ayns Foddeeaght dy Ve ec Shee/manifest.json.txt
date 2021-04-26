@@ -5,5 +5,5 @@
 	"name": "Ayns Foddeeaght dy Ve ec Shee",
 	"notes": "Written Between
 120.     Yn Nollick (10.12.1899)
-122.     Dy Bragh Marish yn Çhiarn. (14.01.1900)”
+122.     Dy Bragh Marish yn Çhiarn. (14.01.1900)"
 }
