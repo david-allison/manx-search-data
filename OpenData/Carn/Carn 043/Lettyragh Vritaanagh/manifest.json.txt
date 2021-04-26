@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1983-01-01",
+	"createdCircaEnd": "1983-12-31",
+	"ident": "Carn43LettyraghVritaanagh",
+	"name": "Carn 043: Lettyragh Vritaanagh",
+	"author": "Patrick le Besco",
+	"notes": "Autumn 1983",
+}
