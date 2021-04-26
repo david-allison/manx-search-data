@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1984-01-01",
+	"createdCircaEnd": "1985-12-31",
+	"ident": "Carn47and8MannineeAynsBritaanBeg",
+	"name": "Carn 047/8: Manninee ayns Britaan Beg.",
+	"author": "Colin y Jerree",
+	"notes": "Double Issue - Carn 47 and 48 Autumn/Winter 1984/5 Double issue"
+}
