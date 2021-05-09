@@ -29,6 +29,10 @@ jobs:
         run: scp -r "$GITHUB_WORKSPACE/OpenData" david2@209.97.129.212:/var/www/manx-corpus/
         timeout-minutes: 20
         
+        # ignore the output of rm -rf and continue
+      - name: Refresh Closed Data from GitHub Repo
+        run: ssh -t david2@209.97.129.212 'rm -rf /var/www/manx-corpus/ClosedData/{*,.*} || cd ~/corpus-search-data-private && git pull origin master && cp -r ~/corpus-search-data-private/ClosedData /var/www/manx-corpus/'
+                
       - name: Rebuild
         run: ssh -t david2@209.97.129.212 'sudo /bin/systemctl stop manx-corpus.service && cd /var/www/manx-corpus/ && dotnet publish'
             
