@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1985-01-01",
+	"createdCircaEnd": "1985-12-31",
+	"ident": "Carn53CheayllMeeYnCoraaYeeseyGra",
+	"name": "Carn 053: Cheayll Mee yn Coraa Yeesey Gra",
+	"author": "Colin y Jerree",
+	"notes": "Winter 1985"
+}
