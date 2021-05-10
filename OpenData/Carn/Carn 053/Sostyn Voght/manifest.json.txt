@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1985-01-01",
+	"createdCircaEnd": "1985-12-31",
+	"ident": "Carn53SostynVoght",
+	"name": "Carn 053: Sostyn Voght",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1985"
+}
