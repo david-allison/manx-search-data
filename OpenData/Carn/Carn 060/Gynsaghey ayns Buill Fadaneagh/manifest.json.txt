@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1987-01-01",
+	"createdCircaEnd": "1988-12-31",
+	"ident": "Carn60GynsagheyAynsBuillFadaneagh",
+	"name": "Carn 060: Gynsaghey ayns Buill Fadaneagh",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1987/88"
+}
