@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1985-01-01",
+	"createdCircaEnd": "1985-12-31",
+	"ident": "Carn52ThooderAsYGearaltach",
+	"name": "Carn 052: Thooder as y Gearaltach",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1985"
+}
