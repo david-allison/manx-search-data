@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1986-01-01",
+	"createdCircaEnd": "1986-12-31",
+	"ident": "Carn56ShennaghysAa-Screeut",
+	"name": "Carn 056: Shennaghys Aa-Screeut",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1986"
+}
