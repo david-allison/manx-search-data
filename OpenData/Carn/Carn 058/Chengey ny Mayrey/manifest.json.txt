@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1987-01-01",
+	"createdCircaEnd": "1987-12-31",
+	"ident": "Carn58ChengeyNyMayrey",
+	"name": "Carn 058: Chengey ny Mayrey?",
+	"author": "Robard y Charsalagh",
+	"notes": "Summer 1987"
+}
