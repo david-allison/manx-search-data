@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1986-01-01",
+	"createdCircaEnd": "1986-12-31",
+	"ident": "Carn55NyCeltieeAsPooarChesh-Veanagh",
+	"name": "Carn 055: Ny Celtiee as Pooar Chesh-Veanagh",
+	"author": "Brian y Stoyll",
+	"notes": "Autumn 1986"
+}
