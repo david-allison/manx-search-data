@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1986-01-01",
+	"createdCircaEnd": "1986-12-31",
+	"ident": "Carn54AaviogheyChengaghyn",
+	"name": "Carn 054: Aavioghey Chengaghyn",
+	"author": "Brian y Stoyll",
+	"notes": "Summer 1986"
+}
