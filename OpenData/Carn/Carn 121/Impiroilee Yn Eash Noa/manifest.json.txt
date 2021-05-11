@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2003-01-01",
+	"createdCircaEnd": "2003-12-31",
+	"ident": "Carn121ImpiroileeYnEashNoa",
+	"name": "Carn 121: Impiroilee Yn Eash Noa",
+	"author": "Brian Stowell",
+	"notes": "Carn 121 Spring/Summer 2003"
+}
