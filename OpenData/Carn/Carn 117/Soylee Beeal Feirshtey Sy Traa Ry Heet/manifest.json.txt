@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2002-01-01",
+	"createdCircaEnd": "2002-12-31",
+	"ident": "Carn117SoyleeBeealFeirshteySyTraaRyHeet",
+	"name": "Carn 117: Soylee Beeal Feirshtey Sy Traa Ry Heet",
+	"author": "Brian Stowell",
+	"notes": "Spring Summer 2002"
+}
