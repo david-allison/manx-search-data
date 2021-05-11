@@ -5,6 +5,7 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data
 {
@@ -96,6 +97,22 @@ namespace Manx_Search_Data
                 }
 
                 Assert.That(line, Does.Not.Contain("�"), $"The CSV is saved incorrectly. Please open it in Notepad++ and select \"Encoding - Convert to UTF-8\"\nFile: {openSourceDocument.FullCsvPath}. Index: {index}");
+            }
+        }
+
+        [Theory]
+        public void CsvFileIsNotChinese(Document document)
+        {
+            // PERF: this is a slow test - combine with CsvFileIsUTF8
+            // Issue: 463 - some files were interpreted to be Chinese, the only way to fix this was to re-save in Excel as UTF-8
+            var openSourceDocument = AssumeOpenSource(document, "CSV is not avalable yet");
+            var lines = document.LoadLocalFile();
+
+            const string ChineseOrJapanese = "[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]";
+
+            foreach (string line in lines.Select(x => x.English + "|" + x.Manx))
+            {
+                Assert.That(line, Does.Not.Match(ChineseOrJapanese), $"The CSV may be saved incorrectly (containing Chinese/Japanese Text). Please remake it and save it as CSV (UTF-8) in Excel. Contact David if this fails\"\nFile: {openSourceDocument.FullCsvPath}.");
             }
         }
 
