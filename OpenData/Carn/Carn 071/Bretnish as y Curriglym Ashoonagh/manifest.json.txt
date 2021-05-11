@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1990-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Carn71BretnishAsYCurriglymAshoonagh",
+	"name": "Carn 071: Bretnish as y Curriglym Ashoonagh",
+	"author": "Brian y Stoyll",
+	"notes": "Autumn 1990"
+}
