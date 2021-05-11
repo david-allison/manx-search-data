@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1994-01-01",
+	"createdCircaEnd": "1994-12-31",
+	"ident": "Carn87Eddyr-Ashoonaghys",
+	"name": "Carn 087: Eddyr-Ashoonaghys",
+	"author": "Orree Crennell",
+	"notes": "Autumn 1994"
+}
