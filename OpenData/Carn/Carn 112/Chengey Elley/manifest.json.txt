@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2000-01-01",
+	"createdCircaEnd": "2001-12-31",
+	"ident": "Carn112ChengeyElley",
+	"name": "Carn 112: Chengey Elley",
+	"author": "Brian Stowell",
+	"notes": "Winter 2000/1"
+}
