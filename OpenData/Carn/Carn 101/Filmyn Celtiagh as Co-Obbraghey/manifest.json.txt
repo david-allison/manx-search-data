@@ -1,7 +1,7 @@
 {
 	"createdCircaStart": "1998-01-01",
 	"createdCircaEnd": "1998-12-31",
-	"ident": "Carn101Filmyn Celtiagh as Co-Obbraghey",
+	"ident": "Carn101FilmynCeltiaghAsCo-Obbraghey",
 	"name": "Carn 101: Filmyn Celtiagh as Co-Obbraghey",
 	"author": "Orree Crennell",
 	"notes": "Spring 1998"
