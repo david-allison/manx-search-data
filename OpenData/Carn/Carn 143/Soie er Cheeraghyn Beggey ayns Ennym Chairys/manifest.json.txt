@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2009-01-01",
+	"createdCircaEnd": "2009-12-31",
+	"ident": "Carn143SoieErCheeraghynBeggeyAynsEnnymChairys",
+	"name": "Carn 143: Soie er Cheeraghyn Beggey ayns Ennym Chairys",
+	"author": "Brian Stowell",
+	"notes": "Summer 2009"
+}
