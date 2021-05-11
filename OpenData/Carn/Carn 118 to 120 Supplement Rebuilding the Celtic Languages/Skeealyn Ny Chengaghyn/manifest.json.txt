@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2002-01-01",
+	"createdCircaEnd": "2003-12-31",
+	"ident": "Carn118-120SkeealynNyChengaghyn",
+	"name": "Carn 118-120: Skeealyn Ny Chengaghyn",
+	"author": "Brian Stowell",
+	"notes": "Carn 118 to 120 Supplement Rebuilding the Celtic Languages"
+}
