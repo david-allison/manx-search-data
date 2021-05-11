@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1999-01-01",
+	"createdCircaEnd": "1999-12-31",
+	"ident": "Carn105ShennaghysRieughidAsNeu-rieughid",
+	"name": "Carn 105: Shennaghys: Rieughid as Neu-rieughid",
+	"author": "Brian Stowell",
+	"notes": "Spring 1999"
+}
