@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2000-01-01",
+	"createdCircaEnd": "2000-12-31",
+	"ident": "Carn111LettyraghtNoaNyCeltiee",
+	"name": "Carn 111: Lettyraght Noa ny Celtiee",
+	"author": "Brian Stowell",
+	"notes": "Autumn 2000"
+}
