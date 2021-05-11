@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1990-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Carn71ChellveeishAynsYnAlbin",
+	"name": "Carn 071: Chellveeish ayns yn Albin",
+	"author": "Colin y Jerree",
+	"notes": "Autumn 1990"
+}
