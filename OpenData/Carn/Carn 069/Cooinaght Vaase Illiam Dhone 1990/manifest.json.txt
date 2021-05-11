@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1990-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Carn69CooinaghtVaaseIlliamDhone1990",
+	"name": "Carn 069: Cooinaght Vaase Illiam Dhone 1990",
+	"author": "Phil Gawne",
+	"notes": "Spring 1990"
+}
