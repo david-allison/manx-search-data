@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1993-01-01",
+	"createdCircaEnd": "1993-12-31",
+	"ident": "Carn81AlbinishReesht",
+	"name": "Carn 081: Albinish Reesht",
+	"author": "Orree Crennell",
+	"notes": "Spring 1993"
+}
