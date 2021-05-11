@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1992-01-01",
+	"createdCircaEnd": "1992-12-31",
+	"ident": "Carn78AshoonynAsMynlughtyn",
+	"name": "Carn 078: Ashoonyn as Mynlughtyn",
+	"author": "Colin y Jerree",
+	"notes": "Summer 1992"
+}
