@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1993-01-01",
+	"createdCircaEnd": "1993-12-31",
+	"ident": "Carn81CenedlHebLaithCenedlHebGalon",
+	"name": "Carn 081: Cenedl Heb laith, Cenedl Heb Galon.\nCheer Gyn Chengey, Cheer Gyn Chree.",
+	"author": "Colin y Jerree",
+	"notes": "Spring 1993"
+}
