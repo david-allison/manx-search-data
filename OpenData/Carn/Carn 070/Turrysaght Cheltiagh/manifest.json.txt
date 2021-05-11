@@ -2,7 +2,7 @@
 	"createdCircaStart": "1990-01-01",
 	"createdCircaEnd": "1990-12-31",
 	"ident": "Carn70TurrysaghtCheltiagh",
-	"name": "Carn 070: Turrysaght Cheltiagh,
+	"name": "Carn 070: Turrysaght Cheltiagh",
 	"author": "Brian y Stoyll",
 	"notes": "Summer 1990"
 }
