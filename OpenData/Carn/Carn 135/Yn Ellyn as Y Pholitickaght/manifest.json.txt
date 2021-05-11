@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2006-01-01",
+	"createdCircaEnd": "2006-12-31",
+	"ident": "Carn135YnEllynAsYPholitickaght",
+	"name": "Carn 135: Yn Ellyn as Y Pholitickaght",
+	"author": "Brian Stowell",
+	"notes": "Autumn 2006"
+}
