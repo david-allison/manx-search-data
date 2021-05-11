@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2001-01-01",
+	"createdCircaEnd": "2001-12-31",
+	"ident": "Carn115YVritaan-CheerCheltiagh",
+	"name": "Carn 115: Y Vritaan - Cheer Cheltiagh",
+	"author": "Brian Stowell",
+	"notes": "Autumn 2001"
+}
