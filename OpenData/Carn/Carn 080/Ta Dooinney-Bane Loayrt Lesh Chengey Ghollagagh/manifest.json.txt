@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1992-01-01",
+	"createdCircaEnd": "1993-12-31",
+	"ident": "Carn80TaDooinney-BaneLoayrtLeshChengeyGhollagagh",
+	"name": "Carn 080: Ta Dooinney-Bane Loayrt Lesh Chengey Ghollagagh",
+	"author": "Colin y Jerree",
+	"notes": "Winter 1992/3"
+}
