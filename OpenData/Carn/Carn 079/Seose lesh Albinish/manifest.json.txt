@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1992-01-01",
+	"createdCircaEnd": "1992-12-31",
+	"ident": "Carn79SeoseLeshAlbinish",
+	"name": "Carn 079: Seose lesh Albinish",
+	"author": "Orree Crennell",
+	"notes": "Autumn 1992"
+}
