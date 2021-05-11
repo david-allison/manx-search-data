@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2001-01-01",
+	"createdCircaEnd": "2002-12-31",
+	"ident": "Carn116BoireyLeshThieyn",
+	"name": "Carn 116: Boirey lesh Thieyn",
+	"author": "Brian Stowell",
+	"notes": "Winter 2001/2"
+}
