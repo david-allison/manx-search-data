@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1995-01-01",
+	"createdCircaEnd": "1996-12-31",
+	"ident": "Carn92ChengaghynAsReiltyssyn",
+	"name": "Carn 092: Chengaghyn as Reiltyssyn",
+	"author": "Orree Crennell",
+	"notes": "Winter 1995/6"
+}
