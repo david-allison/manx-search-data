@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1994-01-01",
+	"createdCircaEnd": "1995-12-31",
+	"ident": "Carn88YnEddyr-VoggylAsNyChengaghynCeltiagh",
+	"name": "Carn 088: Yn Eddyr-Voggyl as ny Chengaghyn Celtiagh",
+	"author": "Orree Crennell",
+	"notes": "Winter 1994/5"
+}
