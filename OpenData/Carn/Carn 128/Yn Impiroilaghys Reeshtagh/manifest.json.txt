@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2004-01-01",
+	"createdCircaEnd": "2005-12-31",
+	"ident": "Carn128YnImpiroilaghysReeshtagh",
+	"name": "Carn 128: Yn Impiroilaghys Reeshtagh",
+	"author": "Brian Stowell",
+	"notes": "Winter 2004/5"
+}
