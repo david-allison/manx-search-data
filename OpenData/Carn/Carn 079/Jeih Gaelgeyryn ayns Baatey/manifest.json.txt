@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1992-01-01",
+	"createdCircaEnd": "1992-12-31",
+	"ident": "Carn79JeihGaelgeyrynAynsBaatey",
+	"name": "Carn 079: Jeih Gaelgeyryn ayns Baatey",
+	"author": "David Mac y Eeasteyragh",
+	"notes": "Autumn 1992"
+}
