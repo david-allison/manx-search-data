@@ -1,8 +1,8 @@
 {
-	"createdCircaStart": "2007-01-01",
-	"createdCircaEnd": "2007-12-31",
+	"createdCircaStart": "2007-10-01",
+	"createdCircaEnd": "2007-10-31",
 	"ident": "Carn138CohaglymCeltiagh2007SyChorn",
-	"name": "Carn 138: Cohaglym Celtiagh 2007 sy Chorn,
+	"name": "Carn 138: Cohaglym Celtiagh 2007 sy Chorn",
 	"author": "Brian Stowell",
-	"notes": "Autumn 2007"
+	"notes": "October 2007"
 }
