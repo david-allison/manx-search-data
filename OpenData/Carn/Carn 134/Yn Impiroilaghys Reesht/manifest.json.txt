@@ -1,7 +1,7 @@
 {
 	"createdCircaStart": "2006-01-01",
 	"createdCircaEnd": "2006-12-31",
-	"ident": "Carn134Yn Impiroilaghys Reesht",
+	"ident": "Carn134YnImpiroilaghysReesht",
 	"name": "Carn 134: Yn Impiroilaghys Reesht",
 	"author": "Brian Stowell",
 	"notes": "Summer 2006"
