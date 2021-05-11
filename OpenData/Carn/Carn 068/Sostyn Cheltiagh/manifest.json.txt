@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1989-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Carn68SostynCheltiagh",
+	"name": "Carn 068: Sostyn Cheltiagh",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1989/90"
+}
