@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2007-01-01",
+	"createdCircaEnd": "2007-12-31",
+	"ident": "Carn137QuoiVaNyCeltiee",
+	"name": "Carn 137: Quoi va ny Celtiee?",
+	"author": "Brian Stowell",
+	"notes": "Summer 2007"
+}
