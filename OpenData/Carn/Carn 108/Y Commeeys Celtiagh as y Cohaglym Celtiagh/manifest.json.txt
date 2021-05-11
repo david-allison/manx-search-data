@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1999-01-01",
+	"createdCircaEnd": "2000-12-31",
+	"ident": "Carn108YCommeeysCeltiaghAsYCohaglymCeltiagh",
+	"name": "Carn 108: Y Commeeys Celtiagh As Y Cohaglym Celtiagh",
+	"author": "Brian Stowell",
+	"notes": "Winter 1999/2000"
+}
