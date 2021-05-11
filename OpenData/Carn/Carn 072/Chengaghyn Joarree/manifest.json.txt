@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1990-01-01",
+	"createdCircaEnd": "1991-12-31",
+	"ident": "Carn72ChengaghynJoarree",
+	"name": "Carn 072: Chengaghyn Joarree",
+	"author": "Brian y Stoyll",
+	"notes": "Winter 1990/91"
+}
