@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1990-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Carn69CroutynSollagh",
+	"name": "Carn 069: Croutyn Sollagh",
+	"author": "Brian y Stoyll",
+	"notes": "Spring 1990"
+}
