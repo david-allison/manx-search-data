@@ -2,7 +2,7 @@
 	"createdCircaStart": "1993-01-01",
 	"createdCircaEnd": "1993-12-31",
 	"ident": "Carn83CadjineyNyChengaghyn",
-	"name": "Carn 083: Cadjiney ny Chengaghyn,
+	"name": "Carn 083: Cadjiney ny Chengaghyn",
 	"author": "Orry Crennell",
-	"notes": " Summer 1993"
+	"notes": "Autumn 1993 - Misprinted as Winter 1993"
 }
