@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1996-11-01",
+	"createdCircaEnd": "1996-11-31",
+	"ident": "Carn96LettyraghtAynsChengaghynJoarree",
+	"name": "Carn 096: Lettyraght ayns Chengaghyn Joarree",
+	"author": "Orree Crennell",
+	"notes": "Winter 1996 (Mee Houney)"
+}
