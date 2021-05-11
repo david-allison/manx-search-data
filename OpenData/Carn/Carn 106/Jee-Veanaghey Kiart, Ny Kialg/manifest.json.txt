@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1999-01-01",
+	"createdCircaEnd": "1999-12-31",
+	"ident": "Carn106Jee-VeanagheyKiartNyKialg",
+	"name": "Carn 106: Jee-Veanaghey Kiart, Ny Kialg?",
+	"author": "Brian Stowell",
+	"notes": "Summer 1999"
+}
