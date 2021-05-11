@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2001-01-01",
+	"createdCircaEnd": "2001-12-31",
+	"ident": "Carn113ReiltysJee-veanitAynsNalbinAsBretin",
+	"name": "Carn 113: Reiltys Jee-veanit ayns Nalbin as Bretin",
+	"author": "Brian Stowell",
+	"notes": "Spring 2001"
+}
