@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1996-01-01",
+	"createdCircaEnd": "1996-12-31",
+	"ident": "Carn94FilmynAsChellveeishCheltiagh",
+	"name": "Carn 094: Filmyn as Chellveeish Cheltiagh",
+	"author": "Orree Crennell",
+	"notes": "Summer 1996"
+}
