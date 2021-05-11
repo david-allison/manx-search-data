@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2005-01-01",
+	"createdCircaEnd": "2005-12-31",
+	"ident": "Carn131AaviogheyChengaghynLiorishEllyn",
+	"name": "Carn 131: Aavioghey Chengaghyn Liorish Ellyn",
+	"author": "Brian Stowell",
+	"notes": "Autumn 2005"
+}
