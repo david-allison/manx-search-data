@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1991-01-01",
+	"createdCircaEnd": "1991-12-31",
+	"ident": "Carn75EuboniaSeyrErYChollooReesht",
+	"name": "Carn 075: \"Eubonia Seyr\" er y Cholloo Reesht",
+	"author": "F. McArdle",
+	"notes": "Autumn 1991"
+}
