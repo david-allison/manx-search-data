@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2011-11-01",
+	"createdCircaEnd": "2012-03-31",
+	"ident": "Carn151JannooFaghidErNyCeltee",
+	"name": "Carn 151: Jannoo faghid er ny Celtee",
+	"author": "Brian Stowell",
+	"notes": "Winter 2011/12"
+}
