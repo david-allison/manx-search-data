@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "2011-01-01",
+	"createdCircaEnd": "2011-12-31",
+	"ident": "Carn149PobbleDooieVonacoMynlaghFeerChoadit",
+	"name": "Carn 149: Pobble Dooie Vonaco: Mynlagh Feer Choadit",
+	"author": "Brian Stowell",
+	"notes": "Spring 2011"
+}
