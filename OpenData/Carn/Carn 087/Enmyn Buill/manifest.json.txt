@@ -1,0 +1,8 @@
+{
+	"createdCircaStart": "1994-01-01",
+	"createdCircaEnd": "1994-12-31",
+	"ident": "Carn87EnmynBuill",
+	"name": "Carn 087: Enmyn Buill",
+	"author": "Colin y Jerree",
+	"notes": "Autumn 1994"
+}
