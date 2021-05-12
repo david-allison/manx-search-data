@@ -1,0 +1,7 @@
+{
+	"created": "1848-04-24",
+	"ident": "MonumentsAlbertTowerFirstStone",
+	"name": "Copy of the Inscription Document placed under First Stone of the Albert Tower",
+	"iMuseum": "MS 14725",
+	"notes": "This was an original bilingual translation. The text in Manx differs slightly from the English"
+}
