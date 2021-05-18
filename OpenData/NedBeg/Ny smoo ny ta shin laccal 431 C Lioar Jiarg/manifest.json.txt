@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1900-11-24",
+	"createdCircaEnd": "1901-01-05",
+	"ident": "NedBegNySmooNyTaShinLaccal",
+	"name": "Ny smoo ny ta shin laccal. 431 C Lioar Jiarg",
+	"notes": "Written Between
+159.     T’ou cur dooin prowalyn dagh laa O Yee. 431 C Lioar Jiarg (1900-11-24)
+161.     Ren Wellington keayrt ginsh 431 C Lioar Jiarg (1901-01-05)"
+}
