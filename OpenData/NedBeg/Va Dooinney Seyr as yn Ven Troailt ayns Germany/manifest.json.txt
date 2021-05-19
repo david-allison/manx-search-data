@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-06-20",
+	"createdCircaEnd": "1899-07-17",
+	"ident": "NedBeg-Va-Dooinney-Seyr-as-yn-Ven-Troailt-ayns-Germany",
+	"name": "Va Dooinney Seyr as yn Ven Troailt ayns Germany",
+	"notes": "Written Between 
+98. Nee’m freayll arrey. (20.06.1899)	
+104. Jean Geamagh Orrym’s ayns Laa dy Heaghyn. (17.07.1899)"
+}
