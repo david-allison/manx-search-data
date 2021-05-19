@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-06-14",
+	"createdCircaEnd": "1899-06-20",
+	"ident": "NedBeg-Skeeal-Beg-Mychione-ny-Conaantee",
+	"name": "Skeeal Beg Mychione ny Conaantee",
+	"notes": "Written Between
+96.     Gow Shiu Boggey ayns yn Çhiarn. (14.06.1899)
+98.     Nee’m freayll arrey. (20.06.1899)"
+}
