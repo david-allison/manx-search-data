@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-07-02",
+	"createdCircaEnd": "1899-09-06",
+	"ident": "NedBeg-Tra-ta-Shiu-Goaill-Padjer",
+	"name": "Tra ta Shiu Goaill Padjer",
+	"notes": "Written Between
+106.     Gaelg. Ta’n Ghrian Houree Soilshean. (02.07.1899)
+108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)."
+}
