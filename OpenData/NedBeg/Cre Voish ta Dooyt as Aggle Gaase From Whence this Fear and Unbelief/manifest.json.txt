@@ -1,0 +1,10 @@
+{
+	"createdCircaStart": "1906-01-01",
+	"createdCircaEnd": "1907-12-31",
+	"ident": "NedBeg-Cre-Voish-ta-Dooyt-as-Aggle-Gaase",
+	"name": "Cre Voish ta Dooyt as Aggle Gaase",
+	"englishName": "From Whence this Fear and Unbelief",
+	"iMuseum": "MS 01419A",
+	"notes": "I translated this hymn also. I had a copy of it written in manx and english for My Mother and some more old folks in Cregnaish:\nOriginal by Augustus Toplady
+\nIn \"Loose Papers\", assumed to be dated 1906-1907"
+}
