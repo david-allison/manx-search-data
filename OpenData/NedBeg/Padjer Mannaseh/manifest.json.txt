@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1906-01-01",
+	"createdCircaEnd": "1907-12-31",
+	"ident": "NedBeg-Padjer-Mannaseh",
+	"name": "Padjer Mannaseh",
+	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907."
+}
