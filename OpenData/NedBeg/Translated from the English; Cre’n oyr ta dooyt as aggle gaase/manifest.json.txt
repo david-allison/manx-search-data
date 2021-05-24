@@ -4,7 +4,7 @@
 	"ident": "NedBeg-Cre-n-oyr-ta-dooyt-as-aggle-gaas",
 	"name": "Cre’n oyr ta dooyt as aggle gaase?",
 	"notes": "Translated from the English\n
-	Written between
-117.     Padjer ayns Gaelg: O Uss ta Çhiarn Erskyn Dagh Nhee. (20.10.1899)
-119.     Padjer ayns Gaelg; O Ayr y Toilshey (04.11.1899)"
+	Written Between:
+41.     Mannin ayns yn cheayn. 27.07.07
+43.     Ollick Reagh as Blein Vie Noa diu tra hig ee. (‘Screeuyn dys John Kewley 4) 21.12.1907"
 }
