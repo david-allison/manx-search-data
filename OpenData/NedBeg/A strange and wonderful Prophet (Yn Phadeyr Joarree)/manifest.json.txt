@@ -3,5 +3,5 @@
 	"createdCircaEnd": "1907-12-31",
 	"ident": "NedBeg-A-strange-and-wonderful-Prophet-Yn-Phadeyr-Joarree",
 	"name": "A strange and wonderful Prophet / Yn Phadeyr Joarree",
-	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907".
+	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907",
 }
