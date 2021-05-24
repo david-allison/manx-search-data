@@ -1,0 +1,10 @@
+{
+	"createdCircaStart": "1907-07-27",
+	"createdCircaEnd": "1907-12-21",
+	"ident": "NedBeg-Cre-n-oyr-ta-dooyt-as-aggle-gaas",
+	"name": "Cre’n oyr ta dooyt as aggle gaase?",
+	"notes": "Translated from the English\n
+	Written between
+117.     Padjer ayns Gaelg: O Uss ta Çhiarn Erskyn Dagh Nhee. (20.10.1899)
+119.     Padjer ayns Gaelg; O Ayr y Toilshey (04.11.1899)"
+}
