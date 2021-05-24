@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-01-01",
+	"createdCircaEnd": "1899-05-17",
+	"ident": "NedBeg-Coontey-giare-jeh-N-traa-va-saggyrt-Aitkin-laboraght-ayns-Mannin",
+	"name": "Coontey giare jeh’n traa va saggyrt Aitkin laboraght ayns Mannin.",
+	"notes": "Written Before:
+70.     Arrane: Ta’n Imbagh Arree Nish ec Kione 17.05.1899
+Assumed to be 1899",
+}
