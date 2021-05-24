@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1906-01-01",
+	"createdCircaEnd": "1907-12-31",
+	"ident": "NedBeg-A-Letter-I-Received-From-A-Lady-At-Christmas",
+	"name": "A Letter I Received From A Lady At Christmas",
+	"notes": "In "Loose Papers", assumed to be dated 1906-1907"
+}
