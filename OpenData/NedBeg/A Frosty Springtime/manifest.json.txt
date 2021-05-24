@@ -1,0 +1,6 @@
+{
+	"created": "1908-07-18",
+	"ident": "NedBeg-A-Frosty-Springtime",
+	"name": "Ned Beg - 59. ‘A Frosty Springtime’.",
+	"notes": "Isle of Man Examiner, Saturday, July 18, 1908; Page: 2"
+}
