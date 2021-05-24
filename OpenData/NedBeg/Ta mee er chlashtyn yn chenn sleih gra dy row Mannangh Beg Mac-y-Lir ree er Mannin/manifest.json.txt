@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1906-01-01",
+	"createdCircaEnd": "1907-12-31",
+	"ident": "NedBeg-Ta-mee-er-chlashtyn-yn-chenn-sleih-gra-dy-row-Mannangh-Beg-Mac-y-Lir-ree-er-Mannin",
+	"name": "Ta mee er chlashtyn yn çhenn sleih gra dy row Mannangh Beg Mac-y-Lir ree er Mannin",
+	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907"
+}
