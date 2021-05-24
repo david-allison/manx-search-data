@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1906-01-01",
+	"createdCircaEnd": "1907-12-31",
+	"ident": "NedBeg-Riddle",
+	"name": "Riddle",
+	"notes": "The verse in Manx is a translation of the English.\nIn \"Loose Papers\", assumed to be dated 1906-1907."
+}
