@@ -1,0 +1,9 @@
+{
+	"createdCircaStart": "1899-12-22",
+	"createdCircaEnd": "1900-01-16",
+	"ident": "NedBeg-Vannin-Veg-Veen-ayns-yn-Aarkey-ny-Lomarcan",
+	"name": "Vannin Veg Veen ayns yn Aarkey ny Lomarcan"
+	"notes": "431 C Lioar Jiarg\nWritten Between
+125. The Ugly Duckling. (Hans Christian Andersen, translated by Mrs. H. B. Paull) 1899-12-22
+128.     Padjer ayns galg: Chouds t’ou Spaarail Mee er yn Ooir. 1900-01-16",
+}
