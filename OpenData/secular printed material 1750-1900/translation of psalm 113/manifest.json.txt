@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1803-05-14”,
+	"createdCircaEnd": "1803-05-14”,
+	"ident": "Translation-of-Psalm 113:",
+	"name": “Translation of Psalm 113”,
+	"notes": " Manks Advertiser, Saturday, May 14. 1803; Page 7.."
+}
