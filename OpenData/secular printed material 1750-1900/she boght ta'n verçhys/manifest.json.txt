@@ -1,7 +1,7 @@
 {
 	"created": "1816-03-28",
-	"ident": “she-b0ght-tan-verchys”,
-	"name": “She boght ta’n verçhys“,
-	"notes": "Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3", transcribed by R.Teare 2020, translation of Carter original from the Manks Advertiser. 
-	"source":  Manks Advertiser, Thursday, August 05, 1824; Page 3
+	"ident": "she-boght-tan-verchys",
+	"name": "She boght ta’n verçhys",
+	"notes": "transcribed by R. Teare 2020, translation of Carter original from the Manks Advertiser. Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3",
+	"source":  Manks Advertiser, Thursday, August 05, 1824; Page 3"
 }
