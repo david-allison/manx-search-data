@@ -1,0 +1,8 @@
+{
+	"created": "1816-03-28",
+	"ident": "Cha-vel-y-dooinney-shen",
+	"name": "Cha vel y dooinney shen",
+	"notes": "Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3",
+	"translated": "Rob Teare 2021",
+	"source":  "Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3"
+}
