@@ -1,0 +1,6 @@
+{
+	"created": “1790-01-01”,
+	"ident": “Speech-Mr-Pitt”,
+	"name": “Speech Mr. Pitt“,
+	"notes": “Translation of a speech by Prime minister Pitt, concerning the rights of the Duke of Atholl”
+}
