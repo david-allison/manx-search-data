@@ -1,7 +1,7 @@
 {
-	"created": "1821-12-13”,
-	"ident": “Dys-Robin-Briw”,
-	"name": “Dys Robin Briw”,
+	"created": "1821-12-13",
+	"ident": "Dys-Robin-Briw",
+	"name": "Dys Robin Briw",
 	"notes": "Transcription & Translation; R. Teare",
 	"source": "Manks Advertiser, Thursday, December 13, 1821; Page: 2"
 }
