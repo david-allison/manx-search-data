@@ -25,6 +25,10 @@ The aim of this repository is to contain the entire corpus of the Manx Language,
 * Clone Existing Repository
 * Select `manx-search-data`
 
+### macOS
+
+* Open TextEdit: `File - Preferences - Smart Quotes - Uncheck`.
+
 ### Adding a new document
 
 * Select "manx-search-data" Repository inside GitHub Desktop
