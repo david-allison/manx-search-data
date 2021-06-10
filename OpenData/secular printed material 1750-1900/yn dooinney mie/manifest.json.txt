@@ -1,0 +1,8 @@
+{
+	"created": "1826-03-09",
+	"ident": "yn-dooinney-mie",
+	"name": "Yn Dooinney Mie",
+	"notes": "transcribed & translated; R.Teare 2021",
+	"translated": "Rob Teare 2021",
+	"source":  "Manks Advertiser, Thursday, March 09, 1826; Page: 4"
+}
