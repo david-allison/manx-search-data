@@ -1,8 +1,7 @@
 {
-	"created": "1820-02-17”,
-‘O, Vaase!’: 
-	"ident": “O-Vaase”,
-	"name": “O Vaase!“,
-	"notes": Transcription & Translation; R. Teare
-	"source":  ‘O Vaase!’: Manx Advertiser, Thursday, February 17, 1820; Page 4.
+	"created": "1820-02-17",
+	"ident": "O-Vaase",
+	"name": "O Vaase!",
+	"notes": Transcription & Translation; R. Teare",
+	"source": "‘O Vaase!’: Manx Advertiser, Thursday, February 17, 1820; Page 4.",
 }
