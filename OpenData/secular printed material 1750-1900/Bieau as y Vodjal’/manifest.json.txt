@@ -1,0 +1,7 @@
+{
+	"createdCircaStart": "1815-02-15”,
+	"createdCircaEnd": "1815-02-15”,
+	"ident": "Bieau-as-y-Vodjal",
+	"name": "Poem ‘Bieau as y Vodjal’: Manks Advertiser, Saturday, February 15. 1815",
+	"notes": “Poem”
+}
