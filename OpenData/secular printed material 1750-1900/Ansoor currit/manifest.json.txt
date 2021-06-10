@@ -1,5 +1,5 @@
 {
-	"created": "1790-01-01”,
-	"ident": “Answer-currit”,
-	"name": "Ansoor gys y screeuyn currit magh mastey sleih Ghoolish, as cummaltee Vannin, fo’n ennym Mannanagh, as Carrey da e Heer. (", 
+	"created": "1790-01-01",
+	"ident": "Answer-currit",
+	"name": "Ansoor gys y screeuyn currit magh mastey sleih Ghoolish, as cummaltee Vannin, fo’n ennym Mannanagh, as Carrey da e Heer.", 
 }
