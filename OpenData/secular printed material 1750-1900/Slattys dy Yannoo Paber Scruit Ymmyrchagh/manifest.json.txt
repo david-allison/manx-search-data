@@ -1,0 +1,8 @@
+{
+	"created": "1836-06-10",
+	"ident": "Paber-Scruit-Ymmyrchagh",
+	"name": "Slattys dy Yannoo Paber Scruit Ymmyrçhagh",
+	"notes": "Heads of an Act to make a Written Memorandum necessary for enforcing a contract. Transcription; R. Teare, Translation from English version printed in the Manx Sun, June 10, 1836",
+	"transcription": "R. Teare",
+	"source": "M 21.12.079 / H.140.2735"
+}
