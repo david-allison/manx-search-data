@@ -1,0 +1,10 @@
+{
+	"created": "1833-09-28",
+	"ident": "Vanninee-Dooie",
+	"name": "Vanninee Dooie",
+	"notes": "Letter by \"ILLAM DHOUNN\"; Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3",
+	"translation": "R.Teare 2021", 
+	"author": "ILLAM DHOUNN",
+	"transcription": "C.Lewin 2014; in \"Lioar-Lhaih Ghaelgagh\"",
+	"source":  "Mona’s Herald, Saturday, September 28, 1833; Page: 2"
+}
