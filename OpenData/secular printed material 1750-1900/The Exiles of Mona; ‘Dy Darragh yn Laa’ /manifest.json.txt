@@ -5,6 +5,3 @@
 	"notes": "Poem credited to Cronk Ballavarry",
 	"source": "Mona’s Herald, Wednesday, March 04, 1846: Page 4."
 }
-
-
-(): 
