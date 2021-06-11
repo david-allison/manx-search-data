@@ -1,0 +1,8 @@
+{
+	"created": "1851-05-17",
+	"ident": "O-Yee-gloyroil",
+	"name": "O Yee gloyroil, Hood's ta shin geam’",
+	"notes": “Translation by J. E. Harrison, vicar of Jury, of 'A Hymn for All Nations' by M. F. TUPPER; Transcribed & translated R.Teare 2020",
+	"source":  "Manx Sun, Saturday, May 17, 1851; Page: 26"
+}
+
