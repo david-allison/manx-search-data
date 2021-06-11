@@ -1,0 +1,7 @@
+{
+	"created": "1845-01-01”,
+	"ident": “My-tou-freayll-thie-oast”,
+	"name": "My t’ou freayll this oast.”,
+	"notes": “Temperance leaflet from circa 1845, printed by M.A.Quiggin”,
+	"translated": "Rob Teare 2021",
+	"source":  Manx Museum H.140/I }
