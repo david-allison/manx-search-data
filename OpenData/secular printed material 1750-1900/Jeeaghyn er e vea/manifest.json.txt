@@ -1,0 +1,7 @@
+{
+	"created": "1841-01-26”,
+	"ident": “Jeeaghyn-er-e-vea”,
+	"name": “Jeeaghyn er e vea ta er n’gholl shaghey”,
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Mona’s Herald, Tuesday, January 26, 1841; Page: 2"
+}
