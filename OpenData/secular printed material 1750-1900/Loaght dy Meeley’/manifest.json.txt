@@ -1,0 +1,7 @@
+{
+	"created": "1837-04-25",
+	"ident": "Yn-Undaagagh",
+	"name": "Yn Undaagagh",
+	"notes": "Free translation of an original English poem; 'The Nettle'. With translation of the Manx version. Transcription & Translation; R. Teare",
+	"source": "Mona's Herald, Tuesday, April 25, 1837; Page: 3"
+}
