@@ -1,0 +1,7 @@
+{
+	"created": "1847-03-20",
+	"ident": "Nish-aarloo-son-creck’",
+	"name": "Nish aarloo son creck’",
+	"notes": “Advertisement of religious books in Manx; Transcribed & translated R.Teare 2020",
+	"source":  "Manx Liberal, Saturday, March 20, 1847; Page 2."
+}
