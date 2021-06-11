@@ -1,0 +1,8 @@
+{
+	"created": "1833-10-25”,
+	"ident": “Mannin-veen”,
+	"name": “Mannin Veen”,
+	"notes": “A Poem written by Illiam Dhounn in Mona’s Herald, Friday, October 25, 1833”,
+	“transcribed & translated": "Rob Teare 2021",
+	"source":  “Mona’s Herald, Friday, October 25, 1833; Page 6.“
+}
