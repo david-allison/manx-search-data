@@ -1,0 +1,7 @@
+{
+	"created": "1840-02-08",
+	"ident": "Manx-Speaking-Clergy",
+	"name": "Manx Speaking Clergy",
+	"notes": "Phrases extracted from a letter by ‘Friend’ to the Manx Liberal, Saturday, February 08, 1840; Page: 3 Transcribed & translated R.Teare 2020",
+	"source":  "Manx Liberal, Saturday, February 08, 1840; Page: 3."
+}
