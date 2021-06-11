@@ -1,0 +1,8 @@
+{
+	"created": "1834-02-21",
+	"ident": "Pleadeilys-2",
+	"name": "Pleadeilys eddyr daa Vanninagh dooie. II.",
+	"notes": "Original dialogue; Mona’s Herald, February 21, 1834; Page: 3",
+	"translated": "Transcribed & Translated; R.Teare",
+	"source":  "Mona’s Herald, February 21, 1834; Page: 3"
+}
