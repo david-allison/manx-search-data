@@ -1,0 +1,7 @@
+{
+	"created": "1840-12-22”,
+	"ident": “Cheet-magh-reesht”,
+	"name": “Cheet Magh Reesht”,
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Mona's Herald, Tuesday, December 22, 1840; Page: 3"
+}
