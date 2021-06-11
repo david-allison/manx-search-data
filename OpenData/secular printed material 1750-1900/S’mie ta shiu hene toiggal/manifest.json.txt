@@ -1,0 +1,7 @@
+{
+	"created": "1858-10-06”,
+	"ident": “Smie-ta-shiu-hene-toiggal”,
+	"name": “S’mie ta shiu hene toiggal",
+	"notes": “Letter to Moan’s herald from ‘Ben Killagh’”,
+	"source":  "Mona's Herald, Wednesday, October 06, 1858; Page: 3."
+}
