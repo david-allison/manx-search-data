@@ -1,0 +1,7 @@
+{
+	"created": "1824-01-01",
+	"ident": "bun-as-baare-slattys-noa",
+	"name": "Bun as Baare Slattys Noa",
+	"notes": "Outline of a new Act of Tynwald. transcribed; R Teare, Translated; R.Teare / C.Sheard (2020)",
+	"source":  "Manks Advertiser, Thursday, January 01, 1824",
+}
