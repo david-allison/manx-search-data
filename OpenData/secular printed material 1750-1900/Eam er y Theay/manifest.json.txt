@@ -1,0 +1,7 @@
+{
+	"created": "1863-03-28",
+	"ident": "Manx-Sun-Eam-er-y-Theay",
+	"name": "Eam er y Theay",
+	"notes": "A wanted poster issued on behalf of Governor Loch, also published in the Manx Sun",
+	"source": "Manx Sun, Saturday, March 28, 1863; Page: 12"
+}
