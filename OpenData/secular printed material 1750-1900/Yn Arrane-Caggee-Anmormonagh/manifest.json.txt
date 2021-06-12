@@ -1,0 +1,9 @@
+{
+	"created": "1862-09-06",
+	"ident": "Yn-Arrane-Caggee-Anmormonagh",
+	"name": "Yn Arrane-Caggee-Anmormonagh",
+	"notes": "Anti-mormon song. Written by J.Ivon. Mosley.",
+	"translated": "Rob Teare 2021",
+	"author": "J. Ivon. Mosley",
+	"source":  " (J. IVON MOSLEY.). Manx Sun, Saturday, September 06, 1862; Page: 18"
+}
