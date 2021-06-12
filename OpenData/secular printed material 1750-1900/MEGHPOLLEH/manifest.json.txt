@@ -1,0 +1,9 @@
+{
+	"created": "1862-07-08",
+	"ident": "Manx-Sun-MEGHPOLLEH",
+	"name": "MEGHPOLLEH",
+	"notes": "Poem MEGHPOLLEH translation by Ivon Mosely  Transcribed R.Teare 2020",
+	"translator": "Ivon Mosely",
+	"type": "Poem",
+	"source":  "Manx Sun, Saturday, July 05, 1862; Page: 20"
+}
