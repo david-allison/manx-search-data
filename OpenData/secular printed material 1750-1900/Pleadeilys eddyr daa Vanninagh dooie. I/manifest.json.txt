@@ -1,6 +1,5 @@
 {
-	"created": "1833-12-27
-",
+	"created": "1833-12-27",
 	"ident": "Pleadeilys-I",
 	"name": "Pleadeilys eddyr daa Vanninagh dooie. I",
 	"notes": "Conversation between two Manxmen",
