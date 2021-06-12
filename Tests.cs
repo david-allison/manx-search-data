@@ -2,7 +2,9 @@ using Manx_Search_Data.TestData;
 using Manx_Search_Data.TestUtil;
 using NUnit.Framework;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data
 {
@@ -61,6 +63,34 @@ namespace Manx_Search_Data
                     contents.Add(content, d.Doc.FullCsvPath);
                 }
             }
+        }
+
+        [Theory]
+        public void InvalidPathsAreCaught()
+        {
+            // #609
+            AssertInvalid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam. /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam/document.csv");
+            AssertInvalid("OpenData/secular printed material 1750-1900/The Exiles of Mona; ‘Dy Darragh yn Laa’ /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/The Exiles of Mona ‘Dy Darragh yn Laa’ /document.csv");
+        }
+
+        [Theory]
+        public void FilePathIsValidForWindows()
+        {
+            var paths = FileListing.GetJsonPaths();
+            var invalidPaths = paths.Where(x => !InvalidPathChecker.IsValid(x));
+            Assert.That(invalidPaths, Is.Empty);
+        }
+
+        private static void AssertInvalid(string path)
+        {
+            Assert.That(!InvalidPathChecker.IsValid(path), $"'{path}' should be invalid");
+        }
+
+        private static void AssertValid(string path)
+        {
+            Assert.That(InvalidPathChecker.IsValid(path), $"'{path}' should be valid");
         }
     }
 }
