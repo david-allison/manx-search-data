@@ -72,7 +72,9 @@ namespace Manx_Search_Data
             AssertInvalid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam. /document.csv");
             AssertValid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam/document.csv");
             AssertInvalid("OpenData/secular printed material 1750-1900/The Exiles of Mona; ‘Dy Darragh yn Laa’ /document.csv");
-            AssertValid("OpenData/secular printed material 1750-1900/The Exiles of Mona ‘Dy Darragh yn Laa’ /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/The Exiles of Mona ‘Dy Darragh yn Laa’/document.csv");
+            AssertInvalid("OpenData/secular printed material 1750-1900/Yn Arrane-Caggee-Anmormonagh /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/Yn Arrane-Caggee-Anmormonagh/document.csv");
         }
 
         [Theory]
