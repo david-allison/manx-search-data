@@ -1,0 +1,7 @@
+{
+	"created": "1867-03-16",
+	"ident": "Manx-Festival-in-Cleveland",
+	"name": "Manx Festival in Cleveland",
+	"notes": "From a speech by Edward Corkill",
+	"source":  "Mona's Herald, Saturday, March 16, 1867; Page: 3"
+}
