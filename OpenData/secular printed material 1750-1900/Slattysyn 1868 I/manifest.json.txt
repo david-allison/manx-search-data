@@ -1,0 +1,7 @@
+{
+	"created": "1868-07-11",
+	"ident": "Slattysn-1868-I",
+	"name": "Slattysn 1868 I",
+	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+	"source":  "Isle of Man Times, Saturday, July 11, 1868; page 6."
+}
