@@ -1,0 +1,8 @@
+{
+	"created": "1864-02-13",
+	"ident": "Raaue",
+	"name": "Raaue",
+	"author": "Editorial",
+	"notes": "Temperance editorial",
+	"source":  "Mona's Herald, Wednesday, March 09, 1864; Page: 10  "
+}
