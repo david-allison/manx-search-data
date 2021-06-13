@@ -1,0 +1,10 @@
+{
+	"created": "1872-02-21",
+	"ident": "Monas-Herald-Raaue",
+	"name": "Rev.Thos. Caine’s Address",
+	"author": "Rev. Thos. Caine",
+	"notes": "This unique entertainment came off with great success on Monday night, in the Victoria Hall, when not less than 1,000 persons were present.
+The Rev THOS. CAINE, Vicar of Lonan, occupied the chair, and opened the proceedings by giving out the 150th hymn in the Wesleyan Manx Hymn Book :— “Er jeet dy cheilley ass y-noa.” After which he delivered the following short address :—
+",
+	"source":  "Mona's Herald, Wednesday, February 21, 1872; Page: 13"
+}
