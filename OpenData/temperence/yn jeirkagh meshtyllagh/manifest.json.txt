@@ -4,5 +4,6 @@
 	"name": "Yn Jeirkagh Meshtyllagh.",
 	"notes": "Temperance poem from 1872, by John Quirk, Carn-y-Greie: printed by J.C.Fargher.",
 	"translated": "Rob Teare 2021",
+	"author": "John Quirk",
 	"source":  "Manx Museum H.140/I"
 }
