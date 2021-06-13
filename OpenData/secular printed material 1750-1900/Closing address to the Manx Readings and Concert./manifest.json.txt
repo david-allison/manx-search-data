@@ -1,0 +1,7 @@
+{
+	"created": "1872-02-21",
+	"ident": "Closing-Address",
+	"name": "Closing Address to the Manx Readings and Concert",
+	"notes": "Likely given by Rev. Thos. Caine. Transcription & Translation; R. Teare",
+	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 5                                                                                     "
+}
