@@ -1,7 +1,7 @@
 {
 	"created": "1872-01-10",
-	"ident": "Arrane-y-Skeddan"
+	"ident": "Monas-Herald-Arrane-y-Skeddan",
 	"name": "Arrane y Skeddan",
 	"notes": "Transcription & Translation; R. Teare",
-	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6                                    "
+	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6"
 }
