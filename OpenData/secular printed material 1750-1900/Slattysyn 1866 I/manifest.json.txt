@@ -1,5 +1,5 @@
 {
-	"created": "1865-07-07",
+	"created": "1866-07-07",
 	"ident": "Slattysn-1866-I",
 	"name": "Slattysn 1866 I",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
