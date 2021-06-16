@@ -1,0 +1,7 @@
+{
+	"created": "1872-02-21",
+	"ident": "Mannin-Veg-Veen",
+	"name": "Mannin Veg Veen",
+	"notes": "Translation; R. Teare, Transliteration; Mona's Herald",
+	"source": "Mona's Herald, Wednesday, February 21, 1872"
+}
