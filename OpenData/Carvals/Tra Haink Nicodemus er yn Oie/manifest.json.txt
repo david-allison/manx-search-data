@@ -1,0 +1,8 @@
+{
+	"created": "1872-12-18",
+	"ident": "Tra-Haink-Nicodemus",
+	"name": "Tra Haink Nicodemus er yn Oie.",
+	"notes": "Carval printed in Mona's Herald..",
+	"translated": "Rob Teare 2021",
+	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
+}
