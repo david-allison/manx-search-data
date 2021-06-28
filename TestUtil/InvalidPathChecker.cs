@@ -13,7 +13,7 @@ namespace Manx_Search_Data.TestUtil
             var pathToTest = path.Substring(4); //C:// should be trimmed - matches :
 
             string parentName = GetParentName(path);
-            return pathToTest.All(c => !invalidCharacters.Contains(c)) && !parentName.EndsWith(" ") && !path.TrimEnd().EndsWith('.');
+            return pathToTest.All(c => !invalidCharacters.Contains(c)) && !parentName.EndsWith(" ") && !parentName.TrimEnd().EndsWith('.');
         }
 
         private static string GetParentName(string path)
