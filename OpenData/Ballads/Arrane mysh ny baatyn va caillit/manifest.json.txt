@@ -1,0 +1,8 @@
+{
+	"created": "1850-01-01",
+	"ident": "Arrane-mysh-ny-baatyn-va-caillit",
+	"name": "Arrane mysh ny baatyn va caillit ec Doolish ’sy vlein 1787. Septr. 20th",
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Lioar Chlugaaish; MS.00263.A.",
+	"iMuseum": "MS 00263/A"
+}
