@@ -1,0 +1,7 @@
+{
+	"created": "1850-01-01",
+	"ident": "Myr-hie-mee-magh-gys-Sostyn. ",
+	"name": "Bannag: Myr hie mee magh gys Sostyn.",
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
+}
