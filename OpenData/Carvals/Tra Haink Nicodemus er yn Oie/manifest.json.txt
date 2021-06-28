@@ -1,7 +1,8 @@
 {
-	"created": "1872-01-10",
-	"ident": "Monas-Herald-Arrane-y-Skeddan",
-	"name": "Arrane y Skeddan",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6"
+	"created": "1872-12-18",
+	"ident": "Tra-Haink-Nicodemus",
+	"name": "Tra Haink Nicodemus er yn Oie.",
+	"notes": "Carval printed in Mona's Herald..",
+	"translated": "Rob Teare 2021",
+	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
 }
