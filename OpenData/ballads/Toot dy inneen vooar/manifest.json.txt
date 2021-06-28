@@ -1,0 +1,7 @@
+{
+	"created": "1850-01-01",
+	"ident": "Monas-Herald-Arrane-y-Skeddan",
+	"name": "Bannag: Toot dy inneen vooar eirinnee..",
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850"
+}
