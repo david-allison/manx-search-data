@@ -1,8 +1,0 @@
-{
-	"created": "1850-01-01",
-	"ident": "Ec-yn-Oiel-Breeshey",
-	"name": "Bannag: Ec yn Oie'l Breeshey.",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
-	"iMuseum": "MS.00263.A",
-}
