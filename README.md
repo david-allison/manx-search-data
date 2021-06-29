@@ -22,7 +22,7 @@ The aim of this repository is to contain the entire corpus of the Manx Language,
 
 ## Contributing
 
-See https://github.com/david-allison-1/manx-search-data/blob/master/CONTRIBUTING.md to get in contact with 
+See https://github.com/david-allison-1/manx-search-data/blob/master/CONTRIBUTING.md
 
 In summary, open a [discussion](https://github.com/david-allison-1/manx-search-data/discussions), introduce yourself and we'll help you get started. Your contributions are much appreciated!
 
