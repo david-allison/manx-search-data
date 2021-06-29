@@ -14,7 +14,7 @@ If you can [find the file](https://github.com/david-allison-1/manx-search-data/f
 
 ## Sourcing Documents
 
-If any literature or audio transcriptions aren't yet available in the corpus, it may be because we're not aware that they exit. 
+If any literature or audio transcriptions aren't yet available in the corpus, it may be because we're not aware that they exist. 
 
 Please let us know by opening up a ["New Document" request](https://github.com/david-allison-1/manx-search-data/issues/new?assignees=&labels=add-document%2C+needs-triage&template=add-document.md&title=). Fill out the template to the best of your ability. If you only have a name, that's OK.
 
