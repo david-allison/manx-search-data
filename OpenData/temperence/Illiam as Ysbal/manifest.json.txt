@@ -2,7 +2,8 @@
 	"created": "1866-01-01",
 	"ident": "Illiam-as-Ysbal",
 	"name": "Illiam as Ysbal.",
-	"notes": "Temperance leaflet from circa 1866, printed by M.Glover",
+	"notes": "Temperance leaflet from circa 1866, printed by M.Glover. Although there is no name on the original pamphlet, according to A. W. Moore, William Sayle of Woodbourne Square, Douglas, was the original author. Likely more accurate information in a later bilingual edition (1891) the front page of which reads: Illiam as Ysbal ny Cooish Eddyr Manninagh as e Ven-Heshey liorish Illiam Sayle. Skeeyall, Andreays. A conversation between a Manxman and his Wife in Manx and English, translated into English by William Kneen, Town and Seaman's Missionary, Douglas. Price One penny. Doolish: Prentit liorish 'Clugaish as Karragher' (Clucas and Faragher), ec Oik yn Armeyder, (at the Armoury Office)., Mannin. The piece was reprinted in full in Mona's Herald, Wednesday, January 10, 1872; Page: 6.",
 	"translated": "Rob Teare 2021",
+	"author": "Illiam Sayle, Andreas Parish",
 	"source":  "Manx Museum H.140/I" 
 }
