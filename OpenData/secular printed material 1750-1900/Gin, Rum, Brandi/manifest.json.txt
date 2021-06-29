@@ -1,0 +1,7 @@
+{
+	"created": "1874-09-26",
+	"ident": "Gin-Rum-Brandi",
+	"name": "Gin, Rum, Brandi",
+	"notes": "Transcription and translation; R.Teare",
+	"source":  "Manx Sun, Saturday, September 26, 1874; Page: 10"
+}
