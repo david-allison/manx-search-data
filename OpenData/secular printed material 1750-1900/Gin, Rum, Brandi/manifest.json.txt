@@ -3,5 +3,6 @@
 	"ident": "Gin-Rum-Brandi",
 	"name": "Gin, Rum, Brandi",
 	"notes": "Transcription and translation; R.Teare",
-	"source":  "Manx Sun, Saturday, September 26, 1874; Page: 10"
+	"source":  "Manx Sun, Saturday, September 26, 1874; Page: 10",
+	"author": "John Ivon Mosley",
 }
