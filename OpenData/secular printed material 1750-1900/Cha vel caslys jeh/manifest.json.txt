@@ -1,0 +1,8 @@
+{
+	"created": "1823-06-19",
+	"ident": "Cha-vel-caslys-jeh’",
+	"name": "Cha vel caslys jeh",
+	"notes": "Translation & transcription; RT",
+	"author": "anon",
+	"source":  "Manks Advertiser, Thursday, June 19, 1823; Page 4."
+}
