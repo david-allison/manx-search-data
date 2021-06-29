@@ -2,7 +2,7 @@
 	"created": "1872-02-21",
 	"ident": "Arrane-mysh-ny-Baatyn-Skeddan",
 	"name": "Arrane mysh ny Baatyn-Skeddan",
-	"notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona's Herald",
+	"notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona's Herald. First (?) printed version of 'the loss of the herring fleet' ballad.",
 	"author": "Quayle Vessee",
 	"type": "Ballad",
 	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 5 "
