@@ -1,0 +1,8 @@
+{
+	"created": "1850-01-01",
+	"ident": "Yn-Shannon-Side",
+	"name": "Bannag: Yn Shannon Side",
+	"notes": "Transcription & Translation; R. Teare",
+	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
+	"iMuseum": "MS.00263.A",
+}
