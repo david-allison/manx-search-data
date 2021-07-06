@@ -3,5 +3,6 @@
 	"ident": "Slattysn-1864-II",
 	"name": "Slattysn 1864 II",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
-	"source":  "Mona's Herald, Wednesday, November 16, 1864; Page: 11"
+	"source":  "Mona's Herald, Wednesday, November 16, 1864; Page: 11",
+	"mnhNewsComponent": "Ar01116"
 }
