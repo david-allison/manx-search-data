@@ -5,5 +5,6 @@
 	"notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona's Herald. First (?) printed version of 'the loss of the herring fleet' ballad.",
 	"author": "Quayle Vessee",
 	"type": "Ballad",
-	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 5 "
+	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 5 ",
+	"mnhNewsComponent": ["Ar00523","Ar00600"]
 }

@@ -4,5 +4,7 @@
 	"name": "S’mie ta shiu hene toiggal",
 	"author": "Ben Killagh",
 	"notes": "Letter to Moan’s herald from ‘Ben Killagh’",
-	"source":  "Mona's Herald, Wednesday, October 06, 1858; Page: 3."
+	"source":  "Mona's Herald, Wednesday, October 06, 1858; Page: 3.",
+	"mnhNewsComponent": "Ar00308",
+	"mnhNewsChunk": "Ar0030801"
 }

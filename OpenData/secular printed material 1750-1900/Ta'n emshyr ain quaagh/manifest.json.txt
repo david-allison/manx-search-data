@@ -4,5 +4,6 @@
 	"name": "Ta'n emshyr ain quaagh",
 	"notes": "Transcription and translation; R.Teare;",
 	"type": "Poem",
-	"source":  "Isle of Man Examiner, Saturday, October 11, 1884; Page: 5  "
+	"source":  "Isle of Man Examiner, Saturday, October 11, 1884; Page: 5",
+	"mnhNewsComponent": "Ar00510"
 }
