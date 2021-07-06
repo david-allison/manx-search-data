@@ -3,6 +3,6 @@
 	"ident": "Birds-Eggs",
 	"name": "Birds Eggs",
 	"notes": "A Liberal Price will be given for the EGGS of the following BIRDS, on application to J. R. WALLACE, at the Office of this Paper, opposite the York Hotel, Parade, Douglas.",
-	"source":  "Manx Liberal, Saturday, June 13, 1846; Page: 5"
-	"mnhNewsComponent": "Ar00512",
+	"source":  "Manx Liberal, Saturday, June 13, 1846; Page: 5",
+	"mnhNewsComponent": "Ar00512"
 }
