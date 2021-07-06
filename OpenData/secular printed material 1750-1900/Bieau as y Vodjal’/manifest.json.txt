@@ -1,8 +1,9 @@
 {
-	"created": "1815-02-15",
+	"created": "1815-02-25",
 	"ident": "Bieau-as-y-Vodjal",
-	"name": "Poem ‘Bieau as y Vodjal’: Manks Advertiser, Saturday, February 15. 1815",
+	"name": "Poem ‘Bieau as y Vodjal’: Manks Advertiser, Saturday, February 25. 1815",
 	"notes": "Transcribed: R. Teare. English version also appeared in the Manks Advertiser.",
-	"source": "Manks Advertiser, Saturday, February 15. 1815",
-	"type": "Poem",
+	"source": "Manks Advertiser, Saturday, February 25. 1815",
+	"mnhNewsComponent": "Ar00801",
+	"type": "Poem"
 }
