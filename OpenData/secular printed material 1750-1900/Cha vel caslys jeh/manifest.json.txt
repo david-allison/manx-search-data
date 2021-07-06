@@ -5,5 +5,6 @@
 	"notes": "Translation & transcription; RT",
 	"author": "anon",
 	"type": "Poem",
+	"mnhNewsComponent": "Ar00400",
 	"source":  "Manks Advertiser, Thursday, June 19, 1823; Page 4."
 }
