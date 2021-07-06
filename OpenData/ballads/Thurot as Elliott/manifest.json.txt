@@ -3,5 +3,6 @@
 	"ident": "Elliot-as-Thurot",
 	"name": "Elliot as Thurot",
 	"notes": "Ballad about a naval battle off Jurby Head. Another version in A. W. Moore's Manx Ballads (1896). Transcription & Translation; R. Teare",
-	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6"
+	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6",
+	"mnhNewsComponent": "Ar00603"
 }

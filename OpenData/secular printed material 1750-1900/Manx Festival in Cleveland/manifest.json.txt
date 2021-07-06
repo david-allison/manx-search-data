@@ -5,4 +5,5 @@
 	"notes": "From a speech by Edward Corkill",
 	"author": "Edward Corkill",
 	"source":  "Mona's Herald, Saturday, March 16, 1867; Page: 3"
+	"mnhNewsComponent": "Ar00308"
 }

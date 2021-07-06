@@ -3,5 +3,6 @@
 	"ident": "Manninyn-Mac-Lear-i",
 	"name": "Manninyn Mac Lear i", 
 	"notes": "Transcription and translation; R.Teare; from an letter in Mona’s Herald from ‘Manninyn Mac Lear’.",
-	"source":  "Mona's Herald, Friday, June 06, 1834; Page: 3"
+	"source":  "Mona's Herald, Friday, June 06, 1834; Page: 3",
+	"mnhNewsComponent": "Ar00304"
 }
