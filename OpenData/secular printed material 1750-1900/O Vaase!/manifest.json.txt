@@ -4,4 +4,5 @@
 	"name": "O Vaase!",
 	"notes": "Transcription & Translation; R. Teare",
 	"source": "‘O Vaase!’: Manx Advertiser, Thursday, February 17, 1820; Page 4.",
+	"mnhNewsComponent": "Ar00409"
 }
