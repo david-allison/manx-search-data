@@ -4,5 +4,6 @@
 	"name": "Tra Haink Nicodemus er yn Oie.",
 	"notes": "Carval printed in Mona's Herald..",
 	"translated": "Rob Teare 2021",
+	"mnhNewsComponent": "Ar01409",
 	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
 }
