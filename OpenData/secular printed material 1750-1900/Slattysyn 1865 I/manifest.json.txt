@@ -3,5 +3,6 @@
 	"ident": "Slattysn-1865-I",
 	"name": "Slattysn 1865 I",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
-	"source":  "Manx Sun Saturday, July 08 1865, Page 20"
+	"source":  "Manx Sun Saturday, July 08 1865, Page 20",
+	"mnhNewsComponent": "Ar03009"
 }
