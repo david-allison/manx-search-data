@@ -5,5 +5,5 @@
 	"notes": "Transcribed: R. Teare. English version also appeared in the Manks Advertiser.",
 	"source": "Manks Advertiser, Saturday, February 25. 1815",
 	"mnhNewsComponent": "Ar00801",
-	"type": "Poem",
+	"type": "Poem"
 }
