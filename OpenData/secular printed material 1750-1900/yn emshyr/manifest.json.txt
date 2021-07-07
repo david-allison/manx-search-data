@@ -1,5 +1,5 @@
 {
-	"created": "1824-06-10",
+	"created": "1824-06-17",
 	"ident": "yn-emshyr",
 	"name": "Yn Emshyr",
 	"notes": "Transcription and translation; R.Teare; from an article in the Manks Advertiser; Yn Emshyr.",
