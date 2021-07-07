@@ -2,7 +2,7 @@
 	"created": "1815-02-25",
 	"ident": "Bieau-as-y-Vodjal",
 	"name": "Poem ‘1815’ (Bieau as y Vodjal)",
-	"notes": "Transcribed: R. Teare. English version also appeared in the Manks Advertiser.",
+	"notes": "New Year Poem. Transcribed: R. Teare. English version also appeared in the Manks Advertiser.",
 	"source": "Manks Advertiser, Saturday, February 25. 1815",
 	"mnhNewsComponent": "Ar00801",
 	"type": "Poem"
