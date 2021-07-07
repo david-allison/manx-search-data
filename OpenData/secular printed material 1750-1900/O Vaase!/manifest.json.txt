@@ -2,7 +2,14 @@
 	"created": "1820-02-17",
 	"ident": "O-Vaase",
 	"name": "O Vaase!",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "‘O Vaase!’: Manks Advertiser, Thursday, February 17, 1820; Page 4.",
+	"notes": "Mr. Editor.
+The following Lines, written in the vernacular tongue of Mona, were composed by a native bard. They possess a considerable share of poetical merit, and convey sentiments which are beautifully pathetic. The insertion of them in your paper will be gratifying to many.
+A Country Reader.
+To the
+MEMORY OF C______ C_______
+Who departed this life, the 16th May, 1818, in the 19th year of her age.
+
+Transcription & Translation; R. Teare",
+	"source": "Manks Advertiser, Thursday, February 17, 1820; Page 4.",
 	"mnhNewsComponent": "Ar00409"
 }
