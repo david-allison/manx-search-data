@@ -1,0 +1,8 @@
+{
+	"created": "1824-07-01",
+	"ident": "Cre-ta-gloyr-1824",
+	"name": "Mannin Veg Veen",
+	"notes": "Poem. Author; Rev. T. Stephen; Translation; Manks Advertiser",
+	"type": "Poem",
+	"source": "Manks Advertiser, Thursday, July 01, 1824, Page 3."
+}
