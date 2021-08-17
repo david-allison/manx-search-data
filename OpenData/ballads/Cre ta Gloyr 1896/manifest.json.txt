@@ -1,0 +1,8 @@
+{
+	"created": "1896-01-01",
+	"ident": "Cre-ta-gloyr-1896",
+	"name": "Cre ta Gloyr (1896)",
+	"notes": "Poem. Author; Rev. T. Stephen; Translation; Moore A.W..",
+	"type": "Poem",
+	"source": "Manx Ballads & Music Ed; A.W.Moore M.A.; G & R Johnson; Douglas; 1896." "
+}
