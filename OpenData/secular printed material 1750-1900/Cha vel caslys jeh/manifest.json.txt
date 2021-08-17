@@ -1,0 +1,9 @@
+{
+	"created": "1823-06-19",
+	"ident": "cha-vel-caslys-jeh",
+	"name": "Cha vel caslys jeh",
+	"notes": "transcribed & translated; R.Teare 2021",
+	"translated": "Rob Teare 2021",
+	"source":  "Manks Advertiser, Thursday, June 19, 1823; Page 4."
+}
+
