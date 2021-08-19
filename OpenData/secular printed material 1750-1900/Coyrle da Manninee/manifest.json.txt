@@ -1,0 +1,10 @@
+{
+	"created": "1868-08-19",
+	"ident": "Cren-sorch-dy-rack-dy-hie",
+	"name": "Cre'n torch dy rack dy hie",
+	"notes": "A satirical poem by J.Q.",
+	"author": "J.Q.",
+	"type": "Poem",
+	"source":  "Mona's Herald, Wednesday, August 19, 1868; Page: 3",
+	"mnhNewsComponent": "Ar00305"
+}
