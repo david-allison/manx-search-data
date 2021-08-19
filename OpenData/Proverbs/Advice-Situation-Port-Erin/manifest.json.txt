@@ -1,0 +1,10 @@
+{
+	"created": "1879-02-19",
+	"ident": "Raaghyn-Creeney-Gaelgagh",
+	"name": "Raaghyn Creeney Gaelgagh",
+	"notes": "Raaghyn Creeney Gaelgagh. Manx Proverbs applied to the ‘Port Erin Agitattion’ under the headings; advice, situation, Port Erin, equivalents, finance and the minority",
+	"author": "Manx Sun",
+	"type": "Proverbs",
+	"source":  "Manx Sun, Saturday, February 01, 1879; Page: 13",
+	
+}
