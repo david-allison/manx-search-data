@@ -1,0 +1,8 @@
+{
+	"created": "1878-07-03",
+	"ident": "Bon-Marche",
+	"name": "Bon Marche",
+	"notes": "Robert Clucaish: advert for Bon Marche",
+	"source":  "Isle of Man Times, Wednesday, July 03, 1878; Section: Front page, Page: 1",
+	
+}
