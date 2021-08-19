@@ -1,0 +1,9 @@
+{
+	"created": "1877-10-06",
+	"ident": "Robert-Clucaish",
+	"name": "Robert Clucaish",
+	"notes": "Advert for a draper",
+	"source": "Isle of Man Times, Saturday, October 06, 1877; Page: 4",
+	"author": "Robert Clucaish, translation; RT",
+	
+}
