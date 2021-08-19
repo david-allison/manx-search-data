@@ -1,0 +1,6 @@
+{
+	"created": "1899-11-04",
+	"ident": "Skeeal-yn-lhiannoo-va-caillit",
+	"name": "Skeeal yn lhiannoo va caillit",
+	"notes": "In Lioar Yiarg & pabyryn feayshlit. A free translation by Ned Beg Him Ruy of 'The Lost Son' which was translated from the German of C. Schmidt and appeared in 'The Rural Repository', Hudson, N.Y. January 28 1837."
+}
