@@ -6,5 +6,5 @@
 	"author": "Manx Sun",
 	"type": "Proverbs",
 	"source":  "Manx Sun, Saturday, February 01, 1879; Page: 13",
-	
+	"mnhNewsComponent": "Ar01307"
 }
