@@ -5,5 +5,5 @@
 	"notes": "Advert for a draper",
 	"source": "Isle of Man Times, Saturday, October 06, 1877; Page: 4",
 	"author": "Robert Clucaish, translation; RT",
-	
+	"mnhNewsComponent": "Ar00443"
 }
