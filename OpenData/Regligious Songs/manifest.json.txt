@@ -6,6 +6,6 @@
 	"author": "W. in Illinois",
 	"type": "Hymn",
 	"source":  "Mona’s Herald, Wednesday, December 22, 1880; Page: 2",
-	
+	"mnhNewsComponent": "Ar00206"
 }
 
