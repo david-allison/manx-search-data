@@ -1,9 +1,10 @@
 {
 	"created": "1876-12-13",
-	"ident": "Juan-Dawson-as—e-vac",
+	"ident": "Juan-Dawson-as-e-vac",
 	"name": "Juan Dawson as e Vac",
 	"notes": "Advert for Juan Dawson as e Vac - ironmongers",
 	"source": "Mona's Herald, Wednesday, December 13, 1876; Page: 8",
-	"author": "Juan Dawson, translation; RT",
-	
+	"author": "Juan Dawson",
+	"translation": "RT",
+	"mnhNewsComponent": "Ar00806"
 }
