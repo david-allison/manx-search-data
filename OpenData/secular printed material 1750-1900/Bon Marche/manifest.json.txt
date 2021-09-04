@@ -4,5 +4,5 @@
 	"name": "Bon Marche",
 	"notes": "Robert Clucaish: advert for Bon Marche",
 	"source":  "Isle of Man Times, Wednesday, July 03, 1878; Section: Front page, Page: 1",
-	
+	"mnhNewsComponent": "Ar00100"
 }
