@@ -2,7 +2,7 @@
 	"created": "1835-02-06",
 	"ident": "Coyrle-da-manninee",
 	"name": "Coyrle da Manninee",
-	"notes": "Translated by RT",
+	"notes": "Political Essay. Translation: RT",
 	"source":  "Mona's Herald, Friday, February 06, 1835; Page: 2",
 	"mnhNewsComponent": "Ar00214"
 }
