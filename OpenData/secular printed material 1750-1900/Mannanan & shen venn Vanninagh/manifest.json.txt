@@ -1,0 +1,9 @@
+{
+	"created": "1874-01-01",
+	"ident": "Mannanan-as-shenn-ven-Vanninagh",
+	"name": "Mannanan & shenn ven Vanninagh",
+	"notes": "By Thos. Kelly, Bridge St. Peel., translated into Manx By Rev. J.T.Clarke. Transcribed & translated; R.Teare 2021, from Mona's Herald, Thursday, January 01, 1874; Page: 5", 
+	"translated": "Rob Teare 2021",
+	"source":  "Manks Advertiser, Thursday, March 09, 1826; Page: 4",
+	"mnhNewsComponent": "Ar00409"
+}
