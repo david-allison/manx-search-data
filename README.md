@@ -4,6 +4,8 @@ A collection of computer-readable bilingual texts and audio transcriptions for t
 
 The aim of this repository is to contain the entire corpus of the Manx Language, paying specific attention to classical Manx texts and audio from native speakers, to guide further revival of the language.
 
+Hosted by [manx-corpus-search](https://github.com/david-allison-1/manx-corpus-search)
+
 ## Goals
 
 * Allow easy access to the written works of classical Manx speakers
