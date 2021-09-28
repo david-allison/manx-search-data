@@ -1,0 +1,9 @@
+{
+	"created": "1845-02-26",
+	"ident": "Doberan-Chengey-ny-mayrey",
+	"name": "Doberan Chengey ny Mayrey",
+	"notes": "Poem. Author; William Kennish; Translation; RT",
+	"type": "Poem",	
+        "author": "William Kennish",	
+	"source": "Mona’s Herald, Wednesday, February 26, 1845; Page 4. "
+}
