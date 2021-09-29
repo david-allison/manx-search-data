@@ -1,0 +1,10 @@
+{
+	"created": "1824-07-01",
+	"ident": "Cre-ta-Gloyr-1824",
+	"name": "Cre ta Glory 1824",
+	"notes": "Poem. Author; Rev. T. Stephen; Translation; Manks Advertiser",
+	"type": "Poem",	
+        "author": "Rev. T. Stephen",	
+	"source": "Manks Advertiser, Thursday, July 01, 1824, Page 3. Original translation.",
+	"mnhNewsComponent": "Ar00307"
+}
