@@ -1,0 +1,7 @@
+{
+	"created": "1886-11-27",
+	"ident": "Aylish-Taggart",
+	"name": "Aylish Taggart",
+	"notes": "Excerpt from a letter",
+	"source": "Isle of Man Times, Saturday, November 27, 1886; Page: 10"
+}
