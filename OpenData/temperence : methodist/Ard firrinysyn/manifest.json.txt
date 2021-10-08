@@ -2,7 +2,7 @@
 	"created": "1847-01-01",
 	"ident": "ard-firrinyssyn",
 	"name": "Ard-Firrinyssyn",
-	"notes": "Temperance leaflet from circa 1847, printed by Sherriff and Russell, author; Sheshaght Slane-Obbaltys sneery Andreays",
+	"notes": "Temperance leaflet from circa 1847, printed by Sherriff and Russell, author; Sheshaght Slane-Obbaltys skeery Andreays",
 	"translated": "Rob Teare 2021",
 	"source":  "Manx Museum H.140/I" 
 }
