@@ -7,5 +7,4 @@
 	"author": "GILBERT D. SUTHERLAND",
 	"transcription": "R.Teare",
 	"source":  "Manxman, Saturday, September 11, 1897; Page: 34",
-	"mnhNewsComponent": 
 }
