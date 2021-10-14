@@ -1,0 +1,11 @@
+{
+	"created": "1897-09-11",
+	"ident": "Jough-Lajer-Whisky-Yernagh",
+	"name": "Jough Lajer Whisky Yernagh",
+	"notes": "Letter concerning the quality of Irish whiskey recieved",
+	"translation": "R.Teare 2021", 
+	"author": "GILBERT D. SUTHERLAND",
+	"transcription": "R.Teare",
+	"source":  "Manxman, Saturday, September 11, 1897; Page: 34",
+	"mnhNewsComponent": 
+}
