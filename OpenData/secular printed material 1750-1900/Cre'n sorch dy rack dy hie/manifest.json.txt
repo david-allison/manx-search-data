@@ -1,7 +1,7 @@
 {
 	"created": "1868-08-19",
 	"ident": "Cren-sorch-dy-rack-dy-hie",
-	"name": "Cre'n torch dy rack dy hie",
+	"name": "Cre'n sorch dy rack dy hie",
 	"notes": "A satirical poem by J.Q.",
 	"author": "J.Q.",
 	"type": "Poem",
