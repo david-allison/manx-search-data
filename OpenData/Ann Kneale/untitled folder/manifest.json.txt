@@ -1,0 +1,9 @@
+{
+		"created": "1829-03-01",
+	"ident": "A-Remarkable-Conversion ",
+	"name": "Lioar Ann Kneale: A Remarkable Conversion / Coontey jeh Dooinney as Ben ayns Saustin.",
+	"notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
+	"transcribed & translated": "Rob Teare & Max Wheeler 2021",
+	"source":  "The Arminian Magazine, XVIII, 1795, p. 389-90./  Manx; Manx Museum MS 002182A; Lioar Ann Kneale." 
+
+}
