@@ -1,0 +1,8 @@
+{
+	"created": "1899-03-04",
+	"ident": "Raaue-Saggyrt-Quine",
+	"name": "Raaue Saggyrt Quine",
+	"author": "Sheshaght Gailkagh Balley ny Henshey",
+	"notes": "Announcement of an upcoming lecture on Illiam Dhone.",
+	"source":  "Isle of Man Examiner, Saturday, March 04, 1899; Page: 5."
+}
