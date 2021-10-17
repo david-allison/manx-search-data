@@ -1,0 +1,8 @@
+{
+	"created": "1899-03-11",
+	"ident": "Goan-Oshin",
+	"name": "Ossian's Address to the Sun",
+	"notes": "Manx and English versions ",
+"author": "English- McFarlan, R.; Manx- Kneen. J. J." 
+	"source": "Isle of Man Examiner, Saturday, March 11, 1899; Page: 6 & Saturday, March 18, 1899; Page: 6. English taken from verses of MacPherson's Ossianic poem Carthon as published in 'The Poems of Ossian in the Original Gaelic with a translation into Latin by the late Robert MacFarlan,A.M. etc. The Highland Society of London. 1807."
+}
