@@ -1,0 +1,8 @@
+{
+	"created": "1899-03-18",
+	"ident": "yn-lhondoo-as-yn-ushag-reeast",
+	"name": "Yn Lhondoo as yn Ushag Reeast",
+	"notes": "Manx and English. English version also in Manx Fairy Tales (1911) by Sophia Morrison.",
+"author and translator": "J.R.M. (Laxey)" 
+	"source": "Isle of Man Examiner, Saturday, March 18, 1899; Page: 6."
+}
