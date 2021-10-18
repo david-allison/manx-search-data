@@ -3,7 +3,7 @@
 	"ident": "Crout-y-Thalhear",
 	"name": "Crout y Thalhear",
 	"notes": "Story by J.J.Kneen in Manx with English translation that appeared in the isle of Man Examiner on April 15, 1899.",
-	"type": "Story"
+	"type": "Story",
 	"source":  "Isle of Man Examiner, Saturday, April 08, 1899; Page: 4",
 	
 }
