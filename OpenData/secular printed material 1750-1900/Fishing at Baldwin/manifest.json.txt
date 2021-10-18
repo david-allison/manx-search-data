@@ -1,0 +1,8 @@
+{
+	"created": "1899-01-14",
+	"ident": "Fishing-at-Baldwin",
+	"name": "Fishing at Baldwin",
+	"notes": "An account of a day out fishing. By Mac y Saggyrt (perhaps E.U Savage.)",
+	"author": "Mac y Saggyrt (perhaps E.U Savage.)",
+	"source": "Isle of Man Examiner, Saturday, January 14, 1899; Page: 6"
+}
