@@ -1,0 +1,8 @@
+{
+	"created": "1872-01-01",
+	"ident": "Mannin-veen-i",
+	"name": "Co-Loayrtys Eddyr Mannanan-Beg-Mac-Y-Leirr, Ree Hroor-Chassagh Ellan Vannin As Shenn-Ven Vanninagh Er Mullagh Sniaul.",
+	"notes": "By Thomas Kelly, Bridge-street, Peel; translated by the Rev. J. T. Clarke. English version; R.Teare.",
+	"author": "Thomas Kelly",
+	"source":  "Manx Museum H/140 (perhaps to be re-classified), also; Mona's Herald, Thursday, January 01, 1874; Page: 5"
+}
