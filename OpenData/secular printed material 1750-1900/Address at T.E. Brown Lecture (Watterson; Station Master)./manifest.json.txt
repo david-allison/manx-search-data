@@ -1,0 +1,8 @@
+{
+	"created": "1893-01-31",
+	"ident": "Address-Watterson",
+	"name": "Address at T.E. Brown Lecture by Watterson the Station Master",
+        "translator": "Isle of Man Examiner"
+	"notes": "Address at T.E. Brown Lecture 'Manx Characters'",
+	"source": "Isle of Man Times, Tuesday, January 31, 1893; Page: 4"
+}
