@@ -1,0 +1,8 @@
+{
+	"created": "1899-12-30",
+	"ident": "Ellan-Vannin",
+	"name": "ELLAN VANNIN (A translation of Eliza Craven Green’s celebrated poem).",
+	"notes": "Manx and English versions ",
+	"translator": "DYNYSS (ANONYMOUS / UNKOWN"
+	"source": "Examiner, Saturday, December 30, 1899; Page: 3"
+}
