@@ -1,0 +1,12 @@
+{
+	"created": "1898-12-23",
+	"ident": "Dys-Mullagh-Sniaull",
+	"name": "Dys Mullagh Snaiull er Garran Greasee",
+	"notes": "Account of a trip to the summit of Snaefell. Transcribed by RT 2021"	
+        "author" Thom y Fidder"
+        "translation:"Isle of Man Examiner"
+,
+	"source": "Isle of Man Examiner, Saturday, December 16, 1899; Page: 2 & Saturday, December 23, 1899; Page: 3 with Translation.",
+	"author": "Thomm Beg",
+	
+}
