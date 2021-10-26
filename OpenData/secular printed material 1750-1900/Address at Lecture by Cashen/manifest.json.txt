@@ -1,0 +1,7 @@
+{
+	"created": "1893-01-31",
+	"ident": "Address-at-Lecture-Cashen",
+	"name": "Address at Lecture, by Cashen (Assistant Harbour-master)",
+	"notes": "Address at T. E Brown Lecture ‘Manx Characters’ by Cashen; Assistant Harbour-master",
+	"source": "Isle of Man Times, Tuesday, January 31, 1893; Page: 4’"
+}
