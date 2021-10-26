@@ -1,6 +1,6 @@
 {
 	"created": "1827-01-01",
-	"ident": "God-Save-The-King",
+	"ident": "God-Save-The-King-Stowell",
 	"name": "God Save The King (Stowell)",
 	"notes": "Manx and English versions ",
 	"translator": "The Rev. Hugh Stowell of Ballaugh.",
