@@ -1,0 +1,8 @@
+{
+	"created": "1827-01-01",
+	"ident": "God-Save-The-King-Stowell",
+	"name": "God Save The King (Stowell)",
+	"notes": "Manx and English versions. Quoted from a piece in The Manchester City Guardian by C. Roeder which in turn says that the piece is from The Memoirs of Mr Francis de la Prime Genese” (born in Douglas, 1804), by the Rev Hugh Stowell, of Ballaugh; Liverpool, 1827.",
+	"translator": "The Rev. Hugh Stowell of Ballaugh.",
+	"source": "Isle of Man Examiner, Saturday, October 28, 1899; Page 3"
+}
