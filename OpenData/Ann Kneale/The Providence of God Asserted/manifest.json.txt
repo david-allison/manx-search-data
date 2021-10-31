@@ -1,0 +1,10 @@
+{
+		"created": "1829-03-01",
+	"ident": "The-Providence-of-God-Asserted",
+	"name": "Lioar Ann Kneale: The Providence of God Asserted / Coontey jeh Ben ayns Saustin.",
+	"notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
+	"transcribed & translated": "Rob Teare & Max Wheeler 2021",
+	"source": "English: Wesleyan Methodist Magazine, vol. XXIX, 1806, 30-32
+Letter from John Pawson /  Manx; Manx Museum MS 002182A; Lioar Ann Kneale." 
+
+}
