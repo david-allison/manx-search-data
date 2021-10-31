@@ -1,0 +1,8 @@
+{
+	"created": "1914-04-11",
+	"ident": "yn-chaglym-manninagh",
+	"name": "Yn Chaglym Manninagh",
+	"notes": "Transcription and translation; R. Teare.",
+	"source":  "Isle of Man Examiner, Saturday, April 11, 1914; Page: 2",
+	
+}
