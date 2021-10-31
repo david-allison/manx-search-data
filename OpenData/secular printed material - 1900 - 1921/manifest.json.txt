@@ -1,6 +1,6 @@
 {
 	"created": "1913-05-03",
-	"ident": "Manx-Gaelic-Gathering",
+	"ident": "Manx-Gaelic-Gathering-first-chaglym",
 	"name": "Manx Gaelic Gathering",
 	"author": "Yn Çheshaght Ghailckagh / H. P. Kelly",
 	"notes": "Contains menu and speech from the first annual 'chaglym' of Yn Çheshaght Ghailckagh.",
