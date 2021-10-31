@@ -1,0 +1,9 @@
+{
+		"created": "1829-03-01",
+	"ident": "Gentleman-at-Bath",
+	"name": "Lioar Ann Kneale: Anecdote of a Gentleman at Bath / Coontey jeh Dooinney Seyr ayns Bath",
+	"notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
+	"transcribed & translated": "Rob Teare & Max Wheeler 2021",
+	"source": "English: The Arminian Magazine, vol. XIX, 1796, p 286 (from Wills’s Spiritual Register Vol. iii, 1795.) /  Manx; Manx Museum MS 002182A; Lioar Ann Kneale." 
+
+}
