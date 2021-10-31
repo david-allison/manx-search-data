@@ -1,0 +1,10 @@
+{
+	"created": "1844-12-25",
+	"ident": "Parochial-Schools",
+	"name": "Parochial Schools",
+	"notes": "Part of a letter to the paper about parochial schools",
+	"type": "Letter",	
+        "author": "Billy Illiam",	
+	"source": "Mona's Herald, Wednesday, Dec. 25, 1844; Page: 4",
+	
+}
