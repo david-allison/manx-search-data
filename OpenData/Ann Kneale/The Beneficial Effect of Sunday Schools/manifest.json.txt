@@ -1,6 +1,6 @@
 {
 		"created": "1829-03-01",
-	"ident": "The-Beneficial-Effect-of Sunday-Schools",
+	"ident": "The-Beneficial-Effect-of-Sunday-Schools",
 	"name": "Lioar Ann Kneale: The beneficial Effect of Sunday Schools / Coontey jeh Schoillor Doonnee as eh Voir.",
 	"notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
 	"transcribed & translated": "Rob Teare & Max Wheeler 2021",
