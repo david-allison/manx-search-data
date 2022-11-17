@@ -2,5 +2,5 @@
 	"created": "1907-02-01",
 	"ident": "NedBegNighEginitDyAagail",
 	"name": "Nish Eginit dy Aagail yn Traih",
-	"description": "I embrace the present opportunity; Nish Eginit dy Aagail yn Traih. (Screeuyn dys Kewley 1 B) 01.02.1907."
+	"description": "I embrace the present opportunity; Nish Eginit dy Aagail yn Traih. (Screeuyn dys Kewley 1 B) 01.02.1907. MS 01135"
 }
