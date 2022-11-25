@@ -5,5 +5,6 @@
 	"notes": "Transcription and translation; R.Teare; from an article in the Mona’s herald by Illiam Dhounn",
 	"author": "Illiam Dhounn",
 	"source":  "Mona’s Herald, Friday, October 25, 1833; Page 6.",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar01000"
 }

@@ -1,6 +1,7 @@
 {
 	"created": "1907-12-21",
 	"ident": "NedBegParableAgainstPersecution",
+	"original": "English",
 	"name": "A Parable Against Persecution in Imitation of Scripture Language",
 	"description": "Translation: of Benjamin Franklin’s ‘A Parable Against Persecution’ first published in ‘An Introduction to the Art of  Thinking’, by H. Kame; 1761 (Reverse of Screeuyn dys John Kewley 4). (There is a second, almost identical version on a sheet of loose-leaf)"
 }

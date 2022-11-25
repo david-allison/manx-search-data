@@ -11,5 +11,6 @@ Who departed this life, the 16th May, 1818, in the 19th year of her age.
 
 Transcription & Translation; R. Teare",
 	"source": "Manks Advertiser, Thursday, February 17, 1820; Page 4.",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00409"
 }

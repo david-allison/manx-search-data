@@ -3,6 +3,7 @@
 	"createdCircaEnd": "1907-12-31",
 	"ident": "NedBeg-Creg-dy-Eashyn-Rock-of-Ages",
 	"name": "Creg dy Eashyn (Rock of Ages) MS844 C (b) ",
+	"original": "English",
 	"iMuseum": "MS844 C (b) ",
 	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907. Also listed as MS 01419A"
 }

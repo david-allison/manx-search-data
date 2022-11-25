@@ -4,5 +4,6 @@
 	"name": "Cheet Magh Reesht",
 	"notes": "An unsigned letter to Mona's Herald. Transcription & Translation; R. Teare",
 	"mnhNewsComponent": "Ar00304",
+	"original": "Manx",
 	"source": "Mona's Herald, Tuesday, December 22, 1840; Page: 3"
 }

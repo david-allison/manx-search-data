@@ -4,5 +4,6 @@
 	"name": "Te Dooghysagh",
 	"notes": "Our Manks Correspondent: Manks Advertiser, Thursday, June 10, 1824; Page: 3. Transcribed & translated R.Teare 2020",
 	"source":  "Manks Advertiser, Thursday, June 10, 1824; Page: 3. Heading: From Our Manks Correspondent. Bottom of col 2",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00302"
 }

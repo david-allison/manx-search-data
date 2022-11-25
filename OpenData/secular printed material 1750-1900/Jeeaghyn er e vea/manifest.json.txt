@@ -5,5 +5,6 @@
 	"notes": "Transcription & Translation; R. Teare",
 	"author": "None Provided",
 	"source": "Mona’s Herald, Tuesday, January 26, 1841; Page: 2",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00207"
 }

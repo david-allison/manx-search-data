@@ -4,5 +4,6 @@
 	"name": "Illiam Dhoon I",
 	"notes": "Transcription, normalisation & Translation; R. Teare",
 	"source": "Mona's Herald, Friday, August 08, 1834; Page: 3",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00308"
 }

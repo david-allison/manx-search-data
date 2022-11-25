@@ -4,5 +4,6 @@
 	"ident": "iMuseum-Naight-Noa-1845",
 	"name": "NAIGHT NOA!",
 	"iMuseum": "M7.11.0 (H140/D12)",
+	"original": "Manx",
 	"notes": "‘NAIGHT NOA’;  a real or perhaps satirical flyer for a brothel in Douglas from the mid nineteenth century is kept in the Manx Museum Library [M7.11.0 (H140/D12)]. The accompanying file notes say ‘ c.1845’"
 }

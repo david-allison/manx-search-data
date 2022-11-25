@@ -6,5 +6,6 @@
 	"author": "Rev. T. Stephen",
 	"translator": "A.W. Moore",
 	"type": "Poem",
+	"original": "Manx",
 	"source": "Manx Ballads & Music Ed; A.W.Moore M.A.; G & R Johnson; Douglas; 1896."
 }

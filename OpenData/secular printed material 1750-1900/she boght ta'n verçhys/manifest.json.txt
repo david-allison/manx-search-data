@@ -4,5 +4,6 @@
 	"name": "She boght ta’n verçhys",
 	"notes": "transcribed by R. Teare 2020, translation of Carter original from the Manks Advertiser. Manks Advertiser, Thursday, August 05, 1824; Page 3",
 	"source":  "Manks Advertiser, Thursday, August 05, 1824; Page 3",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00301"
 }
