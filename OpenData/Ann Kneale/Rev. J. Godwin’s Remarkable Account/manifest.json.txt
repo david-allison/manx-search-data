@@ -1,7 +1,9 @@
 {
-		"created": "1829-03-01",
+	"created": "1829-03-01",
 	"ident": "Godwins-Remarkable-Account",
-	"name": "Rev. J. Godwin’s Remarkable Account. / Coontey jeh Dooinney Seyr ayns Wisbeach",
+	"name": "Lioar Ann Kneale: Rev. Goodwin’s remarkable account / Coontey jeh Dooinney Seyr ayns Wisbeach",
+	"manxName": "Lioar Ann Kneale: Coontey jeh Dooinney Seyr ayns Wisbeach",
+	"englishName": "Lioar Ann Kneale: Rev. Goodwin’s remarkable account",
 	"notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
 	"transcribed & translated": "Rob Teare & Max Wheeler 2021",
 	"source":  "English; The Arminian Magazine, vol. VII, 1784, pp. 308-309. Manx; Manx Museum MS 002182A; Lioar Ann Kneale." 
