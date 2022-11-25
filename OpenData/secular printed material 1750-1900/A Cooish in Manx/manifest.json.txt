@@ -1,7 +1,7 @@
 {
 	"created": "1899-01-07",
 	"ident": "A-Cooish-In-Manx",
-	"name": "A Coolish in Manx",
+	"name": "A Cooish in Manx",
 	"author": "YAMYS MYLVAANTYN.",
 	"type": "Story",
 	"source":  "Isle of Man Examiner, Saturday, January 07, 1899; Page: 6",
