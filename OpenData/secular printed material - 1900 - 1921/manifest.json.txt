@@ -1,4 +1,5 @@
 {
+	"mnhNewsComponent": ["Ar00905"],
 	"created": "1913-05-03",
 	"ident": "Manx-Gaelic-Gathering-first-chaglym",
 	"name": "Manx Gaelic Gathering",
