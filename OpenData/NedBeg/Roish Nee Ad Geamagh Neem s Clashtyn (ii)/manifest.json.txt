@@ -2,6 +2,7 @@
 	"created": "1899-09-07",
 	"ident": "NedBegRoishNeeAdGeamaghNeemsClashtyn2",
 	"name": "Roish Nee Ad Geamagh Neem’s Clashtyn (ii)",
+	"original": "Manx",
 	"notes": "Written between 
 113.     Roish Nee Ad Geamagh Neem’s Clashtyn (i) (17.09.1899)
 115.     Neayr’s Laa yn Phoosey (17.09.1899)"

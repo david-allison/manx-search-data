@@ -3,6 +3,7 @@
 	"createdCircaEnd": "1899-09-17",
 	"ident": "NedBegScreeuitErLaaFeayrSynNiarragh",
 	"name": "Screeuit er Laa Feayr syn Niarragh",
+	"original": "Manx",
 	"notes": "Written Between
 108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)
 113.     Roish Nee Ad Geamagh Neem’s Clashtyn (i) (17.09.1899)"

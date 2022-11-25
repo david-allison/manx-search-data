@@ -2,4 +2,5 @@
 	"created": "1899-10-01",
 	"ident": "NedBegLhigDaCredjueVeEuAynsJee",
 	"name": "Lhig da credjue ve eu ayns Jee",
+	"original": "Manx",
 }

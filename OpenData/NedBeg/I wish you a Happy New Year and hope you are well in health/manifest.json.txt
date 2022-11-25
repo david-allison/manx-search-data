@@ -2,6 +2,7 @@
 	"created": "1899-01-04",
 	"ident": "NedBeg-I-Wish-You-A-Happy-New-Year",
 	"type": "Letter",
+	"original": "Manx",
 	"name": "Ta'n Ghailck eiyrit ass yn Jiass (in letter to Kewley beginning 'I wish you a Happy New Year and hope you are well in Health')",
 	"englishName": "I wish you a Happy New Year and hope you are well in health",
 	"notes": "(in letter to Kewley beginning 'I wish you a Happy New Year and hope you are well in Health.]",

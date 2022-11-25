@@ -3,5 +3,7 @@
 	"ident": "Aylish-Taggart",
 	"name": "Aylish Taggart",
 	"notes": "Excerpt from a letter",
+	"original": "Manx",
+	"type": "Letter",
 	"source": "Isle of Man Times, Saturday, November 27, 1886; Page: 10"
 }

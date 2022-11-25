@@ -5,6 +5,6 @@
 	"notes": "Account of a family day in the hills.",
 	"source": "Isle of Man Examiner, Saturday, August 20, 1898; Page: 2",
 	"author": "Thomm Beg",
-"translator": "Thomm Beg",
-	
+	"original": "Manx",
+	"translator": "Thomm Beg",
 }
