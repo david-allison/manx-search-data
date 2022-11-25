@@ -4,6 +4,6 @@
 	"name": "Toot dy inneen vooar eirinnee",
 	"notes": "Transcription & Translation; R. Teare",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
-	"type": "Ballad",
+	"type": "Bannag",
 	"iMuseum": "MS.00263.A",
 }
