@@ -1,5 +1,6 @@
-{
-	"created": "1901-09-05",
+{	
+	"originally created": "1901-09-05",
+	"created": "1901-09-14",
 	"ident": "NedBeg-Mr-Edward-Faraghers-translations-Creg-dy-Eashyn",
 	"name": "Mr Edward Faragher’s Translations: Creg dy Eashyn",
 	"original": "English",
