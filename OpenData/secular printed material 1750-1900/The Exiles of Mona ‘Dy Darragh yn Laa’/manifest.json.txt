@@ -4,6 +4,8 @@
 	"name": "The Exiles of Mona; ‘Dy Darragh yn Laa’",
 	"notes": "Poem credited to Cronk Ballavarry",
 	"source": "Mona’s Herald, Wednesday, March 04, 1846: Page 4.",
+	"original": "Manx",
+	"type": "Poem",
 	"author": "Cronk Ballavarry",
 	"mnhNewsComponent": "Ar00412"
 }

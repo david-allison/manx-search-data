@@ -4,6 +4,7 @@
 	"name": "Mannin Veg Veen",
 	"notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona's Herald",
 	"type": "Ballad",
+	"original": "Manx",
 	"source": "Mona's Herald, Wednesday, February 21, 1872",
 	"mnhNewsComponent": "Ar00604"
 }

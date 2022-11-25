@@ -3,6 +3,7 @@
 	"ident": "Vanninee-Ghooghyssagh",
 	"name": "Vanninee Ghooghyssagh.",
 	"notes": "Transcription and translation; R.Teare; from a letter to the Manx Sun from'Eubonia'; Vanninee Ghooghyssagh, as Ooilley Shiuish Yoareeyn Feudagh, ta Cummal ayns Thalloo Vannin.",
+	"original": "Manx",
 	"source":  "Manx Sun, Saturday, December 20, 1845; Page 13.",
 	
 }

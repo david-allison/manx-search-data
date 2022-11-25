@@ -4,5 +4,6 @@
 	"name": "Gys VAINSHTYR YN HERAL",
 	"notes": "A Letter to Mona's Herald praising work on the new pier at Laxey from ‘Shenn Eeasteyr’ (an old fisherman)",
 	"translated": "Rob Teare 2021",
+	"original": "Manx",
 	"source":  "Mona’s Herald, Wednesday, December 12, 1860; Page: 3"
 }

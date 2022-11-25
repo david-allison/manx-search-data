@@ -3,6 +3,7 @@
 	"createdCircaEnd": "1900-01-14",
 	"ident": "nedbegAynsFoddeeaghtdyVeecShee",
 	"name": "Ayns Foddeeaght dy Ve ec Shee",
+	"original": "Manx",
 	"notes": "Written Between
 120.     Yn Nollick (10.12.1899)
 122.     Dy Bragh Marish yn Çhiarn. (14.01.1900)"

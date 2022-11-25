@@ -2,4 +2,5 @@
 	"created": "1899-06-01",
 	"ident": "NedBegAbylDyHebbalShinFegooishFoill",
 	"name": "Abyl dy hebbal shin fegooish foill",
+	"original": "Manx",
 }

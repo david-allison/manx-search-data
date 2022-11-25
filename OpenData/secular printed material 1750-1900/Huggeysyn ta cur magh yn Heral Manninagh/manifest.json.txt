@@ -5,6 +5,7 @@
 	"notes": "A Letter about the language",
 	"author": "Manninagh Dooie. Translation; A Countryman.",
 	"type": "Letter",
+	"original": "Manx",
 	"source":  "Mona's Herald, Wednesday, December 30, 1846; Page: 3 English Translation; Mona's Herald, Wednesday, January 20, 1847; Page: 3",
 	
 }

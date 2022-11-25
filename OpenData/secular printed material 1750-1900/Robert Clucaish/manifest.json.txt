@@ -3,6 +3,8 @@
 	"ident": "Robert-Clucaish",
 	"name": "Robert Clucaish",
 	"notes": "Advert for a draper",
+	"original": "Manx",
+	"type": "Advert",
 	"source": "Isle of Man Times, Saturday, October 06, 1877; Page: 4",
 	"author": "Robert Clucaish, translation; RT",
 	"mnhNewsComponent": "Ar00443"

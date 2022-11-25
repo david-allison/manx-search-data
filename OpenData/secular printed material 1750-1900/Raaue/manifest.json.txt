@@ -2,6 +2,7 @@
 	"created": "1864-02-13",
 	"ident": "Monas-Herald-Raaue",
 	"name": "Raaue",
+	"original": "Manx",
 	"author": "Editorial",
 	"notes": "Temperance editorial against allowing pubs to open on Sundays.",
 	"source":  "Mona's Herald, Wednesday, March 09, 1864; Page: 10  "

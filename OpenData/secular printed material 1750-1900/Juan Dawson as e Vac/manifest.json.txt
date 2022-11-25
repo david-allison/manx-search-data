@@ -5,6 +5,7 @@
 	"notes": "Advert for Juan Dawson as e Vac - ironmongers",
 	"source": "Mona's Herald, Wednesday, December 13, 1876; Page: 8",
 	"author": "Juan Dawson",
+	"original": "Manx",
 	"translation": "RT",
 	"mnhNewsComponent": "Ar00806"
 }

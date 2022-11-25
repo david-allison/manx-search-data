@@ -2,4 +2,5 @@
 	"created": "1899-09-17",
 	"ident": "NedBegNeayrsLaaYnPhoosey",
 	"name": "Neayr’s Laa yn Phoosey",
+	"original": "Manx",
 }

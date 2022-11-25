@@ -3,6 +3,7 @@
 	"ident": "licences-for-temperance-inns",
 	"name": "licences-for-temperance-inns",
 	"notes": "Speech by E. Teare.",
+	"original": "Manx",
 	"source": "Mona's Herald, Thursday, December 09, 1875; Page: 6",
 	"mnhNewsComponent": "Ar00602"
 }
