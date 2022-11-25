@@ -4,6 +4,7 @@
 	"name": "Cre'n sorch dy rack dy hie",
 	"notes": "A satirical poem by J.Q.",
 	"author": "J.Q.",
+	"original": "Manx",
 	"type": "Poem",
 	"source":  "Mona's Herald, Wednesday, August 19, 1868; Page: 3",
 	"mnhNewsComponent": "Ar00305"

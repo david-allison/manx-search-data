@@ -5,6 +5,7 @@
 	"author": "Ben Killagh",
 	"notes": "Letter to Moan’s herald from ‘Ben Killagh’",
 	"source":  "Mona's Herald, Wednesday, October 06, 1858; Page: 3.",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00308",
 	"mnhNewsChunk": "Ar0030801"
 }

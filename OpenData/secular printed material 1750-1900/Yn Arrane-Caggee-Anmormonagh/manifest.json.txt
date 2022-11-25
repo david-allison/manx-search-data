@@ -5,6 +5,7 @@
 	"notes": "Anti-mormon song. Written by J.Ivon. Mosley.",
 	"translated": "Rob Teare 2021",
 	"author": "J. Ivon. Mosley",
+	"original": "Manx",
 	"source":  "Manx Sun, Saturday, September 06, 1862; Page: 18",
 	"mnhNewsComponent": "Ar01807"
 }

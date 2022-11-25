@@ -3,6 +3,7 @@
 	"ident": "Bannag-Myr-hie-mee-magh-gys-Sostyn",
 	"name": "Myr hie mee magh gys Sostyn",
 	"type": "Bannag",
+	"original": "Manx",
 	"notes": "Transcription & Translation; R. Teare. There is an identical version in A W Moore's Manx Ballads (1896) under the title: YN VEN-AINSHTER DEWIL.",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
 	"iMuseum": "MS.00263.A"

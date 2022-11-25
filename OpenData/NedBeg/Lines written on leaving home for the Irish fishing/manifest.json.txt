@@ -3,5 +3,6 @@
 	"createdCircaEnd": "1907-12-31",
 	"ident": "NedBeg-Lines-written-on-leaving-home-for-the-Irish-fishing",
 	"name": "Lines written on leaving home for the Irish fishing. ",
+	"original": "Manx",
 	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907."
 }

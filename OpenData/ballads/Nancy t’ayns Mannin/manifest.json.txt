@@ -4,6 +4,7 @@
 	"name": "Nancy t'ayns Mannin",
 	"notes": "Transcription & Translation; R. Teare",
 	"type": "Bannag",
+	"original": "Manx",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
 	"iMuseum": "MS.00263.A",
 }
