@@ -2,7 +2,7 @@
 	"created": "1850-01-01",
 	"ident": "Ec-yn-Oiel-Breeshey",
 	"name": "Ec yn Oie'l Breeshey",
-	"type": "Ballad",
+	"type": "Bannag",
 	"notes": "Transcription & Translation; R. Teare",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
 	"iMuseum": "MS.00263.A",
