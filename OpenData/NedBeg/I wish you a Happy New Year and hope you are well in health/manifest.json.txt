@@ -1,6 +1,9 @@
 {
 	"created": "1899-01-04",
 	"ident": "NedBeg-I-Wish-You-A-Happy-New-Year",
-	"name": "I wish you a Happy New Year and hope you are well in health.",
-	"notes": "MS 01135"
+	"type": "Letter",
+	"name": "Ta'n Ghailck eiyrit ass yn Jiass (in letter to Kewley beginning 'I wish you a Happy New Year and hope you are well in Health)",
+	"englishName": "I wish you a Happy New Year and hope you are well in health.",
+	"notes": "(in letter to Kewley beginning 'I wish you a Happy New Year and hope you are well in Health.]",
+	"iMuseum": "MS 01135"
 }
