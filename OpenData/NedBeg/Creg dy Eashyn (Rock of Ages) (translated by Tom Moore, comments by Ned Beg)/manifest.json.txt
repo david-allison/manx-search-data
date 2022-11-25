@@ -3,6 +3,7 @@
 	"ident": "Tom-Moore-Creg-dy-Eashyn",
 	"name": "Creg dy Eashyn (Tom Moore)",
 	"author": "Tom Moore",
+	"original": "English",
 	"notes": "Translated by Tom Moore, comments by Ned Beg:
 	Translated by Tom Moore Brookfield March, 1907
 When you do see me let me know what

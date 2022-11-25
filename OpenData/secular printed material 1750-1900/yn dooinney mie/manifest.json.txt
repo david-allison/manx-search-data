@@ -5,5 +5,6 @@
 	"notes": "transcribed & translated; R.Teare 2021. Manks Advertiser, Thursday, March 09, 1826; Page: 4",
 	"translated": "Rob Teare 2021",
 	"source":  "Manks Advertiser, Thursday, March 09, 1826; Page: 4",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00409"
 }

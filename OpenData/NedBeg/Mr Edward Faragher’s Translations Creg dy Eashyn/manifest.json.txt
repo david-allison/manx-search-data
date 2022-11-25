@@ -2,6 +2,7 @@
 	"created": "1901-09-05",
 	"ident": "NedBeg-Mr-Edward-Faraghers-translations-Creg-dy-Eashyn",
 	"name": "Mr Edward Faragher’s Translations: Creg dy Eashyn",
+	"original": "English",
 	"notes": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3
 	A copy of the hymn “Rock of Ages,” which I translated into Manx about 35 years ago for Dr Dunkan Craig, in Kinsale, Ireland.\n
 	(See 127, and 168 (???) ‘Rock of Ages Cleft for Me for diplomatic transcriptions, normalised versions and translations of ‘Rock of Ages’, written in Neg Beg’s own hand.)",

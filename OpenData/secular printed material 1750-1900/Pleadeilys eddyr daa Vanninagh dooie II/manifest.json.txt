@@ -5,5 +5,6 @@
 	"notes": "Original dialogue; Mona’s Herald, February 21, 1834; Page: 3",
 	"translated": "Transcribed & Translated; R.Teare",
 	"source":  "Mona’s Herald, February 21, 1834; Page: 3",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00305"
 }

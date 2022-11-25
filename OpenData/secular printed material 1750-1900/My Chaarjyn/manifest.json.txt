@@ -5,5 +5,6 @@
 	"author": "Manning as Carrey da e Heer. (Note by WC - Cubbon, W. - says 'Rev John Kewley of Ballafreer. His address in Manks on the outrageous claims of the Duke of Atholl
 C 1805 The Rev John Kewley of Ballafreer was Chaplain of St. Matthews, Dglas. 1802-1810, He was also Master of the Grammar Schl. For that period. He had an assistant named McMeekin, Probably father of the McMeiken, Castletown. WC.' However, the text itself points to a production date in 1790, sometime before 'Answer currit' - which is a response to this piece.",
 	"transcription": "R.Teare",
+	"original": "Manx",
 	"source": "Manx: Handwritten document 'My Chaarjyn' MS 1007C. English: Printed pamphlet MS 04960 C — 'My Friends and Countrymen!'",
 }

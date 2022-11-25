@@ -4,5 +4,6 @@
 	"name": "Pleadeilys eddyr daa Vanninagh dooie. I",
 	"notes": "Conversation between two Manxmen",
 	"source":  "Mona's Herald, Friday, December 27, 1833; Page: 3",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00301"
 }

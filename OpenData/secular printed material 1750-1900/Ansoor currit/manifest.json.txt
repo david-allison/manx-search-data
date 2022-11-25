@@ -2,5 +2,6 @@
 	"created": "1790-01-01",
 	"ident": "Ansoor-gys-y-screeuyn-currit-magh-mastey-sleih-Ghoolish",
 	"name": "Ansoor gys y screeuyn currit magh mastey sleih Ghoolish, as cummaltee Vannin, fo’n ennym Mannanagh, as Carrey da e Heer.", 
+	"original": "Unknown",
 	"author": "Charles Small"
 }

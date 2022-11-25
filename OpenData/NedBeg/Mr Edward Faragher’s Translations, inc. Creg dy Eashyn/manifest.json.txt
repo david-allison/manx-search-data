@@ -2,6 +2,7 @@
 	"created": "1901-09-05",
 	"ident": "NedBeg-Mr-Edward-Faraghers-translations",
 	"name": "Mr Edward Faragher’s Translations: Dooisht liorish leih Sinai ta",
+	"original": "English",
 	"notes": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3
 	
 	     A copy of the verses that were in the Bible, which I translated into English when a boy, the first thing I did in the way of poetry in my life. (The copy on the leaf of Mr Faragher’s Bible differs a little in the spelling from the following.)",

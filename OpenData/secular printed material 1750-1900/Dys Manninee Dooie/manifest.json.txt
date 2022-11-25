@@ -4,5 +4,6 @@
 	"name": "Dys Manninee Dooie",
 	"notes": "Original by ‘Britannicus’, Transcription & Translation (based on English version in same edition of Mona’s Herald); R. Teare",
 	"source": "Mona's Herald, Tuesday, February 07, 1837; Page: 3",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00316"
 }

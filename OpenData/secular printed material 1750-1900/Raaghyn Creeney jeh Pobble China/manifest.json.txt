@@ -4,5 +4,6 @@
 	"name": "Raaghyn Creeney jeh pobble China",
 	"notes": "Transcription and translation; R.Teare; from a letter to Mona’s Herald",
 	"source":  "Mona's Herald, Tuesday, January 05, 1841; Page: 3.",
+	"original": "Manx",
 	"mnhNewsComponent": "Ar00308"
 }

@@ -6,5 +6,6 @@
 	"transcribed": "Rob Teare 2021",
 	"translated": "Rob Teare 2021",
 	"source":  "Manks Advertiser, Thursday, March 07, 1822; Page 4.",
+	"original": "Manx",
 	"mnhNewsComponent": ["Ar00400", "Ar00401"]
 }

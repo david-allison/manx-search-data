@@ -7,5 +7,6 @@
 	"author": "ILLAM DHOUNN",
 	"transcription": "C.Lewin 2014; in \"Lioar-Lhaih Ghaelgagh\"",
 	"source":  "Mona’s Herald, Saturday, September 28, 1833; Page: 2-3",
+	"original": "Manx",
 	"mnhNewsComponent": ["Ar00208", "Ar00300"]
 }
