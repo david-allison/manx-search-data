@@ -1,7 +1,7 @@
 {
 	"created": "1859-01-01",
 	"ident": "Cre-ta-gloyr-1859",
-	"name": "Cre ta Gloyr",
+	"name": "Cre ta Gloyr (1859)",
 	"notes": "Poem. Author; Rev. T. Stephen; Translation; Gill. W.",
 	"type": "Poem",
 	"source": "Editor’s Introduction; A practical grammar of the antient Gaelic, or, Language of the Isle of Man, usually called Manks.By The Rev. John Kelly, Ll.D., Ed; Rev. William Gill. The Manx Society. Douglas. 1859. "
