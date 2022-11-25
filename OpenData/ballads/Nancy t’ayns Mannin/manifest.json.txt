@@ -1,8 +1,9 @@
 {
 	"created": "1850-01-01",
 	"ident": "Nancy-tayns-Mannin",
-	"name": "Nancy t'ayns Mannin.",
-	"notes": "Ballad: Transcription & Translation; R. Teare",
+	"name": "Nancy t'ayns Mannin",
+	"notes": "Transcription & Translation; R. Teare",
+	"type": "Bannag",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
 	"iMuseum": "MS.00263.A",
 }
