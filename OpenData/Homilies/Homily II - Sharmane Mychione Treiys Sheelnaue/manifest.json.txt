@@ -8,8 +8,8 @@
 	"author": "Anon.",
 	"original": "English",
 	"author notes": "Possisbly Rev. John Thomas Clarke",
-	"source":  "Coyrl Vondeishagh Mychione Lhaih as Toiggal ny Scriptyryn Casherick [Anon. Poss; Rev. John Thomas Clarke] April 1820, Prayer Book and Homily Society (PBHS). London.",
-	"English Source": "Homily I: A Fruitful exhortation to the reading and knowledge of holy Scripture [prob. by Thomas Cranmer]. 1817 (in; ‘Sermons, or Homilies, appointed to be read in Churches ...’) Ellerton and Henderson for the Prayer Book and Homily Society. London.",
+	"source":  "Sharmane Mychione Treiys Sheelnaue [Anon. Poss; Rev. John Thomas Clarke] April 1820, Prayer Book and Homily Society. London.",
+	"English Source": "Homily II. A sermon of the misery of all mankind [John Harpsfield] (in; ‘Sermons, or Homilies, appointed to be read in Churches ...’) 1817, Prayer Book and Homily Society. London.",
 	"Transcription": "Max Wheeler 2021",
 }
 
