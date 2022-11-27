@@ -1,0 +1,19 @@
+{
+	"createdCircaStart": "1821-12-31",
+	"createdCircaEnd": "1830-01-01",
+	"ident": "Homily-VII-Against-swearing-and-perjury",
+	"name": "Homily VII: Against swearing and perjury",
+	"manxName": "Homily VII: Sharmane Noi Gweeaghyn as Goaill Loo-Oaiagh",
+	"notes": "The Manx homilies were published separately, VI, VII & IX sometime in the 1820s (but almost certainly after 1821).",
+	"author": "Unknown.",
+	"original": "English",
+	"source":  "Sharmane Noi Gweeaghyn as Goaill Loo-Oaiagh [translator unknown] Estimated date: 1820 – 1830. Prayer Book and Homily Society. London.",
+	"online source": {
+		"url": "https://books.google.im/books?id=WpxcjviiUcoC",
+		"text": "Google Books",
+	},
+	"English Source": "Homily VII. Against swearing and perjury [author unknown] 1810: in Sermons or Homilies appointed to be read in Churches .... Oxford: Clarendon Press.",
+	"googleBooksId": "WpxcjviiUcoC",
+	"Transcription": "Max Wheeler 2021",
+}
+
