@@ -13,6 +13,7 @@
 		"text": "Google Books",
 	},
 	"English Source": "Homily VI.  A sermon of Christian love and charity [Edmund Bonner] 1817: (in; Sermons, or Homilies, appointed to be read in Churches ....) Prayer Book and Homily Society. London.",
+	"googleBooksId": "sy3iBjK19lwC",
 	"Transcription": "Max Wheeler 2021",
 }
 
