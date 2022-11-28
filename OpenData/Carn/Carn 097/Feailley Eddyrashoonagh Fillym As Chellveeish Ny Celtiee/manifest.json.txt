@@ -4,5 +4,6 @@
 	"ident": "Carn97FeailleyEddyrashoonaghFillymAsChellveeishNyCeltiee",
 	"name": "Carn 097: Feailley Eddyrashoonagh Fillym As Chellveeish Ny Celtiee",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Spring 1997"
 }

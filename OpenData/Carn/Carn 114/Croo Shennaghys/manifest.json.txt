@@ -4,5 +4,6 @@
 	"ident": "Carn114CrooShennaghys",
 	"name": "Carn 114: Croo Shennaghys",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2001"
 }

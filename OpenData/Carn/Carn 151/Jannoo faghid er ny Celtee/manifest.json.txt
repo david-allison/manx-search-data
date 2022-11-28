@@ -4,5 +4,6 @@
 	"ident": "Carn151JannooFaghidErNyCeltee",
 	"name": "Carn 151: Jannoo faghid er ny Celtee",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Winter 2011/12"
 }

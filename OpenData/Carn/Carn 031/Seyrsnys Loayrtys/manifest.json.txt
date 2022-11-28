@@ -4,5 +4,6 @@
 	"ident": "Carn31SeyrsnysLoayrtys",
 	"name": "Carn 031: Seyrsnys Loayrtys",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": " Autumn 1980"
 }

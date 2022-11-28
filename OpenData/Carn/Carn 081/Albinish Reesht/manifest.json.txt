@@ -4,5 +4,6 @@
 	"ident": "Carn81AlbinishReesht",
 	"name": "Carn 081: Albinish Reesht",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Spring 1993"
 }

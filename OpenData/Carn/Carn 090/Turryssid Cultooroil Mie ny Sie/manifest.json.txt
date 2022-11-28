@@ -4,5 +4,6 @@
 	"ident": "Carn90TurryssidCultooroilMieNySie",
 	"name": "Carn 090: Turryssid Cultooroil Mie ny Sie?",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Summer 1995"
 }

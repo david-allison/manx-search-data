@@ -3,6 +3,7 @@
 	"createdCircaEnd": "1984-03-01",
 	"ident": "Carn44SheeGeayney",
 	"name": "Carn 044: Shee Geayney",
+	"original": "Manx",
 	"author": "Colyn y Jerree",
 	"notes": "Winter 1984 Special CL New Ireland Forum Submission"
 }

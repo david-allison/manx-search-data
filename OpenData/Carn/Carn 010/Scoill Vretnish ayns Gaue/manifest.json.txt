@@ -4,5 +4,6 @@
 	"ident": "Carn10ScoillVretnishAynsGaue",
 	"name": "Carn 010: Scoill Vretnish ayns Gaue.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "August 1975. Site incorrectly lists this as 1976"
 }

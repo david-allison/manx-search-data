@@ -4,5 +4,6 @@
 	"ident": "Carn66ScoillynBretnish",
 	"name": "Carn 066: Scoillyn Bretnish",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1989"
 }

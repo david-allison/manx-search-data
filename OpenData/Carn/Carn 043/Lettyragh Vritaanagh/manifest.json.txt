@@ -4,5 +4,6 @@
 	"ident": "Carn43LettyraghVritaanagh",
 	"name": "Carn 043: Lettyragh Vritaanagh",
 	"author": "Patrick le Besco",
+	"original": "Manx",
 	"notes": "Autumn 1983",
 }

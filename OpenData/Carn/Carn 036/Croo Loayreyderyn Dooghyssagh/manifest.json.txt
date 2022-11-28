@@ -4,5 +4,6 @@
 	"ident": "Carn36CrooLoayreyderynDooghyssagh",
 	"name": "Carn 036: Croo Loayreyderyn Dooghyssagh",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Winter 1981"
 }

@@ -4,5 +4,6 @@
 	"ident": "Carn143SoieErCheeraghynBeggeyAynsEnnymChairys",
 	"name": "Carn 143: Soie er Cheeraghyn Beggey ayns Ennym Chairys",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2009"
 }

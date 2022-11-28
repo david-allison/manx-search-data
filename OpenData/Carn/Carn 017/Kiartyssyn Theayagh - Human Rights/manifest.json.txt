@@ -4,5 +4,6 @@
 	"ident": "Carn17KiartyssynTheayagh-HumanRights",
 	"name": "Carn 017: Kiartyssyn Theayagh - Human Rights.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Spring 1977"
 }

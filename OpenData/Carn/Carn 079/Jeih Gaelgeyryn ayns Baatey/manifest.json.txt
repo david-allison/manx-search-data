@@ -4,5 +4,6 @@
 	"ident": "Carn79JeihGaelgeyrynAynsBaatey",
 	"name": "Carn 079: Jeih Gaelgeyryn ayns Baatey",
 	"author": "David Mac y Eeasteyragh",
+	"original": "Manx",
 	"notes": "Autumn 1992"
 }

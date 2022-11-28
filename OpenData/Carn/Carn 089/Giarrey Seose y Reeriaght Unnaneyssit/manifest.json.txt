@@ -4,5 +4,6 @@
 	"ident": "Carn89GiarreySeoseYReeriaghtUnnaneyssit",
 	"name": "Carn 089: Giarrey Seose y Reeriaght Unnaneyssit?",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Spring 1995"
 }

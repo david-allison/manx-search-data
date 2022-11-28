@@ -4,5 +4,6 @@
 	"ident": "Carn11LhiettalBreeLoayrtysNyYerneeAynsSostyn",
 	"name": "Carn 011: Lhiettal Bree-loayrtys ny Yernee ayns Sostyn",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "November 1975"
 }

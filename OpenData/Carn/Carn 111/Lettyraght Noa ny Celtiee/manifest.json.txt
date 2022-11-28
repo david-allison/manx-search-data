@@ -4,5 +4,6 @@
 	"ident": "Carn111LettyraghtNoaNyCeltiee",
 	"name": "Carn 111: Lettyraght Noa ny Celtiee",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Autumn 2000"
 }

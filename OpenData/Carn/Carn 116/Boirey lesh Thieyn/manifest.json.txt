@@ -4,5 +4,6 @@
 	"ident": "Carn116BoireyLeshThieyn",
 	"name": "Carn 116: Boirey lesh Thieyn",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Winter 2001/2"
 }

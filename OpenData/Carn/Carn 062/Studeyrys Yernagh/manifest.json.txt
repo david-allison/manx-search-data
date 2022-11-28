@@ -4,5 +4,6 @@
 	"ident": "Carn62StudeyrysYernagh",
 	"name": "Carn 062: Studeyrys Yernagh",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1988 - incorrectly listed as 1968"
 }

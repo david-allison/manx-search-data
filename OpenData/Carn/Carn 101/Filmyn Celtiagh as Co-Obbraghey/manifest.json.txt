@@ -4,5 +4,6 @@
 	"ident": "Carn101FilmynCeltiaghAsCo-Obbraghey",
 	"name": "Carn 101: Filmyn Celtiagh as Co-Obbraghey",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Spring 1998"
 }

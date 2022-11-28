@@ -4,5 +4,6 @@
 	"ident": "Carn45NiartNyScannaneyn",
 	"name": "Carn 045: Niart ny Scannaneyn",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Spring 1984"
 }

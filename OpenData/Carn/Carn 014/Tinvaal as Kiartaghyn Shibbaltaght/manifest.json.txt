@@ -4,5 +4,6 @@
 	"ident": "Carn14TinvaalAsKiartaghynShibbaltaght",
 	"name": "Carn 014: Tinvaal as Kiartaghyn Shibbaltaght.",
 	"author": "Shorus y Creayrie",
+	"original": "Manx",
 	"notes": "Summer 1976"
 }

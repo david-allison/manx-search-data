@@ -4,5 +4,6 @@
 	"ident": "Carn110AaviogheyEwnish",
 	"name": "Carn 110: Aavioghey Ewnish",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2000"
 }

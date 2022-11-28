@@ -4,5 +4,6 @@
 	"ident": "Carn113ReiltysJee-veanitAynsNalbinAsBretin",
 	"name": "Carn 113: Reiltys Jee-veanit ayns Nalbin as Bretin",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Spring 2001"
 }

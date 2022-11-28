@@ -4,5 +4,6 @@
 	"ident": "Carn61DeineyKeoi",
 	"name": "Carn 061: Deiney Keoi",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Spring 1988"
 }

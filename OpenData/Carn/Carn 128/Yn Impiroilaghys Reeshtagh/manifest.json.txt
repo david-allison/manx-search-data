@@ -4,5 +4,6 @@
 	"ident": "Carn128YnImpiroilaghysReeshtagh",
 	"name": "Carn 128: Yn Impiroilaghys Reeshtagh",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Winter 2004/5"
 }

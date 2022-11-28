@@ -4,5 +4,6 @@
 	"ident": "Carn68PiobChornagh",
 	"name": "Carn 068: Piob Chornagh",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Winter  1989/90"
 }

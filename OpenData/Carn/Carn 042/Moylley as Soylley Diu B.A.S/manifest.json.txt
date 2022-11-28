@@ -4,5 +4,6 @@
 	"ident": "Carn42MoylleyAsSoylleyDiuBAS",
 	"name": "Carn 042: Moylley as Soylley Diu B.A.S.",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Summer 1983"
 }

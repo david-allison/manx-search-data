@@ -4,5 +4,6 @@
 	"ident": "Carn80NyMyn-ChengaghynOarpagh",
 	"name": "Carn 080: Ny Myn-Chengaghyn Oarpagh",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Winter 1992/3"
 }

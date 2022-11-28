@@ -4,5 +4,6 @@
 	"ident": "Carn123VelShinNynGeltieeNyDyn",
 	"name": "Carn 123: Vel shin nyn Geltiee ny dyn?",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Autumn 2003"
 }

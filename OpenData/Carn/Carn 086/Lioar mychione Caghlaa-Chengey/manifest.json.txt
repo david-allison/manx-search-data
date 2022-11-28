@@ -4,5 +4,6 @@
 	"ident": "Carn86LioarMychioneCaghlaa-Chengey",
 	"name": "Carn 086: Lioar mychione Caghlaa-Chengey",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Summer 1994"
 }

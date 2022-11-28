@@ -4,5 +4,6 @@
 	"ident": "Carn31YnCaggeySJerree",
 	"name": "Carn 031: Yn Caggey S'jerree?",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": " Autumn 1980"
 }

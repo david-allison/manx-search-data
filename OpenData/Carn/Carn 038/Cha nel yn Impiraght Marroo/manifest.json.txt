@@ -4,5 +4,6 @@
 	"ident": "Carn38ChaNelYnImpiraghtMarroo",
 	"name": "Carn 038: Cha nel yn Impiraght Marroo",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1982"
 }

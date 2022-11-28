@@ -4,5 +4,6 @@
 	"ident": "Carn124YsgolGymraegLundain",
 	"name": "Carn 124: Ysgol Gymraeg Lundain",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Autumn 2003"
 }

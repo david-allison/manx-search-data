@@ -4,5 +4,6 @@
 	"ident": "Carn16SostynBoiritMychioneOoillNyHAlbey",
 	"name": "Carn 016: Sostyn Boirit Mychione Ooill ny hAlbey.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Winter 1976/7"
 }

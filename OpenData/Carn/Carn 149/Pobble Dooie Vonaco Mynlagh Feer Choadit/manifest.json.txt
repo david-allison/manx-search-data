@@ -4,5 +4,6 @@
 	"ident": "Carn149PobbleDooieVonacoMynlaghFeerChoadit",
 	"name": "Carn 149: Pobble Dooie Vonaco: Mynlagh Feer Choadit",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Spring 2011"
 }
