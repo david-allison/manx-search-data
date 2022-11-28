@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1899-05-17",
+	"createdCircaEnd": "1899-05-23",
+	"ident": "NedBeg-TEh-Feer-Ymmyrchagh-Dooin-Dy-Ve-Toiggal",
+	"name": "T’eh feer ymmyrçhagh dooin dy ve toiggal c’red (er) ta’n sauçhys ain lhie.",
+	"author": "Edward Faragher",
+	"original": "Manx",
+	"notes": "Written Between 
+70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
+76. Ean 16:27 (23.05.1899)"
+}
