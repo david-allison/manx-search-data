@@ -4,7 +4,7 @@
 	"ident": "NedBeg-Malachi-III-17",
 	"name": "Malachi 3:17",
 	"author": "Edward Faragher",
-	"original: "English",
+	"original": "English",
 	"Transcription": "Robert Teare",
 	"Translation: "Robert Teare",
 	"Standardisation": "Robert Teare",
