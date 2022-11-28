@@ -1,7 +1,7 @@
 {
 	"createdCircaStart": "1899-05-17",
 	"createdCircaEnd": "1899-05-23",
-	"ident": "NedBegTEhFeerYmmyrçhaghDooinDyVeToiggal",
+	"ident": "NedBeg-TEh-Feer-Ymmyrchagh-Dooin-Dy-Ve-Toiggal",
 	"name": "T’eh feer ymmyrçhagh dooin dy ve toiggal c’red (er) ta’n sauçhys ain lhie.",
 	"author": "Edward Faragher",
 	"original": "Manx",
