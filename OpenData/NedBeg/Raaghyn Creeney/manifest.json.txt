@@ -1,0 +1,13 @@
+{
+	"createdCircaStart": "1900-01-01",
+	"createdCircaEnd": "1900-12-31",
+	"ident": "NedBeg-Raaghyn-Creeney",
+	"name": "Raaghyn Creeney",
+	"author": "Edward Faragher",
+	"original": "English",
+	"Transcription": "Robert Teare",
+	"Translation": "Robert Teare",
+	"Standardisation": "Robert Teare",
+	"source": "Yn Lioar Yiarg, MS 341 C",
+	"iMuseum": "MS 341 C", 
+}
