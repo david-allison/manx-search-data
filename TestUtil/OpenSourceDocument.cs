@@ -35,6 +35,8 @@ namespace Manx_Search_Data.TestUtil
         public string FullCsvPath => Path.Combine(LocationOnDisk, CsvFileName);
 
         public string LicenseLink => Path.Combine(LocationOnDisk, "license.txt");
+        
+        public string Original { get; set; }
 
         internal override List<DocumentLine> LoadLocalFile()
         {

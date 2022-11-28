@@ -123,6 +123,16 @@ namespace Manx_Search_Data
             Assert.That(File.Exists(openSourceDocument.LicenseLink), $"{nameof(OpenSourceDocument.LicenseLink)} does not exist");
         }
 
+        [Theory]
+        public void OriginalIsDefined(Document document)
+        {
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+
+            Assume.That(openSourceDocument.Ident, Is.Not.AnyOf(DocumentsWithoutOriginal.DocsWithoutOriginal),  document.Ident + " has no 'Original' defined");
+            
+            Assert.That(openSourceDocument.Original,Is.AnyOf("Manx", "English", "Unknown"));
+        }
+
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
         private static OpenSourceDocument AssumeOpenSource(Document definition, string reasonAsClosedSource)
         {

@@ -40,6 +40,8 @@ namespace Manx_Search_Data.TestUtil
         public virtual string PdfFileName { get; set; }
         public DateTime? CreatedCircaStart { get; set; }
         public DateTime? CreatedCircaEnd { get; set; }
+        
+        public string Original { get; set; }
 
         internal abstract List<DocumentLine> LoadLocalFile();
 
