@@ -4,8 +4,6 @@ using NUnit.Framework;
 using System;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data
 {
@@ -13,20 +11,21 @@ namespace Manx_Search_Data
     public class DocumentTests
     {
         [DatapointSource]
-        public Document[] allDocuments = Documents.AllDocuments.ToArray();
+        // ReSharper disable once UnusedMember.Global
+        public Document[] AllDocuments = Documents.AllDocuments.ToArray();
 
         [Theory]
         public void DefinitionHasName(Document definition)
         {
-            Assert.That(definition.Name, Is.Not.Null, $"{nameof(Document.Name)} shoud be defined");
-            Assert.That(definition.Name, Is.Not.Empty, $"{nameof(Document.Name)} shoud be non-empty");
+            Assert.That(definition.Name, Is.Not.Null, $"{nameof(Document.Name)} should be defined");
+            Assert.That(definition.Name, Is.Not.Empty, $"{nameof(Document.Name)} should be non-empty");
         }        
         
         [Theory]
         public void DefinitionHasIdent(Document definition)
         {
-            Assert.That(definition.Ident, Is.Not.Null, $"{nameof(Document.Ident)} shoud be defined. This is the how the document is deined in a web address");
-            Assert.That(definition.Ident, Is.Not.Empty, $"{nameof(Document.Ident)} shoud be non-empty. This is the how the document is deined in a web address");
+            Assert.That(definition.Ident, Is.Not.Null, $"{nameof(Document.Ident)} should be defined. This is the how the document is defined in a web address");
+            Assert.That(definition.Ident, Is.Not.Empty, $"{nameof(Document.Ident)} should be non-empty. This is the how the document is defined in a web address");
             Assert.That(definition.Ident, Does.Match("^[A-Za-z0-9\\-]+$"), $"{nameof(Document.Ident)} must only contain letters numbers, or dashes with no spaces.\nThis field is the how the document is defined in a web address");
         }
 
@@ -67,7 +66,7 @@ namespace Manx_Search_Data
         [Theory]
         public void CsvFileIsReadable(Document definition)
         {
-            AssumeOpenSource(definition, "CSV is not avalable yet");
+            AssumeOpenSource(definition, "CSV is not available yet");
 
             try
             {
@@ -81,9 +80,9 @@ namespace Manx_Search_Data
         }
 
         [Theory]
-        public void CsvFileIsUTF8(Document document)
+        public void CsvFileIsUtf8(Document document)
         {
-            var openSourceDocument = AssumeOpenSource(document, "CSV is not avalable yet");
+            var openSourceDocument = AssumeOpenSource(document, "CSV is not available yet");
             var lines = document.LoadLocalFile();
 
             // We perform this per-line as we don't want the entire text in the unit test output.
@@ -105,21 +104,21 @@ namespace Manx_Search_Data
         {
             // PERF: this is a slow test - combine with CsvFileIsUTF8
             // Issue: 463 - some files were interpreted to be Chinese, the only way to fix this was to re-save in Excel as UTF-8
-            var openSourceDocument = AssumeOpenSource(document, "CSV is not avalable yet");
+            var openSourceDocument = AssumeOpenSource(document, "CSV is not available yet");
             var lines = document.LoadLocalFile();
 
-            const string ChineseOrJapanese = "[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]";
+            const string chineseOrJapanese = "[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]";
 
             foreach (string line in lines.Select(x => x.English + "|" + x.Manx))
             {
-                Assert.That(line, Does.Not.Match(ChineseOrJapanese), $"The CSV may be saved incorrectly (containing Chinese/Japanese Text). Please remake it and save it as CSV (UTF-8) in Excel. Contact David if this fails\"\nFile: {openSourceDocument.FullCsvPath}.");
+                Assert.That(line, Does.Not.Match(chineseOrJapanese), $"The CSV may be saved incorrectly (containing Chinese/Japanese Text). Please remake it and save it as CSV (UTF-8) in Excel. Contact David if this fails\"\nFile: {openSourceDocument.FullCsvPath}.");
             }
         }
 
         [Theory]
         public void LicenseExists(Document definition)
         {
-            var openSourceDocument = AssumeOpenSource(definition, "license is not avalable yet");
+            var openSourceDocument = AssumeOpenSource(definition, "license is not available yet");
 
             Assert.That(File.Exists(openSourceDocument.LicenseLink), $"{nameof(OpenSourceDocument.LicenseLink)} does not exist");
         }
