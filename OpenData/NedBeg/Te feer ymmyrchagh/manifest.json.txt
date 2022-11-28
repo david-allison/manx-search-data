@@ -7,5 +7,10 @@
 	"original": "Manx",
 	"notes": "Written Between 
 70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
-76. Ean 16:27 (23.05.1899)"
+76. Ean 16:27 (23.05.1899)",
+	"Standardised by": "Robert Teare",
+	"Transcription": "Robert Teare",
+	"Translation": "Robert Teare",
+	"iMuseum": "MS 341 C",
+	"source": "Yn Lioar Ghoo, MS 341 C",
 }
