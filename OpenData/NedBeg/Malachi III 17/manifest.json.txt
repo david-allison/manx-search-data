@@ -6,7 +6,7 @@
 	"author": "Edward Faragher",
 	"original": "English",
 	"Transcription": "Robert Teare",
-	"Translation: "Robert Teare",
+	"Translation": "Robert Teare",
 	"Standardisation": "Robert Teare",
 	"source": "Yn Lioar Ghoo, MS 341 C",
 	"iMuseum": "MS 341 C", 
