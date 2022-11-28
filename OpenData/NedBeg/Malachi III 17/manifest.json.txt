@@ -1,0 +1,16 @@
+{
+	"createdCircaStart": "1899-05-17",
+	"createdCircaEnd": "1899-05-23",
+	"ident": "NedBeg-Malachi-III-17",
+	"name": "Malachi 3:17",
+	"author": "Edward Faragher",
+	"original: "English",
+	"Transcription": "Robert Teare",
+	"Translation: "Robert Teare",
+	"Standardisation": "Robert Teare",
+	"source": "Yn Lioar Ghoo, MS 341 C",
+	"iMuseum": "MS 341 C", 
+	"notes": "Bible: Malachi III 17. Written Between 
+70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
+76. Ean 16:27 (23.05.1899)",
+}
