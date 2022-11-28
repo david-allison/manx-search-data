@@ -1,6 +1,6 @@
 {
 	"created": "1899-11-04",
-	"ident": "NedBeg-Padjer-ayns-Gaelg-O-Ayr-y-Toilshey ",
+	"ident": "NedBeg-Padjer-ayns-Gaelg-O-Ayr-y-Toilshey",
 	"name": "Padjer ayns Gaelg; O Ayr y Toilshey",
 	"author": "Edward Faragher",
 	"type": "Prayer",
