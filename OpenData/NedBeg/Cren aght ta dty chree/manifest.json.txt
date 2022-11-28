@@ -1,0 +1,14 @@
+{
+	"createdCircaStart": "1901-02-25",
+	"createdCircaEnd": "1901-02-25",
+	"ident": "NedBeg-Cren-aght-ta-dty-chree",
+	"name": "Cren aght ta dty chree?",
+	"englishName": "How is your heart?",
+	"author": "Edward Faragher",
+	"original": "Manx",
+	"Transcription": "Robert Teare",
+	"Translation": "Robert Teare",
+	"Standardisation": "Robert Teare",
+	"source": "Yn Lioar Yiarg, MS 341 C",
+	"iMuseum": "MS 341 C",
+}
