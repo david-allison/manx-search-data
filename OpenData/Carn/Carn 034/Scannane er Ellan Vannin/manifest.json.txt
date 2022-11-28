@@ -4,5 +4,6 @@
 	"ident": "Carn34ScannaneErEllanVannin",
 	"name": "Carn 034: Scannane er Ellan Vannin",
 	"author": "Sean Ó Quinn",
+	"original": "Manx",
 	"notes": "Summer 1981"
 }

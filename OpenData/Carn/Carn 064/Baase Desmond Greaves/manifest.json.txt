@@ -4,5 +4,6 @@
 	"ident": "Carn64BaaseDesmondGreaves",
 	"name": "Carn 064: Baase Desmond Greaves",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Winter 1988/89"
 }

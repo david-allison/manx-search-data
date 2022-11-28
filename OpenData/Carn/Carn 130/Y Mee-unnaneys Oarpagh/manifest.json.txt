@@ -4,5 +4,6 @@
 	"ident": "Carn130YMee-unnaneysOarpagh",
 	"name": "Carn 130: Y Mee-unnaneys Oarpagh",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2005"
 }

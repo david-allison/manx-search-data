@@ -3,6 +3,7 @@
 	"createdCircaEnd": "1994-12-31",
 	"ident": "Carn87Eddyr-Ashoonaghys",
 	"name": "Carn 087: Eddyr-Ashoonaghys",
+	"original": "Manx",
 	"author": "Orree Crennell",
 	"notes": "Autumn 1994"
 }

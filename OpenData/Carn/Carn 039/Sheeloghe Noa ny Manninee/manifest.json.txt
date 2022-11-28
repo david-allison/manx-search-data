@@ -3,5 +3,6 @@
 	"createdCircaEnd": "1982-12-31",
 	"ident": "Carn39SheelogheNoaNyManninee",
 	"name": "Carn 039: Sheeloghe Noa ny Manninee",
+	"original": "Manx",
 	"notes": "Autumn 1982"
 }

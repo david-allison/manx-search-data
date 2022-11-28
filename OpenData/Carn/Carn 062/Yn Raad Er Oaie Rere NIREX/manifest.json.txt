@@ -4,5 +4,6 @@
 	"ident": "Carn62YnRaadErOaieRereNIREX",
 	"name": "Carn 062: Yn Raad Er Oaie Rere NIREX",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Summer 1988"
 }

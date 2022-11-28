@@ -4,5 +4,6 @@
 	"ident": "Carn34NerinAsSheshaght-ObbreeHostyn",
 	"name": "Carn 034: Nerin as Sheshaght-Obbree Hostyn",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1981"
 }

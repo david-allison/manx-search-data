@@ -4,5 +4,6 @@
 	"ident": "Carn53SostynVoght",
 	"name": "Carn 053: Sostyn Voght",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Spring 1986"
 }

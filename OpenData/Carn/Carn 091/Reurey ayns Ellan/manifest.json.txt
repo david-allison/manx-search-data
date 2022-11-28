@@ -4,5 +4,6 @@
 	"ident": "Carn91ReureyAynsEllan",
 	"name": "Carn 091: Reurey ayns Ellan",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Autumn 1995"
 }

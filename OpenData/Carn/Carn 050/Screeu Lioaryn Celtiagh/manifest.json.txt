@@ -4,5 +4,6 @@
 	"ident": "Carn50ScreeuLioarynCeltiagh",
 	"name": "Carn 050: Screeu Lioaryn Celtiagh",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1985"
 }

@@ -4,5 +4,6 @@
 	"ident": "Carn135YnEllynAsYPholitickaght",
 	"name": "Carn 135: Yn Ellyn as Y Pholitickaght",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Autumn 2006"
 }

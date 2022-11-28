@@ -4,5 +4,6 @@
 	"ident": "Carn19Caglieeyn-Eeastee",
 	"name": "Carn 019: Caglieeyn-Eeastee/Fishing Limits",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Autumn 1977"
 }

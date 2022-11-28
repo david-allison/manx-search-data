@@ -4,5 +4,6 @@
 	"ident": "Carn87EnmynBuill",
 	"name": "Carn 087: Enmyn Buill",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Autumn 1994"
 }

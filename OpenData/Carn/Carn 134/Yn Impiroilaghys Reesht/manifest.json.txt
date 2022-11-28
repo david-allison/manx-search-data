@@ -4,5 +4,6 @@
 	"ident": "Carn134YnImpiroilaghysReesht",
 	"name": "Carn 134: Yn Impiroilaghys Reesht",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2006"
 }

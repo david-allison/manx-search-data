@@ -4,5 +4,6 @@
 	"ident": "Carn113CosneyYnWhalleeaght",
 	"name": "Carn 113: Cosney yn whalleeaght!",
 	"author": "Pawl ap Rhosier",
+	"original": "Manx",
 	"notes": "Spring 2001"
 }

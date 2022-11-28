@@ -4,5 +4,6 @@
 	"ident": "Carn84LowenderPeran",
 	"name": "Carn 084: Lowender Peran",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Winter 1993/4"
 }

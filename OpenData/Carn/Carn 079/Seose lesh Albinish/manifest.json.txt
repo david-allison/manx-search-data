@@ -4,5 +4,6 @@
 	"ident": "Carn79SeoseLeshAlbinish",
 	"name": "Carn 079: Seose lesh Albinish",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Autumn 1992"
 }

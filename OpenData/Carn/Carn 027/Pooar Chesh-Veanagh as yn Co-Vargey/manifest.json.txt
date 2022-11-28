@@ -4,5 +4,6 @@
 	"ident": "Carn27PooarChesh-VeanaghAsYnCo-Vargey",
 	"name": "Carn 027: Pooar Chesh-Veanagh as yn Co-Vargey.",
 	"author": "Brian Mac Stoyll",
+	"original": "Manx",
 	"notes": "Autumn 1979"
 }

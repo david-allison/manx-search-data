@@ -4,5 +4,6 @@
 	"ident": "Carn102FarrysynNyCheeraghynCeltiagh",
 	"name": "Carn 102: Farrysyn ny çheeraghyn Celtiagh",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Summer 1998"
 }

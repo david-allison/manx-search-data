@@ -4,5 +4,6 @@
 	"ident": "Carn117SoyleeBeealFeirshteySyTraaRyHeet",
 	"name": "Carn 117: Soylee Beeal Feirshtey Sy Traa Ry Heet",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Spring Summer 2002"
 }

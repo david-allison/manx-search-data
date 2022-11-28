@@ -4,5 +4,6 @@
 	"ident": "Carn74ScreeuaghtGhailckaghGhlen",
 	"name": "Carn 074: Screeuaght Ghailckagh Ghlen",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1991"
 }

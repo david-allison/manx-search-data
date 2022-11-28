@@ -4,5 +4,6 @@
 	"ident": "Carn98YnChynskyl-Eiraght",
 	"name": "Carn 098: Yn Chynskyl-Eiraght",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Summer 1997"
 }

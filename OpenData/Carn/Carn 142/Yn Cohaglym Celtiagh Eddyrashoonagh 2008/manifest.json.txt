@@ -4,5 +4,6 @@
 	"ident": "Carn142YnCohaglymCeltiaghEddyrashoonagh2008",
 	"name": "Carn 142: Yn Cohaglym Celtiagh Eddyrashoonagh 2008",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Winter 2008"
 }

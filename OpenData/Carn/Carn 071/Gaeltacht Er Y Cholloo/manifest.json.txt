@@ -4,5 +4,6 @@
 	"ident": "Carn71GaeltachtErYCholloo",
 	"name": "Carn 071: Gaeltacht Er Y Cholloo!",
 	"author": "Phillie Beg",
+	"original": "Manx",
 	"notes": "Autumn 1990"
 }

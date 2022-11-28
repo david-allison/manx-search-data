@@ -4,5 +4,6 @@
 	"ident": "Carn13FoddeeaghtSonYVooar-heer",
 	"name": "Carn 013: Foddeeaght son y Vooar-heer.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "May 1976"
 }

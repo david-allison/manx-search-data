@@ -4,5 +4,6 @@
 	"ident": "Carn84SeihllBun-ry-Skyn",
 	"name": "Carn 084: Seihll Bun-ry-Skyn",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Winter 1993/4"
 }

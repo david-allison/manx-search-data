@@ -3,4 +3,5 @@
 	"ident": "Carn7AshoonaghysAlbinaghAsYnReihysGoaldagh",
 	"name": "Carn 007: Ashoonaghys Albinagh as yn Reihys Goaldagh",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 }

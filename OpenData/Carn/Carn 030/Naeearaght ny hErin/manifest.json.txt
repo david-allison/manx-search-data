@@ -4,5 +4,6 @@
 	"ident": "Carn30NaeearaghtNyHErin",
 	"name": "Carn 030: Naeearaght ny hErin.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Summer 1980"
 }

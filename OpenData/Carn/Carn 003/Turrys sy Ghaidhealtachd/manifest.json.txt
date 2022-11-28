@@ -4,5 +4,6 @@
 	"ident": "Carn3TurrysSyGhaidhealtachd",
 	"name": "Carn 003: Turrys sy Ghàidhealtachd",
 	"author": "Brian Mac Stoyll",
+	"original": "Manx",
 	"notes": "Autumn 1973"
 }

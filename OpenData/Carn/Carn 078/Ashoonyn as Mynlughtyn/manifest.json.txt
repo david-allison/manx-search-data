@@ -4,5 +4,6 @@
 	"ident": "Carn78AshoonynAsMynlughtyn",
 	"name": "Carn 078: Ashoonyn as Mynlughtyn",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Summer 1992"
 }

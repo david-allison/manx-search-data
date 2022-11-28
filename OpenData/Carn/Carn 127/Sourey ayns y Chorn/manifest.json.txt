@@ -4,5 +4,6 @@
 	"ident": "Carn127SoureyAynsYChorn",
 	"name": "Carn 127: Sourey ayns y Chorn",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Autumn 2004"
 }

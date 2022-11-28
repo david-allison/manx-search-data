@@ -4,5 +4,6 @@
 	"ident": "Carn82Co-obbragheyGaelagh",
 	"name": "Carn 082: Co-obbraghey Gaelagh",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Summer 1993"
 }

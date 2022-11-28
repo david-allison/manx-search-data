@@ -4,5 +4,6 @@
 	"ident": "Carn141YnKaartOarpaghSonChengaghynArdjynagh",
 	"name": "Carn 141: Yn Kaart Oarpagh son Chengaghyn Ardjynagh as Mynchengaghyn as y Reeriaght Unnaneysit",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Summer 2008"
 }

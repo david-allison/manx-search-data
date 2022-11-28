@@ -4,5 +4,6 @@
 	"ident": "Carn103CaggaghynChellveeish",
 	"name": "Carn 103: Caggaghyn Chellveeish",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Autumn 1998"
 }

@@ -4,5 +4,6 @@
 	"ident": "Carn23PobblaghtVannin",
 	"name": "Carn 023: Pobblaght Vannin",
 	"author": "Shorus y Creayrie",
+	"original": "Manx",
 	"notes": "Autumn 1978"
 }

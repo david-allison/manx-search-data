@@ -4,5 +4,6 @@
 	"ident": "Carn25ScoltaghynAynsUllee",
 	"name": "Carn 025: Scoltaghyn ayns \"Ullee\"",
 	"author": "Brian Mac Stoyll",
+	"original": "Manx",
 	"notes": "Spring 1979"
 }

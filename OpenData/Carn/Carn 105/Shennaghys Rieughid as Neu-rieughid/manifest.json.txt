@@ -4,5 +4,6 @@
 	"ident": "Carn105ShennaghysRieughidAsNeu-rieughid",
 	"name": "Carn 105: Shennaghys: Rieughid as Neu-rieughid",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Spring 1999"
 }

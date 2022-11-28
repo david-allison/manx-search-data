@@ -4,5 +4,6 @@
 	"ident": "Carn99FeailleyBleeaneyCholumKeeilley",
 	"name": "Carn 099: Feailley Bleeaney Cholum Keeilley",
 	"author": "Orree Crennell",
+	"original": "Manx",
 	"notes": "Autumn 1997"
 }

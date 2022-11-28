@@ -2,5 +2,6 @@
 	"created": "1982-08-13",
 	"ident": "Carn39StudeyrysYernaghSyGhoal",
 	"name": "Carn 039: Studeyrys Yernagh sy Ghoal",
+	"original": "Manx",
 	"author": "Brian y Stoyll"
 }

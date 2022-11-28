@@ -4,5 +4,6 @@
 	"ident": "Carn60SmooinaghtynErMyLaghynSeyrey",
 	"name": "Carn 060: Smooinaghtyn Er My Laghyn Seyrey",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Winter 1987/88"
 }

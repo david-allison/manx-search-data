@@ -4,5 +4,6 @@
 	"ident": "Carn59CeltiaghysAynsEebyrtys",
 	"name": "Carn 059: Celtiaghys ayns Eebyrtys.",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Autumn 1987"
 }

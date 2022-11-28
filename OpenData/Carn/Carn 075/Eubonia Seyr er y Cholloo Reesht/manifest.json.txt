@@ -4,5 +4,6 @@
 	"ident": "Carn75EuboniaSeyrErYChollooReesht",
 	"name": "Carn 075: \"Eubonia Seyr\" er y Cholloo Reesht",
 	"author": "F. McArdle",
+	"original": "Manx",
 	"notes": "Autumn 1991"
 }

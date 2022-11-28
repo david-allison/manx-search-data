@@ -4,5 +4,6 @@
 	"ident": "Carn60GynsagheyAynsBuillFadaneagh",
 	"name": "Carn 060: Gynsaghey ayns Buill Fadaneagh",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Winter 1987/88"
 }

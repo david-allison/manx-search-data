@@ -4,5 +4,6 @@
 	"ident": "Carn136NyChengaghynGaelgagh",
 	"name": "Carn 136: Ny Chengaghyn Gaelgagh",
 	"author": "Brian Stowell",
+	"original": "Manx",
 	"notes": "Winter 2006/7"
 }

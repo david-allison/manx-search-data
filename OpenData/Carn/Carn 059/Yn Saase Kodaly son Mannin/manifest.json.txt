@@ -4,5 +4,6 @@
 	"ident": "Carn59YnSaaseKodalySonMannin",
 	"name": "Carn 059: Yn Saase Kodaly son Mannin.",
 	"author": "Colin y Jerree",
+	"original": "Manx",
 	"notes": "Autumn 1987"
 }

@@ -4,5 +4,6 @@
 	"ident": "Carn52ThooderAsYGearaltach",
 	"name": "Carn 052: Thooder as y Gearaltach",
 	"author": "Brian y Stoyll",
+	"original": "Manx",
 	"notes": "Winter 1985"
 }
