@@ -4,7 +4,7 @@
 	"ident": "NedBeg-Raaghyn-Creeney",
 	"name": "Raaghyn Creeney",
 	"author": "Edward Faragher",
-	"original": "English",
+	"original": "Manx",
 	"Transcription": "Robert Teare",
 	"Translation": "Robert Teare",
 	"Standardisation": "Robert Teare",
