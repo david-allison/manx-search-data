@@ -1,7 +1,7 @@
 {
 	"created": "1909-06-05",
 	"ident": "Acts-1909",
-	"name": "Slattysyn 1909"
+	"name": "Slattysyn 1909",
 	"author": "unknown",
 	"notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on June 5th 1909."
 }
