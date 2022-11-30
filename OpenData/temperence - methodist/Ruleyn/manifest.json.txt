@@ -4,5 +4,6 @@
 	"name": "Ruleyn yn Pobble Enmyssit Methodistyn er ny Hoiaghey Seose Liorish John Wesley, M.A.",
 	"notes": "Methodist leaflet from 1800, printed by J Nuttall. Translated from 'The Nature, Design, and General Rules of the Methodist Societies by John Wesley, to which are added The Rules of the Band Societies - also published in 1800",
 	"translated": "Rob Teare 2021",
+	"original": "English",
 	"source":  "Manx Museum H.140/I" 
 }
