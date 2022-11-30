@@ -3,5 +3,7 @@
 	"ident": "Acts-1909",
 	"name": "Slattysyn 1909",
 	"author": "unknown",
+	"original: "English",
+	"iMuseum": "MS D200",
 	"notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on June 5th 1909."
 }
