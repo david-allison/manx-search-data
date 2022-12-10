@@ -1,0 +1,8 @@
+{
+	"created": "19o1-04-20",
+	"ident": "ayns-johanessburg",
+	"name": "Ayns Johannesburg",
+	"notes": "Transcription and translation; R. Teare.",
+	"source":  "Ayns Johannesburg: Isle of Man Examiner, Saturday, April 20, 1901; Page: 6",
+	
+}
