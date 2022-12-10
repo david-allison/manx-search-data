@@ -2,6 +2,7 @@
 	"created": "1901-04-20",
 	"ident": "Ayns-Johanessburg-Chelleeragh-Roish-Y-Chaggey",
 	"name": "Ayns Johannesburg",
+	"englishName": "In Johannesburg Immediately Before the War",
 	"notes": "A love poem by a gold prospector. Printed in Isle of Man Examiner.",
 	"author": "J. R. M., Laxey",
 	"original": "Manx",
