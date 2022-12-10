@@ -1,0 +1,17 @@
+{
+	"created": "1900-07-01",
+	"ident": "Slattysn-1900",
+	"name": "Slattysn 1900",
+	"notes": "Acts of Tynwald. Transcribed by R. Teare 2021",
+	"original": "English",
+	"source":  "ABSTRACTS OF ACTS FOR PROMULGATION. BROWN AND SONS, LIMITED  PRINTERS, DOUGLAS.1900.",
+	
+{
+	"created": "1901-07-05",
+	"ident": "Slattysn-1901",
+	"name": "Slattysn 1901",
+	"notes": "Acts of Tynwald. Transcribed by R. Teare 2021",
+	"original": "English",
+	"source":  "ABSTRACTS OF ACTS FOR PROMULGATION. BROWN AND SONS, LIMITED  PRINTERS, DOUGLAS.1901.",
+	
+}
