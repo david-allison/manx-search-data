@@ -10,5 +10,4 @@
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
 	"source":  "Ayns Johannesburg: Isle of Man Examiner, Saturday, April 20, 1901; Page: 6",
-	
 }
