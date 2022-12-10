@@ -2,7 +2,11 @@
 	"created": "19o1-04-20",
 	"ident": "ayns-johanessburg",
 	"name": "Ayns Johannesburg",
-	"notes": "Transcription and translation; R. Teare.",
+	"notes": "A love poem by a gold prospector. Manx original. Printed in Isle of Man times.",
+	"original": "Manx",
+	"mnhNewsComponent": "Ar00602",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
 	"source":  "Ayns Johannesburg: Isle of Man Examiner, Saturday, April 20, 1901; Page: 6",
 	
 }
