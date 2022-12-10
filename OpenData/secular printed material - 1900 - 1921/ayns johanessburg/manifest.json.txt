@@ -1,9 +1,10 @@
 {
-	"created": "19o1-04-20",
-	"ident": "ayns-johanessburg",
+	"created": "1901-04-20",
+	"ident": "Ayns-Johanessburg",
 	"name": "Ayns Johannesburg",
-	"notes": "A love poem by a gold prospector. Manx original. Printed in Isle of Man times.",
+	"notes": "A love poem by a gold prospector. Printed in Isle of Man Examiner.",
 	"original": "Manx",
+	"type": "Poem",
 	"mnhNewsComponent": "Ar00602",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
