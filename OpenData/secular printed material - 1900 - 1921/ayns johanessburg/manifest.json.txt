@@ -3,6 +3,7 @@
 	"ident": "Ayns-Johanessburg",
 	"name": "Ayns Johannesburg",
 	"notes": "A love poem by a gold prospector. Printed in Isle of Man Examiner.",
+	"author": "J. R. M., Laxey",
 	"original": "Manx",
 	"type": "Poem",
 	"mnhNewsComponent": "Ar00602",
