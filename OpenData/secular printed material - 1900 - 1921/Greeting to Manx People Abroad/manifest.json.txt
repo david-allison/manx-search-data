@@ -1,0 +1,9 @@
+{
+	"created": "1912-07-27",
+	"ident": "Greeting-to-Manx-people-abroad",
+	"name": "Greeting to Manx People Abroad",
+	"Author": "Thomas Moore",
+	"Notes": "Transcription: RT",
+	"source":  "GREETING TO MANX PEOPLE ABROAD Isle of Man Examiner, Saturday, July 27, 1912; Page: 6",
+	
+}
