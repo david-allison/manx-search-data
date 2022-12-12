@@ -1,0 +1,14 @@
+{
+	"created": "1910-06-04",
+	"ident": "Yn-Ree-1910-Cushag",
+	"name": "Yn Ree",
+	"englishName": "The King",
+	"notes": "A poem Printed in Isle of Man Times.",
+	"author": "Cushag — Josephine Kermode",
+	"original": "Manx",
+	"type": "poem",
+	"mnhNewsComponent": "Ar00502",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Yn Ree: Isle of Man Times, Saturday, June 04, 1910; Page: 5",
+}
