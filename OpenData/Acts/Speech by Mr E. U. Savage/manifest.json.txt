@@ -1,0 +1,10 @@
+{
+	"created": "1901-02-16",
+	"ident": "Speech-by-MR-SAVAGE",
+	"name": "Speech by MR E.U. SAVAGE",
+	"notes": "Speech to the Liverpool Manx Society",
+	"original": "Manx",
+	"source":  "Speech by MR E.U. SAVAGE to the Liverpool Manx Society: Isle of Man Examiner, Saturday, February 16, 1901; Page: 8",
+	
+}
+
