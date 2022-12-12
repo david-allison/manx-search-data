@@ -1,10 +1,13 @@
 {
 	"created": "1839-06-15",
-	"ident": "O-Vraar",
+	"ident": "O-Vraar-1839",
 	"name": "O Vraar T'ou Scarrit Vom",
 	"type": "Poem",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "Lines composed by Thomas Cottier, Ballamenagh, Michael, on J. Caine, Local Preacher, Ballaskyr Michael, who died on 15th June 1839. H140/B/YNC8",
+	"notes": "Lines composed by Thomas Cottier, Ballamenagh, Michael, on J. Caine, Local Preacher, Ballaskyr Michael, who died on 15th June 1839. ",
+	"iMuseum": "H140/B/YNC8",
+	"transcription": "R. Teare",
+	"translation":  "R. Teare",
+	"source": "H140/B/YNC8",
 	"original": "Manx",
 	
 }
