@@ -7,6 +7,8 @@
 	"author": "J. R. M., Laxey",
 	"original": "Manx",
 	"type": "folklore",
+	"mnhNewsComponent": "Ar00810",
 	"transcription": "R. Teare",
-	"source":  "Yn Shag As Y Chraitnag. Isle of Man Examiner, Saturday, November 03, 1900; Page: 8", translation from "THE CORMORANT AND THE BAT". Isle of Man Examiner, Saturday, November 10, 1900; Page: 8,
+	"source":  "Yn Shag As Y Chraitnag. Isle of Man Examiner, Saturday, November 03, 1900; Page: 8",
+	"englishSource": "translation from 'THE CORMORANT AND THE BAT'. Isle of Man Examiner, Saturday, November 10, 1900; Page: 8"
 }
