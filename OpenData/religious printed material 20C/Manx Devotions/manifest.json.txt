@@ -1,0 +1,16 @@
+{
+	"created": "1919-07-12",
+	"ident": "Devotions-In-Manx",
+	"name": "Devotions In Manx",
+	"author": "John Kewley",
+	"notes": "A sermon given by Archdeacon John Kewley. “INTERESTING GAELIC REVIVAL.
+The service vas promoted by “Yn Cheshaght Gailckagh” (Anglice, Manx Language Society) The service commenced with the singing to the traditional Psalm tune of the Manx version of the Old Hundredth, “O ooilley shiuish fir-vaghee’n theihll.”[1] Mr H. P. Kelly, who acted as parish clerk for the nonce, announced the hymn and read out the first verse. ... The other hymns were:  “O Yee cur skianyn credjue dou.”[2] “Ta farrane ayn ta lhieent lesh fuill,”[3] and “Tar shiuish, ta nish cumraagyn dou,”[4] sung respectively to the following tunes, “Hensbury”,  “Martyrdom”, and “Grosvenor,””
+[1] “O, all you inhabitants of the world.” 
+[2] “O, God give me wings of faith.”
+[3] “There is a spring that is filled with blood”
+[4] “Come ye, who are now my companions” 
+ ",
+	"original": "Manx",
+	"transcription": "R.Teare",
+	"source": "Isle of Man Examiner, Saturday, July 12, 1919; Page: 6",
+}
