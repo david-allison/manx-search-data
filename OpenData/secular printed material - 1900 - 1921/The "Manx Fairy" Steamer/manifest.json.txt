@@ -1,0 +1,12 @@
+{
+	"created": "1899-04-08",
+	"ident": "THE-MANX-FAIRY-STEAMER",
+	"name": "THE “MANX FAIRY” STEAMER.",
+	"notes": "The following lines were printed, and sung about the streets of Ramsey, in 1853 :— "
+	"author": "Unknown",
+	"original": "Manx",
+	"type": "song",
+	"transcription": "R. Teare",
+	"translation": "accompanies original",
+	"source":  "THE “MANX FAIRY” STEAMER. Ramsey Weekly News, Saturday, April 08, 1899; Page: 6",
+}
