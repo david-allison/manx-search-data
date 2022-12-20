@@ -1,0 +1,9 @@
+{
+	"created": "1900-01-27",
+	"ident": "Kishtey-Dyn-Ynnyd",
+	"name": "Kishtey Dyn Ynnyd",
+	"notes": "a bilingual humorous vignette.",
+	"author": "unknown",
+	"original": "Bilingual",
+	"source": "Isle of Man Examiner, Saturday, January 27, 1900; Page: 3",
+}

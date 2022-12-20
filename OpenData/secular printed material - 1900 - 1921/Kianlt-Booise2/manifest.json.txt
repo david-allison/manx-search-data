@@ -1,0 +1,8 @@
+{
+	"created": "1900-06-09",
+	"ident": "Kianlt-Booise",
+	"name": "Kianlt-Booise",
+	"notes": "An annonymous humorous vignette with accompanying translation.",
+	"original": "Bilingual",
+	"source": "Isle of Man Examiner, Saturday, June 09, 1900; Page: 2",
+}
