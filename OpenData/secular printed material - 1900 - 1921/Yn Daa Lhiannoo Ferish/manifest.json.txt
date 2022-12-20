@@ -1,0 +1,13 @@
+{
+	"created": "1905-12-30",
+	"ident": "Yn-Daa-Lhiannoo-Ferish",
+	"name": "Yn Daa Lhiannoo Ferish",
+	"englishName": "The Fairy Twins",
+	"notes": "Morrison writes: A reference to Jacob’s “Celtic- Fairy Tales” will show that this story is one of the many stories common to the folk-lore of various countries. This will make it none the less interesting to Manx readers, who will find the Manx rendering in many ways more striking and dramatic.",
+	"author": "S. Morrison",
+	"original": "Manx",
+	"type": "folk story",
+	"transcription": "R. Teare",
+	"translation": "S. Morrison",
+	"source":  "Yn Daa Lhiannoo Ferish. Isle of Man Examiner, Saturday, December 30, 1905; Page: 8",
+}
