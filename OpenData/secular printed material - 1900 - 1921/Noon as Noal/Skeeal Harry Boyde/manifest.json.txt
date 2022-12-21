@@ -1,0 +1,12 @@
+{
+	"created": "1976-10-14",
+	"ident": "Skeeal-Harry-Boddagh",
+	"name": "‘Where Have All The Manxmen Gone?’ / ‘Fooo ? Hallooo?’ / ‘Eairyvane’ / ‘Skeeal Harry Boddagh’ / ‘Legality Of Manx’ / ‘Sterrym Ayns Cappan Tey’",
+	"englishName": "‘Where Have All The Manxmen Gone?’ / ‘Fooo ? Hallooo?’ / ‘Eairyvane’ / ‘Harry Boyde's Story’ / ‘Legality Of Manx’ / ‘A Storm in a Teacup",
+	"author": "Breagagh",
+	"original": "Manx",
+	"type": "Newspaper column",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Manx Star, Saturday, 14th August, 1976"
+}
