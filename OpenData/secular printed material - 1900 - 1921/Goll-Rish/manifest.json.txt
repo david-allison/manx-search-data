@@ -4,5 +4,5 @@
 	"name": "Goll-Rish",
 	"notes": "a humorous bilingual vignette",
 	"original": "Bilingual",
-	"source": "Saturday, January 13, 1900; Page: 2",
+	"source": "Peel City Guardian, Saturday, January 13, 1900; Page: 2",
 }
