@@ -1,8 +1,8 @@
 {
 	"created": "1899-04-08",
 	"ident": "THE-MANX-FAIRY-STEAMER",
-	"name": "THE “MANX FAIRY” STEAMER.",
-	"notes": "The following lines were printed, and sung about the streets of Ramsey, in 1853 :— "
+	"name": "THE “MANX FAIRY” STEAMER",
+	"notes": "The following lines were printed, and sung about the streets of Ramsey, in 1853 :— ",
 	"author": "Unknown",
 	"original": "Manx",
 	"type": "song",
