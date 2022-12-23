@@ -1,0 +1,8 @@
+{
+	"created": "1890-01-13",
+	"ident": "Goll-Rish",
+	"name": "Goll-Rish",
+	"notes": "a humorous bilingual vignette",
+	"original": "Bilingual",
+	"source": "Peel City Guardian, Saturday, January 13, 1900; Page: 2",
+}
