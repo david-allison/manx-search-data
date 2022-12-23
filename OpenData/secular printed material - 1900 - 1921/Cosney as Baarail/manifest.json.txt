@@ -1,0 +1,10 @@
+{
+	"created": "1900-01-20",
+	"ident": "Coney-as-Baarail",
+	"name": "Cosney as Baarail",
+	"englishName": "Earning and Spending",
+	"notes": "a bilingual humorous vignette.",
+	"author": "unknown",
+	"original": "Bilingual",
+	"source": "Isle of Man Examiner, Saturday, January 20, 1900; Page: 3",
+}
