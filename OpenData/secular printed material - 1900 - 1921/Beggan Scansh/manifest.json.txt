@@ -1,0 +1,8 @@
+{
+	"created": "1901-06-15",
+	"ident": "Beggan-Scansh",
+	"name": "Beggan Scansh",
+	"notes": "a humorous vignette. Author unknown",
+	"original": "English",
+	"source": "Isle of Man Examiner, Saturday June 15, 1901. Bilingual",
+}
