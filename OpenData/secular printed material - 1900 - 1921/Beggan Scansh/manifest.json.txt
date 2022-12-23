@@ -3,6 +3,6 @@
 	"ident": "Beggan-Scansh",
 	"name": "Beggan Scansh",
 	"notes": "a humorous vignette. Author unknown",
-	"original": "English
+	"original": "English",
 	"source": "Isle of Man Examiner, Saturday June 15, 1901. Bilingual",
 }
