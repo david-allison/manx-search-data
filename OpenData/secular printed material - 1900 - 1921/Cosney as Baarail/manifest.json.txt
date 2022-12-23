@@ -2,6 +2,7 @@
 	"created": "1900-01-20",
 	"ident": "Coney-as-Baarail",
 	"name": "Cosney as Baarail",
+	"englishName": "Earning and Spending",
 	"notes": "a bilingual humorous vignette.",
 	"author": "unknown",
 	"original": "Bilingual",
