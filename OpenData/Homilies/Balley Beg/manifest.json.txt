@@ -10,7 +10,6 @@ The Manx translation is freer than in most other tracts, with several cuts, a fe
 	"translator": "unknown",
 	"original": "English",
 	"source":  "Tract 174 'Valley-beg Ayns Sleityn y Rank' Printed by G. Jefferson. Douglas. 1823",
-	},
 	"English Source": "Tract 174 'The Village in the Mountains' The Religious Tract Society. 1820-1823",
 	"Transcription": "Max Wheeler 2021",
 }
