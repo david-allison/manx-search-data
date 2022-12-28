@@ -3,7 +3,7 @@
 	"ident": "Thomaase-y-Perkin",
 	"name": "Thomaase y Perkin",
 	"englishName": "Thomaase y Perkin",
-	"notes": "Biographical piece by Chalse Craine",
+	"notes": "Biographical piece about Thomas Callister by Chalse Craine",
 	"author": "C. Craine, with introduction by D. Fargher",
 	"original": "Manx",
 	"type": "Biographical",
