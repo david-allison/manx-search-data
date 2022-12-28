@@ -1,0 +1,16 @@
+{
+	"created": "1823-01-01",
+	"ident": "Balley-beg-ayns-sleityn-y-Raank",
+	"name": "Balley-beg ayns sleityn y Raank",
+	"manxName": "Balley-beg syns Sleityn y Rank",
+	"notes": "I edit this Manx tract as a contribution to the project of digitizing Manx Gaelic printed texts of the Classical Period (1700-1850). The English original, published by the Religious Tract Society, is but the first third, or so, of a story written by the American Sampson Vryling Stoddard Wilder, (1780-1865), a businessman and Protestant evangelist. The version of the text in his biography makes explicit that he is himself the Merchant of the story.
+The Manx translation is freer than in most other tracts, with several cuts, a few expansions, and some reordering of clauses within paragraphs.  The spelling is largely in accord with the Bible standard, with occasional deviations. Some evident typos have here been corrected in red, and I have intervened (also marked in red)  to make the punctuation more regular. The pagination of the Manx text is marked [thus].
+",
+	"author": "Sampson Vryling Stoddard Wilder",
+	"translator": "unknown",
+	"original": "English",
+	"source":  "Tract 174 'Valley-beg Ayns Sleityn y Rank' Printed by G. Jefferson. Douglas. 1823",
+	"English Source": "Tract 174 'The Village in the Mountains' The Religious Tract Society. 1820-1823",
+	"Transcription": "Max Wheeler 2021",
+}
+
