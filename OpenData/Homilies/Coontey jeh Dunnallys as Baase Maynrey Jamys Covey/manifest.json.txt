@@ -1,0 +1,17 @@
+{
+	"createdCircaStart": "1830-01-01",
+	"createdCircaEnd": "1837-01-01",
+	"ident": "James-Covey",
+	"name": "An Account of the Bravery and Happy Death of James Covey",
+	"manxName": "Coontey jeh Dunnallys as Baase Maynrey Jamys Covey",
+	"notes": "We edit this Manx tract as a contribution to the project of digitizing Manx Gaelic printed texts of the Classical Period (1700-1850). The Manx print is undated, but is likely to be from the early or mid 1830s 
+     Some evident typos have here been corrected in red, and we have intervened (also marked in red) to make the punctuation more regular. The pagination of the original prints is marked [thus].
+",
+	"author": "Rev. John Griffin",
+	"original": "English",
+	"source":  "Coontey jeh Dunnallys as Baase Maynrey Jamys Covey [translator unknown] Estimated date: 1830 – 1837. R. Tilling, Circus-street, Liverpool.",
+	},
+	"English Source": "An Account of the Bravery and Happy Death of James Covey. 1830: THE RELIGIOUS TRACT SOCIETY, London.",
+	"Transcription": "Max Wheeler & Christopher Lewin 2021",
+}
+
