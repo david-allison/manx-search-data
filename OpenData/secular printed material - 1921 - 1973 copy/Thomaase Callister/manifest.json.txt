@@ -1,0 +1,13 @@
+{
+	"created": "1976-12-11",
+	"ident": "Thomaase-y-Perkin",
+	"name": "Thomaase-y-Perkin",
+	"englishName": "Thomaase-y-Perkin",
+	"notes": "Biographical piece by Chalse Craine",
+	"author": "C. Craine, with introduction by D. Fargher",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 11th December, 1976 ",
+}
