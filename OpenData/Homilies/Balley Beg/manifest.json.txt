@@ -1,6 +1,6 @@
 {
 	"created": "1823-01-01",
-	"ident": "Balley-beg ayns-sleityn-y-Raank",
+	"ident": "Balley-beg-ayns-sleityn-y-Raank",
 	"name": "Balley-beg ayns sleityn y Raank",
 	"manxName": "Balley-beg syns Sleityn y Rank",
 	"notes": "I edit this Manx tract as a contribution to the project of digitizing Manx Gaelic printed texts of the Classical Period (1700-1850). The English original, published by the Religious Tract Society, is but the first third, or so, of a story written by the American Sampson Vryling Stoddard Wilder, (1780-1865), a businessman and Protestant evangelist. The version of the text in his biography makes explicit that he is himself the Merchant of the story.
