@@ -6,6 +6,7 @@
 	"notes": "Original was Manx, with English translation",
 	"transcription: "R. Teare",
 	"source": "Childrens rhymes, Given to me by Mrs Radcliffe of “Ohio” Andreas. MS 1012C. July 1919. MS 1012C",
+	"iMuseum": "MS 1012C. July 1919. MS 1012C",
 	"type": "Children's rhymes",
 	"original": "Manx",
 }
