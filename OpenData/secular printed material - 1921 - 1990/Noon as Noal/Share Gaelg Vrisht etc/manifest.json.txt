@@ -1,6 +1,6 @@
 {
 	"created": "1976-10-09",
-	"ident": "Tommy-Leece",
+	"ident": "Tommy-Leece-etc-1976",
 	"name": "Share Gaelg Vrisht ry Chlastyn er Chengey Vanninagh na Baarle Flaaoil’ / ‘Mygeayrt Nalbin’ / ‘Reihys Dree ?’ / ‘Tommy Leece’ / ‘Hymn Noa voish L.V.C.",
 	"englishName": "Thomaase y Perkin",
 	"notes": "Column including Biographical piece about Tommy Leece by D. Faragher ('Breagagh")",
