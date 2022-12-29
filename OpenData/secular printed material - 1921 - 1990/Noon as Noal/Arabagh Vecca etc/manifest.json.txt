@@ -4,7 +4,7 @@
 	"name": "Doonaght Flight / Three Fastest Things in the Sea / Carrick Ny Kylliu / Arabagh Vecca",
 	"englishName": "The Arab of Mecca",
 	"notes": "News Column and Biographical piece by J. Comes",
-	"authors": "Breagagh" (D. Fargher) and John Comish (edited)",
+	"authors": "'Breagagh' (D. Fargher) and John Comish (edited)",
 	"original": "Manx",
 	"type": "Biographical",
 	"transcription": "R. Teare",
