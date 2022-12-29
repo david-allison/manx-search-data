@@ -1,0 +1,10 @@
+{
+	"created": "1912-07-27",
+	"ident": "Focklyn-noa-Sage-King",
+	"name": "Focklyn Not / Sage King / Yn Fockleyr / Shirveish / Brastyl Ayns Laksaa",
+	"Author": "Breagagh",
+	"original": "Manx",
+	"Notes": "Transcription: RT",
+	"source":  "Manx Star, Saturday, 16th October 1976  Noon as Noal; Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl ayns Laksaa / Nationalist Opportunity",
+	
+}
