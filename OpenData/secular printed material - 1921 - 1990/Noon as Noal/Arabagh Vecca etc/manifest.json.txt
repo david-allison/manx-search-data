@@ -1,0 +1,13 @@
+{
+	"created": "1976-10-23",
+	"ident": "Arabagh-Vecca-1976",
+	"name": "Doonaght Flight / Three Fastest Things in the Sea / Carrick Ny Kylliu / Arabagh Vecca",
+	"englishName": "The Arab of Mecca",
+	"notes": "News Column and Biographical piece by J. Comes",
+	"authors": ""Breagagh" (D. Fargher) and John Comish (edited)",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 23rd October 1976",
+}
