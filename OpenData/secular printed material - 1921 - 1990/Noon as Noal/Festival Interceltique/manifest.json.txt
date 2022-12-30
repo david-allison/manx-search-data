@@ -1,0 +1,13 @@
+{
+	"created": "1976-09-04",
+	"ident": "Festival-Interceltique",
+	"name": "‘Festival Interceltique Descornemuses’ / ‘Yn Cabbyl Ushtey’ / ‘Teangadóir",
+	"englishName": "Interceltic Festival / The Cabbyl-Ushtey / Teangadóir ",
+	"notes": "Current Events",
+	"author": ""Breagagh" (D. Fargher)",
+	"original": "Manx",
+	"type": "Manx Langauge Column",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 4th September, 1976 ",
+}
