@@ -1,0 +1,13 @@
+{
+	"created": "1976-12-11",
+	"ident": "Noon-as-Noal-Lash-Coals-etc",
+	"name": "‘‘A True Manxman’ / ‘Freiceadan Dubh’ / ‘Oie Ayns Thie Ny Garee’ / 'Lash Coals On Her Evie' / ‘Skeealaght’ / ‘Cooinaghtyn My Aegid’ / ‘Language Revival’ / ‘Real Power’’",
+	"englishName": "A True Manxman’ / ‘Black Watch’ / ‘A Night In The Sourland House’ / 'Lash Coals On Her Evie' / ‘Skeealaght’ / ‘Memories of My Youth’ / ‘Language Revival’ / ‘Real Power’",
+	"notes": "Column 'Noon as Noal'. Includes biographical piece about Evan Crebbin by 'Breagagh'",
+	"author": "Breagagh. B. Stowell",
+	"original": "Manx",
+	"type": "Current Events & Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 21st August 1976"
+}
