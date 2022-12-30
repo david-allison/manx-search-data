@@ -1,6 +1,6 @@
 {
 	"created": "1976-09-18",
-	"ident": "Skeeal-Liorish-Juan-y-Comish",
+	"ident": "Noon-as-Noal-Skeeal-Liorish-Juan-y-Comish",
 	"name": "Skeeal Liorish Juan y Comish; Gynsaghey Chengey My Ghooie’ / ‘Juan Doo'",
 	"englishName": "A Story by John Comish",
 	"notes": "Biographical piece by John Comes, edited by either J. Gell or D. Faragher. See 'Ynsaghey Hengey Hooie My-Hene (1953) for original.",
