@@ -1,0 +1,13 @@
+{
+	"created": "1976-09-18",
+	"ident": "Noon-as-Noal-Skeeal-Liorish-Juan-y-Comish",
+	"name": "Skeeal Liorish Juan y Comish; Gynsaghey Chengey My Ghooie’ / ‘Juan Doo'",
+	"englishName": "A Story by John Comish",
+	"notes": "Biographical piece by John Comes, edited by either J. Gell or D. Faragher. See 'Ynsaghey Hengey Hooie My-Hene (1953) for original.",
+	"author": "Column by D. Fargher ('Breagagh'), Biographical piece by J. Comish, edited by either J. Gell or D. Faragher.",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star Saturday, 18th September, 1976",
+}
