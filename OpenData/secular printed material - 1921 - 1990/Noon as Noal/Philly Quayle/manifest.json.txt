@@ -1,0 +1,13 @@
+{
+	"created": "1976-10-30",
+	"ident": "Philly-Quayle",
+	"name": "Noon as Noal: Philly Quayle",
+	"englishName": "Philly Quayle",
+	"notes": "Biographical piece about Philly Quayle by Chalse Craine",
+	"author": "C. Craine, with introduction by D. Fargher",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 30th October 1976; 'Phillie Mac y Phaill'",
+}
