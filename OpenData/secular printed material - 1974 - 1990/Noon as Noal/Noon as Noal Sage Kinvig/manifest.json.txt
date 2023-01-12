@@ -1,7 +1,7 @@
 {
 	"created": "1976-10-16",
 	"ident": "Focklyn-noa-Sage-King",
-	"name": "Noon as Noal: Focklyn Noa / Sage King / Yn Fockleyr / Shirveish / Brastyl Ayns Laksaa",
+	"name": "Noon as Noal: Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl Ayns Laksaa",
 	"Author": "Breagagh",
 	"original": "Manx",
 	"Notes": "Transcription & Translation: RT",
