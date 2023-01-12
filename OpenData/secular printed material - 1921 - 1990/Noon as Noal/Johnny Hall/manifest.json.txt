@@ -1,0 +1,13 @@
+{
+	"created": "1976-11-20",
+	"ident": "Johnny Hall",
+	"name": "Noon as Noal: Johnny Hall",
+	"englishName": "Johnny Hall",
+	"notes": "Biographical Piece",
+	"author": "'Breagagh' (D. Fargher)",
+	"original": "Manx",
+	"type": "Manx Langauge Column",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 20th November, 1976  ",
+}
