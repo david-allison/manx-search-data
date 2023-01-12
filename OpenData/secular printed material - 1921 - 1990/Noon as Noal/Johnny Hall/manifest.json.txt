@@ -1,6 +1,6 @@
 {
 	"created": "1976-11-20",
-	"ident": "Johnny Hall",
+	"ident": "Noon-as-Noal-Johnny-Hall",
 	"name": "Noon as Noal: Johnny Hall",
 	"englishName": "Johnny Hall",
 	"notes": "Biographical Piece",
