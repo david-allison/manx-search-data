@@ -2,7 +2,7 @@
 	"createdCircaStart": "2002-09-01",
 	"createdCircaEnd": "2002-09-29",
 	"ident": "YouTube-L-Quirk-Coraaghyn-Vannin",
-	"name": "L Quirk Coraaghyn Vannin",
+	"name": "L Quirk Coraaghyn Vannin 🎥",
 	"notes": "Video interview between Leslie Quirk & Rob Teare",
 	"author": "Leslie Quirk",
 	"translated": "Rob Teare 2022",
