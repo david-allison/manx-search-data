@@ -3,7 +3,7 @@
 	"ident": "Y-Nah-Hilley",
 	"name": "Noon as Noal: Y Nah Hilley'",
 	"englishName": "A Story by John Comish",
-	"notes": "Biographical piece by John Comish, edited by either J. Gell or D. Faragher."
+	"notes": "Biographical piece by John Comish, edited by either J. Gell or D. Faragher.",
 	"author": "Introduction by D. Fargher ('Breagagh'), Biographical piece by J. Comish, edited by either J. Gell or D. Faragher.",
 	"original": "Manx",
 	"type": "Biographical",
