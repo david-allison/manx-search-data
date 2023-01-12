@@ -1,7 +1,7 @@
 {
 	"created": "1899-07-27",
 	"ident": "NedBegVaBenGinshYnLaaShohChaie",
-	"name": "Va ben ginsh yn laa shoh chaie",
+	"name": "Va Ben Ginsh yn Laa Shoh Chaie",
 	"notes": "(CL; “Sheean ayns y thie”)",
 	"original": "Manx",
 }
