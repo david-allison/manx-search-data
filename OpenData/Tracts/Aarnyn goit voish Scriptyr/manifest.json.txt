@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1800-01-01",
+	"createdCircaEnd": "1820-01-01",
+	"ident": "Soilshaghey-Ynsagh-as-Curmyn-yn-Chredjue-Chreestee",
+	"name": "Aarnyn goit voish Scriptyr ta Soilshaghey Ynsagh as Curmyn yn Chredjue Chreestee",
+	"englishName": "Scripture Extracts; stating the Doctrines and Duties of the Christian Religion",
+	"notes": "All the Manx extracts consist of text from the Manx Bible. The only Manx present, therefore, which has not previously been digitized, is in the titles of the chapters. The first English edition of Scripture Extracts, and also the Manx translation, were published before 1820, as they are both included in the Society’s Catalogue included in the Report of that year.  Google Books has the 1823 English edition, in part only, and the 1835 edition complete, to which the Manx corresponds pretty closely,  except that, of the English Scripture Extracts, nine chapters are omitted entirely and one, ‘Of the Character of Jesus Christ,’ is much shortened and reordered.",
+	"original": "English",
+	"type": "Tract",
+	"source": "Aarnyn goit voish Scriptyr ta Soilshaghey Ynsagh as Curmyn yn Chredjue Chreestee; Scripture Extracts; stating the Doctrines and Duties of the Christian Religion, (Religious Tract Society, First series, no. 67).",
+}
