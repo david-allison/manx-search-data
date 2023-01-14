@@ -1,0 +1,12 @@
+{
+	"createdCircaStart": "1822-01-01",
+	"createdCircaEnd": "1822-12-31",
+	"ident": "Banglaneyn-Credjue-Agglish-Hostyn",
+	"name": "Banglaneyn yn Chredjue Creestee as Oardaghyn Crauee Agglish Hostyn",
+	"englishName": "The 39 Articles of the Church of England in Manx Gaelic, 1822",
+	"notes": "This present edition of the 39 Articles in Manx Gaelic is a contribution to the digitization of Manx Gaelic texts of the Classical Period (1700-1850). The 1822 edition of Banglaneyn yn Chredjue Creestee as Oardaghyn Crauee Agglish Hostyn, for the Prayer-Book and Homily Society of London, is the only one known. The translation, of English theological prose essentially from the mid 16th century, is well done, being explanatory rather than literal; that is, the translator avoids calquing the technical terms found in the English, though just a few are left as borrowings (supererogation, purgatory, ratification, transubstantiation). From the state of the language found here, one may infer that the translation is not much older than the publication. Notably, the preceding object construction for non-finite transitive verbs (Direct Object + y + lenited Verb-Noun, e.g. foddee mayd  ymmyd y yannoo ‘we can make use’, art. 26) is rare — occurring only twice out of 35 possible occurrences. This is in marked contrast with the use of this construction in the Manx Bible as printed in the most widely circulated edition of 1819, though the Bible translation itself had been completed nearly fifty years earlier.",
+	"original": "English",
+	"type": "Tract",
+	"source": "",
+	"corupusSource": "Banglaneyn.docx",
+}
