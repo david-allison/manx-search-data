@@ -1,0 +1,15 @@
+{
+	"createdCircaStart": "1838-01-01",
+	"createdCircaEnd": "1838-12-31",
+	"ident": "Carrey-yn-Pheccagh",
+	"name": "Carrey yn Pheccagh",
+	"englishName": "The Sinner’s Friend",
+	"notes": "The Sinner’s Friend, by John Vine Hall (1774-1860), is a collection of one-page essays, most of which comment on a passage or passages of Scripture. The first edition was published on 29 May 1821. Originally the booklet consisted of 30 passages selected from Bogatzky’s Golden Treasury.  As J. V. Hall’s son, Newman Hall, explains in a footnote to his edition of his father’s autobiography (p. 85) ‘From time to time the compiler of “The Sinner’s Friend” wrote a page and substituted it for one of those originally extracted from Bogatzky, until at length it was almost entirely his own work. [That is, the English translation of  Güldenes Schatzkästlein der Kinder Gottes (1718) by Karl Heinrich von Bogatzky (1690–1774).]’
+Most of the Manx edition (1838) renders pages of the English edition of 1836, not always in the same order. Pages in the Manx translation that do not match pages in the 1836 edition can be found in the 70th English edition (no date), which marked the completion of ‘upwards of half a million’ copies in twelve languages: English, Welsh, Irish, Manx, Gaelic, French, German, Russian, Spanish, Portuguese, Italian, and Tahitian. (In due course The Sinner’s Friend was translated into 30 languages, with nearly 3 million copies printed.)
+For two passages in the Manx text which do not correspond to the English versions (the preface and the note on benefactors at the end), we supply a translation.
+",
+	"original": "English",
+	"type": "Tract",
+	"source": "Carrey yn Pheccagh",
+	"corupusSource": "Carrey yn Pheccagh B as G.docx",
+}
