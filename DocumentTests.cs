@@ -130,7 +130,7 @@ namespace Manx_Search_Data
 
             Assume.That(openSourceDocument.Ident, Is.Not.AnyOf(DocumentsWithoutOriginal.DocsWithoutOriginal),  document.Ident + " has no 'Original' defined");
             
-            Assert.That(openSourceDocument.Original,Is.AnyOf("Manx", "English", "Unknown", "Bilingual"));
+            Assert.That(openSourceDocument.Original,Is.AnyOf("Manx", "English", "Unknown", "Bilingual", "Neither"));
         }
 
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
