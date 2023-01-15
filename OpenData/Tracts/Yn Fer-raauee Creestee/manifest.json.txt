@@ -1,0 +1,12 @@
+{
+	"created": "1763-11-04",
+	"ident": "Yn-Fer-raauee-Creestee-1763",
+	"name": "Yn Fer-raauee Creestee",
+	"englishName": "The Christian Monitor",
+	"notes": "Significant Notes. See Original Document",
+	"original": "English",
+	"author": "Paul Crebbin",
+	"type": "Tract",
+	"source": "Yn Fer-raauee Creestee/The Christian Monitor",
+	"corupusSource": "Yn Fer-raauee Creestee Manx and English.docx",
+}
