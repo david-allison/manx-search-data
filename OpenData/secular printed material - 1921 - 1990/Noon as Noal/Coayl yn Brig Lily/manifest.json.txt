@@ -1,6 +1,6 @@
 {
 	"created": "1976-12-25",
-	"ident": "Noon-as-Noal-Coayl-yn Brig-Lily",
+	"ident": "Noon-as-Noal-Coayl-yn-Brig-Lily",
 	"name": "Noon as Noal: Coal yn Brig Lily",
 	"englishName": "The Loss of the Brig Lily",
 	"notes": "Biographical Piece",
