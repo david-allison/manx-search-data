@@ -1,0 +1,14 @@
+{
+	"created": "1976-12-25",
+	"ident": "Noon-as-Noal-Coayl-yn Brig-Lily",
+	"name": "Noon as Noal: Coal yn Brig Lily",
+	"englishName": "The Loss of the Brig Lily",
+	"notes": "Biographical Piece",
+	"author": "'Breagagh' (D. Fargher)",
+	"original": "Manx",
+	"type": "Manx Langauge Column",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 25th December, 1976",
+}
+
