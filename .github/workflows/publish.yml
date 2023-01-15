@@ -27,9 +27,8 @@ jobs:
         continue-on-error: true
         timeout-minutes: 4
       
-      - name: Copy Data to server
-        run: scp -r "$GITHUB_WORKSPACE/OpenData" david2@209.97.129.212:/var/www/manx-corpus/CorpusSearch/
-        timeout-minutes: 20
+      - name: Pull and Copy Open Data
+        run: ssh -tt david2@209.97.129.212 'cd ~/manx-search-data && git pull origin master && cp -r ~/manx-search-data/OpenData /var/www/manx-corpus/CorpusSearch'
         
         # ignore the output of rm -rf and continue
       - name: Refresh Closed Data from GitHub Repo
