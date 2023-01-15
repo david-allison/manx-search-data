@@ -1,0 +1,13 @@
+{
+	"created": "1976-12-04",
+	"ident": "Jeeaghyn-My-Hiar-II",
+	"name": "Noon as Noal: Manninagh Jeeaghyn My Hiar II'",
+	"englishName": "A Manxman looking East II",
+	"notes": "Biographical piece by John Comish, edited by either J. Gell or D. Faragher.",
+	"author": "J. Comish, edited by either J. Gell or D. Faragher.",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 4th December, 1976 ",
+}
