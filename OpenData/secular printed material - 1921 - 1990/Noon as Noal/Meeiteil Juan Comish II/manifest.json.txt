@@ -1,7 +1,7 @@
 {
 	"created": "1977-02-05",
 	"ident": "Meeiteil-Juan-y-Comish-II",
-	"name": "Noon as Noal Parish 'Breagagh': Meeiteil Juan y Comish II / Joe Yeaman / Yn Chenn Naunt",
+	"name": "Noon as Noal Marish 'Breagagh': Meeiteil Juan y Comish II / Joe Yeaman / Yn Chenn Naunt",
 	"englishName": "Meeting John Comish II / Joe Yeaman / The Old Aunt",
 	"notes": "Account of J. Gell meeting J. Comish of Kirkland Lake, Northern Ontario, Canada (1887 – 1965) & Biographical pieces by 'Breagagh'",
 	"author": "J. Gell, and last two items by 'Breagagh'.",
