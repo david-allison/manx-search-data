@@ -132,6 +132,21 @@ namespace Manx_Search_Data
             
             Assert.That(openSourceDocument.Original,Is.AnyOf("Manx", "English", "Unknown", "Bilingual", "Neither"));
         }
+        
+        [Theory]
+        public void ValidateOriginalDocumentColumn(Document document)
+        {
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+
+            var headers = openSourceDocument.LoadHeaders();
+
+            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
+
+            foreach (var header in invalidHeaders)
+            {
+                Assert.That(headers, Does.Not.Contain(header));
+            }
+        }
 
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
         private static OpenSourceDocument AssumeOpenSource(Document definition, string reasonAsClosedSource)
