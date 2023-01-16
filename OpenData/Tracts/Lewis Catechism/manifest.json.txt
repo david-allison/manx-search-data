@@ -1,0 +1,12 @@
+{
+	"created": "1769-01-01",
+	"ident": "Lewis-s-Catechism-1769",
+	"name": "Lewis’s Catechism in Manx Gaelic",
+	"englishName": "The Church Catechism Explained",
+	"notes": "Significant Notes. See Original Document",
+	"original": "English",
+	"author": "Henry Corlett",
+	"type": "Tract",
+	"source": "Lewis’s Catechism in Manx Gaelic (1769)/John Lewis’s The Church Catechism Explained (30th Edition)",
+	"corupusSource": "Lewis Catechism B as G.docx",
+}
