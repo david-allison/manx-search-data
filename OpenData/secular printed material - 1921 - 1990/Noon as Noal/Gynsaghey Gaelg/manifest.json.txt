@@ -1,7 +1,7 @@
 {
 	"created": "1976-01-15",
 	"ident": "Gynsaghey-Gaelg",
-	"name": "Noon as Noal Marish "Breagagh": Gynsaghey Gaelg’",
+	"name": "Noon as Noal Marish 'Breagagh': Gynsaghey Gaelg’",
 	"englishName": "'Learning Manx'",
 	"notes": "Column 'Noon as Noal'. Autobiographical piece by 'Breagagh'",
 	"author": "Breagagh. (D. Faragher.)",
