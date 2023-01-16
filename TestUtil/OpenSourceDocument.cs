@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
+using System.Linq;
+using CsvHelper;
 
 namespace Manx_Search_Data.TestUtil
 {
@@ -43,7 +46,15 @@ namespace Manx_Search_Data.TestUtil
             return LoadCsv(FullCsvPath);
         }
 
-
+        public List<string> LoadHeaders()
+        {
+            using var reader = new StreamReader(FullCsvPath);
+            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
+            csv.Read();
+            csv.ReadHeader();
+            return csv.HeaderRecord.ToList();
+        }
+        
         public override string ToString()
         {
             if (LocationOnDisk.StartsWith(AppDomain.CurrentDomain.BaseDirectory))
