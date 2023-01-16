@@ -1,0 +1,13 @@
+{
+	"created": "1976-12-11",
+	"ident": "Meeiteil-Juan-y-Comish-I",
+	"name": "Noon as Noal Parish 'Breagagh': Meeiteil Juan y Comish I",
+	"englishName": "Meeting John Comish I",
+	"notes": "Account of J. Gell meeting J. Comish of Kirkland Lake, Northern Ontario, Canada (1887 – 1965)",
+	"author": "J. Gell, with introduction by 'Breagagh'.",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 21st August 1976"
+}
