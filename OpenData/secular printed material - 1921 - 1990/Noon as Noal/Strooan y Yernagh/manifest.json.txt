@@ -1,0 +1,15 @@
+{
+	"created": "1977-01-22",
+	"ident": "Strroan-y-Yernagh",
+	"name": "Noon as Noal Parish 'Breagagh": Treisht Son y Traa Ry-Heet / Strooan y Yernagh / Cronk yn Angaaish",
+	"englishName": "Hope for the Future 'The Irishman's Stream / The Hill of Anguish",
+	"notes": "current events / A Letter / Stories behind placenames",
+	"author": "'Breagagh' (D. Fargher) & William Kelly",
+	"original": "Manx",
+	"type": "Manx Langauge Column",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 22nd January, 1977 ",
+}
+
+
