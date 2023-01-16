@@ -1,7 +1,7 @@
 {
 	"created": "1976-01-08",
 	"ident": "Chingys Manning",
-	"name": "Noon As Noal marish “Breagagh”: Yn Chingys Manninagh / Undinaght Studeyrys Manninagh",
+	"name": "Noon As Noal marish 'Breagagh': Yn Chingys Manninagh / Undinaght Studeyrys Manninagh",
 	"englishName": "The Manx Disease / A Manx Studies Foundation",
 	"notes": "Current Events",
 	"author": "'Breagagh' (D. Fargher) & Brian Mac Stoyll (Brian Stowell)",
