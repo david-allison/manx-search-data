@@ -1,0 +1,14 @@
+{
+	"created": "1977-02-19",
+	"ident": "Harry-Kelly-I",
+	"name": "Noon as Noal Marish 'Breagagh': ‘Harry Kelly’ / Padjer ny Ghruaightee ec y Vadran",
+	"englishName": "Harry Kelly / The Druids' Prayer at Dawn",
+	"notes": "Account of M. Braide meeting H. Kelly and learning Mix with him & a druid poem (likely translated by a learner)",
+	"author": "M. Braide, with introduction by 'Breagagh'. Poetry is annonymous.",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 19th February, 1977  "
+}
+
