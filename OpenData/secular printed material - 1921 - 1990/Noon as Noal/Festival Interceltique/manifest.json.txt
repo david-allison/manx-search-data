@@ -1,7 +1,7 @@
 {
 	"created": "1976-09-04",
 	"ident": "Festival-Interceltique",
-	"name": "‘Festival Interceltique Descornemuses’ / ‘Yn Cabbyl Ushtey’ / ‘Teangadóir",
+	"name": "Noon as Noal: ‘Festival Interceltique Descornemuses’ / ‘Yn Cabbyl Ushtey’ / ‘Teangadóir",
 	"englishName": "Interceltic Festival / The Cabbyl-Ushtey / Teangadóir ",
 	"notes": "Current Events",
 	"author": "'Breagagh' (D. Fargher)",
