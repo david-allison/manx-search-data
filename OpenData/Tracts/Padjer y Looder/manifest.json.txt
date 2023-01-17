@@ -1,0 +1,13 @@
+{
+	"created": "1822-01-01",
+	"ident": "Padjer-y-Looder-1822",
+	"name": "Padjer y Looder; ny Baght er ny Choyrt er e Loo",
+	"englishName": "The Swearer’s Prayer; or his Oath Explained",
+	"notes": "I have consulted two editions of the English text. One version has at the end: Sold by Lincoln & Edmands, No. 53 Cornhill. Another is Liverpool Religious Tract Society, No. 70. Apart from the punctuation, the texts are similar, though not identical.  
+I follow the Liverpool edition of Tilling, who also printed some of the Manx tracts. The wording and punctuation of the Manx more closely matches Tilling’s edition.
+",
+	"original": "English",
+	"type": "Tract",
+	"source": "Padjer y Looder; ny Baght er ny Choyrt er e Loo (c. 1822)/Liverpool Religious Tract Society, No. 70.  The Swearer’s Prayer; or his Oath Explained (c. 1820)",
+	"corupusSource": "Padjer y Looder B as G.docx",
+}
