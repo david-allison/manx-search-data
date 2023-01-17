@@ -1,0 +1,14 @@
+{
+	"created": "1977-02-12",
+	"ident": "Marstrander-Kelly",
+	"name": "Noon as Noal Marish 'Breagagh': 'Marstrander as Harry Kelly'",
+	"englishName": "Marstrander and Harry Kelly",
+	"notes": "Biographical piece by M. Braide about meeting Harry Kelly and Carl Marstrander)",
+	"author": "'Introduction by 'Breagagh', 'Harry Kelly' by M. Braide.",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Manx Star, Saturday, 12th February, 1977 "
+}
+
