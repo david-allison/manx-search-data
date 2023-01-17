@@ -1,7 +1,7 @@
 {
 	"created": "1976-08-28",
 	"ident": "Edward-Maddrell-Noon-As-Noal-1976",
-	"name": "Edard Maddrell / Creenaght ny Mraane / Cha Nee Manninagh Uss / Yn Gaaue",
+	"name": "Noon as Noal: Edard Maddrell / Creenaght ny Mraane / Cha Nee Manninagh Uss / Yn Gaaue",
 	"englishName": "Thomaase y Perkin",
 	"notes": "Noon as Noal Column by 'Breagagh' with biographical pieces on Ned Maddrell and J. Kneen",
 	"author": "'Breagagh' (D. Fargher)",

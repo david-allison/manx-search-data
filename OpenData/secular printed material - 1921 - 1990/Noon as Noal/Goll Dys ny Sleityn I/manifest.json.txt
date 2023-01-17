@@ -1,7 +1,7 @@
 {
 	"created": "1976-09-25",
 	"ident": "Noon-as-Noal-Goll-Dys-Ny-Sleityn-I",
-	"name": "'Noon as Noal': Goll dys ny Sleityn I",
+	"name": "Noon as Noal: Goll dys ny Sleityn I",
 	"englishName": "Going to the Mountains",
 	"notes": "Biographical piece by John Comish, edited by either J. Gell or D. Faragher.",
 	"author": "J. Comish, edited by either J. Gell or D. Faragher.",
