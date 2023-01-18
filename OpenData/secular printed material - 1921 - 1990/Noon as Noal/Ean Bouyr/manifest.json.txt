@@ -1,0 +1,14 @@
+{
+	"created": "1977-03-26",
+	"ident": "Ean-Bouyr",
+	"name": "Noon as Noal Marish 'Breagagh': Ean Bouyr / Ny Shenn Vanninee as Chengey ny Mayrey",
+	"englishName": "Deaf John / The Old Manx and the Mother Tongue",
+	"notes": "'Ean Bouyr'; a Scottish Gaelic folk story translated into Manx by 'Breagagh' and 'Ny Shenn Vanninee as Chengey ny Mayrey', a biographical account of learning from native speakers by J. Gell.",
+	"author": "'Breagagh' and J. Gell.",
+	"original": "Manx",
+	"type": "Folk Story / Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 26th March, 1977 "
+}
+
