@@ -2,7 +2,7 @@
 	"created": "1976-04-30",
 	"ident": "Noon-as-Noal-Cooinaghtyn-Yuan-Cooinaghtyn-Cholin",
 	"name": "Noon as Noal: 'Cooinaghtyn Elley Yuan y Gell' / 'Cooinaghtyn Elley My Aegid' — Colin y Jerry",
-	"englishName": "More of Juan Gell's Memories" / 'More Stories of My Youth' — Colin Jerry",
+	"englishName": "'More of Juan Gell's Memories' / 'More Stories of My Youth'— Colin Jerry ",
 	"notes": "Biographical Pieces",
 	"author": "J. Gell & C. Jerry",
 	"original": "Manx",
