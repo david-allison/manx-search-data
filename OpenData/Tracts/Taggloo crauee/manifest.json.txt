@@ -1,7 +1,7 @@
 {
 	"createdCircaStart": "1809-01-01",
 	"createdCircaEnd": "1809-05-01",
-	"ident": "Taggloo-Crauee",
+	"ident": "Taggloo-Crauee-1809",
 	"name": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane",
 	"englishName": "Three Dialogues between a Minister and one of his Parishioners",
 	"notes": "Significant notes. See Original document.",
