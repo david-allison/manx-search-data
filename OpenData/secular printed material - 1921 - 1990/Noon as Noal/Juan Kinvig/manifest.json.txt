@@ -1,7 +1,7 @@
 {
 	"created": "1976-04-16",
 	"ident": "Noon-as-Noal-Juan-Kinvig",
-	"name": "Noon as Noal: Juan Kinvig"
+	"name": "Noon as Noal: Juan Kinvig",
 	"notes": "Biographical Piece by J. Gell.",
 	"author": "J. Gell. Introduction by 'Breagagh' (D. Fargher)",
 	"original": "Manx",
