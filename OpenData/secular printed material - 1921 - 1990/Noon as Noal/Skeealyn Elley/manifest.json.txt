@@ -1,0 +1,13 @@
+{
+	"created": "1977-04-09",
+	"ident": "Noon-as-Noal-Skeealyn-Elley-Yuan-Y-Geill",
+	"name": "Noon as Noal Marish 'Breagagh': ‘Skeealyn Elley Yuan Y Geill’ / 'Benainshter Watterson'.",
+	"englishName": "John Gell's Other Stories' / Mrs Watterson'",
+	"notes": "'A biographical account of learning from native speakers by J. Gell.",
+	"author": "'J. Gell. Ed. 'Breagagh'",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 9th April, 1977  "
+}
