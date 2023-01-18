@@ -1,6 +1,6 @@
 {
 	"created": "1977-04-09",
-	"ident": "Ean-Bouyr",
+	"ident": "Noon-as-Noal-Skeealyn-Elley-Yuan-Y-Geill",
 	"name": "Noon as Noal Marish 'Breagagh': ‘Skeealyn Elley Yuan Y Geill’ / 'Benainshter Watterson'.",
 	"englishName": "John Gell's Other Stories' / Mrs Watterson'",
 	"notes": "'A biographical account of learning from native speakers by J. Gell.",
