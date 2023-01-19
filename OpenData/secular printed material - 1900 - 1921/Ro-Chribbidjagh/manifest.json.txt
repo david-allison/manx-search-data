@@ -1,0 +1,8 @@
+{
+	"created": "1890-05-12",
+	"ident": "Ro-Aashagh",
+	"name": "Ro-Aashagh Ooilley-Cooidjagh",
+	"notes": "a humorous bilingual vignette",
+	"original": "Bilingual",
+	"source": "Isle of Man Examiner, Saturday, May 12, 1900; Page: 3",
+}
