@@ -1,0 +1,13 @@
+{
+	"created": "1900-08-04",
+	"ident": "Yn-Fer-Daaney",
+	"name": "Yn Fer Daaney",
+	"englishName": "The Impudent Fellow",
+	"author": "Anonymous",
+	"original": "Bilingual",
+	"type": "humorous vignette",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  “Ramsey Weekly News, Saturday, August 04, 1900; Page: 7 ",
+}
+
