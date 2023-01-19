@@ -1,0 +1,13 @@
+{
+	"created": "1900-07-07",
+	"ident": "Yn-Chied-Laa",
+	"name": "Yn Chied Laa",
+	"englishName": " The First Day ",
+	"author": "Anonymous",
+	"original": "Manx",
+	"type": "humorous vignette",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Isle of Man Examiner, Saturday, July 07, 1900; Page: 7",
+}
+
