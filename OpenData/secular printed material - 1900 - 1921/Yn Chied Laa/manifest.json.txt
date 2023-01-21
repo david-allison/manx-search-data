@@ -1,6 +1,6 @@
 {
 	"created": "1900-07-07",
-	"ident": "Yn-Chied-Laa",
+	"ident": "Yn-Chied-Laa-1900",
 	"name": "Yn Chied Laa",
 	"englishName": " The First Day ",
 	"author": "Anonymous",
