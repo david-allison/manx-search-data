@@ -4,7 +4,7 @@
 	"name": "Ro-Aashagh Ooilley-Cooidjagh",
 	"englishName": "Altogether Too Easy",
 	"author": "Anonymous",
-	"original": "bilingual",
+	"original": "Bilingual",
 	"type": "humorous vignette",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
