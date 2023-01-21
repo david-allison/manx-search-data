@@ -1,7 +1,7 @@
 {
 	"created": "1938-11-29",
 	"ident": "Saualtagh-Chengey-ny-Mayrey",
-	"name": " Saualtagh Chengey-ny-Mayrey",",
+	"name": " Saualtagh Chengey-ny-Mayrey",
 	"English name": "Saviour of the Mother Tongue",
 	"notes": "A letter from Fred Moore to J. J. Kneen. Introduced thus: “Dear sir,—The passing of Mr J. J. Kneen. M.A., of beloved memory, has recalled to my mind a tribute I sent him at Xmas, 1936, thanking him for his noble endeavours to resuscitate the use of the Manx tongue. He afterwards thanked me for the tribute and told me he thought it so good he intended to preserve it. Enclosed is an appropriate translation.",
 	"original": "Manx",
