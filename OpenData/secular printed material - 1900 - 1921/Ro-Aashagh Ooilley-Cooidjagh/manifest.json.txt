@@ -1,8 +1,13 @@
 {
-	"created": "1890-05-21",
+	"created": "1900-05-12",
 	"ident": "Ro-Aashagh",
 	"name": "Ro-Aashagh Ooilley-Cooidjagh",
-	"notes": "a humorous bilingual vignette",
+	"englishName": "Altogether Too Easy",
+	"author": "Anonymous",
 	"original": "Bilingual",
-	"source": "Isle of Man Examiner, Saturday, May 12, 1900; Page: 3",
+	"type": "humorous vignette",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  " Isle of Man Examiner, Saturday, May 12, 1900; Page: 3",
 }
+
