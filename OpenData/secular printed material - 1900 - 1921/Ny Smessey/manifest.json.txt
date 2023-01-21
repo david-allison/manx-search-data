@@ -1,6 +1,6 @@
 {
 	"created": "1900-05-05",
-	"ident": "Ny-Smessey",
+	"ident": "Ny-Smessey-1900",
 	"name": "Ny-S’messey",
 	"englishName": "Worse",
 	"author": "Anonymous",
@@ -8,5 +8,5 @@
 	"type": "humorous vignette",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
-	"source":  “Isle of Man Examiner, Saturday, May 05, 1900; Page: 2 ",
+	"source":  "Isle of Man Examiner, Saturday, May 05, 1900; Page: 2 ",
 }
