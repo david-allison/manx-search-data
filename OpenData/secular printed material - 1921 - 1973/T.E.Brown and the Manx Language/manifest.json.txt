@@ -1,0 +1,13 @@
+{
+	"created": "1930-09-19",
+	"ident": "T-E-Brown-and-Manx-1930",
+	"name": "T. E. Brown and the Manx Language",
+	"English name": "T. E. Brown and the Manx Language",
+	"notes": "translation in the original is phrase by phrase. The piece is introduced thus: 'At the Manx concert in Ramsey last week, Mr Wm. Radcliffe, of London, the chairman, delivered an interesting address in Manx, accompanied by the English translation. The following is the text:—'",
+	"related": "https://chiollaghbooks.com/manxnotes/MN300.pdf",
+	"original": "Manx",
+	"author": "Wm. Radcliffe",
+	"transcription": "R. Teare",
+	"translation": "Wm. Radcliffe",
+	"source": "Ramsey Courier, Friday, September 19, 1930; Page: 3",
+}
