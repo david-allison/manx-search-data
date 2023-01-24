@@ -1,0 +1,13 @@
+{
+	"created": "1977-05-07",
+	"ident": "Noon-as-Noal-Skeeal-Cholin",
+	"name": "Noon as Noal Marish 'Breagagh': ‘Skeeal Cholin / Screeuyn Veih Leslie Quirk'.",
+	"englishName": "Colin's Story' / A Letter From Leslie Quirk'",
+	"notes": "'A biographical piece from Colin Jerry / A Letter from Leslie Quirk.",
+	"author": "'Introduction by 'Breagagh' Story by C. Jerry, Letter by L. Quirk'",
+	"original": "Manx",
+	"type": "Biographical / Letter",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 7th May, 1977  "
+}
