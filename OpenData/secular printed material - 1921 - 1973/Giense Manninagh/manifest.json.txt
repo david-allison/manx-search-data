@@ -1,6 +1,6 @@
 {
 	"created": "1939-02-17",
-	"ident": "Giense-Manninagh",
+	"ident": "Giense-Manninagh-1939",
 	"name": "Giense Manninagh ec Rhumsaa",
 	"English name": "Manx Giense at Ramsey",
 	"notes": "Report of the Ramsey Manx Class dinner under the title: 'PRIDDHAS an' HERRIN' MENU' — ",
