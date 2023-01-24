@@ -1,0 +1,11 @@
+{
+	"created": "1900-12-29",
+	"ident": "Jeremaid",
+	"name": "A Jeremaid on the Rulers of Mann",
+	"English name": "A Jeremaid on the Rulers of Mann ",
+	"notes": "Published in Manx alone a week before (1900-12-220”
+	"original": "Manx",
+	"Author": "Unkown",
+"transcription": "R. Teare",
+	"source": "Isle of Man Examiner, Saturday December 29, 1900. Bilingual",
+}
