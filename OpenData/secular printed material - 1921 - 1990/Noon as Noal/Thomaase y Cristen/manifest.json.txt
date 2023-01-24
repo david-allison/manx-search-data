@@ -4,7 +4,7 @@
 	"name": "Noon as Noal Marish 'Breagagh': 'Thomaase y Cristen'",
 	"englishName": "Thomas Christian",
 	"notes": "Description of Thomas Christian by J. F. Cowell",
-	"author": "J. F. Cowell,
+	"author": "J. F. Cowell",
 	"original": "Manx",
 	"type": "Biographical",
 	"transcription": "R. Teare",
