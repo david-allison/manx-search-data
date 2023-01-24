@@ -1,0 +1,12 @@
+{
+	"created": "1939-01-24",
+	"ident": "Correspondence-in-Manx",
+	"name": "Correspondence in Manx",
+	"English name": "Correspondence in Manx"",
+	"notes": "Mr John Gell. of Huddersfield- an enthusiastic student of Manx Gaelic, in sending us the following letter, expresses the hope that Manx students and scholars in the Island will correspond in Manx, through the columns of the “Herald” from time to time, with their fellow students on the mainland. Mr Gell writes:'",
+	"original": "Manx",
+	"author": "J. Gell",
+	"transcription": "R. Teare",
+	"translation": "J. Gell,
+	"source": "Mona's Herald, Tuesday, January 24, 1939; Page: 7 ",
+}
