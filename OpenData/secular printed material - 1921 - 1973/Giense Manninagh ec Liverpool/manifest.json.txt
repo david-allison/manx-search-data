@@ -1,6 +1,6 @@
 {
 	"created": "1939-05-30",
-	"ident": "Ginese-Manninagh-ec-Liverpool",
+	"ident": "Ginese-Manninagh-ec-Liverpool-1939",
 	"name": "Giense Manninagh ec Liverpool",
 	"English name": "Manx Giense at Liverpool",
 	"notes": "Report of the Liverpool Manx Society Tea and Concert",
