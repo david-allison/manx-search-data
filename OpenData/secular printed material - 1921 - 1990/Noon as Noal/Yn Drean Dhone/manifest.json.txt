@@ -1,7 +1,7 @@
 {
 	"created": "1976-12-18",
 	"ident": "Yn-Drean-Dhone",
-	"name": "Noon as Noal: Yn Dream Hon",
+	"name": "Noon as Noal: Yn Drean Dhone",
 	"englishName": "The Brown Wren",
 	"notes": "Original is Scottish Gaelic. Translation of a story by 'Ali Doal' ('Ailidh Dall')",
 	"author": "'Breagagh' (D. Fargher) — translated from a story 'Recorded from the late Alasdair Stewart ('Ailidh Dall'), Lairg, by Hamish Henderson for the School of Scottish Studies.",
