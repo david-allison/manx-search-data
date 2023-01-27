@@ -1,5 +1,5 @@
 {
-	"created": "1879-02-19",
+	"created": "1879-02-01",
 	"ident": "Raaghyn-Creeney-Gaelgagh",
 	"name": "Raaghyn Creeney Gaelgagh",
 	"notes": "Raaghyn Creeney Gaelgagh. Manx Proverbs applied to the ‘Port Erin Agitation’ under the headings; advice, situation, Port Erin, equivalents, finance and the minority. Both English and Manx printed in the newspaper",
