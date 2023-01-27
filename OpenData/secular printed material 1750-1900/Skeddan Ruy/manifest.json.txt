@@ -1,8 +1,9 @@
 {
 	"created": "1888-09-19",
-	"ident": "Skeddan-gial-ny-skeddan-ruy",
+	"ident": "Skeddan-gial-ny-skeddan-ruy-1888",
 	"name": "White herring or red herring",
 	"type": "humorous verse",
+	"original": "Manx",
 	"author": "'Manxman'",
 	"notes": "The translation that accompanies this piece is not literal. Newspaper introduces the piece thus:  To the Editor of Mona's Herald. Sir,—I forward the following for insertion in the Mona's Herald. The herring being of great value to the people of the Isle of Man, as upon the fishing industry a large number of its inhabitants depend for a living, I think the following old native rhyme might interest many of your readers.-—Yours, etc., Manxman.",
 	"source":  "Mona's Herald, Wednesday, September 19, 1888; Page: 3"
