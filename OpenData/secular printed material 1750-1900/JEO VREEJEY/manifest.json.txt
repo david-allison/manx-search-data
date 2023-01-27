@@ -1,0 +1,12 @@
+{
+	"created": "1760-12-17",
+	"ident": "Coontey-Ghiare",
+	"name": "Coontey Ghiare Jeh Ellan Vannin Ayns Gailck",
+	"notes": "In Manx Miscellanies I: "The following poetical description of the Isle of Man, by Joseph Bridson, having been in the possession of the Venerable Archdeacon Moore, he has kindly placed it at the disposal of the Society.")",
+	"author" 'Joe Vreejey (Joseph Birdson)
+	"translated": "Rob Teare 2021 (Suggested translation)",
+	"Type: Traditionary Ballad"
+	"source":  "Coontey-Ghiare jeh Ellan Vannin, ayns Gailck; Joe Bridson: 17.12.1760, print edition: Manx Society Vol XX; Manx Miscellanies I. 1871.",
+	"original": "Manx",
+
+}
