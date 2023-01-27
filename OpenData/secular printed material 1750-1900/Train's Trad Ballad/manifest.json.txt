@@ -1,0 +1,12 @@
+{
+	"created": "1845-01-01",
+	"ident": "Mannanan-Beg-Mac-y-Leirr-1845",
+	"name": "Mannanan Beg Mac y Leirr",
+	"englishName": "Mannanan Beg Mac y Leirr",
+	"original": "Manx",
+	"translator": "J. Train",
+	"type": "Traditionary Ballad",
+	"notes": "'The following curious Ballad, which is now for the first time translated into English, was composed in the Manks language. The date of printing has been obliterated from the copy in my possession, which I believe to be extremely scarce; but the writer, as appears from the last three verses, lived during the time of Thomas, second Earl of Derby, whose landing in the Island in 1507, he describes. This earl succeeded his grandfather in A.D. 1504, and died 1522, between which dates the ballad has evidently been written.'",
+	"source": "Mannanan Beg Mac y Leirr, ny Slane Coontey jeh Ellan Vannin, with Literal Translation. J. Train, in History of the Isle of Man. Mary Quiggin, Douglas. 1845.P.39",
+
+}
