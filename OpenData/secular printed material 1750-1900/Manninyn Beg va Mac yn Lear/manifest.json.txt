@@ -2,9 +2,9 @@
 	"created": "1836-07-23",
 	"ident": "Manninyn-Beg-va-Mac-yn-Lear",
 	"name": "Manninyn Beg va Mac yn Lear", 
-	"Author": "unknown"
-	Type" "Traditionary Ballad"
-	"Translator": "R. Teare (suggested translation)" 
+	"author": "unknown",
+	"type" "Traditionary Ballad",
+	"translator": "R. Teare (suggested translation)",
 	"notes": ""Statistics of the Isle of Man (FROM A CORRESPONDENT): Cronk Urleigh, in Kirk Michael, was the ancient hill on which the insular laws were formerly promulgated; and where all the grand courts were held. At one time a serious dispute arose between the inhabitants’ and the Governor, which ended in the Governor being dragged down the hill and much abused by them. The parish church of Kirk Michael was the church of refuge; and any offender fleeing thither, and laying his hand on the altar, was freed from punishment by the laws then existing. Other offenders were punished by being drawn asunder by horses. The Governor, being then King of the Island, was offended by this treatment, and no more laws were promulgated there. From thence he removed his courts to Keeil Amman (St. Albion’s), Baldwin, now rebuilt and named St. Luke’s; and ultimately to Cronk Kemmoyl, now called the Tynwald Hill, where the Governor fixed his residence. The annual chief rent paid him by each subject was a bundle, or rather burthen, of green rushes, which were brought to his residence, or otherwise to the top of Barrool mountain, as appears from the following extract from lines,—the original of which, no doubt, was written many centuries ago :—"
 ",
 	"source":  "Mona's Herald, Saturday, July 23, 1836",
