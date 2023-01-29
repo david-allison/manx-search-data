@@ -4,8 +4,9 @@
 	"name": "Mannanan Beg Mac Y Leirr; ny Slane Coontey jeh Ellan Vannin", 
 	"notes": "1802 printed edition of the Traditionary Ballad.",
 	"source":  "Manx Museum MS: H 140/I/MAN",
+	"iMuseum": "MS: H 140/I/MAN",
 	"original": "Manx",
-	"Transcribed": "R.Teare"
-	"Translated" :"R. Teare"
-	"Author" "unknown"
+	"transcribed": "R. Teare"
+	"translated" : "R. Teare"
+	"author" "unknown"
 }
