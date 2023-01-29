@@ -1,0 +1,12 @@
+{
+	"created": "1869-01-01",
+	"ident": "Pishagyn",
+	"name": "Pishagyn (Charms)",
+	"Author": "W. Harrison"
+	"Transcribed by:" "R. Teare"
+	"English name": "Charms"
+	"notes": "Charms for various conditions",
+	"original": "Manx",
+	"type": "Folklore",
+	"source": "Mona Miscellany; Manx Society Vol. XVI; 1869 Edited by W. Harrison"
+}
