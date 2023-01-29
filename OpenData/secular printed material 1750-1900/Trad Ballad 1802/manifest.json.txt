@@ -6,7 +6,7 @@
 	"source":  "Manx Museum MS: H 140/I/MAN",
 	"iMuseum": "MS: H 140/I/MAN",
 	"original": "Manx",
-	"transcribed": "R. Teare"
-	"translated" : "R. Teare"
+	"transcribed": "R. Teare",
+	"translated" : "R. Teare",
 	"author" "unknown"
 }
