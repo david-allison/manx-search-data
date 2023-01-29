@@ -1,0 +1,15 @@
+{
+	"created": "1874.01.01",
+	"ident": "Lhig-dan-slane-seihll",
+	"name": "Lhig da'n Slane Seihll Cur Clashtyn",
+	"English Name": "Let the Whole World Give a Hearing"
+	"notes": "Appears to be older than the 1870s. Some obscure words. Seems to be a carval. 
+	"author": "Wm. Kinrade.",
+	"Transcription": "R. Teare"
+	"Translation": "R. Teare"
+	"original": "Manx",
+	"type": "Carval",
+	"source":  "Mona's Herald, Wednesday, December 24, 1873; Page: 7 & Mona's Herald, Thursday, January 01, 1874; Page: 15",
+	
+}
+
