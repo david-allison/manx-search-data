@@ -1,13 +1,13 @@
 {
 	"created": "1745-01-01",
 	"notes": "Harrison credits the piece to Cosnahan (died 1749): so date given as circa 1745."
-	"ident": "A-Manx'Carol",
+	"ident": "A-Manx-Carol-1745",
 	"name": "A Manx Carol",
 	"author": "Rev. Vicar General J. Cosnahan (died 1749) Edited by W. Harrison.",
 	"original": "Manx",
 	"type": "Religious Song",
-	"transcribed" [R. Teare]
-	"translator" [R. Teare]
+	"transcribed" "R. Teare",
+	"translator" "R. Teare",
 	"source":  "Mona Miscellany; Edited by W. Harrison: Manx Society Vol. XVI; 1869",
 	
 }
