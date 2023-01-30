@@ -1,0 +1,13 @@
+{
+	"created": "1977-06-18",
+	"ident": "Thobm-Kermode",
+	"name": "Noon as Noal Marish 'Breagagh': Thobm Kermode./ Sheen Dooinney Moal.",
+	"englishName": "Tom Kermode. / A Miserable Old Man'",
+	"notes": "'A biographical piece by Breagagh, and an autobiographical piece by Colin y Jerry (Colin Jerry)",
+	"author": "'Breagagh' (D.Faragher) / Colin y Jerree (Colin Jerry)",
+	"original": "Manx",
+	"type": "Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, Saturday, 18th June, 1977"
+}
