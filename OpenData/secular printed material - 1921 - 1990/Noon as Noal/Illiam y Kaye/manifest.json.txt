@@ -1,6 +1,6 @@
 {
 	"created": "1977-05-14",
-	"ident": "Illiam-y-Kaye",
+	"ident": "Noon-as-Noal-Illiam-y-Kaye",
 	"name": "Noon as Noal Marish 'Breagagh': 'Illiam y Kaye'",
 	"englishName": "Will Wade",
 	"notes": "Description of Illiam y Kaye by Breagagh, list of phrases, political comment.",
