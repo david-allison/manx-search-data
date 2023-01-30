@@ -1,6 +1,6 @@
 {
 	"created": "1977-05-28",
-	"ident": "Will-Wade",
+	"ident": "Noon-as-Noal-Rhodesia",
 	"name": "Noon as Noal Marish 'Breagagh': 'Yn Rhodeish'",
 	"englishName": "Rhodesia",
 	"notes": "Autobiographical account by Breagagh of his time in Africa",
