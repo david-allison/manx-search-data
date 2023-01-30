@@ -1,6 +1,6 @@
 {
 	"created": "1977-06-18",
-	"ident": "Thobm-Kermode",
+	"ident": "Noon-as-Noal-Thobm-Kermode",
 	"name": "Noon as Noal Marish 'Breagagh': Thobm Kermode./ Sheen Dooinney Moal.",
 	"englishName": "Tom Kermode. / A Miserable Old Man'",
 	"notes": "'A biographical piece by Breagagh, and an autobiographical piece by Colin y Jerry (Colin Jerry)",
