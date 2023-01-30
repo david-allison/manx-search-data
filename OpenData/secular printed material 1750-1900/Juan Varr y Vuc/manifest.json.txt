@@ -1,15 +1,13 @@
 {
 	"created": "1899-07-08",
-	"ident": "Juan-Varr-Y-Vuc",
+	"ident": "Juan-Varr-Y-Vuc-1899",
 	"name": "Juan Varr. Y Vuc",
-	"English name": "Juan Who Killed the Pig"
+	"englishName": "Juan Who Killed the Pig",
 	"notes": "Translation of a story in A.W.Moore’s Folklore. Appears in “THE EXAMINER” MANX LANGUAGE COLUMN.[We shall be glad to receive any items of interest from our readers for insertion in this column. Articles or notes forwarded must be brief.]",
 	"author": "A. W. Moore",
 	"original": "English",
-	"Transcribed by": "R. Teare"
-	"translated by": "unknown",
+	"transcription": "R. Teare",
+	"translation" : "unknown",
 	"type": "Folk Story",
-	"source":  " Ramsey Weekly News, Saturday, July 08, 1899; Page: 7",
-
-
+	"source": "Ramsey Weekly News, Saturday, July 08, 1899; Page: 7",
 }
