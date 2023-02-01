@@ -1,0 +1,12 @@
+{
+	"created": "1882-02-01",
+	"ident": "Visit-of-Duke-of-Edinburgh-Monas-Herald",
+	"name": "The Visit of H. R. H. The Duke of Edinburgh to Douglas.",
+	"type": "Current affairs",
+	"original": "Manx",
+	"author": "People of Douglas",
+	"transcription": "R. Teare.",
+	"translation": "R. Teare.",
+	"notes": "Pieces of Manx recorded on signs to greet the Duke of Edinburgh. The Manx is not standard; eg; 'Yn Theay Vannin' for 'Ta Theay Vannin' & 'sosthyns shultayr Prince' for 'Prince-Shiolteyr Hostyn',   ",
+	"source":  "Mona's Herald, Wednesday, February 01, 1882; Page: 4"
+}
