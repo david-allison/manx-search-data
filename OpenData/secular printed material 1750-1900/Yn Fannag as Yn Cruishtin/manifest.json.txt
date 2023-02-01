@@ -1,0 +1,12 @@
+{
+	"created": "1899-06-17",
+	"ident": "yn-fannag-as-yn-cruishtin",
+	"name": "Yn Fannag as Yn Cruishtin",
+"English name": "The Crow and the Pitcher"
+"Original": "English"
+	"notes": "“THE EXAMINER” MANX LANGUAGE COLUMN. [We shall be glad to receive any items of interest from our readers for insertion in this column. Articles or notes forwarded must be brief.]
+A FABLE (FROM ÆSOP) IN MANX. The following fable in Manx appeared in a scarce little book published 1863, entitled “The Manx Fable Book and Keepsake, by W. F. Peacock. Irish and Welsh versions are also given. There is also a Manx translation of Heber’s beautiful hymn “Thou art gone to the grave,” together with some conversational sentences in the same - three languages. The name of the translator is not given, but it was probably Mr J. Ivon Mosley (the compiler of a Manx dictionary), who was a friend of the author of the book. It may interest readers of your Manx Language column.
+Streatham. G. W. WOOD.",
+	"source":  "Isle of Man Examiner, Saturday, June 17, 1899; Page: 3",
+"Transcribed": "R. Teare".
+}
