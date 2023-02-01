@@ -1,5 +1,5 @@
 {
-	"created": "1890-01-13",
+	"created": "1900-01-13",
 	"ident": "Goll-Rish",
 	"name": "Goll-Rish",
 	"notes": "a humorous bilingual vignette",
