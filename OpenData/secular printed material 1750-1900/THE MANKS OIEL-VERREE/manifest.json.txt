@@ -1,0 +1,13 @@
+{
+	"created": "1885-12-23",
+	"ident": "Manks-Oiel-Verree-Monas-Herald",
+	"name": "The Manks Oiel-Verree, or Christmas Eve Customs",
+	"type": "Poem",
+	"original": "English",
+	"translation": "Mr. Robt. E. Christian of Cleveland, Ohio.",
+	"author": "Wm. Kennish (author of original)",
+	"notes": "A translation by Mr Robt. E. Christian of Cleveland, Ohio, of William Kennish's poem 'The Manx Ilvary' (here credited in error to 'Wm. Kerruish, R. N.) which was published in Kennish's collection 'Mona’s Isle, and Other Poems' (London: J. Bradley & Simpkin, Marshall & Co., 1844) xv. See Stephen Miller, Manx Notes 36 (2005) https://chiollaghbooks.com/manxnotes/MN036.pdf. M. Wheeler notes that the spellings are 'interestingly idiosyncratic' and that only obvious typos have been corrected. The numbered notes by M. Wheeler, the notes (a) to (j) from Kennish's original.",
+	"transcription": "M. Wheeler",
+	"source": "Mona's Herald, Wednesday, December 23, 1885; Page: 2",
+	"mnhNewsComponent": ["Ar00209", "Ar00211"]
+}
