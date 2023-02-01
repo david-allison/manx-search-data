@@ -1,0 +1,11 @@
+{
+	"created": "1893-01-31",
+	"ident": "Watterson-Station-Master",
+	"name": "Speech by Watterson; Station-Master",
+	"notes": "Seconding a vote of thanks for T. E. Brown Lecture 'Manx Characters'",
+	"source": "Isle of Man Times, Tuesday, January 31, 1893; Page: 4’",
+	"author": "Watterson; Station-Master.",
+	"transcription": "R. Teare."
+	"original": "Manx",
+	"translation": "IOM Times",
+}
