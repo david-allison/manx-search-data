@@ -1,14 +1,14 @@
 {
 	"created": "1923-09-21",
-	"ident": "The-Archdeacons-Manx-Sermon",
+	"ident": "Isle-Of-Man-Examiner-The-Archdeacons-Manx-Sermon",
 	"name": "The Archdeacon's Manx Sermon",
 	"type": "Sermon",
-	"English name": "The Archdeacon's Manx Sermon",
+	"englishName": "The Archdeacon's Manx Sermon",
 	"notes": "The following is the text, accompanied by a translation of the sermon in Manx preached by the Archdeacon of Mann (the Ven. John Kewley M.A.), in St. Matthew’s Church, Douglas, in the afternoon of Sunday, July 8th, at the national service organised by The Manx Society: —
 ",
 	"original": "Manx",
-	"Author": "J.Kewley",
+	"author": "J.Kewley",
 	"transcription": "R. Teare",
-	"Tranlator": "unknown — likely J. Kewley"
+	"translator": "unknown — likely J. Kewley"
 	"source": "Isle of Man Examiner, Friday, September 21, 1923; Page: 7",
 }
