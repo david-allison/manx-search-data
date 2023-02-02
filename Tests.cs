@@ -2,9 +2,7 @@ using Manx_Search_Data.TestData;
 using Manx_Search_Data.TestUtil;
 using NUnit.Framework;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data
 {
@@ -14,13 +12,13 @@ namespace Manx_Search_Data
     [TestFixture]
     public class Tests
     {
-        Document[] documents = Documents.AllDocuments.ToArray();
+        readonly Document[] documents = Documents.AllDocuments.ToArray();
 
         [Test]
         public void AllCsvFilesAreUsed()
         {
             List<string> paths = FileListing.GetCsvPaths();
-            List<string> openSourcePaths = documents.Where(x => x is OpenSourceDocument).Select(x => x as OpenSourceDocument).Select(x => x.FullCsvPath).ToList();
+            List<string> openSourcePaths = documents.OfType<OpenSourceDocument>().Select(x => x.FullCsvPath).ToList();
             var unusedPaths = paths.Except(openSourcePaths);
             Assert.That(unusedPaths, Is.Empty, "Some files were unused");
         }
@@ -69,10 +67,10 @@ namespace Manx_Search_Data
         public void InvalidPathsAreCaught()
         {
             // #609
-            AssertInvalid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam. /document.csv");
-            AssertValid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hood’s ta shin geam/document.csv");
-            AssertInvalid("OpenData/secular printed material 1750-1900/The Exiles of Mona; ‘Dy Darragh yn Laa’ /document.csv");
-            AssertValid("OpenData/secular printed material 1750-1900/The Exiles of Mona ‘Dy Darragh yn Laa’/document.csv");
+            AssertInvalid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hoodï¿½s ta shin geam. /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/O Yee gloyroil, Hoodï¿½s ta shin geam/document.csv");
+            AssertInvalid("OpenData/secular printed material 1750-1900/The Exiles of Mona; ï¿½Dy Darragh yn Laaï¿½ /document.csv");
+            AssertValid("OpenData/secular printed material 1750-1900/The Exiles of Mona ï¿½Dy Darragh yn Laaï¿½/document.csv");
             AssertInvalid("OpenData/secular printed material 1750-1900/Yn Arrane-Caggee-Anmormonagh /document.csv");
             AssertValid("OpenData/secular printed material 1750-1900/Yn Arrane-Caggee-Anmormonagh/document.csv");
             AssertInvalid("OpenData/secular printed material 1750-1900/Closing address to the Manx Readings and Concert./document.csv");
