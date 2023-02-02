@@ -9,6 +9,6 @@
 	"original": "Manx",
 	"author": "J.Kewley",
 	"transcription": "R. Teare",
-	"translator": "unknown — likely J. Kewley"
+	"translator": "unknown — likely J. Kewley",
 	"source": "Isle of Man Examiner, Friday, September 21, 1923; Page: 7",
 }
