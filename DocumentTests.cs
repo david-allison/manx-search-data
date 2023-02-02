@@ -147,6 +147,23 @@ namespace Manx_Search_Data
                 Assert.That(headers, Does.Not.Contain(header));
             }
         }
+        
+        [Theory]
+        public void ColumnsWithDataMustHaveATitle(Document document)
+        {
+            // we have a number of documents where the 'Notes' header was not provided
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+
+            var headers = openSourceDocument.LoadHeaders();
+            
+            foreach (var i in headers.Select((h,i) => (header: h,index: i)).Where(x => x.header == string.Empty).Select(x => x.index))
+            {
+                // assert all cells are empty
+                // no need to give the index of either - we know the file and it's obvious
+                var invalidCells = openSourceDocument.LoadColumn(i).Select(x => x).Where(x => x != "");
+                Assert.That(invalidCells, Is.Empty);
+            }
+        }
 
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
         private static OpenSourceDocument AssumeOpenSource(Document definition, string reasonAsClosedSource)

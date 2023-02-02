@@ -63,5 +63,15 @@ namespace Manx_Search_Data.TestUtil
             }
             return LocationOnDisk + "\\manifest.json";
         }
+
+        public IEnumerable<string> LoadColumn(int i)
+        {
+            using var reader = new StreamReader(FullCsvPath);
+            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
+            while (csv.Read())
+            {
+                yield return csv.GetField<string>(i);
+            }
+        }
     }
 }
