@@ -1,0 +1,15 @@
+{
+	"createdCircaStart": "1832-01-01",
+	"createdCircaEnd": "1832-12-31",
+	"ident": "Sheshaght-ayns-Lunnin-son-coyrt-y-credjue-Creestee",
+	"name": "Sheshaght ayns Lunnin, son coyrt y credjue Creestee er y hoshiaght mastey ny Hewnyn",
+	"original": "English",
+	"author": "Unknown",
+	"transcription": "Christopher Lewin",
+	"notes": "Transcribed by Christopher Lewin. Edited by Max Wheeler. February 2023", 
+	"placeOfPublication": "Douglas",
+	"publisher": "G. Jefferson",
+	"editing": "Max W. Wheeler",
+	"type": "Tract",
+	"source": "Photographs of a scrapbook of Manx tracts formerly(?) in Douglas Borough Library.",
+}
