@@ -1,9 +1,9 @@
 {
 	"created": "1786-01-01",
-	"ident": "Ancient-Chronicle-of-Man",
+	"ident": "Ancient-Chronicle-of-Man-Vallency",
 	"name": "Mananan: An ancient Chronicle of Man, printed in the Manx, 1778.", 
 	"original": "Manx",
-	"notes": "Vallencey: "     This is one example of the Manks being perfect Irish; it is written as pronounced, and every Irishman can understand it. The orthography is lost.—See two line in the proper Irish; the sound and the grammar are alike in both:
+	"notes": "Vallencey: \"     This is one example of the Manks being perfect Irish; it is written as pronounced, and every Irishman can understand it. The orthography is lost.—See two line in the proper Irish; the sound and the grammar are alike in both:
 
 Mananan beg bha Mac a Leirr,
 ’Sfhein an chead ar ag robh riogh è
