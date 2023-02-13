@@ -1,0 +1,10 @@
+{
+	"created": "1770-01-01",
+	"ident": "Coontey-jeh-Ellan-Vannin",
+	"name": "Coontey jeh Ellan Vannin ayns Arrane.", 
+	"notes": "This is a version of the traditionary ballad, with additional lines to the the Kelly transcript to included subsequent events, up to and including 'revestment' in May 1765. The earliest date possible is May 1765, but 1770.01.01 has been chosen as the date of creation to allow adequate time for the effects of the Act of Revestment to be observed and the lines to be composed. A translation is not yet offered for this piece.",
+	"original": "Manx",
+	"author": "J. Kewley",
+	"transcription": "R. Teare, proofread by M. Wheeler",
+	"source": "Kewley MS 00519A c. 1770",
+}
