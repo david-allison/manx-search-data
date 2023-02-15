@@ -11,5 +11,6 @@
 	"publisher": "G. Jefferson",
 	"editing": "Max W. Wheeler",
 	"type": "Tract",
-	"source": "Photographs of a scrapbook of Manx tracts formerly(?) in Douglas Borough Library.",
+	"iMuseum": "M 45701/6",
+	"source": "Douglas Public Library Religious Tracts in the Manks Language (M 45701/6)",
 }
