@@ -1,6 +1,6 @@
 {
 	"created": "1974-06-03",
-	"ident": "Kuse-dy-Varranyn",
+	"ident": "Fockle-Ayns-Dty-Cleash-Kuse-dy-Varranyn",
 	"name": "Fockle Ayns Dty Cleash: 'Kuse dy Varranyn'",
 	"englishName": "A few Errors",
 	"author": "Branlaadagh",
