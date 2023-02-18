@@ -1,6 +1,6 @@
 {
 	"created": "1977-07-30",
-	"ident": "Noon-as-Noal-Pooar-Veih-Chesh-Vean-y-Vreneen:-Cre-Cho-Gaueagh?-II",
+	"ident": "Noon-as-Noal-Pooar-Veih-Chesh-Vean-y-Vreneen-Cre-Cho-Gaueagh-II",
 	"name": "Noon as Noal:  Lhaih mee ‘The Languages of the British Isles Past and Present’ / 'Pooar Veih Chesh-Vean y Vreneen: Cre Cho Gaueagh? II'",
 	"englishName": "InterCeltic Exchange Committee / The Three Little Pigs",
 	"notes": "Opinion column by Breagagh, and part two of Brian Stowell's essay on nuclear physics.",
