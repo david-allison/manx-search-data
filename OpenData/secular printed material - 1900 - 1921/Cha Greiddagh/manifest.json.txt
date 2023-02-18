@@ -1,6 +1,6 @@
 {
 	"created": "1890-04-14",
-	"ident": "Cha-Greiddagh",
+	"ident": "Examiner-Cha-Greiddagh",
 	"name": "Cha Greiddagh Eh Eh",
 	"notes": "a humorous bilingual vignette",
 	"author": "unknown",
