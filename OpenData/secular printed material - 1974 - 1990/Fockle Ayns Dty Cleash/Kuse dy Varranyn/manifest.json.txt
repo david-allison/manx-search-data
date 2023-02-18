@@ -1,12 +1,11 @@
 {
 	"created": "1974-06-03",
-	"ident": "Kuse-dy-Varranyn",
-	"name": "Fockle Ayns Ety Cleash: 'Kuse dy Varranyn'",
-	"English name": "A few Errors",
-	"Author": "Branlaadagh",
+	"ident": "Fockle-Ayns-Dty-Cleash-Kuse-dy-Varranyn",
+	"name": "Fockle Ayns Dty Cleash: 'Kuse dy Varranyn'",
+	"englishName": "A few Errors",
+	"author": "Branlaadagh",
 	"original": "Manx",
-	"Notes": "Transcription & Translation: RT",
+	"notes": "Transcription & Translation: RT",
 	"source":  "Manx Star, 3rd June, 1974. Page 6. Fockle Ayns Dty Cleash.",
-	
 }
 
