@@ -1,0 +1,14 @@
+
+{
+	"created": "1977-08-06",
+	"ident": "Pooar-Veih-Chesh-Vean-Y-Vreneen-III",
+	"name": "Noon as Noal: 'Hooar mee screeuyn' / 'Pooar Veih Chesh-Vean Vreneen: Cre cho Gaueagh III' / 'Fockleyreen' / 'Skeealyn Robard'",
+	"englishName": "'I received a letter' / 'Power From the Nucleus of the Atom: How Dangerous? III' / 'A Little Dictionary' / 'Robert's Stories'",
+	"notes": "Newspaper Opinion Column, part three of B. Stowell's article on nuclear physics, a glossary, and biographical story by R. Carswell'.",
+	"author": "B. Stowell, with introduction by D. Fargher, plus short story by R. Carswell.",
+	"original": "Manx",
+	"type": "Scientific / Biographical",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, 6th August 1977 ",
+}
