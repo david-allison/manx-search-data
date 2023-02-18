@@ -1,0 +1,14 @@
+{
+	"created": "1977-07-30",
+	"ident": "Noon-as-Noal-Pooar-Veih-Chesh-Vean-y-Vreneen:-Cre-Cho-Gaueagh?-II",
+	"name": "Noon as Noal:  Lhaih mee ‘The Languages of the British Isles Past and Present’ / 'Pooar Veih Chesh-Vean y Vreneen: Cre Cho Gaueagh? II'",
+	"englishName": "InterCeltic Exchange Committee / The Three Little Pigs",
+	"notes": "Opinion column by Breagagh, and part two of Brian Stowell's essay on nuclear physics.",
+	"author": "'Breagagh' (D. Fargher) & B. Stowell",
+	"original": "Manx",
+	"type": "Manx Langauge Column / Scientific",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Noon as Noal, Manx Star, 30th July 1977",
+}
+
