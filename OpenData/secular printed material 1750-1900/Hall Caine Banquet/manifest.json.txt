@@ -1,6 +1,6 @@
 {
 	"created": "1899-02-04",
-	"ident": "Hall-Caine-Banquet",
+	"ident": "Manxman-Hall-Caine-Banquet",
 	"name": "Hall Caine Banquet",
 	"notes": "A Menu for a banquet",
 	"translated": "English and Manx both published in Manxman 04FEB1899",
