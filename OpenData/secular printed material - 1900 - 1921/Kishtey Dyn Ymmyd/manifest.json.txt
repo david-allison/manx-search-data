@@ -9,6 +9,7 @@
 	"type": "humorous vignette",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
-	"source":  "Isle of Man Examiner, Saturday, January 27, 1900; Page: ?",
+	"mnhNewsComponent": "Ar00340",
+	"source":  "Isle of Man Examiner, Saturday, January 27, 1900; Page: 3",
 }
 
