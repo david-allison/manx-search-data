@@ -1,6 +1,6 @@
 {
 	"created": "1900-04-07",
-	"ident": "Ro-Aashagh-Ooilley-Cooidjagh",
+	"ident": "Examiner-1900-Ro-Aashagh-Ooilley-Cooidjagh",
 	"name": "Ro-Aashagh Ooilley-Cooidjagh",
 	"notes": "a humorous bilingual vignette",
 	"original": "Bilingual",
