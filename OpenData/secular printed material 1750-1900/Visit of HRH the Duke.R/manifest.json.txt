@@ -1,8 +1,9 @@
 {
 	"created": "1882-02-01",
-	"ident": "Visit-of-HRH",
+	"ident": "IoM-Times-Visit-of-HRH",
 	"name": "Visit of HRH the Duke",
 	"notes": "'Mottoes' on banners put up to welcome the Duke of Edinburgh",
+	"original": "Manx",
 	"source": "Mona's Herald, Wednesday, February 01, 1882; Page: 4",
 	"translation": "RT"
 }
