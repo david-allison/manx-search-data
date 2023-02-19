@@ -1,6 +1,6 @@
 {
 	"created": "1900-01-27",
-	"ident": "Kishtey-Dyn-Ymmyd",
+	"ident": "Examiner-Kishtey-Dyn-Ymmyd",
 	"name": "Kishtey Dyn Ymmyd",
 	"englishName": "A Useless Box",
 	"notes": "A poem Printed in the Isle of Man Examiner.",
@@ -9,6 +9,6 @@
 	"type": "humorous vignette",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
-	"source":  "Isle of Man Examiner, Saturday, January 27, 1900; Page: ",
+	"source":  "Isle of Man Examiner, Saturday, January 27, 1900; Page: ?",
 }
 
