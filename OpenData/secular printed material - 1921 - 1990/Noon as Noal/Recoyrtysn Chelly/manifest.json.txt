@@ -1,6 +1,6 @@
 {
 	"created": "1977-02-26",
-	"ident": "Recortysyn-Chelly",
+	"ident": "Noon-As-Noal-Recortysyn-Chelly",
 	"name": "Noon as Noal Marish 'Breagagh': 'Recortysyn Harry Kelly / Illiam y Radlagh / Fow Turneyr! / ‘Dobberab Ny Bentreoghe Aeg’ / ‘Puzzle in Manx’",
 	"englishName": "The Harry Kelly Recordings / Bill Radcliffe / Get a Lawyer! / ‘The Lament of the Young Widow’ / ‘A Puzzle in Manx’",
 	"notes": "Biographical piece by M. Braide about meeting Harry Kelly and Carl Marstrander)",
