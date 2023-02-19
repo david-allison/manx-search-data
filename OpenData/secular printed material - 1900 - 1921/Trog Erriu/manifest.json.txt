@@ -1,6 +1,6 @@
 {
 	"created": "1900-10-06",
-	"ident": "Trog-Erriu",
+	"ident": "Examiner-Trog-Erriu",
 	"name": "Trog Erriu",
 	"notes": "Patriotic Verse",
 	"author": "'Manning Dooie Ynsedagh (True Manxman; Student",
