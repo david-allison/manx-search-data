@@ -7,6 +7,6 @@
 	"original": "Manx",
 	"author": "J. Gell",
 	"transcription": "R. Teare",
-	"translation": "J. Gell,
+	"translation": "J. Gell",
 	"source": "Mona's Herald, Tuesday, January 24, 1939; Page: 7 ",
 }
