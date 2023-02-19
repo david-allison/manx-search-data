@@ -4,5 +4,6 @@
 	"name": "Hall Caine Banquet",
 	"notes": "A Menu for a banquet",
 	"translated": "English and Manx both published in Manxman 04FEB1899",
+	"original": "Bilingual",
 	"source":  "Manxman, Saturday, February 04, 1899; Page: 7"
 }
