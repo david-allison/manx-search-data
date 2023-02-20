@@ -1,5 +1,5 @@
 {
-	"created": "1870-01-01", 
+	"created": "1770-01-01", 
 	"ident": "Sing-Mannanan-beg-Mac-Leirr",
 	"name": "Sing Mannanan beg Mac Leirr.",
 	"author": "Traditional, transcribed by J. Kelly",
