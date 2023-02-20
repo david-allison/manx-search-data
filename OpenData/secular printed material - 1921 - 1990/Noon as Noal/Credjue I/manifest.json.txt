@@ -8,6 +8,7 @@
 	"original": "Manx",
 	"type": "News about Manx, as well as the other Celtic Languages",
 	"transcription": "R. Teare",
-	"translation": "Not Done",
+	"translation": "N/A",
+	"iMuseum": "MS H140/L/STOF",
 	"source":  "MS H140/L/STOF Credjue Earoo Nane",
 }
