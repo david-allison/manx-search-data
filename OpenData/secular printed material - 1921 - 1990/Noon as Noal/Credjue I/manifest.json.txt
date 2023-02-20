@@ -1,0 +1,13 @@
+{
+	"created": "1965-06-01",
+	"ident": "Credjue-Earroo-Nane",
+	"name": "Credjue-Earroo-Nane",
+	"englishName": "Credjue (Belief) Number One",
+	"notes": "A Newsheet put out by Brian Stowell.",
+	"author": "B. Stowell",
+	"original": "Manx",
+	"type": "News about Manx, as well as the other Celtic Languages",
+	"transcription": "R. Teare",
+	"translation": "Not Done",
+	"source":  "MS H140/L/STOF Credjue Earoo Nane",
+}
