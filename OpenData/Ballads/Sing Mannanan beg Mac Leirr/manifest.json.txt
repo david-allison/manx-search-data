@@ -2,7 +2,7 @@
 	"created": "1870-01-01", 
 	"ident": "Sing-Mannanan-beg-Mac-Leirr",
 	"name": "Sing Mannanan beg Mac Leirr.",
-	"author": "Traditional, transcribed by J. Kelly"
+	"author": "Traditional, transcribed by J. Kelly",
 	"englishName": "The Traditionary Ballad — Kelly Version",
 	"notes": "Historical Notes (R. Teare): 
 The ballad begins with an account of pre-Christian times and the rule of the magical Mannanan Beg Mac y Leir, aka; the Irish Sea God Manannán mac Lir. 
