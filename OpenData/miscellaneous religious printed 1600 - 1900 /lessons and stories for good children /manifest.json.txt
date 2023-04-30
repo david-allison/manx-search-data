@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1808-01-01",
+	"ident": "lessons-and-stories-for-good-children",
+	"name": "Lessons and Stories for Good Children",
+	"notes": "Bilingual extracts from a short book of religious instruction for children from 1808, by Rev. Hugh Stowell,Rector of Ballaugh. Printed by G. Jefferson, Douglas.",
+	"translated": "H. Stowell",
+	"transcribed": "R. Teare",
+	"author": "H. Stowell",
+	"original": "English",
+	"source":  "Manx Museum H.140/H/STO"
+}
