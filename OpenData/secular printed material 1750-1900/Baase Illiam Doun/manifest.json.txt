@@ -5,8 +5,8 @@
 	"type': "Political Broadside" 
 	"transcribed": "R. Teare", 
 	"original": "Manx",
-	"author": "Unknown"
-	"source": "MS06758"
+	"author": "Unknown",
+	"source": "MS06758",
 	"notes": A single page printed broadside. An elegy for William Christian (Illiam Dhone), executed on Jan 2nd 1663. Republished as a political piece in 1781, the date of first production must have been sometime before 1781, but after 1736 (when the first Atholl Lord of Mann was invested. The title and introduction preceding the main text as follows:
 A
 MANKS [image—Three Legs Emblem with QUOCUNQUE JECARIS STABIT beneath] ELEGY
@@ -15,5 +15,5 @@ MUCH LAMENTED
 DEATH OF 
 RECEIVER-GENERAL CHRISTIAN
 OF RANALDSWAY
-Who (for giving up the ISLE to the Usurper CROMWELL, then Master of the Three Kingdoms, and irresisitble) was cruelly and unjustly put to Death, (January, 1662) by a Tyrannical and wicked Faction in the ISLE;— Some of whose Descendants, are at this Time, endeavouring to destroy the Constitution of the Country, and introduce Vassalage and Slavery. — It is therefore thought expedient to republish this ingenious Performance — to open the Eyes of a deluded People.
+Who (for giving up the ISLE to the Usurper CROMWELL, then Master of the Three Kingdoms, and irresisitble) was cruelly and unjustly put to Death, (January, 1662) by a Tyrannical and wicked Faction in the ISLE;— Some of whose Descendants, are at this Time, endeavouring to destroy the Constitution of the Country, and introduce Vassalage and Slavery. — It is therefore thought expedient to republish this ingenious Performance — to open the Eyes of a deluded People."
 }
