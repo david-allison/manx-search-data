@@ -2,7 +2,7 @@
 	"created": "1781-01-01",
 	"ident": "Baase-Illiam-Doun",
 	"name": "Baase Illiam Doun",
-	"type': "Political Broadside" 
+	"type': "Political Broadside",
 	"transcribed": "R. Teare", 
 	"original": "Manx",
 	"author": "Unknown",
