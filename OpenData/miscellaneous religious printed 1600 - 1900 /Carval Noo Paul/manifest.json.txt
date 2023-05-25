@@ -1,0 +1,14 @@
+{
+	"createdCircaStart": "1793-01-01",
+	"createdCircaEnd": "1793-12-31",
+	"ident": "Carval-Noo-Paul",
+	"name": "Carval Not Paul",
+	"type": "Printed Carval" 
+	"notes": "A carval published in printed form in 1793.  Spelling as in original document. Also known as 'My vraar deyr graihagh tar ayns shee.' Shares some verses with ",
+	"translated": "R.Teare",
+	"transcribed": "R. Teare",
+	"author": "John Moore (aka John yn Tiger), Ballacamaish, Andreas",
+	"original": "Manx",
+	"source":  "Manx Museum MS154A"
+	"Proofread": "Not yet"
+}
