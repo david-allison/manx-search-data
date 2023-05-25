@@ -3,7 +3,7 @@
 	"createdCircaEnd": "1793-12-31",
 	"ident": "Carval-Noo-Paul",
 	"name": "Carval Noo Paul",
-	"type": "Printed Carval" 
+	"type": "Printed Carval",
 	"notes": "A carval published in printed form in 1793.  Spelling as in original document. Also known as 'My vraar deyr graihagh tar ayns shee.' Shares some verses with ",
 	"translated": "R.Teare",
 	"transcribed": "R. Teare",
