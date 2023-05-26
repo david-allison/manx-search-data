@@ -1,0 +1,13 @@
+{
+	"created": "1779-07-26",
+	"ident": "Distressed-American-Clergy",
+	"name": "Distressed American Clergy",
+	"type": "Printed Pamphlet / Official Letter / Translation." 
+	"notes": "Following notes from <manxnotebook> ‘1779 - Letter from Archbishop of York to the Lord Bishop of SODOR and MAN.’ [© F.Coakley]: ‘A printed pamphlet is found bound into Lib Scacc [the exchequer books, held in the Manx Museum Library], it is not obvious why it should be filed here, possible Lt Governor Dawson was unsure what to do with it. However such a door-to-door collection did take place - there is a note of it in the Parish Register of Jurby. The Manx Museum also hold a manuscript — MS 224a, a contemporary translation into Manx by William Clucas, vicar of Malew.’ The Manx manuscript is a close translation of the English with numerous corrections in the hand of the writer. It contains one extra letter, presumably also a translation, from Lieutenant Governor Dawson to the Clergy. Although it is clear that Clucas brought the letters to the attention of Lieutenant Governor Dawson, it is not certain that the translations are also his work, but on the balance of probablities are credited here as so. The final letter (from Richard Dawson) is not included with the printed pamphlet, the translation for that letter was done in 2023",
+	"translated": "English to Manx: W. Clucas (likely) Manx to English: R.Teare",
+	"transcribed": "English: © F.Coakley. Manx: R. Teare"
+	"author": "William Markham, Archbishop of York / George III of England / Richard Dawson",
+	"original": "English and Manx",
+	"source":  "Manx Museum MS 224A / Lib Scacc"
+	"Proofread": "English; RT. Manx; Not yet"
+}
