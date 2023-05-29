@@ -1,0 +1,15 @@
+{
+	"created": "1783-01-01",
+	"ident": "yn-carval-noa-er-staid-niauhickyr-yn-peccagh",
+	"name": "YN CARVAL NOA ER STAID Niauhickyr yn Peccagh as MYR GEDDYN GERJAGH DA’N PECCAGH ARRYSAGH",
+	"type": "Printed Carval." 
+	"notes": "A printed carval from 1783 found in A. W. Moore’s scrapbook MS154A. A version of the same carval, with some minor differences, chiefly in the orthography, entitled [MYR VA MEE SMOOINAGHTYN DY DOWIN ER JEE] is found in Mona’s Herald 2nd of October 1889, and this version, with accompanying metred translation is also in Carvalyn Ghailckagh (Manx Carvals) ed. A. W. Moore, 1891, entitled ‘MYR VA MEE SMOOINAGHTYN DY DOWIN ER JEE, or AS I WAS THINKING ON THE LORD.’ C. Paton in Proceedings of the Isle of Man Historical and Antiquarian Society vol 2 iv 1926 mentions that a version is also to be found in Peter Moore’s Carval Book, 1833. Paton comments; ‘Myr va mee smooinaghtyn dy dowin er Jee (As I was meditating deeply upon God)’, is one of those horrible rhymes which, like the Welsh ‘ Sleeping Bard,’ translated by George Borrow, seek to terrify the sinner from his evil ways.’"
+	"translated": "R.Teare",
+	"transcribed": "R. Teare"
+	"author": "D. Kelly",
+	"type": "printed carval",
+	"original": "Manx",
+"Proofread": "Not yet"
+	"source":  "Manx Museum MS 154A"	
+}
+
