@@ -1,5 +1,6 @@
 {
-	"created": "1786-01-01",
+	"created": "1778-01-01",
+
 	"ident": "Ancient-Chronicle-of-Man-Vallency",
 	"name": "Mananan: An ancient Chronicle of Man, printed in the Manx, 1778.", 
 	"original": "Manx",
