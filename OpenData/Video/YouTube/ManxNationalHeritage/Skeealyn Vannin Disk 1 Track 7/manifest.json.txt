@@ -1,0 +1,15 @@
+{
+	"createdCircaStart": "1948-01-01",
+	"createdCircaEnd": "1948-12-31",
+	"ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-7",
+	"name": "🎥 Skeealyn Vannin, Disk 1 Track 7",
+	"notes": "Conversation in Manx Gaelic between native speaker Annie Kneale and interviewers Bill Radcliffe and Mark Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
+	"author": "Annie Kneale, Ballagarrett, Bride, J.W. (Bill) Radcliffe, Mark Braide",
+	"translated": "Fiona McArdle, Kirk Michael",
+	"transcribed": "Fiona McArdle, Kirk Michael",
+	"original": "Manx",
+	"source":  "https://www.youtube.com/watch?v=v5EeVZKqrTw",
+	"iMuseum": "https://imuseum.im/search/archive_record/view/40?id=mnh-museum-675919",
+	"duration": "4:23",
+	"MNH ID": "SA 0579/1/7"
+}
