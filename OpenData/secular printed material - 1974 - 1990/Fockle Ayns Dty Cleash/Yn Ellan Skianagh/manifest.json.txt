@@ -2,7 +2,7 @@
 	"created": "1974-08-26",
 	"ident": "Yn-Ellan-Skianagh",
 	"name": "Yn Ellan Skianagh",
-	"englishName": "Yn Ellen Skianagh (The Isle of Skye)",
+	"englishName": "The Isle of Skye",
 	"author": "Branlaadagh",
 	"original": "Manx",
 	"type": "Opinion column 'Fockle Ayns Dy Cleash'",
