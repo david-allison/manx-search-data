@@ -1,0 +1,11 @@
+{
+	"created": "1974-06-24",
+	"ident": "Fockle-Ayns-Dty-Cleash-Cant",
+	"name": "Fockle Ayns Dty Cleash: 'Cant'",
+	"englishName": "An Auction",
+	"author": "Branlaadagh",
+	"original": "Manx",
+	"notes": "Transcription & Translation: RT",
+	"source":  "Manx Star, 24th June, 1974. Page 6. Fockle Ayns Dty Cleash.",
+}
+
