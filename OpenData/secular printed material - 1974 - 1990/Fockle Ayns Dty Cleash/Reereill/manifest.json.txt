@@ -1,7 +1,7 @@
 {
 	"created": "1974-07-08",
-	"ident": "Fockle-Ayns-Dy-Cleash-'Reereill",
-	"name": "Fockle Ayns Dty Cleash: 'Reereill",
+	"ident": "Fockle-Ayns-Dy-Cleash-Reereill",
+	"name": "Fockle Ayns Dty Cleash: 'Reereill'",
 	"englishName": "Monarchy",
 	"author": "Branlaadagh",
 	"original": "Manx",
