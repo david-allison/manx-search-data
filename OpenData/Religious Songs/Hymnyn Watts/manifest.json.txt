@@ -1,0 +1,36 @@
+{
+	"created": "1826-31-12",
+	"ident": "Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn",
+	"name": "Hymnyn ny arraneyn Moyllee son Paitchyn.",
+	"original": "English",
+	"Divine Songs attempted in easy language for the use of Children."
+	"notes": "The 1826 edition has two versions with different engravings. One has an open Bible on the front and a cow-house on the back. The other has a couple near a church on the front, and a couple with a dog, outside a house, on the back.
+In Harrison’s Bibliotheca Monenesis, 2nd ed. 1876, and subsequent refs, the translation is attributed to George Killey, clerk of Onchan, who also contributed translations to the 1799 Lioar dy Hymnyn. Harrison gives the date 1826, and the Place of Publication as Douglas. [Google Books gives the publication date as 1829.] George Killey (1763-1842) was parish clerk and schoolmaster of Onchan. A. W. Moore adds (Manx Worthies, pp. 116-7) ‘He is said to have been very ready at impromptu rhymes, and the following story is quoted to show it:
+An old man called Hugh, who could neither read nor write, asked Killey to write something in his new Bible, so he promptly sat down and wrote in Manx and English:
+Lesh Hugh yn Lioar shoh, sleih my chree,
+As shen-y-fa nagh geid shiu ee;
+Son ga nagh vod eh scrieu ny lhaih,
+Ta’n Lioar eunys echey ny-yei.
+
+This Book, good friends, belongs to Hugh,
+Steal it not then whate’er you do;
+For tho’ he cannot read or write,
+To have this Book is his delight.
+
+George Borrow, who visited Killey’s daughter when he was in the Isle of Man, remarked that the Hymn Book had been translated by him in a manner which showed that he “possessed powers of versification of the very highest order.” George Killey was a Wesleyan Methodist.’
+
+On the inside of the cover of the 1893 edition we read:
+This Collection of Hymns was compiled for use among children and young people in connection with the Wesleyan Methodist Societies in the Isle of Man, and was used in the Wesleyan Sunday Schools when they were first instituted.
+The 1893 edition was issued by W. K. Palmer, Printer, Michael Street, Peel.
+
+Divine Songs Attempted in Easy Language for the Use of Children (also known as Divine and Moral Songs for Children and other similar titles) is a collection of didactic, moral poetry for children by Isaac Watts, first published in 1715. Though Watts's hymns are now better known than these poems, Divine Songs was a ubiquitous children's book for nearly two hundred years, serving as a standard textbook in schools. By the mid-19th century there were more than one thousand editions. 
+	Three of the best-known poems in the collection are “Praise for Creation and Providence” (II), “Against Idleness and Mischief” (XX), and “The Sluggard”.  “Praise for Creation and Providence” (better known as “I sing the mighty power of God”) is now a hymn sung by all ages. “Against Idleness and Mischief” and “The Sluggard” (better known as “How doth the little busy bee” and “'Tis the voice of the sluggard”) were both meant to teach children the importance of hard work, and were extremely well known in the nineteenth century. Walter de la Mare wrote that “a childhood without the busy bee and the sluggard would resemble a hymnal without ‘O God, our help in ages past’.” Charles Dickens's novels occasionally quote “Against Idleness and Mischief”; for instance, in his 1850 novel David Copperfield, the school master Dr. Strong quotes lines 11-12: “Satan finds some mischief still, for idle hands to do.” In his 1865 fantasy Alice in Wonderland, Lewis Carroll parodies both “Against Idleness and Mischief” as “How Doth the Little Crocodile” and “The Sluggard” as “'Tis the voice of the Lobster”. [Wikipedia]
+
+Alongside the Manx I have put the English text as it appears in an edition not much earlier.
+",
+	"author": "I. Watts",
+	"translator": "G. Killey",
+	"type": "Hymns",
+	"source":  ""Hymnyn ny arraneyn Moyllee son Paitchyn Liorish I. Watts. Published By P. White, 25, New-street, Bishopsgate; And Sold by J. Davis, 56, Paternoster-row; and J. Nisbet, Castle-street, Oxford-street. 1826."
+}
+
