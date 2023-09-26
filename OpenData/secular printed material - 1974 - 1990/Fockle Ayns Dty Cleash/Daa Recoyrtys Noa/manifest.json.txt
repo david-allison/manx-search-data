@@ -1,0 +1,10 @@
+{
+	"created": "1974-07-22",
+	"ident": "Fockle-Ayns-Dty-Cleash-Daa-Recoyrtys-Noa",
+	"name": "Fockle Ayns Dty Cleash: 'Daa Recoyrtys Noa'",
+	"englishName": "Two New Recordings",
+	"author": "Branlaadagh",
+	"original": "Manx",
+	"notes": "Transcription & Translation: RT",
+	"source":  "Manx Star, 22nd July, 1974. Page 6. Fockle Ayns Dty Cleash.",
+}
