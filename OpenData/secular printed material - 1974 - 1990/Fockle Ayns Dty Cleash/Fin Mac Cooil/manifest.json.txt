@@ -1,0 +1,11 @@
+{
+	"created": "1974-08-05",
+	"ident": "Fockle-Ayns-Dty-Cleash-Finn-Mac-Cooill",
+	"name": "Fockle Ayns Dty Cleash: 'Finn Mac Cooil'",
+	"englishName": "Finn Mac Cooil",
+	"author": "Branlaadagh",
+	"original": "Manx",
+	"notes": "Transcription & Translation: RT",
+	"source":  "Manx Star, 8th June, 1974. Page 6. Fockle Ayns Dty Cleash.",
+}
+
