@@ -1,0 +1,11 @@
+{
+		"created": "1762-08-15",
+	"ident": "Sermon-by-William-Crebbin-MS-0017406",
+	"name": "Sermon by William Crebbin MS 00174.6",
+	"notes": "Bilingual manuscript of a sermon taken from 1 Corinthians 5. 12,13 'upon occasion of John Teare of Karlaan being under that dreadful sentence (excommunication) for a second relapse into ye sin of fornication - under which he continued for above two years'  first preached at Jury on 15th of August 1762", 
+	"transcribed": "Christopher Lewin 2021",
+	"research project": "British Academy and Leverhulme Trust Small Project Grant, ‘Variation and change in the language of Manx sermons’, Department of Welsh and Celtic Studies, Aberystwyth University. Additional funding from Culture Vannin.",
+	"author": "William Crebbin",
+	"original": "English",
+	"source": "MNH manuscript MS-00174.6" 
+}
