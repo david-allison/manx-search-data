@@ -3,7 +3,7 @@
 	"ident": "Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn",
 	"name": "Hymnyn ny arraneyn Moyllee son Paitchyn.",
 	"original": "English",
-	"Divine Songs attempted in easy language for the use of Children."
+	"originalName": "Divine Songs attempted in easy language for the use of Children.",
 	"notes": "The 1826 edition has two versions with different engravings. One has an open Bible on the front and a cow-house on the back. The other has a couple near a church on the front, and a couple with a dog, outside a house, on the back.
 In Harrison’s Bibliotheca Monenesis, 2nd ed. 1876, and subsequent refs, the translation is attributed to George Killey, clerk of Onchan, who also contributed translations to the 1799 Lioar dy Hymnyn. Harrison gives the date 1826, and the Place of Publication as Douglas. [Google Books gives the publication date as 1829.] George Killey (1763-1842) was parish clerk and schoolmaster of Onchan. A. W. Moore adds (Manx Worthies, pp. 116-7) ‘He is said to have been very ready at impromptu rhymes, and the following story is quoted to show it:
 An old man called Hugh, who could neither read nor write, asked Killey to write something in his new Bible, so he promptly sat down and wrote in Manx and English:
@@ -31,6 +31,6 @@ Alongside the Manx I have put the English text as it appears in an edition not m
 	"author": "I. Watts",
 	"translator": "G. Killey",
 	"type": "Hymns",
-	"source":  ""Hymnyn ny arraneyn Moyllee son Paitchyn Liorish I. Watts. Published By P. White, 25, New-street, Bishopsgate; And Sold by J. Davis, 56, Paternoster-row; and J. Nisbet, Castle-street, Oxford-street. 1826."
+	"source":  "Hymnyn ny arraneyn Moyllee son Paitchyn Liorish I. Watts. Published By P. White, 25, New-street, Bishopsgate; And Sold by J. Davis, 56, Paternoster-row; and J. Nisbet, Castle-street, Oxford-street. 1826."
 }
 
