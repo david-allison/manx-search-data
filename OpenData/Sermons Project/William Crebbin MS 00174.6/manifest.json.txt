@@ -6,6 +6,6 @@
 	"transcribed": "Christopher Lewin 2021",
 	"research project": "British Academy and Leverhulme Trust Small Project Grant, ‘Variation and change in the language of Manx sermons’, Department of Welsh and Celtic Studies, Aberystwyth University. Additional funding from Culture Vannin.",
 	"author": "William Crebbin",
-	"original language": "English",
+	"original": "English",
 	"source": "MNH manuscript MS-00174.6" 
 }
