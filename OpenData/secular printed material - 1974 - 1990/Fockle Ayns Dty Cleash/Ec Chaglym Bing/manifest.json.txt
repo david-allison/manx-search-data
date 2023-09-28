@@ -2,7 +2,7 @@
 	"created": "1974-09-23",
 	"ident": "Fockle-Ayns-Dty-Cleash-Ec-Chaglym-Bing-Ny-Sheshaght-Ghailckagh",
 	"name": "Fockle Ayns Dty Cleash: 'Ec-Chaglym-Bing-Ny-Sheshaght-Ghailckagh'",
-	"englishName": "At the Committee Meeting of the Manx Language Society,
+	"englishName": "At the Committee Meeting of the Manx Language Society",
 	"author": "Branlaadagh",
 	"original": "Manx",
 	"notes": "Transcription & Translation: RT",
