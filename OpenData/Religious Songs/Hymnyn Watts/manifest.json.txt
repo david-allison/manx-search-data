@@ -26,8 +26,7 @@ The 1893 edition was issued by W. K. Palmer, Printer, Michael Street, Peel.
 Divine Songs Attempted in Easy Language for the Use of Children (also known as Divine and Moral Songs for Children and other similar titles) is a collection of didactic, moral poetry for children by Isaac Watts, first published in 1715. Though Watts's hymns are now better known than these poems, Divine Songs was a ubiquitous children's book for nearly two hundred years, serving as a standard textbook in schools. By the mid-19th century there were more than one thousand editions. 
 	Three of the best-known poems in the collection are “Praise for Creation and Providence” (II), “Against Idleness and Mischief” (XX), and “The Sluggard”.  “Praise for Creation and Providence” (better known as “I sing the mighty power of God”) is now a hymn sung by all ages. “Against Idleness and Mischief” and “The Sluggard” (better known as “How doth the little busy bee” and “'Tis the voice of the sluggard”) were both meant to teach children the importance of hard work, and were extremely well known in the nineteenth century. Walter de la Mare wrote that “a childhood without the busy bee and the sluggard would resemble a hymnal without ‘O God, our help in ages past’.” Charles Dickens's novels occasionally quote “Against Idleness and Mischief”; for instance, in his 1850 novel David Copperfield, the school master Dr. Strong quotes lines 11-12: “Satan finds some mischief still, for idle hands to do.” In his 1865 fantasy Alice in Wonderland, Lewis Carroll parodies both “Against Idleness and Mischief” as “How Doth the Little Crocodile” and “The Sluggard” as “'Tis the voice of the Lobster”. [Wikipedia]
 
-Alongside the Manx I have put the English text as it appears in an edition not much earlier.
-",
+Alongside the Manx I have put the English text as it appears in an edition not much earlier.",
 	"author": "I. Watts",
 	"translator": "G. Killey",
 	"type": "Hymns",
