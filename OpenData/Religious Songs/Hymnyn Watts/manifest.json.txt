@@ -1,5 +1,5 @@
 {
-	"created": "1826-31-12",
+	"created": "1826-12-31",
 	"ident": "Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn",
 	"name": "Hymnyn ny arraneyn Moyllee son Paitchyn.",
 	"original": "English",
