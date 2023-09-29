@@ -1,10 +1,10 @@
 {
 	"created": "1850-01-01",
-	"ident": "Yn-Tiger",
+	"ident": "Yn-Tiger-Moore",
 	"name": "Yn Tiger",
 	"author" "John Moore of Camlork, in Braddan",
 	"notes": "A manuscript version of a ballad concerning the fate of The Tiger, a Manx privateer, which was purchased in 1778. Another version of the ballad, with an additional five verses and other alterations appears in 'Manx Society XXI; Mona Miscellany; Ballads and Songs.' Col. & Ed. William Harrrison. Manx Society. Douglas. 1873, under the title 'Marrinys y Tiger, Liorish John Moore', with an accompanying translation by Mr. John Quirk, Carn-ny-Greie, entitled 'The Voyage of the Tiger'. Harrison's version also appears in 'Manx Ballads and Songs' Ed. A. W. Moore. G & R Johnson. 1896, accompanied by a more literal translation. This manuscript version from papers held within Lioar Chlugaaish appears to be the older of the two, using loanwords such as 'cruize', 'station', 'pumpal', 'riggal' and 'fittal magh' which do not appear in the printed versions. Lioar Chlugaaish is undated, but is assumed to date from around 1850.", 
-	"Transcription & Translation": R. Teare",
+	"Transcription & Translation": "R. Teare",
 	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
 	"type": "Ballad",
 	"original": "Manx",
