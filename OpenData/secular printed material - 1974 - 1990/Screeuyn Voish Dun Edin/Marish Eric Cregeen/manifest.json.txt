@@ -1,0 +1,12 @@
+{
+	"created": "1975-01-13",
+	"ident": "Screeuyn-ass-doon-edjin-marish-Eric-Cregeen",
+	"name": "Screeuyn Ass Doon Edjin: 'Marish Eric Cregeen'",
+	"englishName": "With Eric Cregeen",
+	"author": "Shorus y Crurie",
+	"original": "Manx",
+	"type": "Diary column 'Screeuyn Ass Doon Edjin'",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Screeuyn Voish Doon Edjin: Manx Star, 13th Jan, 1975. Page 6.",
+}
