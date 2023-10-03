@@ -75,6 +75,8 @@ namespace Manx_Search_Data
             AssertValid("OpenData/secular printed material 1750-1900/Yn Arrane-Caggee-Anmormonagh/document.csv");
             AssertInvalid("OpenData/secular printed material 1750-1900/Closing address to the Manx Readings and Concert./document.csv");
             AssertValid("OpenData/secular printed material 1750-1900/Closing address to the Manx Readings and Concert/document.csv");
+            // #1083
+            AssertInvalid("OpenData/miscellaneous religious printed 1600 - 1900 /Carval Noo Paul/document.csv");
         }
 
         [Theory]
