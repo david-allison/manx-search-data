@@ -7,7 +7,7 @@
 	"original": "Manx",
 	"notes": "Fo Halloo ('Underground') was a dissident group in the Isle of Man that distributed an eponymous news pamphlet and carried out a direct action protest campaign from 1973 to circa 1976.",
 	"Transcription": "RT",
-	"Translation: "RT",
-	"source":  "Manx Star, 2nd December, 1974. Page 6. Fockle Ayns Dty Cleash.",
+	"Translation": "RT",
+	"source":  "Manx Star, 2nd December, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
 
