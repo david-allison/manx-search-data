@@ -1,6 +1,6 @@
 {
 	"created": "1974-09-30",
-	"ident": "Fockle-Ayns-Dty-Cleash-Enmyn-Gaelgagh-1-/-Ayns-Johannesburg",
+	"ident": "Fockle-Ayns-Dty-Cleash-Enmyn-Gaelgagh-1-Ayns-Johannesburg",
 	"name": "Fockle Ayns Dty Cleash: 'Enmyn-Gaelgagh-1'-/-'Ayns-Johannesburg'",
 	"englishName": "'Gaelic Names' / 'In Johannesburg'",
 	"author": "Branlaadagh",
