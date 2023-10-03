@@ -6,6 +6,6 @@
 	"author": "Branlaadagh",
 	"original": "Manx",
 	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 30th September, 1974. Page 6. Fockle Ayns Dty Cleash.",
+	"source":  "Manx Star, 30th September, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
 
