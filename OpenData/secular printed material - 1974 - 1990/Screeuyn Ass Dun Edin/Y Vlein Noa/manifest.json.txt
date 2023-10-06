@@ -1,0 +1,12 @@
+{
+	"created": "1975-01-27",
+	"ident": "Screeuyn-ass-doon-edjin-y-vlein-noa",
+	"name": "Screeuyn Ass Doon Edjin: 'Y Vlein Noa'",
+	"englishName": "The New Year",
+	"author": "Shorus y Crurie",
+	"original": "Manx",
+	"type": "Diary column 'Screeuyn Ass Doon Edjin'",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Screeuyn Voish Doon Edjin: Manx Star, 27th Jan, 1975. Page 6.",
+}
