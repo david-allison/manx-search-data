@@ -1,0 +1,12 @@
+{
+	"created": "1975-03-15",
+	"ident": "Screeuyn-ass-doon-edjin-Ellan-Arran-John-Sillars",
+	"name": "Screeuyn Ass Doon Edjin: 'Ellan Arran; John Sillars'",
+	"englishName": "The Isle of Arran; John Sillars",
+	"author": "Shorus y Crurie",
+	"original": "Manx",
+	"type": "Diary column 'Screeuyn Ass Doon Edjin'",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Screeuyn Voish Doon Edjin: Manx Star, 15th March, 1975. Page 6.",
+}
