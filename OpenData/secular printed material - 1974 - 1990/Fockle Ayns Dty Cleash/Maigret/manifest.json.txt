@@ -1,0 +1,13 @@
+{
+	"created": "1975-03-29",
+	"ident": "Fockle-Ayns-Dty-Cleash-Maigret",
+	"name": "Fockle Ayns Dty Cleash: 'Maigret'",
+	"englishName": "Maigret",
+	"author": "Branlaadagh",
+	"original": "Manx",
+	"notes": "Contains a short translation of the beginning of 'La Première enquête de Maigret' ('Maigret's First Case') by Georges Simenon. Presses de la Cité. Paris. 1948.",
+	"Transcription": "RT",
+	"Translation": "RT",
+	"source":  "Manx Star, 29th March, 1975. Page 6. Fockle Ayns Dty Cleash.",
+}
+
