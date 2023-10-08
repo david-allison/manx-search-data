@@ -1,0 +1,12 @@
+{
+	"created": "1975-04-25",
+	"ident": "Skeealyn-ass-Ellan-Arran-Shoanie-Lespie",
+	"name": "Skeealyn ass Ellan Arran: 'Shoanie Lespie'",
+	"englishName": "Stories originating from the Isle of Arran; Johnny Leslie",
+	"author": "Shorus y Crurie",
+	"original": "Manx",
+	"type": "Diary column 'Skeealyn ass Ellan Arran'",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "Screeuyn Voish Doon Edjin: Manx Star, 25th April, 1975. Page 6.",
+}
