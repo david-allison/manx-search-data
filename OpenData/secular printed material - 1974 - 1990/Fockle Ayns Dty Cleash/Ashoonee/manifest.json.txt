@@ -5,7 +5,7 @@
 	"englishName": "National(ist)s",
 	"author": "Branlaadagh",
 	"original": "Manx",
-	"notes": 
+	"notes": "",
 	"Transcription": "RT",
 	"Translation": "RT",
 	"source":  "Manx Star, 12th April, 1975. Page 6. Fockle Ayns Dty Cleash.",
