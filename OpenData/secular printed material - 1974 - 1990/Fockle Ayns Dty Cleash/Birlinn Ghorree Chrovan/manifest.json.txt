@@ -1,0 +1,13 @@
+{
+	"created": "1975-02-15",
+	"ident": "Fockle-Ayns-Dty-Cleash-Birlinn-Ghorree-Chrovan",
+	"name": "Fockle Ayns Dty Cleash: 'Birlinn Ghorree Chrovan'",
+	"englishName": "Godred Crovan's Birlinn",
+	"author": "Branlaadagh",
+	"original": "Manx",
+	"notes": "",
+	"Transcription": "RT",
+	"Translation": "RT",
+	"source":  "Manx Star, 15th February, 1975. Page 6. Fockle Ayns Dty Cleash."
+}
+
