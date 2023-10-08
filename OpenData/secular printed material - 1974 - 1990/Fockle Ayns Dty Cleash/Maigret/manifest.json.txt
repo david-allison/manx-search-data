@@ -8,6 +8,6 @@
 	"notes": "Contains a short translation of the beginning of 'La Première enquête de Maigret' ('Maigret's First Case') by Georges Simenon. Presses de la Cité. Paris. 1948.",
 	"Transcription": "RT",
 	"Translation": "RT",
-	"source":  "Manx Star, 29th March, 1975. Page 6. Fockle Ayns Dty Cleash.",
+	"source":  "Manx Star, 29th March, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
 
