@@ -1,6 +1,6 @@
 {
 	"created": "1974-03-22",
-	"ident": "Fockle-Ayns-Dty-Cleash-Juan Doo",
+	"ident": "Fockle-Ayns-Dty-Cleash-Juan-Doo",
 	"name": "Fockle Ayns Dty Cleash: 'Juan Doo'",
 	"englishName": "Juan Doo (Black John)",
 	"author": "Branlaadagh",
