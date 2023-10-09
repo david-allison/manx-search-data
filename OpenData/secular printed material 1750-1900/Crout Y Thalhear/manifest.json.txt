@@ -5,6 +5,7 @@
 	"notes": "Story by J.J.Kneen in Manx with English translation that appeared in the isle of Man Examiner on April 15, 1899.",
 	"original": "Manx",
 	"type": "Story",
+	"original": "Manx",
 	"source":  "Isle of Man Examiner, Saturday, April 08, 1899; Page: 4",
 	
 }

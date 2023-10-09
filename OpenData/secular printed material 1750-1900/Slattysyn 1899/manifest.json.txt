@@ -3,6 +3,7 @@
 	"ident": "Slattysn-1899",
 	"name": "Slattysn 1899",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+	"original": "English",
 	"source":  "Isle of Man Times, Saturday, July 22, 1899; page 13. Sentence starting 'The Burials Act Amendment Act'",
 	
 }

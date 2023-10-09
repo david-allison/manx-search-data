@@ -3,5 +3,6 @@
 	"ident": "Slattysn-1867-I",
 	"name": "Slattysn 1867 I",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+	"original": "English",
 	"source":  "Isle of Man Times, Saturday, February 23, 1867; Page 5."
 }

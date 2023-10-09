@@ -4,5 +4,6 @@
 	"name": "A letter written by Samuel Hick",
 	"notes": "Free translation of an English piece",
 	"mnhNewsComponent": "Ar01409",
+	"original": "English",
 	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
 }
