@@ -4,5 +4,6 @@
 	"name": "Slattysn 1866 II",
 	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
 	"source":  "Mona’s Herald, Saturday, August 18, 1866; Page: 3",
+	"original": "English",
 	"mnhNewsComponent": "Ar00306"
 }
