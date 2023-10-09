@@ -124,6 +124,21 @@ namespace Manx_Search_Data
         }
 
         [Theory]
+        public void DocumentsWithoutOriginalIsValid(Document document)
+        {
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+            
+            // If we add an 'original', it should be removed from the list,
+            // this stops me wasting time by requesting an original more than once
+            if (!DocumentsWithoutOriginal.DocsWithoutOriginal.Contains(openSourceDocument.Ident))
+            {
+                return;
+            } 
+            
+            Assert.That(openSourceDocument.Original, Is.Null, openSourceDocument.Ident);
+        }
+
+        [Theory]
         public void OriginalIsDefined(Document document)
         {
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
