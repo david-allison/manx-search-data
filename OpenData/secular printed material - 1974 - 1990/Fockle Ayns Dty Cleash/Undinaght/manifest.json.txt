@@ -1,0 +1,13 @@
+{
+	"created": "1975-06-07",
+	"ident": "Fockle-Ayns-Dty-Cleash-Undinaght-jeh-Studeyrys-Manninagh",
+	"name": "Fockle Ayns Dty Cleash: 'Undinaght jeh Studeyrys Manninagh'",
+	"englishName": "A Foundation of Manx Studies",
+	"author": "Brian Mac Stoyll (Brian Stowell",
+	"original": "Manx",
+	"notes": "",
+	"Transcription": "RT",
+ 	"Translation": "RT",
+	"source":  "Manx Star, 7th June, 1975. Page 6. Fockle Ayns Dty Cleash."
+}
+
