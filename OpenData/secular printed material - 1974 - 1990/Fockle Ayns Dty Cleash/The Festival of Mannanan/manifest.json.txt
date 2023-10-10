@@ -5,9 +5,9 @@
 	"englishName": "The Festival of Mannanan",
 	"author": "Branlaadagh",
 	"original": "Manx",
-	"notes": 
+	"notes": "",
 	"Transcription": "RT", 
 	"Translation": "RT",
-	"source":  "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash.",
+	"source":  "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
 
