@@ -5,9 +5,9 @@
 	"englishName": "The E.E.C.",
 	"author": "Branlaadagh",
 	"original": "Manx",
-	"notes": 
+	"notes": "",
 	"Transcription": "RT",
 	"Translation": "RT",
-	"source":  "Manx Star, 31st May, 1975. Page 6. Fockle Ayns Dty Cleash.",
+	"source":  "Manx Star, 31st May, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
 
