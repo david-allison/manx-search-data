@@ -1,7 +1,7 @@
 {
 	"created": "1974-09-02",
 	"ident": "Fockle-Ayns-Dy-Cleash-Yn-Emshyr-Jedoonee",
-	"name": "Fockle Ayns Dy Cleash: 'Yn Emshyr Jedoonee'",
+	"name": "Fockle Ayns Dty Cleash: 'Yn Emshyr Jedoonee'",
 	"englishName": "The Weather on Sunday",
 	"author": "Branlaadagh",
 	"original": "Manx",
