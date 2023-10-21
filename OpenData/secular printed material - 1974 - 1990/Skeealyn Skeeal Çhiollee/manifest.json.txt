@@ -5,7 +5,8 @@
 	"englishName": "Fireside Stories",
 	"Introduction by": "J. D. Qualtrough",
 	"author": "A.S.B. Davies",
-	"original": "Welsh / English",
+	"original": "English",
+	"additionalOriginal": "Welsh / English",
 	"notes": "A. S. B. Davies (1920-1979), the author of ‘Skeealyn Cheeil-Çhoillee’ was a Welsh scholar with interesest in all the Celtic languages. He had learnt at least some of his Manx from native speakers. He was also assisted in producing this collection of stories by John Gell and Bill Radcliffe. It seems likely that the stories were originally written in Welsh, but translated to English for the sake of assistance with translation. The idiom, word choices and grammar are very much different from the kind of Manx found in recordings of native speakers of his era, notable divergences being:
 
 —	The use of emphatic pronouns where non-emphatic pronouns would be expected.
