@@ -3,9 +3,13 @@
 	"createdCircaEnd": "1761-12-31",
 	"ident": "Coyrle-Sodjey-2nd-edition",
 	"name": "Coyrle Sodjey - The Principles and Duties of Christianity, 2nd Edition",
-	"notes": "See \"Coyrle Sodjey 2nd edn 1761_final_clean.docx\" for comprehensive notes",
+	"notes": "See https://www.researchgate.net/publication/369088900_Coyrle_Sodjey_2nd_edn_1761 for comprehensive notes",
 	"edited": "Max W. Wheeler",
 	"transcribed": "Max W. Wheeler",
 	"author": "Thomas Wilson",
-	"original": "Bilingual",
+	"original": "English",
+	"sourceDocument": {
+		"url": "https://www.researchgate.net/publication/369088900_Coyrle_Sodjey_2nd_edn_1761",
+		"text": "Coyrle_Sodjey_2nd_edn_1761.pdf",
+	},
 }
