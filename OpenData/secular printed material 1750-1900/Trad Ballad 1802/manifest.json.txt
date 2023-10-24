@@ -2,7 +2,7 @@
 	"created": "1802-01-01",
 	"ident": "Mannanan-Beg-Mac-Y-Leirr-Ny-Slane-Coontey",
 	"name": "Mannanan Beg Mac Y Leirr; ny Slane Coontey jeh Ellan Vannin", 
-	"notes": "1802 printed edition of the Traditionary Ballad.",
+	"notes": "1802 printed edition of the Traditionary Ballad. Translation is subject to change",
 	"source":  "Manx Museum MS: H 140/I/MAN",
 	"iMuseum": "MS: H 140/I/MAN",
 	"original": "Manx",
