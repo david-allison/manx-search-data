@@ -1,7 +1,7 @@
 {
 	"created": "1953-11-10",
-	"ident": "Coraa-ny-Gaal-10-11-53",
-	"name": "Coraa ny Gaal 10.11.53",
+	"ident": "Coraa-ny-Gael-10-11-53",
+	"name": "Coraa ny Gael 10.11.53",
 	"englishName": "The Voice of the Gaels 11.10.53",
 	"author": "Kione Jiarg",
 	"original": "Manx",
