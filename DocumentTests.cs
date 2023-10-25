@@ -179,6 +179,16 @@ namespace Manx_Search_Data
                 Assert.That(invalidCells, Is.Empty);
             }
         }
+        
+                
+        [Theory]
+        public void NoTypos(Document document)
+        {
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+
+            // ReSharper disable once StringLiteralTypo
+            Assert.That(openSourceDocument.Ident.ToLower(), Does.Not.Contain("coraa-ny-gaal"), "Should be 'coraa-ny-gael'");
+        }
 
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
         private static OpenSourceDocument AssumeOpenSource(Document definition, string reasonAsClosedSource)
