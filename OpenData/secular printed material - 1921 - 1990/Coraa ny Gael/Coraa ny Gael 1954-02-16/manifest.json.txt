@@ -1,0 +1,14 @@
+{
+	"created": "1954-02-16",
+	"ident": "Coraa-ny-Gael-16-02-54",
+	"name": "Coraa ny Gael 16.02.54",
+	"englishName": "The Voice of the Gaels 16.02.54",
+	"author": "Kione Jiarg",
+	"original": "Manx",
+	"notes": "The Manx of ‘Coraa ny Gael’ differs in some respects to Classical Manx. In common with Late Manx an extra article is sometimes added superfluously to genitive constructions and mutation can be somewhat haphazard. Other features not usually found in Late Manx are occassional unexpected choices of prepositions, unexpecred usage of ‘independent’ and ‘dependent’ forms, and the strenuous avoidance of loanwords. The orthography usually agrees with Classical Manx. The introduction of new words and idioms are few, with notable examples being [dy chooilley co-hiaghtin] for ‘every other week’, rather than [dagh kegeeish] ‘every fortnight’, and other uses of the prefix [co-], such as [co-hionnal] and [co-haglym] — both being used for ‘conference’ and ‘congress’.",
+	"type": "news column 'Coraa ny Gael'",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "'Coraa ny Gael', Mona's Herald, Tuesday, February 16, 1954; Page: 4",
+}
+
