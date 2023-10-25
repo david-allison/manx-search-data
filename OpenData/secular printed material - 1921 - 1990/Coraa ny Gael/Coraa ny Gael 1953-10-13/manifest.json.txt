@@ -1,7 +1,7 @@
 {
 	"created": "1953-10-13",
-	"ident": "Coraa-ny-Gaal-13-10-53",
-	"name": "Coraa ny Gaal 13.10.53",
+	"ident": "Coraa-ny-Gael-13-10-53",
+	"name": "Coraa ny Gael 13.10.53",
 	"englishName": "The Voice of the Gaels 13.10.53",
 	"author": "Breagagh",
 	"original": "Manx",
