@@ -1,7 +1,7 @@
 {
 	"created": "1954-01-05",
-	"ident": "Coraa-ny-Gaal-05-01-54",
-	"name": "Coraa ny Gaal 05.01.54",
+	"ident": "Coraa-ny-Gael-05-01-54",
+	"name": "Coraa ny Gael 05.01.54",
 	"englishName": "The Voice of the Gaels 05.01.54",
 	"author": "Brian Born",
 	"original": "Manx",
