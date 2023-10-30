@@ -1,5 +1,5 @@
 {
-	"created": "1954-00-07",
+	"created": "1954-09-07",
 	"ident": "Coraa-ny-Gael-07-09-54",
 	"name": "Coraa ny Gael 07.09.54",
 	"englishName": "The Voice of the Gaels 07.09.54",
