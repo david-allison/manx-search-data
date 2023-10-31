@@ -9,6 +9,6 @@
 	"type": "news column 'Coraa ny Gael'",
 	"transcription": "R. Teare",
 	"translation": "R. Teare",
-	"source":  "'Coraa ny Gael', Mona's Herald, Tuesday, November 11, 1954; Page: 5",
+	"source":  "'Coraa ny Gael', Mona's Herald, Tuesday, November 9, 1954; Page: 5",
 }
 
