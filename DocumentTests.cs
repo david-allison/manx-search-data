@@ -190,6 +190,14 @@ namespace Manx_Search_Data
             Assert.That(openSourceDocument.Ident.ToLower(), Does.Not.Contain("coraa-ny-gaal"), "Should be 'coraa-ny-gael'");
         }
 
+        [Theory]
+        public void NoCopies(Document document)
+        {
+            var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
+
+            Assert.That(openSourceDocument.FullCsvPath, Does.Not.EndWith(" copy/document.csv"));
+        }
+
         /// <summary>We currently have files which are not yet licensed for usage on GitHub, some checks cannot be run on these yet</summary>
         private static OpenSourceDocument AssumeOpenSource(Document definition, string reasonAsClosedSource)
         {
