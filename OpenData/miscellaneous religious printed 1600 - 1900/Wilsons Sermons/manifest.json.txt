@@ -1,0 +1,7 @@
+{
+	"created": "1783-01-01",
+	"ident": "Wilsons-Sermons",
+	"name": "Wilson's Sermons 1-12",
+	"translated": "Rev. T. Corlett",
+	"original": "Unknown"
+}
