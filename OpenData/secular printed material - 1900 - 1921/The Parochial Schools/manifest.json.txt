@@ -1,0 +1,14 @@
+{
+	"created": "1844-12-25",
+	"ident": "The-Parochial-Schools-Billy-Illiam",
+	"name": "The Parochial Schools",
+	"englishName": "The Parochial Schools",
+	"author": "Billy Illiam",
+	"original": "Manx",
+	"type": "Letter to the newspaper.",
+	"notes": "This paragraph appears at the end of a letter (the rest of which is in English) defending the Island’s Parochial School system. Replies to the letter include ‘A Voice from Buggane Gob-ny-Scoot’ in Mona’s Herald, Wednesday, January 08, 1845; Page:7, (included here) and correspondence from ‘A Traveller’ in Mona's Herald, Wednesday, January 29, 1845; Page: 3.",
+	"transcription": "R. Teare",
+	"translation": "R. Teare",
+	"source":  "‘The Parochial Schools’ : Mona's Herald, Wednesday, Dec. 25, 1844; Page: 4",
+}
+
