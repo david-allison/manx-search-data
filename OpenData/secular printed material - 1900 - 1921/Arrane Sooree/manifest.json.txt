@@ -1,0 +1,13 @@
+{
+	"created": "1898-04-30",
+	"ident": "Arrane-Sooree",
+	"name": "Arrane Sooree",
+	"English name": "Courting Song",
+	"notes": "Introduction to the song appears as follows: "As a sample of original and translation we select a verse or two from “Arrane Sooree,” a courting song."",
+	"author": "Unknown",
+	"original": "Manx",
+	"type": "song",
+	"transcription": "R. Teare",
+	"translation": "accompanies original",
+	"source":  "Ramsey Weekly News, Saturday, April 30, 1898; Page: 7",
+}
