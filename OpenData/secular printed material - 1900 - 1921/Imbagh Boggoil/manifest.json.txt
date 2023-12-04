@@ -1,0 +1,10 @@
+{
+	"created": "1898-12-24",
+	"ident": "Imbagh-Boggoil",
+	"name": "Imbagh Boggoil",
+	"notes": "A variant of the common Christmas greeting poem.",
+	"original": "Manx",
+	"Transcription": "RT"
+	"Translation": "RT"
+	"source": "Isle of Man Examiner, Saturday, December 24, 1898; Page: 6",
+}
