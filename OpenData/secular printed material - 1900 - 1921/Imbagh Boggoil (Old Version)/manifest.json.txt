@@ -3,7 +3,7 @@
 	"ident": "Imbagh-Boggoil-Old-Version",
 	"name": "Imbagh Boggoil (Old Version)",
 	"englishName": "A Joyful Season (Old Version)",
-	"notes": "A macronic version of the poem Imbagh Boggoil, the introduction which is; "Last week we printed in this column the “Imbagh Boggoil” entirely in Manx. We now give it as it was commonly rendered about thirty or forty years ago in some parts of the Island. Many people have heard old Manxmen express themselves similarly in their attempts to speak English:—",
+	"notes": "A macronic version of the poem Imbagh Boggoil, the introduction which is; 'Last week we printed in this column the “Imbagh Boggoil” entirely in Manx. We now give it as it was commonly rendered about thirty or forty years ago in some parts of the Island. Many people have heard old Manxmen express themselves similarly in their attempts to speak English:—'",
 	"author": "Unknown",
 	"original": "Manx (macronic)",
 	"type": "Poem",
