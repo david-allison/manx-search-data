@@ -1,0 +1,12 @@
+{
+	"created": "1899-06-03",
+	"ident": "Bardaght-Oshin:-Cah-Loda",
+	"name": "Bardaght Oshin: Cah Load",
+	"English name": "Ossian's Poems: Cath-Loda; A Poem",
+	"Original": "English",
+	"notes": "A serialised translation of the version of James MacPherson’s ‘Cath Loda’ found in ‘The Canterbury Poets; Poems of Ossian’ edited by G. Eyre-Todd. Published by Walter Scott, London. 1888. The concluding section of the poem was not published in any of the Manx Newspapers. ",
+	"original": "English",
+	"transcription": "RT",
+	"translation": "J.J. Kneen",
+	"source": "Isle of Man Examiner, Saturday, March 25, 1899;Page: 6 / June 03 1899, Isle of Man Examiner, Saturday, April 01, 1899; Page: 2, / Isle of Man Examiner, Saturday, April 08, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 15, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 22, 1899; Page: 2 / Isle of Man Examiner, Saturday, May 06, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 13, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 20, 1899; Page: 2 / Isle of Man Examiner, Saturday, June 03, 1899; Page: 3",
+}
