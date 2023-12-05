@@ -1,6 +1,6 @@
 {
 	"created": "1899-06-03",
-	"ident": "Bardaght-Oshin:-Cah-Loda",
+	"ident": "Bardaght-Oshin-Cah-Loda",
 	"name": "Bardaght Oshin: Cah Load",
 	"English name": "Ossian's Poems: Cath-Loda; A Poem",
 	"Original": "English",
