@@ -6,7 +6,7 @@
 	"Forward by": "Adrian Pilgrim",
 	"author": "John Gell",
 	"original": "Manx",
-	"notes": "The main Manx text was edited by Adrian Pilgrim. The English translation of the John Gell's works is provided within the text itself, likely by the author himself. The foreword has been translated by R. Teare (2023)."
+	"notes": "The main Manx text was edited by Adrian Pilgrim. The English translation of the John Gell's works is provided within the text itself, likely by the author himself. The foreword has been translated by R. Teare (2023).",
 	"Transcription": "RT", 
 	"Translation": "John Gell (Foreword by RT)",
 	"source":  "'Cooinaghtyn My Aegid as Cooinaghtyn Elley' Juan y Gell / John Gell, The Isle of Man Examiner for Yn Cheshaght Ghailckagh, 1977.",
