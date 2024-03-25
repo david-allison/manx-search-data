@@ -1,0 +1,22 @@
+{
+	"created": "1908-08-27",
+	"ident": "Manx-Dishes",
+	"name": "Manx Dishes",
+	"englishName": "Manx Dishes",
+	"notes": "'Manx Dishes' is a chapter (pages 172 to 203) in 'The Manx Cookery Book'. The full front title of the book is 'THE MANX COOKERY BOOK — ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND'. On the inside cover page it is titled 'THE MANX COOKERY BOOK Of FAVOURITE DISHES'. It was published by Sherratt & Hughes of London & Manchester in 1908. Most of the recipes are given in Manx, with English beneath. The preface finishes with 'Sophia Morrison and Louisa Morrison, Lady Raglan's Stall, Church Spire Rebuilding Fund Bazaar, Christian's Schools, Peel. August 26th and 27th, 1908.' The book was available for sale at the bazaar, so was evidently published before that date. 
+
+Contributors to the 'Manx Dishes chapter include many who were also involved with the Manx Society (YÇG). The contributions appear not to have been edited or standardised. 
+
+The use of the imperative and choice of formal (plural) / informal (singular) forms varies considerably. 
+
+Where details that appear in the Manx versions of the recipe are omitted or differ to the English translation a translation (by R. Teare) has been inserted in square brackets. The Manx has not been altered, except in a few instances where an evident typo of [c] for [l] has been corrected, eg; [lhiabbee] for [chiabbee]. 
+
+Mr. Thomas Crellin, Oakland, California is credited in the preface with having paid the costs of publication. The two day bazaar itself included performances of Cushag's plays; 'Rosie Basins' and 'The Lazy Wife, also offered collections of Manx prints and paintings and had stalls representing Ireland, Scotland, the Isle of Man, England, Wales, Japan and Norway. It was reported to have raised £600 towards the fund.",
+	"author": "various",
+	"editor": "Morrison. S & Morrison. L.",
+	"original": "Manx",
+	"type": "culinary",
+	"transcription": "R. Teare",
+	"source":  "'Manx Dishes' in THE MANX COOKERY BOOK — ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND. Sherratt & Hughes, Manchester & London, 1908. Pages: 172-203",
+	"englishSource": "'Manx Dishes' in THE MANX COOKERY BOOK — ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND. Sherratt & Hughes, Manchester & London, 1908. Pages: 172-203, with some additions in square brackets by R. Teare (2024)",
+}
