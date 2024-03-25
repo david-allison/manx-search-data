@@ -1,0 +1,14 @@
+{
+	"created": "1772-01-01",
+	"ident": "Destruction-of-the-Manx-Herring-Fleet",
+	"name": "Destruction of the Manx Herring Fleet, In Douglas bay, On St Matthias' Night, Sept. 1787.",
+	"type": "Printed sheet" ,
+	"notes": "J. C. Faragher took over the ‘Herald” on the death of his father in 1863, and with the exception of the years 1865 – 1868, remained the proprietor until his death in 1882. This printed manuscript is arranged in 18 stanzas, which fits the description of the version used for the Manx ‘penny readings’ art Peel and Douglas in 1872. The ballad was performed in Peel by Juan Quirk of Dalby, and in Douglas by Harry Quilliam of Peel. It is said to have been composed in 1787 by Quayle ‘Vessee’. See “Arrane mysh ny baatyn va caillit ec Doolish ’sy vlein 1787. Septr. 20th” C. 1850 for a manuscript version of the ballad — which is longer, and differs somewhat in order, language and content. A pencil note in Woods' hand on the version held in the G. W. Wood 'Manx Ballads and Carvals' collection at the MNH Library (J.48.2592.) says 'Edited by Mr. Jhon Cottier'",
+	"translated": "Manx to English: R.Teare (two [??] notes indicate that the translator is not confident of the meaning)",
+	"transcribed": "R. Teare",
+	"author": "unknown; Quayle Vessee likely, likely edited by Mr. John Cottier. Printed by J. C. Fargher, Herald Office, Douglas.",
+	"original": "Manx",
+	"Original Notes": "See “Arrane mysh ny baatyn va caillit ec Doolish ’sy vlein 1787. Septr. 20th” C. 1850 for a manuscript version",
+	"source":  "printed single page document in the 'Manx Ballads and Carvals' collection, MNH Library (J.48.2592.)",
+	"Proofread": "English; Not yet. Manx; Not yet"
+}
