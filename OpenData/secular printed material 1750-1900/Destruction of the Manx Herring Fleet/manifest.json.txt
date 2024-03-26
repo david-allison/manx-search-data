@@ -1,5 +1,5 @@
 {
-	"created": "1772-01-01",
+	"created": "1872-01-01",
 	"ident": "Destruction-of-the-Manx-Herring-Fleet",
 	"name": "Destruction of the Manx Herring Fleet, In Douglas bay, On St Matthias' Night, Sept. 1787.",
 	"type": "Printed sheet" ,
