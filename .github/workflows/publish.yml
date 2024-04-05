@@ -35,7 +35,7 @@ jobs:
         run: ssh -t david2@209.97.129.212 'rm -rf /var/www/manx-corpus/CorpusSearch/ClosedData/{*,.*} || cd ~/corpus-search-data-private && git pull origin master && cp -r ~/corpus-search-data-private/ClosedData /var/www/manx-corpus/CorpusSearch/'
                 
       - name: Rebuild
-        run: ssh -t david2@209.97.129.212 'sudo /bin/systemctl stop manx-corpus.service && cd /var/www/manx-corpus/ && dotnet publish --configuration Release'
+        run: ssh -t david2@209.97.129.212 'sudo /bin/systemctl stop manx-corpus.service && cd /var/www/manx-corpus/ && dotnet --framework net6.0 publish --configuration Release'
             
         # even if the above fails, we want a working site
       - name: Restart Service
