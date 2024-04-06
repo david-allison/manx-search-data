@@ -2,6 +2,7 @@
 	"created": "1904-07-01",
 	"ident": "Slattysn-1904",
 	"name": "Slattysn 1904",
+	"notes": "Acts of Tynwald 1904. Shows occassional ommision of the verb some atypical word choice and word order. Initial mutation is atypical. Transcribed by R. Teare 2021",
 	"original": "English",
 	"source":  "ABSTRACTS OF ACTS FOR PROMULGATION. Brown & Sons, Ltd.  Printer, Douglas.1904.",
 	
