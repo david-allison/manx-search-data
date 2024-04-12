@@ -1,0 +1,13 @@
+{
+	"createdCircaStart": "1949-05-01",
+	"createdCircaEnd": "1949-09-01",
+	"ident": "YouTube-Jack-As-Ned-1949",
+	"name": "🎥 Jack as Ned",
+	"englishName": "🎥 Jack and Ned",
+	"notes": "Tourist / travel film clip made in the summer of 1949 featuring John Gell and Ned Maddrell",
+	"author": "John Gell and Ned Maddrell",
+	"translated": "Rob Teare 2024",
+	"transcribed": "Rob Teare 2024",
+	"original": "Manx",
+	"source":  "https://www.youtube.com/watch?v=-LYfVg7fAw7w"
+}
