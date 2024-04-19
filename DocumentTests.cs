@@ -186,8 +186,11 @@ namespace Manx_Search_Data
         {
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
 
-            // ReSharper disable once StringLiteralTypo
-            Assert.That(openSourceDocument.Ident.ToLower(), Does.Not.Contain("coraa-ny-gaal"), "Should be 'coraa-ny-gael'");
+            // ReSharper disable StringLiteralTypo
+            Assert.That(openSourceDocument.Ident, Does.Not.Contain("coraa-ny-gaal").IgnoreCase, "Should be 'coraa-ny-gael'");
+            Assert.That(openSourceDocument.Name, Does.Not.Contain("Slattysn").IgnoreCase, "Should be 'Slattysyn'");
+            Assert.That(openSourceDocument.Ident, Does.Not.Contain("Slattysn").IgnoreCase, "Should be 'Slattysyn'");
+            // ReSharper restore StringLiteralTypo
         }
 
         [Theory]
