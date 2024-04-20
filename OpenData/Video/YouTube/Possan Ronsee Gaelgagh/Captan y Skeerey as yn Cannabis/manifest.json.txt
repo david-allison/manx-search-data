@@ -3,7 +3,7 @@
 	"ident": "YouTube-Captan-y-Skeerey-as-yn-Cannabis",
 	"name": "🎥 Captan y Skeerey as yn Cannabis",
 	"englishName": "🎥 The Captain of the Parish and the Cannabis",
-	"notes": "Recorded in October 2006. The folder contains a sound file and the transcript with 30sec timings. The interview is Rob Teare, the interview is John Crellin, St Judes, and the person who joins us halfway through is Paul Rogers.
+	"notes": "Recorded in October 2006. Timings are to the nearest 30s. The interviewer is Rob Teare, the interviewee is John Crellin, St Judes, Paul Rogers joins halfway through.
 ",
 	"author": "John Crellin, St Judes; Rob Teare; Paul Rogers",
 	"translated": "Rob Teare 2023",
