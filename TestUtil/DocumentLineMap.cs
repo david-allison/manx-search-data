@@ -11,19 +11,10 @@ namespace Manx_Search_Data.TestUtil
             Map(m => m.English);
             Map(m => m.Manx);
             Map(m => m.Page).Optional();
-            Map(m => m.Notes).Optional().Convert(args =>
-            {
-                // arbitrary validation of fields
-                foreach (var invalidFieldName in _invalidFieldNames)
-                {
-                    if (args.Row.TryGetField<string>(invalidFieldName, out _))
-                    {
-                        throw new ArgumentException($"Invalid Field: ${invalidFieldName}. Should be 'X Original'");
-                    }
-                }
-                args.Row.TryGetField("Notes", out string notes);
-                return notes;
-            });
+            Map(m => m.SubStart).Optional();
+            Map(m => m.SubEnd).Optional();
+            Map(m => m.Speaker).Optional();
+            Map(m => m.Notes).Optional();
         }
     }
 }
