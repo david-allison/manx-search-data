@@ -7,6 +7,18 @@ using System.Linq;
 
 namespace Manx_Search_Data
 {
+    public static class CheckStuff
+    {
+    public static void check_headers(String[] headers)
+        {
+            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
+
+            foreach (var header in invalidHeaders)
+            {
+                Assert.That(headers, Does.Not.Contain(header));
+            }
+        }
+    }
     
     [TestFixture]
     public class BreakingTests
@@ -17,7 +29,25 @@ namespace Manx_Search_Data
             // match manx-corpus-search's validation rules
             // if a comma is deleted from a CSV, then the document is invalid
             var document = TestOnlyDocs.Load("MissingFinalComma");            
+        
             Assert.Throws<CsvHelper.MissingFieldException>(() => document.LoadLocalFile());
+        }
+
+        [Test]
+        public void OriginalManx()
+        {
+            // match manx-corpus-search's validation rules
+            // Check if invalid header Original Manx is present
+            var document = TestOnlyDocs.Load("OriginalManx");
+            var headers = document.LoadHeaders();
+            var expected ="  Expected: not some item equal to \"Original Manx\"\n  But was:  < \"English\", \"Manx\", \"Original Manx\", \"Notes\" >\n";
+            try {
+                CheckStuff.check_headers(headers.ToArray());
+            } catch (Exception e){
+                Assert.AreEqual(expected,e.Message);
+                Assert.Pass($"Passing since correctly received {e}");
+            } 
+            Assert.Fail($"Document {document.Name} did NOT throw expected error message as below:\n{expected}");
         }
     }
 
@@ -168,13 +198,7 @@ namespace Manx_Search_Data
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
 
             var headers = openSourceDocument.LoadHeaders();
-
-            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
-
-            foreach (var header in invalidHeaders)
-            {
-                Assert.That(headers, Does.Not.Contain(header));
-            }
+            CheckStuff.check_headers(headers.ToArray());
         }
         
         [Theory]

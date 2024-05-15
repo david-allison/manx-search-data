@@ -46,7 +46,7 @@ namespace Manx_Search_Data.TestUtil
             return LoadCsv(FullCsvPath);
         }
 
-        public List<string> LoadHeaders()
+        internal override  List<string> LoadHeaders()
         {
             using var reader = new StreamReader(FullCsvPath);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
