@@ -23,4 +23,15 @@ namespace Manx_Search_Data.TestData
             return FileListing.GetDocuments().Cast<Document>().ToList();
         }
     }
+    /// <summary>
+    /// Documents that are intentionally broken for testing
+    /// </summary>
+    public static class TestOnlyDocs
+    {
+        // PERF: Only evaluate this once
+        public static IEnumerable<Document> TestOnlyDocuments => FileListing.GetTestOnlyDocuments();
+
+        // PERF: This does not need to enumerate the list
+        public static Document Load(string name) => TestOnlyDocuments.Single(x => x.Name == name);
+    }
 }

@@ -1,0 +1,7 @@
+{
+	"created": "2024-05-15",
+	"ident": "MissingFinalComma",
+	"Name": "MissingFinalComma",
+	"englishName": "MissingFinalComma",
+	"notes": ""
+}

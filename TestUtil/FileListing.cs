@@ -49,6 +49,33 @@ namespace Manx_Search_Data.TestUtil
                 .ToList();
 
         }
+        public static List<String> GetTestOnlyJsonPaths()
+        {
+            String path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "BrokenData");
+
+            return Directory.GetFiles(path, "*.json.txt", SearchOption.AllDirectories).ToList();
+        }
+
+        public static List<OpenSourceDocument> GetTestOnlyDocuments()
+        {
+            return GetTestOnlyJsonPaths()
+                .Select(path =>
+                {
+                    try
+                    {
+                        OpenSourceDocument document = JsonConvert.DeserializeObject<OpenSourceDocument>(File.ReadAllText(path));
+                        document.LocationOnDisk = Path.GetDirectoryName(path);
+                        return document;
+                    } 
+                    catch (Exception e)
+                    {
+                        throw new InvalidOperationException($"Error reading file '{path}'", e);
+                    }
+                    
+                })
+                .ToList();
+
+        }
 
     }
 }
