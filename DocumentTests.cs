@@ -45,9 +45,22 @@ namespace Manx_Search_Data
                 CheckStuff.check_headers(headers.ToArray());
             } catch (Exception e){
                 Assert.AreEqual(expected,e.Message);
-                Assert.Pass($"Passing since correctly received {e}");
+                Assert.Pass($"Passing {document.Name} since correctly received {e}");
             } 
             Assert.Fail($"Document {document.Name} did NOT throw expected error message as below:\n{expected}");
+        }
+        [Test]
+        public void FileDoesNotExist()
+        {
+            var nobody = "PeiaghErbee";
+            var expected ="Sequence contains no matching element";
+            try {
+                var document = TestOnlyDocs.Load(nobody);
+            } catch (Exception e){
+                Assert.AreEqual(expected,e.Message);
+                Assert.Pass($"Passing {nobody} since correctly received {e}");
+            } 
+            Assert.Fail($"Document {nobody} did NOT throw expected error message as below:\n{expected}");
         }
     }
 
