@@ -7,6 +7,20 @@ using System.Linq;
 
 namespace Manx_Search_Data
 {
+    
+    [TestFixture]
+    public class BreakingTests
+    {
+        [Test]
+        public void CsvFileMissingField()
+        {
+            // match manx-corpus-search's validation rules
+            // if a comma is deleted from a CSV, then the document is invalid
+            var document = TestOnlyDocs.Load("MissingFinalComma");            
+            Assert.Throws<CsvHelper.MissingFieldException>(() => document.LoadLocalFile());
+        }
+    }
+
     [TestFixture]
     public class DocumentTests
     {
