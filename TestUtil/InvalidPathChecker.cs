@@ -1,20 +1,19 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Manx_Search_Data.TestUtil
+namespace Manx_Search_Data.TestUtil;
+
+public static class InvalidPathChecker
 {
-    public static class InvalidPathChecker
+    public static bool IsValid(string path)
     {
-        public static bool IsValid(string path)
-        {
             // This isn't perfect, but we're not protecting against malicious uses.
             // Invalid on Windows
             var invalidCharacters = "<>:\"|?*".Select(c => c).ToHashSet();
 
             var pathToTest = path.Substring(4); //C:// should be trimmed - matches :
 
-            // ensure the path doesn't contain any invalid 
-            if (pathToTest.Any(c => invalidCharacters.Contains(c)))
+            // ensure the path doesn't contain any invalid      if (pathToTest.Any(c => invalidCharacters.Contains(c)))
             {
                 return false;
             }
@@ -27,8 +26,8 @@ namespace Manx_Search_Data.TestUtil
             return GetFolders(path).All(IsValidFolderPath);
         }
 
-        private static IEnumerable<string> GetFolders(string path)
-        {
+    private static IEnumerable<string> GetFolders(string path)
+    {
             var parentName = GetParentName(path);
 
             while (true)
@@ -44,8 +43,8 @@ namespace Manx_Search_Data.TestUtil
             }
         }
 
-        private static string GetParentName(string path)
-        {
+    private static string GetParentName(string path)
+    {
             var length = path.LastIndexOfAny(new[] { '\\', '/' });
             if (length == -1)
             {
@@ -54,5 +53,4 @@ namespace Manx_Search_Data.TestUtil
             // Directory.GetParent() normalizes the path
             return path.Substring(0, length);
         }
-    }
 }

@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Manx_Search_Data.TestUtil
+namespace Manx_Search_Data.TestUtil;
+
+public class ClosedSourceDocument : Document
 {
-    public class ClosedSourceDocument : Document
+    internal override List<DocumentLine> LoadLocalFile()
     {
-        internal override List<DocumentLine> LoadLocalFile()
-        {
-            throw new NotImplementedException();
-        }
+        throw new NotImplementedException();
     }
 }
