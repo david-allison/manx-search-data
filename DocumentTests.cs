@@ -40,10 +40,9 @@ namespace Manx_Search_Data
         public void OriginalHeaders()
         {
             // match manx-corpus-search's validation rules
-            // Check if invalid headers are present
+            // Check for presence of all invalid headers
             var document = TestOnlyDocs.Load("OriginalHeaders");
-            Assert.Throws<NUnit.Framework.MultipleAssertException>(() => Checker.check_headers(document));
-            //Assert.Throws<NUnit.Framework.AssertionException>(() => Checker.check_headers(document));
+            Assert.Throws<MultipleAssertException>(() => Checker.check_headers(document));
         }
         [Test]
         public void FileDoesNotExist()
