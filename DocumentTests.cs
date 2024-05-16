@@ -40,27 +40,12 @@ namespace Manx_Search_Data
             // Check if invalid header Original Manx is present
             var document = TestOnlyDocs.Load("OriginalManx");
             var headers = document.LoadHeaders();
-            var expected ="  Expected: not some item equal to \"Original Manx\"\n  But was:  < \"English\", \"Manx\", \"Original Manx\", \"Notes\" >\n";
-            try {
-                CheckStuff.check_headers(headers.ToArray());
-            } catch (Exception e){
-                Assert.AreEqual(expected,e.Message);
-                Assert.Pass($"Passing {document.Name} since correctly received {e}");
-            } 
-            Assert.Fail($"Document {document.Name} did NOT throw expected error message as below:\n{expected}");
+            Assert.Throws<NUnit.Framework.AssertionException>(() => CheckStuff.check_headers(headers.ToArray()));
         }
         [Test]
         public void FileDoesNotExist()
         {
-            var nobody = "PeiaghErbee";
-            var expected ="Sequence contains no matching element";
-            try {
-                var document = TestOnlyDocs.Load(nobody);
-            } catch (Exception e){
-                Assert.AreEqual(expected,e.Message);
-                Assert.Pass($"Passing {nobody} since correctly received {e}");
-            } 
-            Assert.Fail($"Document {nobody} did NOT throw expected error message as below:\n{expected}");
+            Assert.Throws<InvalidOperationException>(() => TestOnlyDocs.Load("NonExistentFile"));
         }
     }
 
