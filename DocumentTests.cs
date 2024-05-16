@@ -9,16 +9,16 @@ namespace Manx_Search_Data
 {
     public static class Checker
     {
-    public static void check_headers(Document document)
+        public static void CheckHeaders(Document document)
         {
-            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
+            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }
+                .ToHashSet();
 
             var headers = document.LoadHeaders();
-            Assert.Multiple(() => {
+            Assert.Multiple(() =>
+            {
                 foreach (var header in invalidHeaders)
-                {
-                    Assert.That(headers, Does.Not.Contain(header),$"Found undesired header \"{header}\"");
-                }
+                    Assert.That(headers, Does.Not.Contain(header), $"Found undesired header \"{header}\"");
             });
         }
     }
@@ -42,7 +42,7 @@ namespace Manx_Search_Data
             // match manx-corpus-search's validation rules
             // Check for presence of all invalid headers
             var document = TestOnlyDocs.Load("OriginalHeaders");
-            Assert.Throws<MultipleAssertException>(() => Checker.check_headers(document));
+            Assert.Throws<MultipleAssertException>(() => Checker.CheckHeaders(document));
         }
         [Test]
         public void FileDoesNotExist()
@@ -197,7 +197,7 @@ namespace Manx_Search_Data
         {
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
 
-            Checker.check_headers(document);
+            Checker.CheckHeaders(document);
         }
         
         [Theory]
