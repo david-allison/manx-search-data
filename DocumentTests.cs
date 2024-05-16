@@ -7,12 +7,13 @@ using System.Linq;
 
 namespace Manx_Search_Data
 {
-    public static class CheckStuff
+    public static class Checker
     {
-    public static void check_headers(String[] headers)
+    public static void check_headers(Document document)
         {
             var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
 
+            var headers = document.LoadHeaders();
             foreach (var header in invalidHeaders)
             {
                 Assert.That(headers, Does.Not.Contain(header));
@@ -39,8 +40,7 @@ namespace Manx_Search_Data
             // match manx-corpus-search's validation rules
             // Check if invalid header Original Manx is present
             var document = TestOnlyDocs.Load("OriginalManx");
-            var headers = document.LoadHeaders();
-            Assert.Throws<NUnit.Framework.AssertionException>(() => CheckStuff.check_headers(headers.ToArray()));
+            Assert.Throws<NUnit.Framework.AssertionException>(() => Checker.check_headers(document));
         }
         [Test]
         public void FileDoesNotExist()
@@ -195,8 +195,7 @@ namespace Manx_Search_Data
         {
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
 
-            var headers = openSourceDocument.LoadHeaders();
-            CheckStuff.check_headers(headers.ToArray());
+            Checker.check_headers(document);
         }
         
         [Theory]
