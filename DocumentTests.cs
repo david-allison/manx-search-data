@@ -14,10 +14,12 @@ namespace Manx_Search_Data
             var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
 
             var headers = document.LoadHeaders();
-            foreach (var header in invalidHeaders)
-            {
-                Assert.That(headers, Does.Not.Contain(header));
-            }
+            Assert.Multiple(() => {
+                foreach (var header in invalidHeaders)
+                {
+                    Assert.That(headers, Does.Not.Contain(header),$"Found undesired header \"{header}\"");
+                }
+            });
         }
     }
     
@@ -35,12 +37,13 @@ namespace Manx_Search_Data
         }
 
         [Test]
-        public void OriginalManx()
+        public void OriginalHeaders()
         {
             // match manx-corpus-search's validation rules
-            // Check if invalid header Original Manx is present
-            var document = TestOnlyDocs.Load("OriginalManx");
-            Assert.Throws<NUnit.Framework.AssertionException>(() => Checker.check_headers(document));
+            // Check if invalid headers are present
+            var document = TestOnlyDocs.Load("OriginalHeaders");
+            Assert.Throws<NUnit.Framework.MultipleAssertException>(() => Checker.check_headers(document));
+            //Assert.Throws<NUnit.Framework.AssertionException>(() => Checker.check_headers(document));
         }
         [Test]
         public void FileDoesNotExist()

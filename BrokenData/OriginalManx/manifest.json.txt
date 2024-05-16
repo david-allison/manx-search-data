@@ -1,4 +1,0 @@
-{
-    "ident": "OriginalManx",
-    "name": "OriginalManx"
-}
