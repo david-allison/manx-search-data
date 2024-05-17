@@ -44,6 +44,7 @@ namespace Manx_Search_Data.TestUtil
         public string Original { get; set; }
 
         internal abstract List<DocumentLine> LoadLocalFile();
+        internal abstract List<string> LoadHeaders();
 
         protected static List<DocumentLine> LoadCsv(string path)
         {

@@ -9,5 +9,9 @@ namespace Manx_Search_Data.TestUtil
         {
             throw new NotImplementedException();
         }
+        internal override List<string> LoadHeaders()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -7,6 +7,21 @@ using System.Linq;
 
 namespace Manx_Search_Data
 {
+    public static class Checker
+    {
+        public static void CheckHeaders(Document document)
+        {
+            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }
+                .ToHashSet();
+
+            var headers = document.LoadHeaders();
+            Assert.Multiple(() =>
+            {
+                foreach (var header in invalidHeaders)
+                    Assert.That(headers, Does.Not.Contain(header), $"Found undesired header \"{header}\"");
+            });
+        }
+    }
     
     [TestFixture]
     public class BreakingTests
@@ -17,7 +32,22 @@ namespace Manx_Search_Data
             // match manx-corpus-search's validation rules
             // if a comma is deleted from a CSV, then the document is invalid
             var document = TestOnlyDocs.Load("MissingFinalComma");            
+        
             Assert.Throws<CsvHelper.MissingFieldException>(() => document.LoadLocalFile());
+        }
+
+        [Test]
+        public void OriginalHeaders()
+        {
+            // match manx-corpus-search's validation rules
+            // Check for presence of all invalid headers
+            var document = TestOnlyDocs.Load("OriginalHeaders");
+            Assert.Throws<MultipleAssertException>(() => Checker.CheckHeaders(document));
+        }
+        [Test]
+        public void FileDoesNotExist()
+        {
+            Assert.Throws<InvalidOperationException>(() => TestOnlyDocs.Load("NonExistentFile"));
         }
     }
 
@@ -167,14 +197,7 @@ namespace Manx_Search_Data
         {
             var openSourceDocument = AssumeOpenSource(document,  "'original' is not available yet");
 
-            var headers = openSourceDocument.LoadHeaders();
-
-            var invalidHeaders = new[] { "Original Manx", "Original English", "Manx Orginal", "English Orginal" }.ToHashSet();
-
-            foreach (var header in invalidHeaders)
-            {
-                Assert.That(headers, Does.Not.Contain(header));
-            }
+            Checker.CheckHeaders(document);
         }
         
         [Theory]
