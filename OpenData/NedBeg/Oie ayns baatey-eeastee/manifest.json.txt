@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1899-01-01",
+	"createdCircaEnd": "1899-12-31",
+	"ident": "NedBeg-Oie-ayns-baatey-eeastee",
+	"name": "Oie ayns baatey-eeastee",
+	"original": "Manx",
+	"iMuseum": "MNHL MS 00431C",
+	"transcription": "Broderick (1981), Lewin (2014)",
+	"edition": "Christopher Lewin",
+	"translation": "Christopher Lewin"
+}
