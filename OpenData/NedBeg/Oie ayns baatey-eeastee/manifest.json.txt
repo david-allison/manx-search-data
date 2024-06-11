@@ -1,7 +1,7 @@
 {
 	"createdCircaStart": "1899-01-01",
 	"createdCircaEnd": "1899-12-31",
-	"ident": "NedBeg_Oie_ayns_baatey-eeastee",
+	"ident": "NedBeg-Oie-ayns-baatey-eeastee",
 	"name": "Oie ayns baatey-eeastee",
 	"original": "Manx",
 	"iMuseum": "MNHL MS 00431C",
