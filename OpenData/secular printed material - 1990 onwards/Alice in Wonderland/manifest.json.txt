@@ -1,0 +1,15 @@
+{
+	"created": "2006-09-01",
+	"ident": "Ealish-2nd-edition-2006",
+	"name": "'Ealish ayns Cheer ny Yindyssyn 2nd Edition'",
+	"englishName": "Alice's Adventures in Wonderland",
+	"translator": "Brian Stowell",
+	"editor": "Chris Sheard",
+	"author": "Lewis Carroll",
+	"original": "English",
+	"notes": "This is the second, 2006 edition of Brian Stowell's translation of Lewis Carroll's  'Alices's Adventures in Wonderland', first published in English by Macmillan in 1865. The first edition of Stowell's translation was published in 1990. A third edition was published in 2010. No doubt due to the proliferation of double-entendre and word-play the translation is not entirely literal. The translation is of the first edition of 'Alices's Adventures in Wonderland', although a few annotated additions from later editions also appear.",
+	"Transcription": "RT",
+	"Translation": "Brian Stowell",
+	"source":  "'Ealish ayns Cheer ny Yindyssyn', Lewis Carroll, translated by Brian Stowell,  Yn Çheshaght Ghailckagh, Isle of Man, 2006.",
+}
+
