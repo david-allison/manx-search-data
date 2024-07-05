@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1819-01-01",
+	"createdCircaEnd": "1829-12-31",
+	"ident": "Coyrle-Saggyrt-1",
+	"name": "Coyrle Saggyrt",
+	"notes": "The earliest was the 'Bristol Society of the Church of England for dispersing little religious books,' and the first tract issued by that society is dated 1819. In 1822 an offshoot of the Bristol Society came into existence, and that a Manx one, viz., ' The Society for the education of the inhabitants of the Isle of Man through the medium of their own language.' The names of both societies appear on several of the tracts. Four of them bear the imprint of the Bristol Society alone, two are Bristol and Manx, two Manx alone, and two are without a Society’s name. The printers were G. Jefferson, of Douglas, R. Tilling, of Liverpool, and J. Chilcott, of Bristol. The latest date of this series of tracts is 1829. The majority are undated, but probably lie between 1819 and the last named year.'",
+	"transcribed": "Phil Kelly",
+	"translated": "Google Translate / Phil Kelly",
+	"printer": "R. Tilling, of Liverpool",
+	"original": "Manx",
+}
