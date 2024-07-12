@@ -1,0 +1,12 @@
+{
+	"createdCircaStart": "1950-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Caesar-Cashin-LQ",
+	"name": "Caesar Cashin",
+	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ3.html Pending metadata",
+	"author": "'J.T.L. QUIRK",
+	"original": "Manx",
+	"transcription": "Phil Kelly",
+	"source":  "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ3.html"
+}
+
