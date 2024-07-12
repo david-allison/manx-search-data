@@ -1,0 +1,12 @@
+{
+	"createdCircaStart": "1950-01-01",
+	"createdCircaEnd": "1990-12-31",
+	"ident": "Geaishtagh-Rish-Shenn-Sleih-LQ",
+	"name": "Geaishtagh Rish Shenn Sleih",
+	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ2.html Pending metadata",
+	"author": "'J.T.L. QUIRK",
+	"original": "Manx",
+	"transcription": "Phil Kelly",
+	"source":  "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ2.html"
+}
+
