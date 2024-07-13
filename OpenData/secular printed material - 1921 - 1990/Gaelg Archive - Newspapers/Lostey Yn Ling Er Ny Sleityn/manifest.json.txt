@@ -1,0 +1,11 @@
+{
+	"createdCircaStart": "1976-01-01",
+	"createdCircaEnd": "1976-12-31",
+	"ident": "Lostey-Yn-Ling-Er-Ny-Sleityn",
+	"name": "Lostey Yn Ling Er Ny Sleityn",
+	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/Comish/com2.html From the Manx Star, Noon as Noal columns in 1976",
+	"original": "Manx",
+	"transcription": "Phil Kelly",
+	"source":  "From the Manx Star, Noon as Noal columns in 1976"
+}
+
