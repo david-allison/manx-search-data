@@ -1,0 +1,12 @@
+{
+	"createdCircaStart": "1980-09-01",
+	"createdCircaEnd": "1980-09-30",
+	"ident": "Marrinys-Feeagh-Odin-GK",
+	"name": "Marrinys Feeagh Odin",
+	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/GK1.html Pending metadata",
+	"author": "Shorys Y Crayl",
+	"original": "Manx",
+	"transcription": "Phil Kelly",
+	"source":  "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/GK1.html"
+}
+
