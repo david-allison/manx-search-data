@@ -1,0 +1,11 @@
+{
+	"created": "1977-02-12",
+	"ident": "Roie-Raa",
+	"name": "Roie-Raa",
+	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/MB1.html From the Manx Star, Noon as Noal columns in 1977",
+	"original": "Manx",
+	"author": "Breagagh",
+	"transcription": "Phil Kelly",
+	"source":  "From the Manx Star, Noon as Noal columns in 1977"
+}
+
