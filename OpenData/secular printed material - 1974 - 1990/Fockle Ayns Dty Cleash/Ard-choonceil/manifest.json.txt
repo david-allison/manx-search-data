@@ -5,7 +5,9 @@
 	"englishName": "A Language Academy",
 	"author": "Unknown",
 	"original": "Manx",
-	"notes": "Transcription George Brodeick, Translation: RT",
-	"source":  "Manx Star, 1st March, 1975. Page unknown. Fockle Ayns Dy Cleash. (The original copy is not on the Museum microfiche, the date may be wrong.",
+	"notes": "The original copy is not on the Museum microfiche, 1974/5. Exact date is approximate based on the orderings of Fockle Ayns Dy Cleash transcriptions",
+	"transcription": "George Broderick",
+	"translation": "Rob Teare",
+	"source":  "Manx Star, 1st March, 1975. Page unknown. Fockle Ayns Dy Cleash.",
 }
 
