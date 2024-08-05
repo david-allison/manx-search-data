@@ -1,0 +1,11 @@
+{
+	"created": "1975-03-01",
+	"ident": "Fockle-Ayns-Dty-Cleash-Ard-choonceil-hengagh",
+	"name": "Fockle Ayns Dty Cleash: 'Ard-choonceil hengagh'",
+	"englishName": "A Language Academy",
+	"author": "Unknown",
+	"original": "Manx",
+	"notes": "Transcription George Brodeick, Translation: RT",
+	"source":  "Manx Star, 1st March, 1975. Page unknown. Fockle Ayns Dy Cleash. (The original copy is not on the Museum microfiche, the date may be wrong.",
+}
+
