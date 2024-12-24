@@ -1,9 +1,9 @@
 {
-	"created": "1868-07-11",
-	"ident": "Slattysyn-1868-I",
-	"name": "Slattysyn 1868 I",
-	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
-	"source":  "Isle of Man Times, Saturday, July 11, 1868; page 6. Sentnence starting 'Three acts'",
-	"original": "English",
-	"mnhNewsComponent": "Ar00602"
+  "created": "1868-07-11",
+  "ident": "Slattysyn-1868-I",
+  "name": "Slattysyn 1868 I",
+  "notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+  "source": "Isle of Man Times, Saturday, July 11, 1868; page 6. Sentnence starting \u0027Three acts\u0027",
+  "original": "English",
+  "mnhNewsComponent": "Ar00602"
 }

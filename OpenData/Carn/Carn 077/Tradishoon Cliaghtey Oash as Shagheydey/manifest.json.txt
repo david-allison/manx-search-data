@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1992-01-01",
-	"createdCircaEnd": "1992-12-31",
-	"ident": "Carn77TradishoonCliaghteyOashAsShagheydey",
-	"name": "Carn 077: Tradishoon, Cliaghtey, Oash as Shagheydey",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": "Spring 1992"
+  "createdCircaStart": "1992-01-01",
+  "createdCircaEnd": "1992-12-31",
+  "ident": "Carn77TradishoonCliaghteyOashAsShagheydey",
+  "name": "Carn 077: Tradishoon, Cliaghtey, Oash as Shagheydey",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": "Spring 1992"
 }

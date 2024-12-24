@@ -1,10 +1,9 @@
 {
-	"created": "1845-01-08",
-	"ident": "Buggane-gob-ny-scoot",
-	"name": "A voice from Buggane Gob-ny-scoot to Billy Illiam’",
-	"notes": "Perhaps referencing Ballawhane the fairy doctor's failure to silence the buggane of Gob-ny-Scooyt",
-	"mnhNewsComponent": "Ar00709",
-	"original": "Manx",
-	"source":  "Mona’s Herald, Wednesday, January 08, 1845; Page:7"
+  "created": "1845-01-08",
+  "ident": "Buggane-gob-ny-scoot",
+  "name": "A voice from Buggane Gob-ny-scoot to Billy Illiam\u2019",
+  "notes": "Perhaps referencing Ballawhane the fairy doctor\u0027s failure to silence the buggane of Gob-ny-Scooyt",
+  "mnhNewsComponent": "Ar00709",
+  "original": "Manx",
+  "source": "Mona\u2019s Herald, Wednesday, January 08, 1845; Page:7"
 }
-

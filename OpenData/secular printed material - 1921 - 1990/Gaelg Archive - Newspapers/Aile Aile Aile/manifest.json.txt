@@ -1,11 +1,10 @@
 {
-	"createdCircaStart": "1976-01-01",
-	"createdCircaEnd": "1976-12-31",
-	"ident": "Aile-Aile-Aile",
-	"name": "Aile! Aile! Aile!",
-	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/Comish/com11.html From the Manx Star, Noon as Noal columns in 1976",
-	"original": "Manx",
-	"transcription": "Phil Kelly",
-	"source":  "From the Manx Star, Noon as Noal columns in 1976"
+  "createdCircaStart": "1976-01-01",
+  "createdCircaEnd": "1976-12-31",
+  "ident": "Aile-Aile-Aile",
+  "name": "Aile! Aile! Aile!",
+  "notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/Comish/com11.html From the Manx Star, Noon as Noal columns in 1976",
+  "original": "Manx",
+  "transcription": "Phil Kelly",
+  "source": "From the Manx Star, Noon as Noal columns in 1976"
 }
-

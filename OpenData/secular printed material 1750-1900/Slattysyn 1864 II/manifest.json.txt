@@ -1,9 +1,9 @@
 {
-	"created": "1864-11-06",
-	"ident": "Slattysyn-1864-II",
-	"name": "Slattysyn 1864 II",
-	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
-	"source":  "Mona's Herald, Wednesday, November 16, 1864; Page: 11",
-	"original": "English",
-	"mnhNewsComponent": "Ar01116"
+  "created": "1864-11-06",
+  "ident": "Slattysyn-1864-II",
+  "name": "Slattysyn 1864 II",
+  "notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+  "source": "Mona\u0027s Herald, Wednesday, November 16, 1864; Page: 11",
+  "original": "English",
+  "mnhNewsComponent": "Ar01116"
 }

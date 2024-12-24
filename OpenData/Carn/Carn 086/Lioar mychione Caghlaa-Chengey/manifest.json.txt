@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1994-01-01",
-	"createdCircaEnd": "1994-12-31",
-	"ident": "Carn86LioarMychioneCaghlaa-Chengey",
-	"name": "Carn 086: Lioar mychione Caghlaa-Chengey",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Summer 1994"
+  "createdCircaStart": "1994-01-01",
+  "createdCircaEnd": "1994-12-31",
+  "ident": "Carn86LioarMychioneCaghlaa-Chengey",
+  "name": "Carn 086: Lioar mychione Caghlaa-Chengey",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Summer 1994"
 }

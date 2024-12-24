@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1976-10-31",
-	"createdCircaEnd": "1977-03-01",
-	"ident": "Carn16SostynBoiritMychioneOoillNyHAlbey",
-	"name": "Carn 016: Sostyn Boirit Mychione Ooill ny hAlbey.",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Winter 1976/7"
+  "createdCircaStart": "1976-10-31",
+  "createdCircaEnd": "1977-03-01",
+  "ident": "Carn16SostynBoiritMychioneOoillNyHAlbey",
+  "name": "Carn 016: Sostyn Boirit Mychione Ooill ny hAlbey.",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Winter 1976/7"
 }

@@ -1,10 +1,9 @@
 {
-	"created": "1958-10-31",
-	"ident": "Manninagh-Jeeaghyn-My-Hiar",
-	"name": "Manninagh Jeeaghyn My Hiar",
-	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/Comish/com7.html From the Manx Star, Noon as Noal columns in 1976",
-	"original": "Manx",
-	"transcription": "Phil Kelly",
-	"source":  "From the Manx Star, Noon as Noal columns in 1976"
+  "created": "1958-10-31",
+  "ident": "Manninagh-Jeeaghyn-My-Hiar",
+  "name": "Manninagh Jeeaghyn My Hiar",
+  "notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/Comish/com7.html From the Manx Star, Noon as Noal columns in 1976",
+  "original": "Manx",
+  "transcription": "Phil Kelly",
+  "source": "From the Manx Star, Noon as Noal columns in 1976"
 }
-

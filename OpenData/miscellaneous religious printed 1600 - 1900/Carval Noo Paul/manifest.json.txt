@@ -1,14 +1,14 @@
 {
-	"createdCircaStart": "1793-01-01",
-	"createdCircaEnd": "1793-12-31",
-	"ident": "Carval-Noo-Paul",
-	"name": "Carval Noo Paul",
-	"type": "Printed Carval",
-	"notes": "A carval published in printed form in 1793.  Spelling as in original document. Also known as 'My vraar deyr graihagh tar ayns shee.' Shares some verses with 'Carval Er Chyndaays', printed over 3 weeks starting from April 10, 1889 in Mona's Herald",
-	"translated": "R.Teare",
-	"transcribed": "R. Teare",
-	"author": "John Moore (aka John yn Tiger), Ballacamaish, Andreas",
-	"original": "Manx",
-	"source":  "Manx Museum MS154A",
-	"Proofread": "Not yet"
+  "createdCircaStart": "1793-01-01",
+  "createdCircaEnd": "1793-12-31",
+  "ident": "Carval-Noo-Paul",
+  "name": "Carval Noo Paul",
+  "type": "Printed Carval",
+  "notes": "A carval published in printed form in 1793.  Spelling as in original document. Also known as \u0027My vraar deyr graihagh tar ayns shee.\u0027 Shares some verses with \u0027Carval Er Chyndaays\u0027, printed over 3 weeks starting from April 10, 1889 in Mona\u0027s Herald",
+  "translated": "R.Teare",
+  "transcribed": "R. Teare",
+  "author": "John Moore (aka John yn Tiger), Ballacamaish, Andreas",
+  "original": "Manx",
+  "source": "Manx Museum MS154A",
+  "Proofread": "Not yet"
 }

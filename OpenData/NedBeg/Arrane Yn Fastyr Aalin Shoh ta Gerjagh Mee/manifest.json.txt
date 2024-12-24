@@ -1,6 +1,6 @@
 {
-	"created": "1899-06-12",
-	"ident": "NedBegYnFastyrAalinShohTaGerjaghMee",
-	"name": "Yn Fastyr Aalin Shoh ta Gerjagh Mee",
-	"type": "Arrane"
+  "created": "1899-06-12",
+  "ident": "NedBegYnFastyrAalinShohTaGerjaghMee",
+  "name": "Yn Fastyr Aalin Shoh ta Gerjagh Mee",
+  "type": "Arrane"
 }

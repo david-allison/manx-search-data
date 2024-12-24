@@ -1,9 +1,9 @@
 {
-	"created": "1872-02-21",
-	"ident": "Monas-Herald-Closing-Address",
-	"name": "Closing Address to the Manx Readings and Concert",
-	"notes": "Likely given by Rev. Thos. Caine. Transcription & Translation; R. Teare",
-	"original": "Manx",
-	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 5",
-	"mnhNewsComponent": "Ar00517"
+  "created": "1872-02-21",
+  "ident": "Monas-Herald-Closing-Address",
+  "name": "Closing Address to the Manx Readings and Concert",
+  "notes": "Likely given by Rev. Thos. Caine. Transcription \u0026 Translation; R. Teare",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Wednesday, February 21, 1872; Page: 5",
+  "mnhNewsComponent": "Ar00517"
 }

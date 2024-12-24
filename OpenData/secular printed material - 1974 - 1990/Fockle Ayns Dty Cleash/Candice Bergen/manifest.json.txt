@@ -1,13 +1,12 @@
 {
-	"created": "1975-10-11",
-	"ident": "Fockle-Ayns-Dty-Cleash-Candice-Bergen",
-	"name": "Fockle Ayns Dty Cleash: 'Candice Bergen'",
-	"englishName": "Candice-Bergen",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 11th October, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1975-10-11",
+  "ident": "Fockle-Ayns-Dty-Cleash-Candice-Bergen",
+  "name": "Fockle Ayns Dty Cleash: \u0027Candice Bergen\u0027",
+  "englishName": "Candice-Bergen",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 11th October, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

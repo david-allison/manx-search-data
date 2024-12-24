@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1988-01-01",
-	"createdCircaEnd": "1988-12-31",
-	"ident": "Carn62YnRaadErOaieRereNIREX",
-	"name": "Carn 062: Yn Raad Er Oaie Rere NIREX",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": "Summer 1988"
+  "createdCircaStart": "1988-01-01",
+  "createdCircaEnd": "1988-12-31",
+  "ident": "Carn62YnRaadErOaieRereNIREX",
+  "name": "Carn 062: Yn Raad Er Oaie Rere NIREX",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": "Summer 1988"
 }

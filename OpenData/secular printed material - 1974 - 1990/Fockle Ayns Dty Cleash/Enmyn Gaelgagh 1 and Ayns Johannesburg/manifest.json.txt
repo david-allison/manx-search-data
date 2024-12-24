@@ -1,11 +1,10 @@
 {
-	"created": "1974-09-30",
-	"ident": "Fockle-Ayns-Dty-Cleash-Enmyn-Gaelgagh-1-Ayns-Johannesburg",
-	"name": "Fockle Ayns Dty Cleash: 'Enmyn-Gaelgagh-1'-/-'Ayns-Johannesburg'",
-	"englishName": "'Gaelic Names' / 'In Johannesburg'",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 30th September, 1974. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1974-09-30",
+  "ident": "Fockle-Ayns-Dty-Cleash-Enmyn-Gaelgagh-1-Ayns-Johannesburg",
+  "name": "Fockle Ayns Dty Cleash: \u0027Enmyn-Gaelgagh-1\u0027-/-\u0027Ayns-Johannesburg\u0027",
+  "englishName": "\u0027Gaelic Names\u0027 / \u0027In Johannesburg\u0027",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 30th September, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

@@ -1,9 +1,9 @@
 {
-	"created": "1872-02-21",
-	"ident": "Letter-from-the-Rev-Clarke",
-	"name": "Letter from the Rev J. T. Clarke",
-	"notes": "The following letter from the Rev J. T. Clarke, chaplain of the Seamen’s Bethel, Swansea (who has contributed valuable aid, as a translator, to Manx literature), was to have been read, but it was omitted, owing to the absence of Mr Harry Cubbon, of Laxey ",
-	"original": "Manx",
-	"author": "Rev. J. T. Clarke.",
-	"source": "Mona's Herald, Wednesday, February 21, 1872; Page: 13"
+  "created": "1872-02-21",
+  "ident": "Letter-from-the-Rev-Clarke",
+  "name": "Letter from the Rev J. T. Clarke",
+  "notes": "The following letter from the Rev J. T. Clarke, chaplain of the Seamen\u2019s Bethel, Swansea (who has contributed valuable aid, as a translator, to Manx literature), was to have been read, but it was omitted, owing to the absence of Mr Harry Cubbon, of Laxey ",
+  "original": "Manx",
+  "author": "Rev. J. T. Clarke.",
+  "source": "Mona\u0027s Herald, Wednesday, February 21, 1872; Page: 13"
 }

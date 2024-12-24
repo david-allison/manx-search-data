@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2003-01-01",
-	"createdCircaEnd": "2003-12-31",
-	"ident": "Carn122Lunnin-CheNeemaydNishtagh",
-	"name": "Carn 122: Lunnin - Che Neemayd Nishtagh?",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Carn 122 Spring/Summer 2003"
+  "createdCircaStart": "2003-01-01",
+  "createdCircaEnd": "2003-12-31",
+  "ident": "Carn122Lunnin-CheNeemaydNishtagh",
+  "name": "Carn 122: Lunnin - Che Neemayd Nishtagh?",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Carn 122 Spring/Summer 2003"
 }

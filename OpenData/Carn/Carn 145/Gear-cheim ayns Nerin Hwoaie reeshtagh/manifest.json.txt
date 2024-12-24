@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2010-02-01",
-	"createdCircaEnd": "2010-02-28",
-	"ident": "Carn145Gear-cheimAynsNerinHwoaieReeshtagh",
-	"name": "Carn 145: Gear-cheim ayns Nerin Hwoaie reeshtagh",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "February 2010"
+  "createdCircaStart": "2010-02-01",
+  "createdCircaEnd": "2010-02-28",
+  "ident": "Carn145Gear-cheimAynsNerinHwoaieReeshtagh",
+  "name": "Carn 145: Gear-cheim ayns Nerin Hwoaie reeshtagh",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "February 2010"
 }

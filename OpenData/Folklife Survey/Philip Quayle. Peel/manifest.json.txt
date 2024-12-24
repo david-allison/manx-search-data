@@ -1,8 +1,8 @@
 {
-	"created": "1935-01-01",
-	"ident": "Manx-Conversation-Philip-Quayle",
-	"name": "Manx Conversation. Philip Quayle, Mona St., Peel.c.1935.",
-	"notes": "Typed record of a conversation.",
-	"translated": "Rob Teare 2021",
-	"source":  "Manx Museum Folk Life Survey; FLS Q/33A" 
+  "created": "1935-01-01",
+  "ident": "Manx-Conversation-Philip-Quayle",
+  "name": "Manx Conversation. Philip Quayle, Mona St., Peel.c.1935.",
+  "notes": "Typed record of a conversation.",
+  "translated": "Rob Teare 2021",
+  "source": "Manx Museum Folk Life Survey; FLS Q/33A"
 }

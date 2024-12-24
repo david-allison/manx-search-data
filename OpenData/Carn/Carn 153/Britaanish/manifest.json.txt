@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2012-01-01",
-	"createdCircaEnd": "2012-12-31",
-	"ident": "Carn153Britaanish",
-	"name": "Carn 153: Britaanish",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Summer-Autumn 2012"
+  "createdCircaStart": "2012-01-01",
+  "createdCircaEnd": "2012-12-31",
+  "ident": "Carn153Britaanish",
+  "name": "Carn 153: Britaanish",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Summer-Autumn 2012"
 }

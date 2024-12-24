@@ -1,8 +1,8 @@
 {
-	"createdCircaStart": "1977-01-01",
-	"createdCircaEnd": "1977-12-31",
-	"ident": "Carn18SeyrsnysNyHAlbey-NyVeg",
-	"name": "Carn 018: Seyrsnys ny hAlbey - ny Veg.",
-	"original": "Manx",
-	"notes": "Summer 1977"
+  "createdCircaStart": "1977-01-01",
+  "createdCircaEnd": "1977-12-31",
+  "ident": "Carn18SeyrsnysNyHAlbey-NyVeg",
+  "name": "Carn 018: Seyrsnys ny hAlbey - ny Veg.",
+  "original": "Manx",
+  "notes": "Summer 1977"
 }

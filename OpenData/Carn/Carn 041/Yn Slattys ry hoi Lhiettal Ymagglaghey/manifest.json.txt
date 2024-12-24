@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1983-01-01",
-	"createdCircaEnd": "1983-12-31",
-	"ident": "Carn41YnSlattysRyHoiLhiettalYmagglaghey",
-	"name": "Carn 041: Yn Slattys ry hoi Lhiettal Ymagglaghey",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1983"
+  "createdCircaStart": "1983-01-01",
+  "createdCircaEnd": "1983-12-31",
+  "ident": "Carn41YnSlattysRyHoiLhiettalYmagglaghey",
+  "name": "Carn 041: Yn Slattys ry hoi Lhiettal Ymagglaghey",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1983"
 }

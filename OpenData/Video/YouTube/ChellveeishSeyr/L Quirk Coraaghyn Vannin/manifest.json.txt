@@ -1,11 +1,11 @@
 {
-	"createdCircaStart": "2002-09-01",
-	"createdCircaEnd": "2002-09-29",
-	"ident": "YouTube-L-Quirk-Coraaghyn-Vannin",
-	"name": "🎥 L Quirk Coraaghyn Vannin",
-	"notes": "Conversation between Leslie Quirk & Rob Teare",
-	"author": "Leslie Quirk",
-	"translated": "Rob Teare 2022",
-	"original": "Manx",
-	"source":  "https://www.youtube.com/watch?v=-XeBkH9_RDs"
+  "createdCircaStart": "2002-09-01",
+  "createdCircaEnd": "2002-09-29",
+  "ident": "YouTube-L-Quirk-Coraaghyn-Vannin",
+  "name": "\uD83C\uDFA5 L Quirk Coraaghyn Vannin",
+  "notes": "Conversation between Leslie Quirk \u0026 Rob Teare",
+  "author": "Leslie Quirk",
+  "translated": "Rob Teare 2022",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=-XeBkH9_RDs"
 }

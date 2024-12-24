@@ -1,15 +1,15 @@
 {
-	"createdCircaStart": "1948-01-01",
-	"createdCircaEnd": "1948-12-31",
-	"ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-5",
-	"name": "🎥 Skeealyn Vannin, Disk 1 Track 5",
-	"notes": "Conversation: Harry Boyde, Ballaugh and Tom (Thobm) Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
-	"author": "Harry Boyde, Ballaugh and Tom (Thobm) Braide",
-	"translated": "Walter Clarke, Ramsey",
-	"transcribed": "Walter Clarke, Ramsey",
-	"original": "Manx",
-	"source":  "https://www.youtube.com/watch?v=cosFv11kE8E",
-	"iMuseum": "https://imuseum.im/search/archive_record/view/40?id=mnh-museum-675916",
-	"duration": "4:09",
-	"MNH ID": "SA 0579/1/5"
+  "createdCircaStart": "1948-01-01",
+  "createdCircaEnd": "1948-12-31",
+  "ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-5",
+  "name": "\uD83C\uDFA5 Skeealyn Vannin, Disk 1 Track 5",
+  "notes": "Conversation: Harry Boyde, Ballaugh and Tom (Thobm) Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
+  "author": "Harry Boyde, Ballaugh and Tom (Thobm) Braide",
+  "translated": "Walter Clarke, Ramsey",
+  "transcribed": "Walter Clarke, Ramsey",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=cosFv11kE8E",
+  "iMuseum": "https://imuseum.im/search/archive_record/view/40?id=mnh-museum-675916",
+  "duration": "4:09",
+  "MNH ID": "SA 0579/1/5"
 }

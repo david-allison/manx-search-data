@@ -1,7 +1,7 @@
 {
-	"createdCircaStart": "1906-01-01",
-	"createdCircaEnd": "1907-12-31",
-	"ident": "NedBeg-Composed-on-seeing-the-mountains-of-the-Island",
-	"name": "Composed on seeing the mountains of the Island",
-	"notes": "Composed on seeing the mountains of the Island on my passage home from Crookhaven; scruit er fakin ny Sleityn.\nIn \"Loose Papers\", assumed to be dated 1906-1907."
+  "createdCircaStart": "1906-01-01",
+  "createdCircaEnd": "1907-12-31",
+  "ident": "NedBeg-Composed-on-seeing-the-mountains-of-the-Island",
+  "name": "Composed on seeing the mountains of the Island",
+  "notes": "Composed on seeing the mountains of the Island on my passage home from Crookhaven; scruit er fakin ny Sleityn.\nIn \u0022Loose Papers\u0022, assumed to be dated 1906-1907."
 }

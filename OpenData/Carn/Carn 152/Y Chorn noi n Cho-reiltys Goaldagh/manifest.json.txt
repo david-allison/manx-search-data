@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2012-01-01",
-	"createdCircaEnd": "2012-12-31",
-	"ident": "Carn152YChornNoiNCho-reiltysGoaldagh",
-	"name": "Carn 152: Y Chorn noi'n Cho-reiltys Goaldaghe",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Spring 2012"
+  "createdCircaStart": "2012-01-01",
+  "createdCircaEnd": "2012-12-31",
+  "ident": "Carn152YChornNoiNCho-reiltysGoaldagh",
+  "name": "Carn 152: Y Chorn noi\u0027n Cho-reiltys Goaldaghe",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Spring 2012"
 }

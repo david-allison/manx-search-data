@@ -1,9 +1,9 @@
 {
-	"created": "1924-03-30",
-	"ident": "letter-from-cleveland",
-	"name": "A Letter From Cleveland",
-	"original": "Manx",
-	"translation": "J J Kneen",
-	"transcription": "R. Teare",
-	"notes": "In; Papers of J J Kneen. MS 11064. Printed copy of a letter in Manx with accompanying translation by J J Kneen. Transcribed by RT"
+  "created": "1924-03-30",
+  "ident": "letter-from-cleveland",
+  "name": "A Letter From Cleveland",
+  "original": "Manx",
+  "translation": "J J Kneen",
+  "transcription": "R. Teare",
+  "notes": "In; Papers of J J Kneen. MS 11064. Printed copy of a letter in Manx with accompanying translation by J J Kneen. Transcribed by RT"
 }

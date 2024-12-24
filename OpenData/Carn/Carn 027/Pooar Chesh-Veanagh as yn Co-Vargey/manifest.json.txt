@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1979-01-01",
-	"createdCircaEnd": "1979-12-31",
-	"ident": "Carn27PooarChesh-VeanaghAsYnCo-Vargey",
-	"name": "Carn 027: Pooar Chesh-Veanagh as yn Co-Vargey.",
-	"author": "Brian Mac Stoyll",
-	"original": "Manx",
-	"notes": "Autumn 1979"
+  "createdCircaStart": "1979-01-01",
+  "createdCircaEnd": "1979-12-31",
+  "ident": "Carn27PooarChesh-VeanaghAsYnCo-Vargey",
+  "name": "Carn 027: Pooar Chesh-Veanagh as yn Co-Vargey.",
+  "author": "Brian Mac Stoyll",
+  "original": "Manx",
+  "notes": "Autumn 1979"
 }

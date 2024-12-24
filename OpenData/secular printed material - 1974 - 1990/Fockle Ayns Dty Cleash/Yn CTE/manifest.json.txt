@@ -1,13 +1,12 @@
 {
-	"created": "1975-05-31",
-	"ident": "Fockle-Ayns-Dty-Cleash-YN-CTE",
-	"name": "Fockle Ayns Dty Cleash: 'Yn C.T.E.'",
-	"englishName": "The E.E.C.",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 31st May, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1975-05-31",
+  "ident": "Fockle-Ayns-Dty-Cleash-YN-CTE",
+  "name": "Fockle Ayns Dty Cleash: \u0027Yn C.T.E.\u0027",
+  "englishName": "The E.E.C.",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 31st May, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

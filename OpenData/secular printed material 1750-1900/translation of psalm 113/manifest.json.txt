@@ -1,8 +1,8 @@
 {
-	"created": "1803-05-14",
-	"ident": "Translation-of-Psalm-113",
-	"name": "Translation of Psalm 113",
-	"notes": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
-	"source": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
-	"mnhNewsComponent": "Ar00707"
+  "created": "1803-05-14",
+  "ident": "Translation-of-Psalm-113",
+  "name": "Translation of Psalm 113",
+  "notes": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
+  "source": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
+  "mnhNewsComponent": "Ar00707"
 }

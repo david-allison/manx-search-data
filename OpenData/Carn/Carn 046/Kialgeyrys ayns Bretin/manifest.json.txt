@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1984-01-01",
-	"createdCircaEnd": "1984-12-31",
-	"ident": "Carn46KialgeyrysAynsBretin",
-	"name": "Carn 046: Kialgeyrys ayns Bretin",
-	"original": "Manx",
-	"author": "Brian Mac Stoyll",
-	"notes": "Summer 1984"
+  "createdCircaStart": "1984-01-01",
+  "createdCircaEnd": "1984-12-31",
+  "ident": "Carn46KialgeyrysAynsBretin",
+  "name": "Carn 046: Kialgeyrys ayns Bretin",
+  "original": "Manx",
+  "author": "Brian Mac Stoyll",
+  "notes": "Summer 1984"
 }

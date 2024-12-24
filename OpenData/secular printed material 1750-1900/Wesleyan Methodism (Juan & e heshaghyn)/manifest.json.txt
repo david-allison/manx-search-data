@@ -1,11 +1,11 @@
 {
-	"created": "1850-08-07",
-	"ident": "Wesleyan-Methodism",
-	"name": "Wesleyan Methodism (Juan & e heshaghyn).",
-	"notes": "A letter to Mona’s Herald by Juan as e heshaghyn",
-	"author": "Juan as e heshaghyn",
-	"translated": "Rob Teare 2021",
-	"original": "Manx",
-	"source":  "Mona's Herald, Wednesday, August 07, 1850; Page: 4",
-	"mnhNewsComponent": "Ar00413"
+  "created": "1850-08-07",
+  "ident": "Wesleyan-Methodism",
+  "name": "Wesleyan Methodism (Juan \u0026 e heshaghyn).",
+  "notes": "A letter to Mona\u2019s Herald by Juan as e heshaghyn",
+  "author": "Juan as e heshaghyn",
+  "translated": "Rob Teare 2021",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Wednesday, August 07, 1850; Page: 4",
+  "mnhNewsComponent": "Ar00413"
 }

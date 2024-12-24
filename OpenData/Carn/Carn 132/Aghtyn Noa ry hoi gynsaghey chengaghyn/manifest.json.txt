@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2005-01-01",
-	"createdCircaEnd": "2005-12-31",
-	"ident": "Carn132AghtynNoaRyHoiGynsagheyChengaghyn",
-	"name": "Carn 132: Aghtyn Noa ry hoi gynsaghey chengaghyn",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Winter 2005"
+  "createdCircaStart": "2005-01-01",
+  "createdCircaEnd": "2005-12-31",
+  "ident": "Carn132AghtynNoaRyHoiGynsagheyChengaghyn",
+  "name": "Carn 132: Aghtyn Noa ry hoi gynsaghey chengaghyn",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Winter 2005"
 }

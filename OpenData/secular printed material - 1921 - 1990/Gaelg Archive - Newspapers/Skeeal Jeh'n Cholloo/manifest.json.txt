@@ -1,12 +1,11 @@
 {
-	"createdCircaStart": "1950-01-01",
-	"createdCircaEnd": "1990-12-31",
-	"ident": "Skeeal-Jeh-n-Cholloo-LQ",
-	"name": "Skeeal Jeh'n Cholloo",
-	"notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html Pending metadata",
-	"author": "Sean Tomas; Leisle O'Cuirc",
-	"original": "Manx",
-	"transcription": "Phil Kelly",
-	"source":  "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html"
+  "createdCircaStart": "1950-01-01",
+  "createdCircaEnd": "1990-12-31",
+  "ident": "Skeeal-Jeh-n-Cholloo-LQ",
+  "name": "Skeeal Jeh\u0027n Cholloo",
+  "notes": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html Pending metadata",
+  "author": "Sean Tomas; Leisle O\u0027Cuirc",
+  "original": "Manx",
+  "transcription": "Phil Kelly",
+  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html"
 }
-

@@ -1,7 +1,7 @@
 {
-	"createdCircaStart": "1906-01-01",
-	"createdCircaEnd": "1907-12-31",
-	"ident": "NedBeg-Labbree-va-Cummal-ayns-Dundee",
-	"name": "Labbree va Cummal ayns Dundee",
-	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907."
+  "createdCircaStart": "1906-01-01",
+  "createdCircaEnd": "1907-12-31",
+  "ident": "NedBeg-Labbree-va-Cummal-ayns-Dundee",
+  "name": "Labbree va Cummal ayns Dundee",
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907."
 }

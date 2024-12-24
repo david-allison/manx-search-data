@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1991-01-01",
-	"createdCircaEnd": "1992-12-31",
-	"ident": "Carn76NaightynVeihNalbin",
-	"name": "Carn 076: Naightyn Veih Nalbin",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": " Winter 1991/2 30th year Special with supplement"
+  "createdCircaStart": "1991-01-01",
+  "createdCircaEnd": "1992-12-31",
+  "ident": "Carn76NaightynVeihNalbin",
+  "name": "Carn 076: Naightyn Veih Nalbin",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": " Winter 1991/2 30th year Special with supplement"
 }

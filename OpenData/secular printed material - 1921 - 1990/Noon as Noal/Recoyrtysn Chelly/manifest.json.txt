@@ -1,14 +1,13 @@
 {
-	"created": "1977-02-26",
-	"ident": "Noon-As-Noal-Recortysyn-Chelly",
-	"name": "Noon as Noal Marish 'Breagagh': 'Recortysyn Harry Kelly / Illiam y Radlagh / Fow Turneyr! / ‘Dobberab Ny Bentreoghe Aeg’ / ‘Puzzle in Manx’",
-	"englishName": "The Harry Kelly Recordings / Bill Radcliffe / Get a Lawyer! / ‘The Lament of the Young Widow’ / ‘A Puzzle in Manx’",
-	"notes": "Biographical piece by M. Braide about meeting Harry Kelly and Carl Marstrander)",
-	"author": "'Introduction by 'Breagagh', 'Harry Kelly' by M. Braide. Letter by W. Radcliffe",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Manx Star, Saturday, 26th February, 1977 "
-
+  "created": "1977-02-26",
+  "ident": "Noon-As-Noal-Recortysyn-Chelly",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: \u0027Recortysyn Harry Kelly / Illiam y Radlagh / Fow Turneyr! / \u2018Dobberab Ny Bentreoghe Aeg\u2019 / \u2018Puzzle in Manx\u2019",
+  "englishName": "The Harry Kelly Recordings / Bill Radcliffe / Get a Lawyer! / \u2018The Lament of the Young Widow\u2019 / \u2018A Puzzle in Manx\u2019",
+  "notes": "Biographical piece by M. Braide about meeting Harry Kelly and Carl Marstrander)",
+  "author": "\u0027Introduction by \u0027Breagagh\u0027, \u0027Harry Kelly\u0027 by M. Braide. Letter by W. Radcliffe",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Manx Star, Saturday, 26th February, 1977 "
 }

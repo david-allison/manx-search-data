@@ -1,13 +1,13 @@
 {
-	"created": "1976-01-15",
-	"ident": "Gynsaghey-Gaelg",
-	"name": "Noon as Noal Marish 'Breagagh': Gynsaghey Gaelg’",
-	"englishName": "'Learning Manx'",
-	"notes": "Column 'Noon as Noal'. Autobiographical piece by 'Breagagh'",
-	"author": "Breagagh. (D. Faragher.)",
-	"original": "Manx",
-	"type": "Autoiographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Saturday, 15th January, 1977 "
+  "created": "1976-01-15",
+  "ident": "Gynsaghey-Gaelg",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: Gynsaghey Gaelg\u2019",
+  "englishName": "\u0027Learning Manx\u0027",
+  "notes": "Column \u0027Noon as Noal\u0027. Autobiographical piece by \u0027Breagagh\u0027",
+  "author": "Breagagh. (D. Faragher.)",
+  "original": "Manx",
+  "type": "Autoiographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Saturday, 15th January, 1977 "
 }

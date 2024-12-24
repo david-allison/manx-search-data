@@ -1,10 +1,10 @@
 {
-	"created": "1872-12-18",
-	"ident": "Tra-Haink-Nicodemus",
-	"name": "Tra Haink Nicodemus er yn Oie.",
-	"notes": "Carval printed in Mona's Herald..",
-	"translated": "Rob Teare 2021",
-	"original": "Manx",
-	"mnhNewsComponent": "Ar01409",
-	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
+  "created": "1872-12-18",
+  "ident": "Tra-Haink-Nicodemus",
+  "name": "Tra Haink Nicodemus er yn Oie.",
+  "notes": "Carval printed in Mona\u0027s Herald..",
+  "translated": "Rob Teare 2021",
+  "original": "Manx",
+  "mnhNewsComponent": "Ar01409",
+  "source": "Mona\u0027s Herald, Wednesday, December 18, 1872; Page: 14"
 }

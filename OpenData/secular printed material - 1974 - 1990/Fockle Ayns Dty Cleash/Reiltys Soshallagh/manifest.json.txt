@@ -1,13 +1,12 @@
 {
-	"created": "1974-07-26",
-	"ident": "Fockle-Ayns-Dty-Cleash-Reiltys-Soshollagh",
-	"name": "Fockle Ayns Dty Cleash: 'Reiltys Soshollagh'",
-	"englishName": "A Socialist Government",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 26th July, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1974-07-26",
+  "ident": "Fockle-Ayns-Dty-Cleash-Reiltys-Soshollagh",
+  "name": "Fockle Ayns Dty Cleash: \u0027Reiltys Soshollagh\u0027",
+  "englishName": "A Socialist Government",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 26th July, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

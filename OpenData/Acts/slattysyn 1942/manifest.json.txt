@@ -1,9 +1,9 @@
 {
-	"created": "1942-07-05",
-	"ident": "Acts-1942",
-	"name": "Slattysyn 1942",
-	"author": "unknown",
-	"original": "English",
-	"iMuseum": "MS D200",
-	"notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1942."
+  "created": "1942-07-05",
+  "ident": "Acts-1942",
+  "name": "Slattysyn 1942",
+  "author": "unknown",
+  "original": "English",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1942."
 }

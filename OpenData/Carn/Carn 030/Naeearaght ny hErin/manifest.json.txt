@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1980-01-01",
-	"createdCircaEnd": "1980-12-31",
-	"ident": "Carn30NaeearaghtNyHErin",
-	"name": "Carn 030: Naeearaght ny hErin.",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Summer 1980"
+  "createdCircaStart": "1980-01-01",
+  "createdCircaEnd": "1980-12-31",
+  "ident": "Carn30NaeearaghtNyHErin",
+  "name": "Carn 030: Naeearaght ny hErin.",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Summer 1980"
 }

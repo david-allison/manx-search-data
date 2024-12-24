@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1996-01-01",
-	"createdCircaEnd": "1996-12-31",
-	"ident": "Carn93GollDyMoalErYnRaadShee",
-	"name": "Carn 093: Goll dy Moal er yn Raad Shee",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Spring 1996"
+  "createdCircaStart": "1996-01-01",
+  "createdCircaEnd": "1996-12-31",
+  "ident": "Carn93GollDyMoalErYnRaadShee",
+  "name": "Carn 093: Goll dy Moal er yn Raad Shee",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Spring 1996"
 }

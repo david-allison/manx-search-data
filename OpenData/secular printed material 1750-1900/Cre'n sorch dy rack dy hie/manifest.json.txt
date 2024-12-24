@@ -1,11 +1,11 @@
 {
-	"created": "1868-08-19",
-	"ident": "Cren-sorch-dy-rack-dy-hie",
-	"name": "Cre'n sorch dy rack dy hie",
-	"notes": "A satirical poem by J.Q.",
-	"author": "J.Q.",
-	"original": "Manx",
-	"type": "Poem",
-	"source":  "Mona's Herald, Wednesday, August 19, 1868; Page: 3",
-	"mnhNewsComponent": "Ar00305"
+  "created": "1868-08-19",
+  "ident": "Cren-sorch-dy-rack-dy-hie",
+  "name": "Cre\u0027n sorch dy rack dy hie",
+  "notes": "A satirical poem by J.Q.",
+  "author": "J.Q.",
+  "original": "Manx",
+  "type": "Poem",
+  "source": "Mona\u0027s Herald, Wednesday, August 19, 1868; Page: 3",
+  "mnhNewsComponent": "Ar00305"
 }

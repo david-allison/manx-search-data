@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1984-01-01",
-	"createdCircaEnd": "1985-12-31",
-	"ident": "Carn47and8DaaChooish",
-	"name": "Carn 047/8: Daa Chooish",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": "Double Issue - Carn 47 and 48 Autumn/Winter 1984/5 Double issue"
+  "createdCircaStart": "1984-01-01",
+  "createdCircaEnd": "1985-12-31",
+  "ident": "Carn47and8DaaChooish",
+  "name": "Carn 047/8: Daa Chooish",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": "Double Issue - Carn 47 and 48 Autumn/Winter 1984/5 Double issue"
 }

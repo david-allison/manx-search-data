@@ -1,8 +1,8 @@
 {
-	"createdCircaStart": "1996-01-01",
-	"createdCircaEnd": "1996-12-31",
-	"ident": "Carn95FeailleyGaelgagh",
-	"name": "Carn 095: Feailley Gaelgagh",
-	"original": "Manx",
-	"notes": "Autumn 1996. Advert - Unlisted Author"
+  "createdCircaStart": "1996-01-01",
+  "createdCircaEnd": "1996-12-31",
+  "ident": "Carn95FeailleyGaelgagh",
+  "name": "Carn 095: Feailley Gaelgagh",
+  "original": "Manx",
+  "notes": "Autumn 1996. Advert - Unlisted Author"
 }

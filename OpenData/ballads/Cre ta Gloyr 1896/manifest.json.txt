@@ -1,11 +1,11 @@
 {
-	"created": "1896-01-01",
-	"ident": "Cre-ta-gloyr-1896",
-	"name": "Cre ta Gloyr (1896)",
-	"notes": "Poem. Author; Rev. T. Stephen; Translation; Moore A.W..",
-	"author": "Rev. T. Stephen",
-	"translator": "A.W. Moore",
-	"type": "Poem",
-	"original": "Manx",
-	"source": "Manx Ballads & Music Ed; A.W.Moore M.A.; G & R Johnson; Douglas; 1896."
+  "created": "1896-01-01",
+  "ident": "Cre-ta-gloyr-1896",
+  "name": "Cre ta Gloyr (1896)",
+  "notes": "Poem. Author; Rev. T. Stephen; Translation; Moore A.W..",
+  "author": "Rev. T. Stephen",
+  "translator": "A.W. Moore",
+  "type": "Poem",
+  "original": "Manx",
+  "source": "Manx Ballads \u0026 Music Ed; A.W.Moore M.A.; G \u0026 R Johnson; Douglas; 1896."
 }

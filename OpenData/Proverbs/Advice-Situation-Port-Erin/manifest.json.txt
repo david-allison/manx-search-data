@@ -1,10 +1,10 @@
 {
-	"created": "1879-02-01",
-	"ident": "Raaghyn-Creeney-Gaelgagh",
-	"name": "Raaghyn Creeney Gaelgagh",
-	"notes": "Raaghyn Creeney Gaelgagh. Manx Proverbs applied to the ‘Port Erin Agitation’ under the headings; advice, situation, Port Erin, equivalents, finance and the minority. Both English and Manx printed in the newspaper",
-	"author": "Manx Sun",
-	"type": "Proverbs",
-	"source":  "Manx Sun, Saturday, February 01, 1879; Page: 13",
-	"mnhNewsComponent": "Ar01307"
+  "created": "1879-02-01",
+  "ident": "Raaghyn-Creeney-Gaelgagh",
+  "name": "Raaghyn Creeney Gaelgagh",
+  "notes": "Raaghyn Creeney Gaelgagh. Manx Proverbs applied to the \u2018Port Erin Agitation\u2019 under the headings; advice, situation, Port Erin, equivalents, finance and the minority. Both English and Manx printed in the newspaper",
+  "author": "Manx Sun",
+  "type": "Proverbs",
+  "source": "Manx Sun, Saturday, February 01, 1879; Page: 13",
+  "mnhNewsComponent": "Ar01307"
 }

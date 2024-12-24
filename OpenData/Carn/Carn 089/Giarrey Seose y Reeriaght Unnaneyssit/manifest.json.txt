@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1995-01-01",
-	"createdCircaEnd": "1995-12-31",
-	"ident": "Carn89GiarreySeoseYReeriaghtUnnaneyssit",
-	"name": "Carn 089: Giarrey Seose y Reeriaght Unnaneyssit?",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Spring 1995"
+  "createdCircaStart": "1995-01-01",
+  "createdCircaEnd": "1995-12-31",
+  "ident": "Carn89GiarreySeoseYReeriaghtUnnaneyssit",
+  "name": "Carn 089: Giarrey Seose y Reeriaght Unnaneyssit?",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Spring 1995"
 }

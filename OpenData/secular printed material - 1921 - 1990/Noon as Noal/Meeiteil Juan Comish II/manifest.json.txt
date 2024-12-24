@@ -1,14 +1,13 @@
 {
-	"created": "1977-02-05",
-	"ident": "Meeiteil-Juan-y-Comish-II",
-	"name": "Noon as Noal Marish 'Breagagh': Meeiteil Juan y Comish II / Joe Yeaman / Yn Chenn Naunt",
-	"englishName": "Meeting John Comish II / Joe Yeaman / The Old Aunt",
-	"notes": "Account of J. Gell meeting J. Comish of Kirkland Lake, Northern Ontario, Canada (1887 – 1965) & Biographical pieces by 'Breagagh'",
-	"author": "J. Gell, and last two items by 'Breagagh'.",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Saturday, 5th February, 1977"
+  "created": "1977-02-05",
+  "ident": "Meeiteil-Juan-y-Comish-II",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: Meeiteil Juan y Comish II / Joe Yeaman / Yn Chenn Naunt",
+  "englishName": "Meeting John Comish II / Joe Yeaman / The Old Aunt",
+  "notes": "Account of J. Gell meeting J. Comish of Kirkland Lake, Northern Ontario, Canada (1887 \u2013 1965) \u0026 Biographical pieces by \u0027Breagagh\u0027",
+  "author": "J. Gell, and last two items by \u0027Breagagh\u0027.",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Saturday, 5th February, 1977"
 }
-

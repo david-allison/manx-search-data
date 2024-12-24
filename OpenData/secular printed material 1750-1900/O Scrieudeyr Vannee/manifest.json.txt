@@ -1,11 +1,14 @@
 {
-	"created": "1822-03-07",
-	"ident": "O-scrieudeyr-vannee",
-	"name": "O Scrieudeyr Vannee",
-	"notes": "Free translation of a poem by Cowper in commendation of Bunyan’s ‘Pilgrim’s Progress.",
-	"transcribed": "Rob Teare 2021",
-	"translated": "Rob Teare 2021",
-	"source":  "Manks Advertiser, Thursday, March 07, 1822; Page 4.",
-	"original": "Manx",
-	"mnhNewsComponent": ["Ar00400", "Ar00401"]
+  "created": "1822-03-07",
+  "ident": "O-scrieudeyr-vannee",
+  "name": "O Scrieudeyr Vannee",
+  "notes": "Free translation of a poem by Cowper in commendation of Bunyan\u2019s \u2018Pilgrim\u2019s Progress.",
+  "transcribed": "Rob Teare 2021",
+  "translated": "Rob Teare 2021",
+  "source": "Manks Advertiser, Thursday, March 07, 1822; Page 4.",
+  "original": "Manx",
+  "mnhNewsComponent": [
+    "Ar00400",
+    "Ar00401"
+  ]
 }

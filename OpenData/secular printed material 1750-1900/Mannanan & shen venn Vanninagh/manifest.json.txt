@@ -1,10 +1,10 @@
 {
-	"created": "1874-01-01",
-	"ident": "Mannanan-as-shenn-ven-Vanninagh",
-	"name": "Mannanan & shenn ven Vanninagh",
-	"notes": "By Thos. Kelly, Bridge St. Peel., translated into Manx By Rev. J.T.Clarke. Transcribed & translated; R.Teare 2021", 
-	"translated": "Rob Teare 2021",
-	"original": "Manx",
-	"source":  "Mona's Herald, Thursday, January 01, 1874; Page: 5",
-	"mnhNewsComponent": "Ar00501"
+  "created": "1874-01-01",
+  "ident": "Mannanan-as-shenn-ven-Vanninagh",
+  "name": "Mannanan \u0026 shenn ven Vanninagh",
+  "notes": "By Thos. Kelly, Bridge St. Peel., translated into Manx By Rev. J.T.Clarke. Transcribed \u0026 translated; R.Teare 2021",
+  "translated": "Rob Teare 2021",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Thursday, January 01, 1874; Page: 5",
+  "mnhNewsComponent": "Ar00501"
 }

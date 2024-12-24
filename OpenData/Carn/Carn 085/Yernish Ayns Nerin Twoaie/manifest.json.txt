@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1994-01-01",
-	"createdCircaEnd": "1994-12-31",
-	"ident": "Carn85YernishAynsNerinTwoaie",
-	"name": "Carn 085: Yernish Ayns Nerin Twoaie",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Spring 1994"
+  "createdCircaStart": "1994-01-01",
+  "createdCircaEnd": "1994-12-31",
+  "ident": "Carn85YernishAynsNerinTwoaie",
+  "name": "Carn 085: Yernish Ayns Nerin Twoaie",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Spring 1994"
 }

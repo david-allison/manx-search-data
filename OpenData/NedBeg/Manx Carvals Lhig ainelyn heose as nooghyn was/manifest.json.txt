@@ -1,6 +1,6 @@
 {
-	"created": "1915-10-02",
-	"ident": "NedBegManxCarvalsLhig",
-	"name": "Manx Carvals ‘Lhig ainelyn heose as nooghyn wass’",
-	"notes": "Isle of Man Examiner. 02.10.1915\n Manx Carvals (The accompanying translation appeared beneath the Manx.)"
+  "created": "1915-10-02",
+  "ident": "NedBegManxCarvalsLhig",
+  "name": "Manx Carvals \u2018Lhig ainelyn heose as nooghyn wass\u2019",
+  "notes": "Isle of Man Examiner. 02.10.1915\n Manx Carvals (The accompanying translation appeared beneath the Manx.)"
 }

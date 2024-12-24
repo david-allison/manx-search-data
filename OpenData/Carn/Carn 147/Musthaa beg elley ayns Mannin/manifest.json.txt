@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2010-05-01",
-	"createdCircaEnd": "2010-05-31",
-	"ident": "Carn147MusthaaBegElleyAynsMannin",
-	"name": "Carn 147: Musthaa beg elley ayns Mannin",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "May 2010"
+  "createdCircaStart": "2010-05-01",
+  "createdCircaEnd": "2010-05-31",
+  "ident": "Carn147MusthaaBegElleyAynsMannin",
+  "name": "Carn 147: Musthaa beg elley ayns Mannin",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "May 2010"
 }

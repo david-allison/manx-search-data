@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1985-01-01",
-	"createdCircaEnd": "1985-12-31",
-	"ident": "Carn52ThooderAsYGearaltach",
-	"name": "Carn 052: Thooder as y Gearaltach",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Winter 1985"
+  "createdCircaStart": "1985-01-01",
+  "createdCircaEnd": "1985-12-31",
+  "ident": "Carn52ThooderAsYGearaltach",
+  "name": "Carn 052: Thooder as y Gearaltach",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Winter 1985"
 }

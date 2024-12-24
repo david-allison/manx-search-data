@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1996-11-01",
-	"createdCircaEnd": "1996-11-30",
-	"ident": "Carn96LettyraghtAynsChengaghynJoarree",
-	"name": "Carn 096: Lettyraght ayns Chengaghyn Joarree",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Winter 1996 (Mee Houney)"
+  "createdCircaStart": "1996-11-01",
+  "createdCircaEnd": "1996-11-30",
+  "ident": "Carn96LettyraghtAynsChengaghynJoarree",
+  "name": "Carn 096: Lettyraght ayns Chengaghyn Joarree",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Winter 1996 (Mee Houney)"
 }

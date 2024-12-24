@@ -1,10 +1,12 @@
 {
-	"mnhNewsComponent": ["Ar00905"],
-	"created": "1913-05-03",
-	"ident": "Manx-Gaelic-Gathering-first-chaglym",
-	"name": "Manx Gaelic Gathering",
-	"author": "Yn Çheshaght Ghailckagh / H. P. Kelly",
-	"original": "Manx",
-	"notes": "Contains menu and speech from the first annual 'chaglym' of Yn Çheshaght Ghailckagh.",
-	"source":  "Isle of Man Times, Saturday, May 03, 1913; Page: 9"
+  "mnhNewsComponent": [
+    "Ar00905"
+  ],
+  "created": "1913-05-03",
+  "ident": "Manx-Gaelic-Gathering-first-chaglym",
+  "name": "Manx Gaelic Gathering",
+  "author": "Yn \u00C7heshaght Ghailckagh / H. P. Kelly",
+  "original": "Manx",
+  "notes": "Contains menu and speech from the first annual \u0027chaglym\u0027 of Yn \u00C7heshaght Ghailckagh.",
+  "source": "Isle of Man Times, Saturday, May 03, 1913; Page: 9"
 }

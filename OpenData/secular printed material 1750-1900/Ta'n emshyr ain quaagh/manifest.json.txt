@@ -1,10 +1,10 @@
 {
-	"created": "1884-10-11",
-	"ident": "ta-emshyr-ain-quaagh",
-	"name": "Ta'n emshyr ain quaagh",
-	"notes": "Transcription and translation; R.Teare;",
-	"type": "Poem",
-	"original": "Manx",
-	"source":  "Isle of Man Examiner, Saturday, October 11, 1884; Page: 5",
-	"mnhNewsComponent": "Ar00510"
+  "created": "1884-10-11",
+  "ident": "ta-emshyr-ain-quaagh",
+  "name": "Ta\u0027n emshyr ain quaagh",
+  "notes": "Transcription and translation; R.Teare;",
+  "type": "Poem",
+  "original": "Manx",
+  "source": "Isle of Man Examiner, Saturday, October 11, 1884; Page: 5",
+  "mnhNewsComponent": "Ar00510"
 }

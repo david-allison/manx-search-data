@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1987-01-01",
-	"createdCircaEnd": "1987-12-31",
-	"ident": "Carn57BaaseDoolishYKarragher",
-	"name": "Carn 057: Baase Doolish y Karragher",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1987"
+  "createdCircaStart": "1987-01-01",
+  "createdCircaEnd": "1987-12-31",
+  "ident": "Carn57BaaseDoolishYKarragher",
+  "name": "Carn 057: Baase Doolish y Karragher",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1987"
 }
