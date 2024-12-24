@@ -1,12 +1,12 @@
 {
-	"created": "1939-02-17",
-	"ident": "Giense-Manninagh-1939",
-	"name": "Giense Manninagh ec Rhumsaa",
-	"English name": "Manx Giense at Ramsey",
-	"notes": "Report of the Ramsey Manx Class dinner under the title: 'PRIDDHAS an' HERRIN' MENU' — ",
-	"original": "Manx",
-	"author": "Unknown",
-	"transcription": "R. Teare",
-	"translation": "Unknown",
-	"source": "Ramsey Courier, Friday, February 17, 1939; Page: 8",
+  "created": "1939-02-17",
+  "ident": "Giense-Manninagh-1939",
+  "name": "Giense Manninagh ec Rhumsaa",
+  "English name": "Manx Giense at Ramsey",
+  "notes": "Report of the Ramsey Manx Class dinner under the title: \u0027PRIDDHAS an\u0027 HERRIN\u0027 MENU\u0027 \u2014 ",
+  "original": "Manx",
+  "author": "Unknown",
+  "transcription": "R. Teare",
+  "translation": "Unknown",
+  "source": "Ramsey Courier, Friday, February 17, 1939; Page: 8"
 }

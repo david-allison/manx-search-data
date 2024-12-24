@@ -1,6 +1,6 @@
 {
-	"createdCircaStart": "1900-03-30",
-	"createdCircaEnd": "1900-12-31",
-	"ident": "NedBegArraneFeerFoddeyNishVoishManninVeen",
-	"name": "Arrane ayns Gaelg; Feer foddey nish voish Mannin veen",
+  "createdCircaStart": "1900-03-30",
+  "createdCircaEnd": "1900-12-31",
+  "ident": "NedBegArraneFeerFoddeyNishVoishManninVeen",
+  "name": "Arrane ayns Gaelg; Feer foddey nish voish Mannin veen"
 }

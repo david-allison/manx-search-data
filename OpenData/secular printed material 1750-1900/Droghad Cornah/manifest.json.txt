@@ -1,12 +1,10 @@
 {
-	"created": "1899-04-22",
-	"ident": "Droghad-Cornahr",
-	"name": "Droghad Cornah",
-	"notes": "Story by 'Tomm-y-Fidder in Manx with English translation.",
-	"author": "Tomm-y-Fidder",
-	"original": "Manx",
-	"type": "Story",
-	"source":  "Peel City Guardian, Saturday, April 22, 1899; Page: 4",
-	
+  "created": "1899-04-22",
+  "ident": "Droghad-Cornahr",
+  "name": "Droghad Cornah",
+  "notes": "Story by \u0027Tomm-y-Fidder in Manx with English translation.",
+  "author": "Tomm-y-Fidder",
+  "original": "Manx",
+  "type": "Story",
+  "source": "Peel City Guardian, Saturday, April 22, 1899; Page: 4"
 }
-

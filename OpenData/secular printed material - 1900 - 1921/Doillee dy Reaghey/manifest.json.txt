@@ -1,13 +1,12 @@
 {
-	"created": "1900-04-21",
-	"ident": "Doillee-dy-Reaghey-1900",
-	"name": " Doillee Dy Reaghey",
-	"englishName": "Hard to Decide",
-	"author": "Anonymous",
-	"original": "Bilingual",
-	"type": "humorous vignette",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Peel City Guardian, Saturday, April 12, 1900; Page: 4 ",
+  "created": "1900-04-21",
+  "ident": "Doillee-dy-Reaghey-1900",
+  "name": " Doillee Dy Reaghey",
+  "englishName": "Hard to Decide",
+  "author": "Anonymous",
+  "original": "Bilingual",
+  "type": "humorous vignette",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Peel City Guardian, Saturday, April 12, 1900; Page: 4 "
 }
-

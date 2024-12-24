@@ -1,11 +1,10 @@
 {
-	"created": "1974-07-15",
-	"ident": "Fockle-Ayns-Dty-Cleash-Va-Mee-ec-Tinvaal",
-	"name": "Fockle Ayns Dty Cleash: 'Va Mee ec Tinvaal'",
-	"englishName": "I was at Tynwald",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 15th July, 1974. Page 13. Fockle Ayns Dy Cleash.",
+  "created": "1974-07-15",
+  "ident": "Fockle-Ayns-Dty-Cleash-Va-Mee-ec-Tinvaal",
+  "name": "Fockle Ayns Dty Cleash: \u0027Va Mee ec Tinvaal\u0027",
+  "englishName": "I was at Tynwald",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 15th July, 1974. Page 13. Fockle Ayns Dy Cleash."
 }
-

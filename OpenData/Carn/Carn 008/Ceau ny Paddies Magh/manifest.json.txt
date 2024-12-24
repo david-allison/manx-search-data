@@ -1,7 +1,7 @@
 {
-	"created": "1975-01-03",
-	"ident": "Carn8CeauNyPaddiesMagh",
-	"name": "Carn 008: Ceau ny Paddies Magh.",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
+  "created": "1975-01-03",
+  "ident": "Carn8CeauNyPaddiesMagh",
+  "name": "Carn 008: Ceau ny Paddies Magh.",
+  "author": "Brian y Stoyll",
+  "original": "Manx"
 }

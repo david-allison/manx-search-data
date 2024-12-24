@@ -1,12 +1,12 @@
 {
-	"created": "1975-02-10",
-	"ident": "Screeuyn-ass-doon-edjin-Johnny-Kelso",
-	"name": "Screeuyn Ass Doon Edjin: 'Johnny Kelso'",
-	"englishName": "Johnny Kelso",
-	"author": "Shorus y Crurie",
-	"original": "Manx",
-	"type": "Diary column 'Screeuyn Ass Doon Edjin'",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Screeuyn Ass Doon Edjin: Manx Star, 10th Feb, 1975. Page 6.",
+  "created": "1975-02-10",
+  "ident": "Screeuyn-ass-doon-edjin-Johnny-Kelso",
+  "name": "Screeuyn Ass Doon Edjin: \u0027Johnny Kelso\u0027",
+  "englishName": "Johnny Kelso",
+  "author": "Shorus y Crurie",
+  "original": "Manx",
+  "type": "Diary column \u0027Screeuyn Ass Doon Edjin\u0027",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Screeuyn Ass Doon Edjin: Manx Star, 10th Feb, 1975. Page 6."
 }

@@ -1,14 +1,13 @@
 {
-	"created": "1977-07-09",
-	"ident": "Noon-as-Noal-Banceyr-syn-Africkey",
-	"name": "Noon as Noal: 'Banceyr Syn Africkey",
-	"englishName": "'A Banker in Africa'",
-	"notes": "Biographical account by Branlaadagh (Charles Cain) of his time working in East Africa.",
-	"author": "'Branlaadagh' (C. Cain)",
-	"original": "Manx",
-	"type": "Biographical. Manx Language Newspaper Column",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, 9th  July 1977",
+  "created": "1977-07-09",
+  "ident": "Noon-as-Noal-Banceyr-syn-Africkey",
+  "name": "Noon as Noal: \u0027Banceyr Syn Africkey",
+  "englishName": "\u0027A Banker in Africa\u0027",
+  "notes": "Biographical account by Branlaadagh (Charles Cain) of his time working in East Africa.",
+  "author": "\u0027Branlaadagh\u0027 (C. Cain)",
+  "original": "Manx",
+  "type": "Biographical. Manx Language Newspaper Column",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, 9th  July 1977"
 }
-

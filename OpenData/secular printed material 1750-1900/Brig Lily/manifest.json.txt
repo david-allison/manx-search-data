@@ -1,11 +1,10 @@
 {
-	"created": "1853-01-01",
-	"ident": "Brig-Lily",
-	"name": "Lines on the late Awful Catastrophe of The Lily",
-        "author": "John Nelson",
-	"notes": "A poem in the form of a prayer urging support for charitable contributions for families left destitute by the Brig Lily disaster (December 28th 1852) Transcribed R.Teare 2020. English translation by W.Q., Castletown.",
-	"translator": "W.Q., Castletown; Isle of Man Examiner, Saturday, February 04 - March 04, 1899; Page: 6.",
-	"original": "Manx",
-	"type": "Poem / Prayer",
-	
+  "created": "1853-01-01",
+  "ident": "Brig-Lily",
+  "name": "Lines on the late Awful Catastrophe of The Lily",
+  "author": "John Nelson",
+  "notes": "A poem in the form of a prayer urging support for charitable contributions for families left destitute by the Brig Lily disaster (December 28th 1852) Transcribed R.Teare 2020. English translation by W.Q., Castletown.",
+  "translator": "W.Q., Castletown; Isle of Man Examiner, Saturday, February 04 - March 04, 1899; Page: 6.",
+  "original": "Manx",
+  "type": "Poem / Prayer"
 }

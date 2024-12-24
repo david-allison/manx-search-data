@@ -1,10 +1,10 @@
 {
-	"created": "1766-01-01",
-	"ident": "1-and-2-Thessalonians-Gelling",
-	"name": "1 & 2 Thessalonians",
-	"notes": "This is translated and signed by Daniel Gelling, Vicar of Malew, and dated 1766. Emendations made during the revision of the text are in a hand similar to Gelling’s, possibly Philip Moore’s, so in some cases it is difficult to tell whether they are in the original hand or the reviser’s. The revisions are given in the notes in this edition.",
-	"source": "MS 5690C",
-	"author": "Daniel Gelling, Vicar of Malew",
-	"original": "English",
-	"transcribed": "Christopher Lewin",
+  "created": "1766-01-01",
+  "ident": "1-and-2-Thessalonians-Gelling",
+  "name": "1 \u0026 2 Thessalonians",
+  "notes": "This is translated and signed by Daniel Gelling, Vicar of Malew, and dated 1766. Emendations made during the revision of the text are in a hand similar to Gelling\u2019s, possibly Philip Moore\u2019s, so in some cases it is difficult to tell whether they are in the original hand or the reviser\u2019s. The revisions are given in the notes in this edition.",
+  "source": "MS 5690C",
+  "author": "Daniel Gelling, Vicar of Malew",
+  "original": "English",
+  "transcribed": "Christopher Lewin"
 }

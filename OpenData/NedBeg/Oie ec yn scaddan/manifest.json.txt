@@ -1,11 +1,11 @@
 {
-	"createdCircaStart": "1899-01-01",
-	"createdCircaEnd": "1899-12-31",
-	"ident": "NedBeg-Oie-ec-yn-scaddan",
-	"name": "Oie ec yn scaddan",
-	"original": "Manx",
-	"iMuseum": "MNHL MS 00431C",
-	"transcription": "Broderick (1981), Lewin (2014)",
-	"edition": "Christopher Lewin",
-	"translation": "Christopher Lewin",       
+  "createdCircaStart": "1899-01-01",
+  "createdCircaEnd": "1899-12-31",
+  "ident": "NedBeg-Oie-ec-yn-scaddan",
+  "name": "Oie ec yn scaddan",
+  "original": "Manx",
+  "iMuseum": "MNHL MS 00431C",
+  "transcription": "Broderick (1981), Lewin (2014)",
+  "edition": "Christopher Lewin",
+  "translation": "Christopher Lewin"
 }

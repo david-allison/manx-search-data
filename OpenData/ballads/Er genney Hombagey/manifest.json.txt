@@ -1,11 +1,10 @@
 {
-	"created": "1872-05-29",
-	"ident": "Er-Genney-Hombagey",
-	"name": "Er Genney Hombagey",
-	"notes": "A poem on a tobacco scarcity.",
-	"type": "Poem",	
-	"original": "Manx",
-        "author": "Unknown. William Style - according to Rev J. T. Clarke.",	
-	"source": "Mona's Herald, Wednesday, May 29, 1872; Page: 11",
-	
+  "created": "1872-05-29",
+  "ident": "Er-Genney-Hombagey",
+  "name": "Er Genney Hombagey",
+  "notes": "A poem on a tobacco scarcity.",
+  "type": "Poem",
+  "original": "Manx",
+  "author": "Unknown. William Style - according to Rev J. T. Clarke.",
+  "source": "Mona\u0027s Herald, Wednesday, May 29, 1872; Page: 11"
 }

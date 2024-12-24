@@ -1,10 +1,10 @@
 {
-	"created": "1850-01-01",
-	"ident": "Yn-Shannon-Side",
-	"name": "Yn Shannon Side",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
-	"type": "Bannag",
-	"original": "Manx",
-	"iMuseum": "MS.00263.A",
+  "created": "1850-01-01",
+  "ident": "Yn-Shannon-Side",
+  "name": "Yn Shannon Side",
+  "notes": "Transcription \u0026 Translation; R. Teare",
+  "source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
+  "type": "Bannag",
+  "original": "Manx",
+  "iMuseum": "MS.00263.A"
 }

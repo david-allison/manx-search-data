@@ -1,13 +1,12 @@
 {
-	"created": "1900-05-19",
-	"ident": "Booisal-Son-Shen",
-	"name": " Booisal Son Shen ",
-	"englishName": " Thankful For That",
-	"author": "Anonymous",
-	"original": "Bilingual",
-	"type": "humorous vignette",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Ramsey Weekly News, May 19, 1900; Page: 2 ",
+  "created": "1900-05-19",
+  "ident": "Booisal-Son-Shen",
+  "name": " Booisal Son Shen ",
+  "englishName": " Thankful For That",
+  "author": "Anonymous",
+  "original": "Bilingual",
+  "type": "humorous vignette",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Ramsey Weekly News, May 19, 1900; Page: 2 "
 }
-

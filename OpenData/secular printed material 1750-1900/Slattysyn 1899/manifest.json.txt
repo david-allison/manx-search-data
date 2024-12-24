@@ -1,9 +1,8 @@
 {
-	"created": "1899-07-22",
-	"ident": "Slattysyn-1899",
-	"name": "Slattysyn 1899",
-	"notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
-	"original": "English",
-	"source":  "Isle of Man Times, Saturday, July 22, 1899; page 13. Sentence starting 'The Burials Act Amendment Act'",
-	
+  "created": "1899-07-22",
+  "ident": "Slattysyn-1899",
+  "name": "Slattysyn 1899",
+  "notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
+  "original": "English",
+  "source": "Isle of Man Times, Saturday, July 22, 1899; page 13. Sentence starting \u0027The Burials Act Amendment Act\u0027"
 }

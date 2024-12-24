@@ -1,5 +1,5 @@
 {
-	"created": "1899-06-14",
-	"ident": "NedBegGowShiuBoggeyAynsYnChiarn",
-	"name": "Gow Shiu Boggey ayns yn Çhiarn",
+  "created": "1899-06-14",
+  "ident": "NedBegGowShiuBoggeyAynsYnChiarn",
+  "name": "Gow Shiu Boggey ayns yn \u00C7hiarn"
 }

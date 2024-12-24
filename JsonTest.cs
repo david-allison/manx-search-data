@@ -15,7 +15,7 @@ public class JsonTest
     public OpenSourceDocument[] AllDocuments = Documents.AllDocuments.OfType<OpenSourceDocument>().ToArray();
 
     [Theory]
-    [Ignore("Trailing commas")]
+    [Ignore("newlines")]
     public void CsvFileIsUtf8(OpenSourceDocument document)
     {
         var path = document.LocationOnDisk + "/manifest.json.txt";
@@ -23,7 +23,7 @@ public class JsonTest
         var input = File.ReadAllText(path);
         
         var output = JsonSerializer.Serialize(
-            JsonSerializer.Deserialize<dynamic>(input), 
+            JsonSerializer.Deserialize<dynamic>(input, new JsonSerializerOptions { AllowTrailingCommas = true }), 
             new JsonSerializerOptions
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,

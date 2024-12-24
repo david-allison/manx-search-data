@@ -1,12 +1,11 @@
 {
-	"created": "1938-08-04",
-	"ident": "Cooinaghtyn-Archibad-Cregeen-1938",
-	"name": "Cooinaghtyn Archibad Cregeen",
-	"englishName": "The Archbald Kneen Memorial",
-	"notes": " Mr C. C. Craine. of Ramsey, a prominent figure in the Manx language revival movement, in thanking the Archdeacon Emeritus, said:—",
-	"original": "Manx",
-	"author": "C. C. Craine & M. Braide",
-	"transcription": "R. Teare",
-	"source": " Ramsey Courier, Friday, August 04, 1939; Page: 3",
+  "created": "1938-08-04",
+  "ident": "Cooinaghtyn-Archibad-Cregeen-1938",
+  "name": "Cooinaghtyn Archibad Cregeen",
+  "englishName": "The Archbald Kneen Memorial",
+  "notes": " Mr C. C. Craine. of Ramsey, a prominent figure in the Manx language revival movement, in thanking the Archdeacon Emeritus, said:\u2014",
+  "original": "Manx",
+  "author": "C. C. Craine \u0026 M. Braide",
+  "transcription": "R. Teare",
+  "source": " Ramsey Courier, Friday, August 04, 1939; Page: 3"
 }
-

@@ -1,11 +1,10 @@
 {
-	"created": "1975-01-06",
-	"ident": "Fockle-Ayns-Dty-Cleash-Jiu-Rug-Lhiannoo",
-	"name": "Fockle Ayns Dty Cleash: 'Jiu Rug Lhiannoo'",
-	"englishName": "Today A Child Was Born",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 6th January, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1975-01-06",
+  "ident": "Fockle-Ayns-Dty-Cleash-Jiu-Rug-Lhiannoo",
+  "name": "Fockle Ayns Dty Cleash: \u0027Jiu Rug Lhiannoo\u0027",
+  "englishName": "Today A Child Was Born",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 6th January, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

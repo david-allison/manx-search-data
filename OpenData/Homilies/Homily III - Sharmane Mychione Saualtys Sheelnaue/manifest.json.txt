@@ -1,20 +1,19 @@
 {
-	"createdCircaStart": "1820-04-01",
-	"createdCircaEnd": "1820-04-30",
-	"ident": "Homily-III-A-sermon-of-the-salvation-of-mankind",
-	"name": "Homily III: A sermon of the salvation of mankind ",
-	"manxName": "Homily III: Sharmane Mychione Saualtys Sheelnaue",
-	"notes": "The Manx homilies were published separately, I, II & III in April 1820",
-	"author": "Anon.",
-	"original": "English",
-	"author notes": "Possisbly Rev. John Thomas Clarke",
-	"source":  "Sharmane Mychione Saualtys Sheelnaue [Anon. Poss; Rev. John Thomas Clarke] April 1820. Prayer Book and Homily Society. London.",
-	"online source": {
-		"url": "https://books.google.im/books?id=8vgd1dik_KkC",
-		"text": "Google Books",
-	},
-	"English Source": "Homily III.  A sermon of the salvation of mankind [Thomas Cranmer]. in; ‘Sermons, or Homilies, appointed to be read in Churches ...’ 1810 & 1817. Prayer Book and Homily Society. London.",
-	"googleBooksId": "8vgd1dik_KkC",
-	"Transcription": "Max Wheeler 2021",
+  "createdCircaStart": "1820-04-01",
+  "createdCircaEnd": "1820-04-30",
+  "ident": "Homily-III-A-sermon-of-the-salvation-of-mankind",
+  "name": "Homily III: A sermon of the salvation of mankind ",
+  "manxName": "Homily III: Sharmane Mychione Saualtys Sheelnaue",
+  "notes": "The Manx homilies were published separately, I, II \u0026 III in April 1820",
+  "author": "Anon.",
+  "original": "English",
+  "author notes": "Possisbly Rev. John Thomas Clarke",
+  "source": "Sharmane Mychione Saualtys Sheelnaue [Anon. Poss; Rev. John Thomas Clarke] April 1820. Prayer Book and Homily Society. London.",
+  "online source": {
+    "url": "https://books.google.im/books?id=8vgd1dik_KkC",
+    "text": "Google Books"
+  },
+  "English Source": "Homily III.  A sermon of the salvation of mankind [Thomas Cranmer]. in; \u2018Sermons, or Homilies, appointed to be read in Churches ...\u2019 1810 \u0026 1817. Prayer Book and Homily Society. London.",
+  "googleBooksId": "8vgd1dik_KkC",
+  "Transcription": "Max Wheeler 2021"
 }
-

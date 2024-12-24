@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1983-01-01",
-	"createdCircaEnd": "1983-12-31",
-	"ident": "Carn43LettyraghVritaanagh",
-	"name": "Carn 043: Lettyragh Vritaanagh",
-	"author": "Patrick le Besco",
-	"original": "Manx",
-	"notes": "Autumn 1983",
+  "createdCircaStart": "1983-01-01",
+  "createdCircaEnd": "1983-12-31",
+  "ident": "Carn43LettyraghVritaanagh",
+  "name": "Carn 043: Lettyragh Vritaanagh",
+  "author": "Patrick le Besco",
+  "original": "Manx",
+  "notes": "Autumn 1983"
 }

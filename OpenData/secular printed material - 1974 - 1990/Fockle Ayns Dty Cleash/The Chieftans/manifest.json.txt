@@ -1,13 +1,12 @@
 {
-	"created": "1975-06-14",
-	"ident": "Fockle-Ayns-Dty-Cleash-The-Chieftans",
-	"name": "Fockle Ayns Dty Cleash: 'The Chieftans'",
-	"englishName": "The Chieftans",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 14th June, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1975-06-14",
+  "ident": "Fockle-Ayns-Dty-Cleash-The-Chieftans",
+  "name": "Fockle Ayns Dty Cleash: \u0027The Chieftans\u0027",
+  "englishName": "The Chieftans",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 14th June, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

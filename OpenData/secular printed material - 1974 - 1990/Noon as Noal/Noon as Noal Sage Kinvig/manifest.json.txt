@@ -1,10 +1,9 @@
 {
-	"created": "1976-10-16",
-	"ident": "Focklyn-noa-Sage-King",
-	"name": "Noon as Noal: Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl Ayns Laksaa",
-	"Author": "Breagagh",
-	"original": "Manx",
-	"Notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, Saturday, 16th October 1976  Noon as Noal; Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl ayns Laksaa / Nationalist Opportunity",
-	
+  "created": "1976-10-16",
+  "ident": "Focklyn-noa-Sage-King",
+  "name": "Noon as Noal: Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl Ayns Laksaa",
+  "Author": "Breagagh",
+  "original": "Manx",
+  "Notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, Saturday, 16th October 1976  Noon as Noal; Focklyn Noa / Sage Kinvig / Yn Fockleyr / Shirveish / Brastyl ayns Laksaa / Nationalist Opportunity"
 }

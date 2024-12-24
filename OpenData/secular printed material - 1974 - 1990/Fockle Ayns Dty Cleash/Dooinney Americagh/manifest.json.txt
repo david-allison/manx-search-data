@@ -1,11 +1,10 @@
 {
-	"created": "1974-06-10",
-	"ident": "Fockle-Ayns-Dty-Cleash-Dooinney-Americagh",
-	"name": "Fockle Ayns Dty Cleash: 'Dooinney Americagh'",
-	"englishName": "An American Man",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 10th June, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-06-10",
+  "ident": "Fockle-Ayns-Dty-Cleash-Dooinney-Americagh",
+  "name": "Fockle Ayns Dty Cleash: \u0027Dooinney Americagh\u0027",
+  "englishName": "An American Man",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 10th June, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

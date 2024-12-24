@@ -1,14 +1,13 @@
 {
-	"created": "1823-01-28",
-	"ident": "Ean-Sumner-Printer",
-	"name": "Ean Sumner, Printer",
-	"englishName": "Ean Sumner, Printer",
-	"author": "unknown",
-	"original": "Manx",
-	"notes": "Found on p.16 of 'The True Manxman' newspaper (also titled 'Manninagh Firrinagh'), No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Published every Tuesday Morning, Price 4d. Manx, or 4s. British per Quarter. — Agents, Newton & Co., and J. White, London; Mr William Downes, Castletown; Mr J. Lace, Ramsey; And Mr Crellin, Peel.",
-	"type": "newspaper advertisement'",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "The True Manxman, No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Page 16.",
+  "created": "1823-01-28",
+  "ident": "Ean-Sumner-Printer",
+  "name": "Ean Sumner, Printer",
+  "englishName": "Ean Sumner, Printer",
+  "author": "unknown",
+  "original": "Manx",
+  "notes": "Found on p.16 of \u0027The True Manxman\u0027 newspaper (also titled \u0027Manninagh Firrinagh\u0027), No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Published every Tuesday Morning, Price 4d. Manx, or 4s. British per Quarter. \u2014 Agents, Newton \u0026 Co., and J. White, London; Mr William Downes, Castletown; Mr J. Lace, Ramsey; And Mr Crellin, Peel.",
+  "type": "newspaper advertisement\u0027",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "The True Manxman, No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Page 16."
 }
-

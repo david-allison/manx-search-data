@@ -1,11 +1,10 @@
 {
-	"created": "1974-04-19",
-	"ident": "Fockle-Ayns-Dty-Cleash-Vietnam-sy-Daily-Mail",
-	"name": "Fockle Ayns Dty Cleash: 'Vietnam sy Daily Mail'",
-	"englishName": "Vietnam in the Daily Mail",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 19th April, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-04-19",
+  "ident": "Fockle-Ayns-Dty-Cleash-Vietnam-sy-Daily-Mail",
+  "name": "Fockle Ayns Dty Cleash: \u0027Vietnam sy Daily Mail\u0027",
+  "englishName": "Vietnam in the Daily Mail",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 19th April, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

@@ -1,13 +1,12 @@
 {
-	"created": "1974-03-22",
-	"ident": "Fockle-Ayns-Dty-Cleash-Juan-Doo",
-	"name": "Fockle Ayns Dty Cleash: 'Juan Doo'",
-	"englishName": "Juan Doo (Black John)",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "References A.S.B. Davies; 'Juan Doo Shiaulteyr as Dad Skeeal Elley.' Castletown Press. Douglas. 1954.", 
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 22th March, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-03-22",
+  "ident": "Fockle-Ayns-Dty-Cleash-Juan-Doo",
+  "name": "Fockle Ayns Dty Cleash: \u0027Juan Doo\u0027",
+  "englishName": "Juan Doo (Black John)",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "References A.S.B. Davies; \u0027Juan Doo Shiaulteyr as Dad Skeeal Elley.\u0027 Castletown Press. Douglas. 1954.",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 22th March, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

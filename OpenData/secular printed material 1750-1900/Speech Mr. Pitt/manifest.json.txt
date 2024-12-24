@@ -1,7 +1,7 @@
 {
-	"created": "1790-05-04",
-	"ident": "Speech-Mr-Pitt",
-	"name": "Speech Mr. Pitt",
-	"notes": "Translation of a speech by Prime minister Pitt, concerning the rights of the Duke of Atholl. The document is bilingual. The title does not appear with the English text. Part of one of the lines in the English text is illegible.",
-	"source": "A.W. Moore’s Notebook",
+  "created": "1790-05-04",
+  "ident": "Speech-Mr-Pitt",
+  "name": "Speech Mr. Pitt",
+  "notes": "Translation of a speech by Prime minister Pitt, concerning the rights of the Duke of Atholl. The document is bilingual. The title does not appear with the English text. Part of one of the lines in the English text is illegible.",
+  "source": "A.W. Moore\u2019s Notebook"
 }

@@ -1,12 +1,12 @@
 {
-	"created": "1919-07-01",
-	"ident": "Childrens-Rhymes-1919",
-	"name": "Childrens rhymes, Given to me by Mrs Radcliffe of “Ohio” Andreas.",
-	"author": "C. Paton",
-	"notes": "Original was Manx, with English translation",
-	"transcription": "R. Teare",
-	"source": "Childrens rhymes, Given to me by Mrs Radcliffe of “Ohio” Andreas. MS 1012C. July 1919. MS 1012C",
-	"iMuseum": "MS 1012C. July 1919. MS 1012C",
-	"type": "Children's rhymes",
-	"original": "Manx",
+  "created": "1919-07-01",
+  "ident": "Childrens-Rhymes-1919",
+  "name": "Childrens rhymes, Given to me by Mrs Radcliffe of \u201COhio\u201D Andreas.",
+  "author": "C. Paton",
+  "notes": "Original was Manx, with English translation",
+  "transcription": "R. Teare",
+  "source": "Childrens rhymes, Given to me by Mrs Radcliffe of \u201COhio\u201D Andreas. MS 1012C. July 1919. MS 1012C",
+  "iMuseum": "MS 1012C. July 1919. MS 1012C",
+  "type": "Children\u0027s rhymes",
+  "original": "Manx"
 }

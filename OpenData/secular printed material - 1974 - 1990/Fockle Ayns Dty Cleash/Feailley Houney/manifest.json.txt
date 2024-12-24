@@ -1,13 +1,12 @@
 {
-	"created": "1974-11-11",
-	"ident": "Fockle-Ayns-Dty-Cleash-Feilley-Honey",
-	"name": "Fockle Ayns Dty Cleash: 'Feailley Houney'",
-	"englishName": "The Festival of Sauin",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "The article includes the poem [Margi Za Gallir In Grawgh], ‘Woe to the disease of love', in Manx [Smerg da gorley yn ghraih]. This piece is accredited to Iseabail Ni Mheic Cailéin daughter of Colin Campbell, 1st Earl of Argyll, circa 1500, and is found in The Book of the Dean of Lismore — a collection of Gaelic poetry from Ireland, Scotland and perhaps the Isle of Man. The book uses a unique orthography, (not closely related to any Manx orthography). No reliable online translation has been found for this poem. See https://www.isos.dias.ie/NLS/NLS_Adv_MS_72_1_37.html",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 11th November, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-11-11",
+  "ident": "Fockle-Ayns-Dty-Cleash-Feilley-Honey",
+  "name": "Fockle Ayns Dty Cleash: \u0027Feailley Houney\u0027",
+  "englishName": "The Festival of Sauin",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "The article includes the poem [Margi Za Gallir In Grawgh], \u2018Woe to the disease of love\u0027, in Manx [Smerg da gorley yn ghraih]. This piece is accredited to Iseabail Ni Mheic Cail\u00E9in daughter of Colin Campbell, 1st Earl of Argyll, circa 1500, and is found in The Book of the Dean of Lismore \u2014 a collection of Gaelic poetry from Ireland, Scotland and perhaps the Isle of Man. The book uses a unique orthography, (not closely related to any Manx orthography). No reliable online translation has been found for this poem. See https://www.isos.dias.ie/NLS/NLS_Adv_MS_72_1_37.html",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 11th November, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

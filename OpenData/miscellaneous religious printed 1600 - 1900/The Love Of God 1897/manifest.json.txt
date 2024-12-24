@@ -1,9 +1,9 @@
 {
-	"created": "1897-07-03",
-	"ident": "the-love-of-god-1897",
-	"name": "The Love of God",
-	"notes": "Outline of a Sermon, printed bilingually",
-	"transcribed": "Phil Kelly",
-	"author": "W. Kneen",
-	"original": "Bilingual",
+  "created": "1897-07-03",
+  "ident": "the-love-of-god-1897",
+  "name": "The Love of God",
+  "notes": "Outline of a Sermon, printed bilingually",
+  "transcribed": "Phil Kelly",
+  "author": "W. Kneen",
+  "original": "Bilingual"
 }
