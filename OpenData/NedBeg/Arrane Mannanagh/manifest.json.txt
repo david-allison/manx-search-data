@@ -1,6 +1,6 @@
 {
-	"created": "1907-04-03",
-	"ident": "NedBegArraneMannanagh",
-	"name": "Arrane Mannanagh",
-	"notes": "(Included in a letter to Kewley). MS 01135."
+  "created": "1907-04-03",
+  "ident": "NedBegArraneMannanagh",
+  "name": "Arrane Mannanagh",
+  "notes": "(Included in a letter to Kewley). MS 01135."
 }

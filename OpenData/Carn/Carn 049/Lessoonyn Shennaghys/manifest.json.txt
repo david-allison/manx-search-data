@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1985-01-01",
-	"createdCircaEnd": "1985-12-31",
-	"ident": "Carn49LessoonynShennaghys",
-	"name": "Carn 049: Lessoonyn Shennaghys",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1985"
+  "createdCircaStart": "1985-01-01",
+  "createdCircaEnd": "1985-12-31",
+  "ident": "Carn49LessoonynShennaghys",
+  "name": "Carn 049: Lessoonyn Shennaghys",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1985"
 }

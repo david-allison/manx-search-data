@@ -1,9 +1,9 @@
 {
-	"created": "1872-12-18",
-	"ident": "A-letter-written-by-Samuel-Hick",
-	"name": "A letter written by Samuel Hick",
-	"notes": "Free translation of an English piece",
-	"mnhNewsComponent": "Ar01409",
-	"original": "English",
-	"source":  "Mona's Herald, Wednesday, December 18, 1872; Page: 14"
+  "created": "1872-12-18",
+  "ident": "A-letter-written-by-Samuel-Hick",
+  "name": "A letter written by Samuel Hick",
+  "notes": "Free translation of an English piece",
+  "mnhNewsComponent": "Ar01409",
+  "original": "English",
+  "source": "Mona\u0027s Herald, Wednesday, December 18, 1872; Page: 14"
 }

@@ -1,13 +1,12 @@
 {
-	"created": "1975-09-06",
-	"ident": "Fockle-Ayns-Dty-Cleash-Fainey-ayns-Lunnin",
-	"name": "Fockle Ayns Dty Cleash: 'Fainey ayns Lunnin'",
-	"englishName": "A Ring in London",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "The'fainey' was a gold ring lapel badge awarded to and worn by fluent Manx speakers.",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 6th September, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1975-09-06",
+  "ident": "Fockle-Ayns-Dty-Cleash-Fainey-ayns-Lunnin",
+  "name": "Fockle Ayns Dty Cleash: \u0027Fainey ayns Lunnin\u0027",
+  "englishName": "A Ring in London",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "The\u0027fainey\u0027 was a gold ring lapel badge awarded to and worn by fluent Manx speakers.",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 6th September, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

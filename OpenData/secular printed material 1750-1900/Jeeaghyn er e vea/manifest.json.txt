@@ -1,10 +1,10 @@
 {
-	"created": "1841-01-26",
-	"ident": "Jeeaghyn-er-e-vea",
-	"name": "Jeeaghyn er e vea ta er n’gholl shaghey",
-	"notes": "Transcription & Translation; R. Teare",
-	"author": "None Provided",
-	"source": "Mona’s Herald, Tuesday, January 26, 1841; Page: 2",
-	"original": "Manx",
-	"mnhNewsComponent": "Ar00207"
+  "created": "1841-01-26",
+  "ident": "Jeeaghyn-er-e-vea",
+  "name": "Jeeaghyn er e vea ta er n\u2019gholl shaghey",
+  "notes": "Transcription \u0026 Translation; R. Teare",
+  "author": "None Provided",
+  "source": "Mona\u2019s Herald, Tuesday, January 26, 1841; Page: 2",
+  "original": "Manx",
+  "mnhNewsComponent": "Ar00207"
 }

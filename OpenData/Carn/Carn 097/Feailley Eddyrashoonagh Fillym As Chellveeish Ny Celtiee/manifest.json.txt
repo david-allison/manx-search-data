@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1997-01-01",
-	"createdCircaEnd": "1997-12-31",
-	"ident": "Carn97FeailleyEddyrashoonaghFillymAsChellveeishNyCeltiee",
-	"name": "Carn 097: Feailley Eddyrashoonagh Fillym As Chellveeish Ny Celtiee",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Spring 1997"
+  "createdCircaStart": "1997-01-01",
+  "createdCircaEnd": "1997-12-31",
+  "ident": "Carn97FeailleyEddyrashoonaghFillymAsChellveeishNyCeltiee",
+  "name": "Carn 097: Feailley Eddyrashoonagh Fillym As Chellveeish Ny Celtiee",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Spring 1997"
 }

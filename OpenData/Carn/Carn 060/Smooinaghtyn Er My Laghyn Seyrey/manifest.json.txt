@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1987-01-01",
-	"createdCircaEnd": "1988-12-31",
-	"ident": "Carn60SmooinaghtynErMyLaghynSeyrey",
-	"name": "Carn 060: Smooinaghtyn Er My Laghyn Seyrey",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": "Winter 1987/88"
+  "createdCircaStart": "1987-01-01",
+  "createdCircaEnd": "1988-12-31",
+  "ident": "Carn60SmooinaghtynErMyLaghynSeyrey",
+  "name": "Carn 060: Smooinaghtyn Er My Laghyn Seyrey",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": "Winter 1987/88"
 }

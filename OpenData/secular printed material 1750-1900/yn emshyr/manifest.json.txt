@@ -1,9 +1,9 @@
 {
-	"created": "1824-06-17",
-	"ident": "yn-emshyr",
-	"name": "Yn Emshyr",
-	"notes": "Transcription and translation; R.Teare; from an article in the Manks Advertiser; Yn Emshyr.",
-	"source":  "Manks Advertiser, Thursday, June 17, 1824; Page 3.",
-	"original": "Manx",
-	"mnhNewsComponent": "Ar00303"
+  "created": "1824-06-17",
+  "ident": "yn-emshyr",
+  "name": "Yn Emshyr",
+  "notes": "Transcription and translation; R.Teare; from an article in the Manks Advertiser; Yn Emshyr.",
+  "source": "Manks Advertiser, Thursday, June 17, 1824; Page 3.",
+  "original": "Manx",
+  "mnhNewsComponent": "Ar00303"
 }

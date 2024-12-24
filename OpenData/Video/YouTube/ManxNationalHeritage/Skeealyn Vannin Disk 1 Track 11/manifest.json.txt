@@ -1,15 +1,15 @@
 {
-	"createdCircaStart": "1948-01-01",
-	"createdCircaEnd": "1948-12-31",
-	"ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-11",
-	"name": "🎥 Skeealyn Vannin, Disk 1 Track 11",
-	"notes": "End of Conversation in Manx Gaelic between native speaker Annie Kneale and interviewers Bill Radcliffe, Mark Braide and Kevin Danaher. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
-	"author": "Annie Kneale, Ballagarrett, Bride, J.W. (Bill) Radcliffe, Mark Braide, Kevin Danaher.",
-	"translated": "Unspecified, likely Walter Clarke, Ramsey",
-	"transcribed": "Unspecified, likely Walter Clarke, Ramsey",
-	"original": "Manx",
-	"source":  "https://www.youtube.com/watch?v=MSH0wGQOr1g",
-	"iMuseum": "https://imuseum.im/search/archive_record/view/20?id=mnh-museum-675924",
-	"duration": "0:39",
-	"MNH ID": "SA 0579/1/11"
+  "createdCircaStart": "1948-01-01",
+  "createdCircaEnd": "1948-12-31",
+  "ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-11",
+  "name": "\uD83C\uDFA5 Skeealyn Vannin, Disk 1 Track 11",
+  "notes": "End of Conversation in Manx Gaelic between native speaker Annie Kneale and interviewers Bill Radcliffe, Mark Braide and Kevin Danaher. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
+  "author": "Annie Kneale, Ballagarrett, Bride, J.W. (Bill) Radcliffe, Mark Braide, Kevin Danaher.",
+  "translated": "Unspecified, likely Walter Clarke, Ramsey",
+  "transcribed": "Unspecified, likely Walter Clarke, Ramsey",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=MSH0wGQOr1g",
+  "iMuseum": "https://imuseum.im/search/archive_record/view/20?id=mnh-museum-675924",
+  "duration": "0:39",
+  "MNH ID": "SA 0579/1/11"
 }

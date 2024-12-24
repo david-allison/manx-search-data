@@ -1,13 +1,12 @@
 {
-	"created": "1975-06-21",
-	"ident": "Fockle-Ayns-Dty-Cleash-The-Festival-of-Mannanan",
-	"name": "Fockle Ayns Dty Cleash: 'The Festival of Mannanan'",
-	"englishName": "The Festival of Mannanan",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "",
-	"Transcription": "RT", 
-	"Translation": "RT",
-	"source":  "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "created": "1975-06-21",
+  "ident": "Fockle-Ayns-Dty-Cleash-The-Festival-of-Mannanan",
+  "name": "Fockle Ayns Dty Cleash: \u0027The Festival of Mannanan\u0027",
+  "englishName": "The Festival of Mannanan",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

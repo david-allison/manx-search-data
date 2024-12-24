@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2010-05-01",
-	"createdCircaEnd": "2010-05-31",
-	"ident": "Carn146Eddyr-inshEddyr-Cheltiagh",
-	"name": "Carn 146: Eddyr-insh eddyr-Cheltiagh",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "May 2010"
+  "createdCircaStart": "2010-05-01",
+  "createdCircaEnd": "2010-05-31",
+  "ident": "Carn146Eddyr-inshEddyr-Cheltiagh",
+  "name": "Carn 146: Eddyr-insh eddyr-Cheltiagh",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "May 2010"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1982-01-01",
-	"createdCircaEnd": "1982-12-31",
-	"ident": "Carn37CleayshynFollit",
-	"name": "Carn 037: Cleayshyn Follit",
-	"original": "Manx",
-	"author": "Brian y Stoyll",
-	"notes": "Spring 1982"
+  "createdCircaStart": "1982-01-01",
+  "createdCircaEnd": "1982-12-31",
+  "ident": "Carn37CleayshynFollit",
+  "name": "Carn 037: Cleayshyn Follit",
+  "original": "Manx",
+  "author": "Brian y Stoyll",
+  "notes": "Spring 1982"
 }

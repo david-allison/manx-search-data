@@ -1,15 +1,13 @@
 {
-	"created": "1896-09-29",
-	"notes": "Published in two parts in the Ramsey Courier, the first part on March 10th 1896, the second part on September 29th 1896, with the following introductions: March 10th: 'This is a version of hunt the wren, Translated and versed by a Brideonian. I'm sorry my friends that I haven’t the tune that was sung to these words by Methuselah.' September 29th: 'This is part second of Hunt the Wren: You must think me a queer kind of Brideonian, For I'm scheming to send to the man in the moon To see have he still got the air of the tune, For they’re saying he’s a jonnick old man.'",
-	"ident": "Shilg-y-Drayne-Sayle",
-	"name": "Shilg y Drayne",
-	"English Title": "Hunt the Wren",
-	"author": "Henry Sayle, Bride Village",
-	"original": "Manx",
-	"type": "Folk Song",
-	"transcribed": "R. Teare",
-	"translator": "R. Teare (with reference to tradition English sources)",
-	"source":  "Ramsey Courier, Tuesday, March 10, 1896; Page: 3 & Ramsey Courier, Tuesday, September 29, 1896; Page: 3:"
-	
+  "created": "1896-09-29",
+  "notes": "Published in two parts in the Ramsey Courier, the first part on March 10th 1896, the second part on September 29th 1896, with the following introductions: March 10th: \u0027This is a version of hunt the wren, Translated and versed by a Brideonian. I\u0027m sorry my friends that I haven\u2019t the tune that was sung to these words by Methuselah.\u0027 September 29th: \u0027This is part second of Hunt the Wren: You must think me a queer kind of Brideonian, For I\u0027m scheming to send to the man in the moon To see have he still got the air of the tune, For they\u2019re saying he\u2019s a jonnick old man.\u0027",
+  "ident": "Shilg-y-Drayne-Sayle",
+  "name": "Shilg y Drayne",
+  "English Title": "Hunt the Wren",
+  "author": "Henry Sayle, Bride Village",
+  "original": "Manx",
+  "type": "Folk Song",
+  "transcribed": "R. Teare",
+  "translator": "R. Teare (with reference to tradition English sources)",
+  "source": "Ramsey Courier, Tuesday, March 10, 1896; Page: 3 \u0026 Ramsey Courier, Tuesday, September 29, 1896; Page: 3:"
 }
-

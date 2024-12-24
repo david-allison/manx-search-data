@@ -1,14 +1,13 @@
 {
-	"created": "1977-06-04",
-	"ident": "Noon-as-Noal-Cheer-ny-Greiney",
-	"name": "Noon as Noal Marish 'Breagagh': 'Cheer ny Greiney'",
-	"englishName": "The Land of the Sun",
-	"notes": "Continuation from 'Yn Rhodesia' of Breagagh's autobiographical piece about his time in Africa.",
-	"author": "'Breagagh' (D. Faragher)",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, 4th June 1977"
+  "created": "1977-06-04",
+  "ident": "Noon-as-Noal-Cheer-ny-Greiney",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: \u0027Cheer ny Greiney\u0027",
+  "englishName": "The Land of the Sun",
+  "notes": "Continuation from \u0027Yn Rhodesia\u0027 of Breagagh\u0027s autobiographical piece about his time in Africa.",
+  "author": "\u0027Breagagh\u0027 (D. Faragher)",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, 4th June 1977"
 }
-

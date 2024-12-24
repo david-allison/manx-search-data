@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1980-01-01",
-	"createdCircaEnd": "1980-12-31",
-	"ident": "Carn29LosteyThieynAynsBretin",
-	"name": "Carn 029: Lostey Thieyn ayns Bretin.",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1980"
+  "createdCircaStart": "1980-01-01",
+  "createdCircaEnd": "1980-12-31",
+  "ident": "Carn29LosteyThieynAynsBretin",
+  "name": "Carn 029: Lostey Thieyn ayns Bretin.",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1980"
 }

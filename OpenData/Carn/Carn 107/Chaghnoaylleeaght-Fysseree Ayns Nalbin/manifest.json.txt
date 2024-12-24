@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1999-01-01",
-	"createdCircaEnd": "1999-12-31",
-	"ident": "Carn107Chaghnoaylleeaght-FyssereeAynsNalbin",
-	"name": "Carn 107: Chaghnoaylleeaght-Fysseree Ayns Nalbin",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Autumn 1999"
+  "createdCircaStart": "1999-01-01",
+  "createdCircaEnd": "1999-12-31",
+  "ident": "Carn107Chaghnoaylleeaght-FyssereeAynsNalbin",
+  "name": "Carn 107: Chaghnoaylleeaght-Fysseree Ayns Nalbin",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Autumn 1999"
 }

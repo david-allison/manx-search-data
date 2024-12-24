@@ -1,9 +1,9 @@
 {
-	"created": "1840-12-22",
-	"ident": "Cheet-magh-reesht",
-	"name": "Cheet Magh Reesht",
-	"notes": "An unsigned letter to Mona's Herald. Transcription & Translation; R. Teare",
-	"mnhNewsComponent": "Ar00304",
-	"original": "Manx",
-	"source": "Mona's Herald, Tuesday, December 22, 1840; Page: 3"
+  "created": "1840-12-22",
+  "ident": "Cheet-magh-reesht",
+  "name": "Cheet Magh Reesht",
+  "notes": "An unsigned letter to Mona\u0027s Herald. Transcription \u0026 Translation; R. Teare",
+  "mnhNewsComponent": "Ar00304",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Tuesday, December 22, 1840; Page: 3"
 }

@@ -1,7 +1,7 @@
 {
-	"createdCircaStart": "1906-01-01",
-	"createdCircaEnd": "1907-12-31",
-	"ident": "NedBeg-Emperor-Russia-as-yn-Major",
-	"name": "Emperor Russia as yn Major",
-	"notes": "In \"Loose Papers\", assumed to be dated 1906-1907."
+  "createdCircaStart": "1906-01-01",
+  "createdCircaEnd": "1907-12-31",
+  "ident": "NedBeg-Emperor-Russia-as-yn-Major",
+  "name": "Emperor Russia as yn Major",
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907."
 }

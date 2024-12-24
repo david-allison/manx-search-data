@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1974-01-01",
-	"createdCircaEnd": "1974-12-31",
-	"ident": "Carn6BeeNySostneeGimmeeaght",
-	"name": "Carn 006: Bee ny Sostnee Gimmeeaght?",
-	"original": "Manx",
-	"author": "Brian Mac Stoyll",
-	"notes": "Summer 1974"
+  "createdCircaStart": "1974-01-01",
+  "createdCircaEnd": "1974-12-31",
+  "ident": "Carn6BeeNySostneeGimmeeaght",
+  "name": "Carn 006: Bee ny Sostnee Gimmeeaght?",
+  "original": "Manx",
+  "author": "Brian Mac Stoyll",
+  "notes": "Summer 1974"
 }

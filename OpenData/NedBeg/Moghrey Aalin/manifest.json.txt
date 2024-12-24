@@ -1,7 +1,7 @@
 {
-	"createdCircaStart": "1900-03-30",
-	"createdCircaEnd": "1900-12-31",
-	"ident": "NedBegMoghreyAaling",
-	"name": "Moghrey Aalin",
-	"notes": "Written after a work dated 30.03.1900. Only one item in this collection is dated, all assumed to be c.1900."
+  "createdCircaStart": "1900-03-30",
+  "createdCircaEnd": "1900-12-31",
+  "ident": "NedBegMoghreyAaling",
+  "name": "Moghrey Aalin",
+  "notes": "Written after a work dated 30.03.1900. Only one item in this collection is dated, all assumed to be c.1900."
 }

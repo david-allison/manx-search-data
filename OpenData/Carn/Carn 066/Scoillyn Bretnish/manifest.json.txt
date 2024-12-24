@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1989-01-01",
-	"createdCircaEnd": "1989-12-31",
-	"ident": "Carn66ScoillynBretnish",
-	"name": "Carn 066: Scoillyn Bretnish",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Summer 1989"
+  "createdCircaStart": "1989-01-01",
+  "createdCircaEnd": "1989-12-31",
+  "ident": "Carn66ScoillynBretnish",
+  "name": "Carn 066: Scoillyn Bretnish",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Summer 1989"
 }

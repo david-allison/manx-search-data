@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1978-01-01",
-	"createdCircaEnd": "1978-12-31",
-	"ident": "Carn22JeanYnSNPCouyral-HamiltonBy-Election",
-	"name": "Carn 022: Jean yn SNP Couyral - Hamilton By-Election",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Summer 1978"
+  "createdCircaStart": "1978-01-01",
+  "createdCircaEnd": "1978-12-31",
+  "ident": "Carn22JeanYnSNPCouyral-HamiltonBy-Election",
+  "name": "Carn 022: Jean yn SNP Couyral - Hamilton By-Election",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Summer 1978"
 }

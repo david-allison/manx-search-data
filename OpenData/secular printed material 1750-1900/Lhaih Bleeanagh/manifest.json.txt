@@ -1,10 +1,10 @@
 {
-	"created": "1872-01-10",
-	"ident": "Lhaih-Bleeanagh",
-	"name": "Lhaih Bleeanagh Ghaelkagh",
-	"notes": "Programme of an evening of Manx. Transcription & Translation; R. Teare",
-	"author": "Various",
-	"original": "Manx",
-	"source": "Mona's Herald, Wednesday, January 10, 1872; Page: 6",
-	"mnhNewsComponent": "Ar00600"
+  "created": "1872-01-10",
+  "ident": "Lhaih-Bleeanagh",
+  "name": "Lhaih Bleeanagh Ghaelkagh",
+  "notes": "Programme of an evening of Manx. Transcription \u0026 Translation; R. Teare",
+  "author": "Various",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Wednesday, January 10, 1872; Page: 6",
+  "mnhNewsComponent": "Ar00600"
 }

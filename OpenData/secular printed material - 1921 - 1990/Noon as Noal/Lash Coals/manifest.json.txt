@@ -1,13 +1,13 @@
 {
-	"created": "1976-12-11",
-	"ident": "Noon-as-Noal-Lash-Coals-etc",
-	"name": "Noon as Noal: ‘‘A True Manxman’ / ‘Freiceadan Dubh’ / ‘Oie Ayns Thie Ny Garee’ / 'Lash Coals On Her Evie' / ‘Skeealaght’ / ‘Cooinaghtyn My Aegid’ / ‘Language Revival’ / ‘Real Power’’",
-	"englishName": "A True Manxman’ / ‘Black Watch’ / ‘A Night In The Sourland House’ / 'Lash Coals On Her Evie' / ‘Skeealaght’ / ‘Memories of My Youth’ / ‘Language Revival’ / ‘Real Power’",
-	"notes": "Column 'Noon as Noal'. Includes biographical piece about Evan Crebbin by 'Breagagh'",
-	"author": "Breagagh. B. Stowell",
-	"original": "Manx",
-	"type": "Current Events & Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Saturday, 21st August 1976"
+  "created": "1976-12-11",
+  "ident": "Noon-as-Noal-Lash-Coals-etc",
+  "name": "Noon as Noal: \u2018\u2018A True Manxman\u2019 / \u2018Freiceadan Dubh\u2019 / \u2018Oie Ayns Thie Ny Garee\u2019 / \u0027Lash Coals On Her Evie\u0027 / \u2018Skeealaght\u2019 / \u2018Cooinaghtyn My Aegid\u2019 / \u2018Language Revival\u2019 / \u2018Real Power\u2019\u2019",
+  "englishName": "A True Manxman\u2019 / \u2018Black Watch\u2019 / \u2018A Night In The Sourland House\u2019 / \u0027Lash Coals On Her Evie\u0027 / \u2018Skeealaght\u2019 / \u2018Memories of My Youth\u2019 / \u2018Language Revival\u2019 / \u2018Real Power\u2019",
+  "notes": "Column \u0027Noon as Noal\u0027. Includes biographical piece about Evan Crebbin by \u0027Breagagh\u0027",
+  "author": "Breagagh. B. Stowell",
+  "original": "Manx",
+  "type": "Current Events \u0026 Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Saturday, 21st August 1976"
 }

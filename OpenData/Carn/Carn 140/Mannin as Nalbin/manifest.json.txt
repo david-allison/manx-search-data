@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2008-01-01",
-	"createdCircaEnd": "2008-12-31",
-	"ident": "Carn140ManninAsNalbin",
-	"name": "Carn 140: Mannin as Nalbin",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Spring 2008"
+  "createdCircaStart": "2008-01-01",
+  "createdCircaEnd": "2008-12-31",
+  "ident": "Carn140ManninAsNalbin",
+  "name": "Carn 140: Mannin as Nalbin",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Spring 2008"
 }

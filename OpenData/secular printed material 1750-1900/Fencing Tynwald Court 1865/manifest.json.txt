@@ -1,9 +1,9 @@
 {
-	"created": "1865-06-28",
-	"ident": "Fencing-Tynwald-Court-1865",
-	"name": "Fencing Tynwald Court 1865",
-	"notes": "Transcribed; R. Teare 2020",
-	"source":  "Mona’s Herald, Wednesday, June 28, 1865; Page: 8",
-	"original": "Manx",
-	"mnhNewsComponent": "Ar00814"
+  "created": "1865-06-28",
+  "ident": "Fencing-Tynwald-Court-1865",
+  "name": "Fencing Tynwald Court 1865",
+  "notes": "Transcribed; R. Teare 2020",
+  "source": "Mona\u2019s Herald, Wednesday, June 28, 1865; Page: 8",
+  "original": "Manx",
+  "mnhNewsComponent": "Ar00814"
 }

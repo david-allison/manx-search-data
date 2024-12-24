@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1989-01-01",
-	"createdCircaEnd": "1989-12-31",
-	"ident": "Carn67VelNalbinDoostey",
-	"name": "Carn 067: Vel Nalbin Doostey?",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Autumn 1989"
+  "createdCircaStart": "1989-01-01",
+  "createdCircaEnd": "1989-12-31",
+  "ident": "Carn67VelNalbinDoostey",
+  "name": "Carn 067: Vel Nalbin Doostey?",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Autumn 1989"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1979-01-01",
-	"createdCircaEnd": "1979-12-31",
-	"ident": "Carn28SpeeikearynSostnaghAynsNerin",
-	"name": "Carn 028: Speeikearyn Sostnagh ayns Nerin",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Winter 1979"
+  "createdCircaStart": "1979-01-01",
+  "createdCircaEnd": "1979-12-31",
+  "ident": "Carn28SpeeikearynSostnaghAynsNerin",
+  "name": "Carn 028: Speeikearyn Sostnagh ayns Nerin",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Winter 1979"
 }

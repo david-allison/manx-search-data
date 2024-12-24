@@ -1,14 +1,14 @@
 {
-	"created": "1900-11-03",
-	"ident": "Yn-Shag",
-	"name": "Yn-Shag-as-Yn-Chraitnag",
-	"englishName": "The Cormorant And The Bat",
-	"notes": "There is a version of this story in Manx Fairy Tales",
-	"author": "J. R. M., Laxey",
-	"original": "Manx",
-	"type": "folklore",
-	"mnhNewsComponent": "Ar00810",
-	"transcription": "R. Teare",
-	"source":  "Yn Shag As Y Chraitnag. Isle of Man Examiner, Saturday, November 03, 1900; Page: 8",
-	"englishSource": "translation from 'THE CORMORANT AND THE BAT'. Isle of Man Examiner, Saturday, November 10, 1900; Page: 8"
+  "created": "1900-11-03",
+  "ident": "Yn-Shag",
+  "name": "Yn-Shag-as-Yn-Chraitnag",
+  "englishName": "The Cormorant And The Bat",
+  "notes": "There is a version of this story in Manx Fairy Tales",
+  "author": "J. R. M., Laxey",
+  "original": "Manx",
+  "type": "folklore",
+  "mnhNewsComponent": "Ar00810",
+  "transcription": "R. Teare",
+  "source": "Yn Shag As Y Chraitnag. Isle of Man Examiner, Saturday, November 03, 1900; Page: 8",
+  "englishSource": "translation from \u0027THE CORMORANT AND THE BAT\u0027. Isle of Man Examiner, Saturday, November 10, 1900; Page: 8"
 }

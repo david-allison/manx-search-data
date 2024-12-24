@@ -1,14 +1,13 @@
 {
-	"createdCircaStart": "1977-05-28",
-	"createdCircaEnd": "1977-12-31",
-	"ident": "Noon-as-Noal-Rhodesia-2",
-	"name": "'Yn Rhodeish'/'Cheer ny Greiney' (Part 2)",
-	"englishName": "Rhodesia (Part 2)",
-	"notes": "Autobiographical account by Breagagh of his time in Africa. Second part of Noon as Noal Marish 'Breagagh': 'Yn Rhodeish'",
-	"author": "'Breagagh' (D. Faragher)",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "Phil Kelly",
-	"source":  "Pending. https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/DFC1.html"
+  "createdCircaStart": "1977-05-28",
+  "createdCircaEnd": "1977-12-31",
+  "ident": "Noon-as-Noal-Rhodesia-2",
+  "name": "\u0027Yn Rhodeish\u0027/\u0027Cheer ny Greiney\u0027 (Part 2)",
+  "englishName": "Rhodesia (Part 2)",
+  "notes": "Autobiographical account by Breagagh of his time in Africa. Second part of Noon as Noal Marish \u0027Breagagh\u0027: \u0027Yn Rhodeish\u0027",
+  "author": "\u0027Breagagh\u0027 (D. Faragher)",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "Phil Kelly",
+  "source": "Pending. https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/DFC1.html"
 }
-

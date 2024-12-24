@@ -1,14 +1,13 @@
 {
-	"created": "1977-04-23",
-	"ident": "Will-Wade",
-	"name": "Noon as Noal Marish 'Breagagh': 'Will Wade'",
-	"englishName": "Will Wade",
-	"notes": "Description of Will Wade by M. Braide and C. Craine",
-	"author": "M. Braide & C. Craine",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Saturday, 23rd April, 1977 "
+  "created": "1977-04-23",
+  "ident": "Will-Wade",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: \u0027Will Wade\u0027",
+  "englishName": "Will Wade",
+  "notes": "Description of Will Wade by M. Braide and C. Craine",
+  "author": "M. Braide \u0026 C. Craine",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Saturday, 23rd April, 1977 "
 }
-

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1979-01-01",
-	"createdCircaEnd": "1979-12-31",
-	"ident": "Carn25ScoltaghynAynsUllee",
-	"name": "Carn 025: Scoltaghyn ayns \"Ullee\"",
-	"author": "Brian Mac Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1979"
+  "createdCircaStart": "1979-01-01",
+  "createdCircaEnd": "1979-12-31",
+  "ident": "Carn25ScoltaghynAynsUllee",
+  "name": "Carn 025: Scoltaghyn ayns \u0022Ullee\u0022",
+  "author": "Brian Mac Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1979"
 }

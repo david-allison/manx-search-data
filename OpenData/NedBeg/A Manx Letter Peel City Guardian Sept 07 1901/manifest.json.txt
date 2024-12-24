@@ -1,6 +1,6 @@
 {
-	"created": "1901-09-07",
-	"ident": "NedBegManxLetterPeelCityGuardianSept1901",
-	"name": "A Manx Letter : Peel City Guardian, Sat Sept 07, 1901",
-	"notes": "As translated by the recipient, Edward Faragher, when I visited him at Cregneash, 27th August, 1901.—E. S. DODGSON"
+  "created": "1901-09-07",
+  "ident": "NedBegManxLetterPeelCityGuardianSept1901",
+  "name": "A Manx Letter : Peel City Guardian, Sat Sept 07, 1901",
+  "notes": "As translated by the recipient, Edward Faragher, when I visited him at Cregneash, 27th August, 1901.\u2014E. S. DODGSON"
 }

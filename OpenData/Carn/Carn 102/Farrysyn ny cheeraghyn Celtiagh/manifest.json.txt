@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1998-01-01",
-	"createdCircaEnd": "1998-12-31",
-	"ident": "Carn102FarrysynNyCheeraghynCeltiagh",
-	"name": "Carn 102: Farrysyn ny çheeraghyn Celtiagh",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Summer 1998"
+  "createdCircaStart": "1998-01-01",
+  "createdCircaEnd": "1998-12-31",
+  "ident": "Carn102FarrysynNyCheeraghynCeltiagh",
+  "name": "Carn 102: Farrysyn ny \u00E7heeraghyn Celtiagh",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Summer 1998"
 }

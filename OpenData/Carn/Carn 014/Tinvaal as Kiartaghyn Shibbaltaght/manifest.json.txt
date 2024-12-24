@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1976-01-01",
-	"createdCircaEnd": "1976-12-31",
-	"ident": "Carn14TinvaalAsKiartaghynShibbaltaght",
-	"name": "Carn 014: Tinvaal as Kiartaghyn Shibbaltaght.",
-	"author": "Shorus y Creayrie",
-	"original": "Manx",
-	"notes": "Summer 1976"
+  "createdCircaStart": "1976-01-01",
+  "createdCircaEnd": "1976-12-31",
+  "ident": "Carn14TinvaalAsKiartaghynShibbaltaght",
+  "name": "Carn 014: Tinvaal as Kiartaghyn Shibbaltaght.",
+  "author": "Shorus y Creayrie",
+  "original": "Manx",
+  "notes": "Summer 1976"
 }

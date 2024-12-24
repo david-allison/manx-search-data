@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "2004-01-01",
-	"createdCircaEnd": "2004-12-31",
-	"ident": "Carn126MraaneCeltiaghAynsShennaghysImpiroileeYnEashNoa",
-	"name": "Carn 126: Mraane Celtiagh ayns Shennaghys Impiroilee yn Eash Noa",
-	"author": "Brian Stowell",
-	"original": "Manx",
-	"notes": "Summer 2004"
+  "createdCircaStart": "2004-01-01",
+  "createdCircaEnd": "2004-12-31",
+  "ident": "Carn126MraaneCeltiaghAynsShennaghysImpiroileeYnEashNoa",
+  "name": "Carn 126: Mraane Celtiagh ayns Shennaghys Impiroilee yn Eash Noa",
+  "author": "Brian Stowell",
+  "original": "Manx",
+  "notes": "Summer 2004"
 }

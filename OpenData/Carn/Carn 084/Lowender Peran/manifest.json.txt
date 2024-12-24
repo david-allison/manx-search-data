@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1993-01-01",
-	"createdCircaEnd": "1994-12-31",
-	"ident": "Carn84LowenderPeran",
-	"name": "Carn 084: Lowender Peran",
-	"author": "Colin y Jerree",
-	"original": "Manx",
-	"notes": "Winter 1993/4"
+  "createdCircaStart": "1993-01-01",
+  "createdCircaEnd": "1994-12-31",
+  "ident": "Carn84LowenderPeran",
+  "name": "Carn 084: Lowender Peran",
+  "author": "Colin y Jerree",
+  "original": "Manx",
+  "notes": "Winter 1993/4"
 }

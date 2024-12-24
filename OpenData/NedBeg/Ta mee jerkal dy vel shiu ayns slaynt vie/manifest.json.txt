@@ -1,6 +1,6 @@
 {
-	"created": "1907-02-14",
-	"ident": "NedBegTaMeeJerkalDyVel",
-	"name": "Ta mee jerkal dy vel shiu ayns slaynt vie. ",
-	"description": "(Goaill stiagh daa ghuillag nagh vel goit stiagh ayns vershoon CL). (CL: Screeuyn dys Kewley 2).  14.02.1907."
+  "created": "1907-02-14",
+  "ident": "NedBegTaMeeJerkalDyVel",
+  "name": "Ta mee jerkal dy vel shiu ayns slaynt vie. ",
+  "description": "(Goaill stiagh daa ghuillag nagh vel goit stiagh ayns vershoon CL). (CL: Screeuyn dys Kewley 2).  14.02.1907."
 }

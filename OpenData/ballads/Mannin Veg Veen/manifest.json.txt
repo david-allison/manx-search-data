@@ -1,10 +1,10 @@
 {
-	"created": "1872-02-21",
-	"ident": "Mannin-Veg-Veen",
-	"name": "Mannin Veg Veen",
-	"notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona's Herald",
-	"type": "Ballad",
-	"original": "Manx",
-	"source": "Mona's Herald, Wednesday, February 21, 1872",
-	"mnhNewsComponent": "Ar00604"
+  "created": "1872-02-21",
+  "ident": "Mannin-Veg-Veen",
+  "name": "Mannin Veg Veen",
+  "notes": "Ballad (Fishing). Translation; R. Teare, Transliteration; Mona\u0027s Herald",
+  "type": "Ballad",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Wednesday, February 21, 1872",
+  "mnhNewsComponent": "Ar00604"
 }

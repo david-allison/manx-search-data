@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1996-01-01",
-	"createdCircaEnd": "1996-12-31",
-	"ident": "Carn95GaelgAlbinaghAynsScoillynArd",
-	"name": "Carn 095: Gaelg Albinagh ayns Scoillyn Ard",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Autumn 1996"
+  "createdCircaStart": "1996-01-01",
+  "createdCircaEnd": "1996-12-31",
+  "ident": "Carn95GaelgAlbinaghAynsScoillynArd",
+  "name": "Carn 095: Gaelg Albinagh ayns Scoillyn Ard",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Autumn 1996"
 }

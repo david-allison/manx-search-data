@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1975-11-01",
-	"createdCircaEnd": "1975-11-30",
-	"ident": "Carn11LhiettalBreeLoayrtysNyYerneeAynsSostyn",
-	"name": "Carn 011: Lhiettal Bree-loayrtys ny Yernee ayns Sostyn",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "November 1975"
+  "createdCircaStart": "1975-11-01",
+  "createdCircaEnd": "1975-11-30",
+  "ident": "Carn11LhiettalBreeLoayrtysNyYerneeAynsSostyn",
+  "name": "Carn 011: Lhiettal Bree-loayrtys ny Yernee ayns Sostyn",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "November 1975"
 }

@@ -1,15 +1,15 @@
 {
-	"createdCircaStart": "1948-01-01",
-	"createdCircaEnd": "1948-12-31",
-	"ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-12",
-	"name": "🎥 Skeealyn Vannin, Disk 1 Track 12",
-	"notes": "Conversation in Manx Gaelic between native speakers Harry Boyde and John Kneen and interviewers Bill Radcliffe and Mark Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
-	"author": "Harry Boyde, Ballaugh, John Kneen (the 'Gaaue'), J.W. (Bill) Radcliffe and Mark Braide",
-	"translated": "Walter Clarke, Ramsey",
-	"transcribed": "Walter Clarke, Ramsey",
-	"original": "Manx",
-	"source":  "https://www.youtube.com/watch?v=hJsTeYVBfTU",
-	"iMuseum": "https://imuseum.im/search/archive_record/view/60?id=mnh-museum-675925",
-	"duration": "4:30",
-	"MNH ID": "SA 0579/1/12"
+  "createdCircaStart": "1948-01-01",
+  "createdCircaEnd": "1948-12-31",
+  "ident": "YouTube-Skeealyn-Vannin-Disk-1-Track-12",
+  "name": "\uD83C\uDFA5 Skeealyn Vannin, Disk 1 Track 12",
+  "notes": "Conversation in Manx Gaelic between native speakers Harry Boyde and John Kneen and interviewers Bill Radcliffe and Mark Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
+  "author": "Harry Boyde, Ballaugh, John Kneen (the \u0027Gaaue\u0027), J.W. (Bill) Radcliffe and Mark Braide",
+  "translated": "Walter Clarke, Ramsey",
+  "transcribed": "Walter Clarke, Ramsey",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=hJsTeYVBfTU",
+  "iMuseum": "https://imuseum.im/search/archive_record/view/60?id=mnh-museum-675925",
+  "duration": "4:30",
+  "MNH ID": "SA 0579/1/12"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1988-01-01",
-	"createdCircaEnd": "1988-12-31",
-	"ident": "Carn62StudeyrysYernagh",
-	"name": "Carn 062: Studeyrys Yernagh",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Summer 1988 - incorrectly listed as 1968"
+  "createdCircaStart": "1988-01-01",
+  "createdCircaEnd": "1988-12-31",
+  "ident": "Carn62StudeyrysYernagh",
+  "name": "Carn 062: Studeyrys Yernagh",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Summer 1988 - incorrectly listed as 1968"
 }

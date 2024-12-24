@@ -1,9 +1,9 @@
 {
-	"created": "1834-06-06",
-	"ident": "Manninyn-Mac-Lear-i",
-	"name": "Manninyn Mac Lear i", 
-	"notes": "Transcription and translation; R.Teare; from an letter in Mona’s Herald from ‘Manninyn Mac Lear’.",
-	"source":  "Mona's Herald, Friday, June 06, 1834; Page: 3",
-	"original": "Manx",
-	"mnhNewsComponent": "Ar00304"
+  "created": "1834-06-06",
+  "ident": "Manninyn-Mac-Lear-i",
+  "name": "Manninyn Mac Lear i",
+  "notes": "Transcription and translation; R.Teare; from an letter in Mona\u2019s Herald from \u2018Manninyn Mac Lear\u2019.",
+  "source": "Mona\u0027s Herald, Friday, June 06, 1834; Page: 3",
+  "original": "Manx",
+  "mnhNewsComponent": "Ar00304"
 }

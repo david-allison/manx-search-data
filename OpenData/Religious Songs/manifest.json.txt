@@ -1,12 +1,11 @@
 {
-	"created": "1880-12-22",
-	"ident": "Pass-under-the-rod",
-	"name": "Pass under the rod",
-	"notes": "Free translation of Mary S. B. Dana's 'Pass Under the Rod. Sacred Song.' by a Manxman in Illinois.",
-	"original": "English",
-	"author": "W. in Illinois",
-	"type": "Hymn",
-	"source":  "Mona’s Herald, Wednesday, December 22, 1880; Page: 2",
-	"mnhNewsComponent": "Ar00206"
+  "created": "1880-12-22",
+  "ident": "Pass-under-the-rod",
+  "name": "Pass under the rod",
+  "notes": "Free translation of Mary S. B. Dana\u0027s \u0027Pass Under the Rod. Sacred Song.\u0027 by a Manxman in Illinois.",
+  "original": "English",
+  "author": "W. in Illinois",
+  "type": "Hymn",
+  "source": "Mona\u2019s Herald, Wednesday, December 22, 1880; Page: 2",
+  "mnhNewsComponent": "Ar00206"
 }
-

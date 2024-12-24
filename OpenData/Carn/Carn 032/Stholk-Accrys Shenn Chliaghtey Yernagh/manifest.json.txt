@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1980-01-01",
-	"createdCircaEnd": "1980-12-31",
-	"ident": "Carn32Stholk-AccrysShennChliaghteyYernagh",
-	"name": "Carn 032: Stholk-Accrys Shenn Chliaghtey Yernagh",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Winter 1980"
+  "createdCircaStart": "1980-01-01",
+  "createdCircaEnd": "1980-12-31",
+  "ident": "Carn32Stholk-AccrysShennChliaghteyYernagh",
+  "name": "Carn 032: Stholk-Accrys Shenn Chliaghtey Yernagh",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Winter 1980"
 }

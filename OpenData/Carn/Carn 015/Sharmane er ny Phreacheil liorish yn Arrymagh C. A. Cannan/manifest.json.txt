@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1976-01-01",
-	"createdCircaEnd": "1976-12-31",
-	"ident": "Carn15SharmaneErNyPhreacheilLiorishYnArrymaghCACannan",
-	"name": "Carn 015: Sharmane er ny Phreacheil liorish yn Arrymagh C. A. Cannan ec Keeill Noo Runius ayns Skeerey Marooney, Yn 1400 Mee Toshiaght Fouyir 1975.",
-	"author": "Rev C. A. Cannan",
-	"original": "Manx",
-	"notes": "Autumn 1976"
+  "createdCircaStart": "1976-01-01",
+  "createdCircaEnd": "1976-12-31",
+  "ident": "Carn15SharmaneErNyPhreacheilLiorishYnArrymaghCACannan",
+  "name": "Carn 015: Sharmane er ny Phreacheil liorish yn Arrymagh C. A. Cannan ec Keeill Noo Runius ayns Skeerey Marooney, Yn 1400 Mee Toshiaght Fouyir 1975.",
+  "author": "Rev C. A. Cannan",
+  "original": "Manx",
+  "notes": "Autumn 1976"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1986-01-01",
-	"createdCircaEnd": "1986-12-31",
-	"ident": "Carn53SostynVoght",
-	"name": "Carn 053: Sostyn Voght",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Spring 1986"
+  "createdCircaStart": "1986-01-01",
+  "createdCircaEnd": "1986-12-31",
+  "ident": "Carn53SostynVoght",
+  "name": "Carn 053: Sostyn Voght",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Spring 1986"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1981-01-01",
-	"createdCircaEnd": "1981-12-31",
-	"ident": "Carn34ScannaneErEllanVannin",
-	"name": "Carn 034: Scannane er Ellan Vannin",
-	"author": "Sean Ó Quinn",
-	"original": "Manx",
-	"notes": "Summer 1981"
+  "createdCircaStart": "1981-01-01",
+  "createdCircaEnd": "1981-12-31",
+  "ident": "Carn34ScannaneErEllanVannin",
+  "name": "Carn 034: Scannane er Ellan Vannin",
+  "author": "Sean \u00D3 Quinn",
+  "original": "Manx",
+  "notes": "Summer 1981"
 }

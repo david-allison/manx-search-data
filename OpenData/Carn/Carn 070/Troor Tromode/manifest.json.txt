@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1990-01-01",
-	"createdCircaEnd": "1990-12-31",
-	"ident": "Carn70TroorTromode",
-	"name": "Carn 070: Troor Tromode",
-	"author": "Brian y Stoyll",
-	"original": "Manx",
-	"notes": "Summer 1990"
+  "createdCircaStart": "1990-01-01",
+  "createdCircaEnd": "1990-12-31",
+  "ident": "Carn70TroorTromode",
+  "name": "Carn 070: Troor Tromode",
+  "author": "Brian y Stoyll",
+  "original": "Manx",
+  "notes": "Summer 1990"
 }

@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1998-01-01",
-	"createdCircaEnd": "1998-12-31",
-	"ident": "Carn103CaggaghynChellveeish",
-	"name": "Carn 103: Caggaghyn Chellveeish",
-	"author": "Orree Crennell",
-	"original": "Manx",
-	"notes": "Autumn 1998"
+  "createdCircaStart": "1998-01-01",
+  "createdCircaEnd": "1998-12-31",
+  "ident": "Carn103CaggaghynChellveeish",
+  "name": "Carn 103: Caggaghyn Chellveeish",
+  "author": "Orree Crennell",
+  "original": "Manx",
+  "notes": "Autumn 1998"
 }

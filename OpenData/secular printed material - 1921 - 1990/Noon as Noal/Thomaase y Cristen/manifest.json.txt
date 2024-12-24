@@ -1,14 +1,13 @@
 {
-	"created": "1977-04-23",
-	"ident": "Thomaase-y-Cristen",
-	"name": "Noon as Noal Marish 'Breagagh': 'Thomaase y Cristen'",
-	"englishName": "Thomas Christian",
-	"notes": "Description of Thomas Christian by J. F. Cowell",
-	"author": "J. F. Cowell",
-	"original": "Manx",
-	"type": "Biographical",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Manx Star, Saturday, 21st May, 1977 ‘Thomaase Mac Cristen’ "
+  "created": "1977-04-23",
+  "ident": "Thomaase-y-Cristen",
+  "name": "Noon as Noal Marish \u0027Breagagh\u0027: \u0027Thomaase y Cristen\u0027",
+  "englishName": "Thomas Christian",
+  "notes": "Description of Thomas Christian by J. F. Cowell",
+  "author": "J. F. Cowell",
+  "original": "Manx",
+  "type": "Biographical",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Manx Star, Saturday, 21st May, 1977 \u2018Thomaase Mac Cristen\u2019 "
 }
-

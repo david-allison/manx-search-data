@@ -1,9 +1,9 @@
 {
-	"createdCircaStart": "1973-01-01",
-	"createdCircaEnd": "1973-12-31",
-	"ident": "Carn3TurrysSyGhaidhealtachd",
-	"name": "Carn 003: Turrys sy Ghàidhealtachd",
-	"author": "Brian Mac Stoyll",
-	"original": "Manx",
-	"notes": "Autumn 1973"
+  "createdCircaStart": "1973-01-01",
+  "createdCircaEnd": "1973-12-31",
+  "ident": "Carn3TurrysSyGhaidhealtachd",
+  "name": "Carn 003: Turrys sy Gh\u00E0idhealtachd",
+  "author": "Brian Mac Stoyll",
+  "original": "Manx",
+  "notes": "Autumn 1973"
 }
