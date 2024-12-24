@@ -1,9 +1,9 @@
 {
-	"created": "1901-02-26",
-	"ident": "NedBeg-Manx-Sayings-1901",
-	"name": "Manx Sayings (Edward Fargher)",
-	"notes": "Copy of MS. written by Edward Fargher, Creneish, and given by him to C. Roeder, Manchester, 26 February 1901. Asterisks and correction marks were in original",
-	"source": "Private Collection of  Alan Kelly",
-	"original": "Bilingual",
-	"transcribed": "Phil Kelly",
+  "created": "1901-02-26",
+  "ident": "NedBeg-Manx-Sayings-1901",
+  "name": "Manx Sayings (Edward Fargher)",
+  "notes": "Copy of MS. written by Edward Fargher, Creneish, and given by him to C. Roeder, Manchester, 26 February 1901. Asterisks and correction marks were in original",
+  "source": "Private Collection of  Alan Kelly",
+  "original": "Bilingual",
+  "transcribed": "Phil Kelly"
 }

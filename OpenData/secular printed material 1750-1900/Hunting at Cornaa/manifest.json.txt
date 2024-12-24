@@ -1,11 +1,10 @@
 {
-	"created": "1898-10-15",
-	"ident": "Hunting-at-Cornaa",
-	"name": "Hunting at Cornaa",
-	"original": "Manx",
-	"notes": "Account of a family day in the hills.",
-	"source": "Isle of Man Examiner, Saturday, October 15, 1898; Page: 4",
-	"author": "Thomm Beg",
-	"translator": "Thomm Beg",
-	
+  "created": "1898-10-15",
+  "ident": "Hunting-at-Cornaa",
+  "name": "Hunting at Cornaa",
+  "original": "Manx",
+  "notes": "Account of a family day in the hills.",
+  "source": "Isle of Man Examiner, Saturday, October 15, 1898; Page: 4",
+  "author": "Thomm Beg",
+  "translator": "Thomm Beg"
 }

@@ -1,14 +1,13 @@
 {
-	"created": "1976-04-30",
-	"ident": "Noon-as-Noal-Cooinaghtyn-Yuan-Cooinaghtyn-Cholin",
-	"name": "Noon as Noal: 'Cooinaghtyn Elley Yuan y Gell' / 'Cooinaghtyn Elley My Aegid' — Colin y Jerry",
-	"englishName": "'More of Juan Gell's Memories' / 'More Stories of My Youth'— Colin Jerry ",
-	"notes": "Biographical Pieces",
-	"author": "J. Gell & C. Jerry",
-	"original": "Manx",
-	"type": "Manx Langauge Column",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Manx Star, Saturday, 30th April, 1977",
+  "created": "1976-04-30",
+  "ident": "Noon-as-Noal-Cooinaghtyn-Yuan-Cooinaghtyn-Cholin",
+  "name": "Noon as Noal: \u0027Cooinaghtyn Elley Yuan y Gell\u0027 / \u0027Cooinaghtyn Elley My Aegid\u0027 \u2014\u00A0Colin y Jerry",
+  "englishName": "\u0027More of Juan Gell\u0027s Memories\u0027 / \u0027More Stories of My Youth\u0027\u2014 Colin Jerry ",
+  "notes": "Biographical Pieces",
+  "author": "J. Gell \u0026 C. Jerry",
+  "original": "Manx",
+  "type": "Manx Langauge Column",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Manx Star, Saturday, 30th April, 1977"
 }
-

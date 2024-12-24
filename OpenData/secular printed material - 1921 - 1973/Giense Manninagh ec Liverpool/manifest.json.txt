@@ -1,13 +1,12 @@
 {
-	"created": "1939-05-30",
-	"ident": "Ginese-Manninagh-ec-Liverpool-1939",
-	"name": "Giense Manninagh ec Liverpool",
-	"englishName": "Manx Giense at Liverpool",
-	"notes": "Report of the Liverpool Manx Society Tea and Concert",
-	"original": "Manx",
-	"author": "Unknown",
-	"transcription": "R. Teare",
-	"translation": "Unknown",
-	"source": "Mona's Herald, Tuesday, May 30, 1939; Page: 2",
+  "created": "1939-05-30",
+  "ident": "Ginese-Manninagh-ec-Liverpool-1939",
+  "name": "Giense Manninagh ec Liverpool",
+  "englishName": "Manx Giense at Liverpool",
+  "notes": "Report of the Liverpool Manx Society Tea and Concert",
+  "original": "Manx",
+  "author": "Unknown",
+  "transcription": "R. Teare",
+  "translation": "Unknown",
+  "source": "Mona\u0027s Herald, Tuesday, May 30, 1939; Page: 2"
 }
-

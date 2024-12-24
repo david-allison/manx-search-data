@@ -1,6 +1,6 @@
 {
-	"created": "1906-07-19",
-	"ident": "NedBegOCheerJehMyAyraghyn-ii",
-	"original": "English",
-	"name": "O Çheer jeh my Ayraghyn (ii)",
+  "created": "1906-07-19",
+  "ident": "NedBegOCheerJehMyAyraghyn-ii",
+  "original": "English",
+  "name": "O \u00C7heer jeh my Ayraghyn (ii)"
 }

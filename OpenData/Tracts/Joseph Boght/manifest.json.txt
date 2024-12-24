@@ -1,12 +1,12 @@
 {
-	"createdCircaStart": "1822-01-01",
-	"createdCircaEnd": "1822-12-31",
-	"ident": "Joseph-Boght",
-	"name": "Joseph Boght",
-	"englishName": "Poor Joseph",
-	"notes": "Edited and set alongside the English by Max W. Wheeler August, 2021",
-	"original": "English",
-	"type": "Tract",
-	"source": "",
-	"corupusSource": "Joseph Boght B as G.docx",
+  "createdCircaStart": "1822-01-01",
+  "createdCircaEnd": "1822-12-31",
+  "ident": "Joseph-Boght",
+  "name": "Joseph Boght",
+  "englishName": "Poor Joseph",
+  "notes": "Edited and set alongside the English by Max W. Wheeler August, 2021",
+  "original": "English",
+  "type": "Tract",
+  "source": "",
+  "corupusSource": "Joseph Boght B as G.docx"
 }

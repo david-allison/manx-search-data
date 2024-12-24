@@ -1,5 +1,5 @@
 {
-	"created": "1900-01-25",
-	"ident": "NedBeg-Padjer-ayns-Gaelg-Chouds-ta-mee-ayns-yn-seihll-rouail",
-	"name": "Padjer ayns Gaelg; Chouds ta mee ayns yn seihll rouail",
+  "created": "1900-01-25",
+  "ident": "NedBeg-Padjer-ayns-Gaelg-Chouds-ta-mee-ayns-yn-seihll-rouail",
+  "name": "Padjer ayns Gaelg; Chouds ta mee ayns yn seihll rouail"
 }

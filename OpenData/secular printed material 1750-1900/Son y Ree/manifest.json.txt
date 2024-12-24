@@ -1,9 +1,9 @@
 {
-	"created": "1891-03-18",
-	"ident": "Son-y-Ree",
-	"name": "Son y Ree",
-	"type": "Poem",
-	"original": "Manx",
-	"notes": "Poem printed without any information concerning date or author - but title translates as 'For the King' so likely pre 1837.Translation; RT 2021.",
-	"source": "Mona's Herald, Wednesday, March 18, 1891; Page: 2 - though likely older as the monarch had been Queen Victoria since 1837",
+  "created": "1891-03-18",
+  "ident": "Son-y-Ree",
+  "name": "Son y Ree",
+  "type": "Poem",
+  "original": "Manx",
+  "notes": "Poem printed without any information concerning date or author - but title translates as \u0027For the King\u0027 so likely pre 1837.Translation; RT 2021.",
+  "source": "Mona\u0027s Herald, Wednesday, March 18, 1891; Page: 2 - though likely older as the monarch had been Queen Victoria since 1837"
 }

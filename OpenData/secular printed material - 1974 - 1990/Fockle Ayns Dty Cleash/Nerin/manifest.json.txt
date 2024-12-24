@@ -1,11 +1,10 @@
 {
-	"created": "1975-05-17",
-	"ident": "Fockle-Ayns-Dty-Cleash-Nerin",
-	"name": "Fockle Ayns Dty Cleash: 'Nerin'",
-	"englishName": "Ireland",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 17th May, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1975-05-17",
+  "ident": "Fockle-Ayns-Dty-Cleash-Nerin",
+  "name": "Fockle Ayns Dty Cleash: \u0027Nerin\u0027",
+  "englishName": "Ireland",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 17th May, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

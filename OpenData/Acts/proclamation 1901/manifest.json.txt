@@ -1,9 +1,8 @@
 {
-	"created": "1901-02-02",
-	"ident": "Cliaghtey-Fockley-Magh-1901",
-	"name": "Cliaghtey Fockley Magh",
-	"notes": "Proclamation Ceremony of the New King",
-	"original": "Bilingual",
-	"source":  "Isle of Man Examiner, Saturday, February 02, 1901; Page: 2",
-	
+  "created": "1901-02-02",
+  "ident": "Cliaghtey-Fockley-Magh-1901",
+  "name": "Cliaghtey Fockley Magh",
+  "notes": "Proclamation Ceremony of the New King",
+  "original": "Bilingual",
+  "source": "Isle of Man Examiner, Saturday, February 02, 1901; Page: 2"
 }

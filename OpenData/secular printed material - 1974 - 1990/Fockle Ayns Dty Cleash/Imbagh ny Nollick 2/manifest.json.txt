@@ -1,11 +1,10 @@
 {
-	"created": "1974-12-16",
-	"ident": "Fockle-Ayns-Dty-Cleash-Imbagh-ny-Nollick",
-	"name": "Fockle Ayns Dty Cleash: 'Imbagh ny Nollick'",
-	"englishName": "The Christmas Season",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 16th December, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-12-16",
+  "ident": "Fockle-Ayns-Dty-Cleash-Imbagh-ny-Nollick",
+  "name": "Fockle Ayns Dty Cleash: \u0027Imbagh ny Nollick\u0027",
+  "englishName": "The Christmas Season",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 16th December, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

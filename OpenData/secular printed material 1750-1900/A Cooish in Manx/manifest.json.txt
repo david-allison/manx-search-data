@@ -1,11 +1,9 @@
 {
-	"created": "1899-01-07",
-	"ident": "A-Cooish-In-Manx",
-	"name": "A Cooish in Manx",
-	"author": "YAMYS MYLVAANTYN.",
-	"original": "Manx",
-	"type": "Story",
-	"source":  "Isle of Man Examiner, Saturday, January 07, 1899; Page: 6",
-	
+  "created": "1899-01-07",
+  "ident": "A-Cooish-In-Manx",
+  "name": "A Cooish in Manx",
+  "author": "YAMYS MYLVAANTYN.",
+  "original": "Manx",
+  "type": "Story",
+  "source": "Isle of Man Examiner, Saturday, January 07, 1899; Page: 6"
 }
-

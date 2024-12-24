@@ -1,5 +1,5 @@
 {
-	"created": "1899-05-23",
-	"ident": "NedBegEan16-27",
-	"name": "Ean 16:27",
+  "created": "1899-05-23",
+  "ident": "NedBegEan16-27",
+  "name": "Ean 16:27"
 }

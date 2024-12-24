@@ -1,11 +1,10 @@
 {
-	"created": "1846-12-30",
-	"ident": "Huggeysyn-ta-cur",
-	"name": "Huggeysyn ta cur magh yn Heral Manninagh",
-	"notes": "A Letter about the language",
-	"author": "Manninagh Dooie. Translation; A Countryman.",
-	"type": "Letter",
-	"original": "Manx",
-	"source":  "Mona's Herald, Wednesday, December 30, 1846; Page: 3 English Translation; Mona's Herald, Wednesday, January 20, 1847; Page: 3",
-	
+  "created": "1846-12-30",
+  "ident": "Huggeysyn-ta-cur",
+  "name": "Huggeysyn ta cur magh yn Heral Manninagh",
+  "notes": "A Letter about the language",
+  "author": "Manninagh Dooie. Translation; A Countryman.",
+  "type": "Letter",
+  "original": "Manx",
+  "source": "Mona\u0027s Herald, Wednesday, December 30, 1846; Page: 3 English Translation; Mona\u0027s Herald, Wednesday, January 20, 1847; Page: 3"
 }

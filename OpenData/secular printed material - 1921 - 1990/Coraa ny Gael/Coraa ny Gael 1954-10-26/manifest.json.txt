@@ -1,14 +1,13 @@
 {
-	"created": "1954-10-26",
-	"ident": "Coraa-ny-Gael-26-10-54",
-	"name": "Coraa ny Gael 26.10.54",
-	"englishName": "The Voice of the Gaels 26.10.54",
-	"author": "Kione Jiarg",
-	"original": "Manx",
-	"notes": "The Manx of ‘Coraa ny Gael’ differs in some respects to Classical Manx. In common with Late Manx an extra article is sometimes added superfluously to genitive constructions and mutation can be somewhat haphazard. Other features not usually found in Late Manx are occassional unexpected choices of prepositions, unexpecred usage of ‘independent’ and ‘dependent’ forms, and the strenuous avoidance of loanwords. The orthography usually agrees with Classical Manx. The introduction of new words and idioms are few, with notable examples being [dy chooilley co-hiaghtin] for ‘every other week’, rather than [dagh kegeeish] ‘every fortnight’, and other uses of the prefix [co-], such as [co-hionnal] and [co-haglym] — both being used for ‘conference’ and ‘congress’.",
-	"type": "news column 'Coraa ny Gael'",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "'Coraa ny Gael', Mona's Herald, Tuesday, October 26, 1954; Page: 8",
+  "created": "1954-10-26",
+  "ident": "Coraa-ny-Gael-26-10-54",
+  "name": "Coraa ny Gael 26.10.54",
+  "englishName": "The Voice of the Gaels 26.10.54",
+  "author": "Kione Jiarg",
+  "original": "Manx",
+  "notes": "The Manx of \u2018Coraa ny Gael\u2019 differs in some respects to Classical Manx. In common with Late Manx an extra article is sometimes added superfluously to genitive constructions and mutation can be somewhat haphazard. Other features not usually found in Late Manx are occassional unexpected choices of prepositions, unexpecred usage of \u2018independent\u2019 and \u2018dependent\u2019 forms, and the strenuous avoidance of loanwords. The orthography usually agrees with Classical Manx. The introduction of new words and idioms are few, with notable examples being [dy chooilley co-hiaghtin] for \u2018every other week\u2019, rather than [dagh kegeeish] \u2018every fortnight\u2019, and other uses of the prefix [co-], such as [co-hionnal] and [co-haglym] \u2014 both being used for \u2018conference\u2019 and \u2018congress\u2019.",
+  "type": "news column \u0027Coraa ny Gael\u0027",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "\u0027Coraa ny Gael\u0027, Mona\u0027s Herald, Tuesday, October 26, 1954; Page: 8"
 }
-

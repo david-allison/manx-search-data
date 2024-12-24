@@ -1,9 +1,9 @@
 {
-	"created": "1900-07-21",
-	"ident": "Ard-Ghunnalys",
-	"name": "Ard-Ghunnalys",
-	"notes": "a bilingual humorous vignette.",
-	"author": "unknown",
-	"original": "Bilingual",
-	"source": "Isle of Man Examiner, Saturday, July 21, 1900; Page: 3",
+  "created": "1900-07-21",
+  "ident": "Ard-Ghunnalys",
+  "name": "Ard-Ghunnalys",
+  "notes": "a bilingual humorous vignette.",
+  "author": "unknown",
+  "original": "Bilingual",
+  "source": "Isle of Man Examiner, Saturday, July 21, 1900; Page: 3"
 }

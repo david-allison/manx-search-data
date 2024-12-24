@@ -1,5 +1,5 @@
 {
-	"created": "1899-07-17",
-	"ident": "NedBegJeanGeamaghOrrymsAynsLaaDyHeaghyn",
-	"name": "Jean Geamagh Orrym’s ayns Laa dy Heaghyn",
+  "created": "1899-07-17",
+  "ident": "NedBegJeanGeamaghOrrymsAynsLaaDyHeaghyn",
+  "name": "Jean Geamagh Orrym\u2019s ayns Laa dy Heaghyn"
 }

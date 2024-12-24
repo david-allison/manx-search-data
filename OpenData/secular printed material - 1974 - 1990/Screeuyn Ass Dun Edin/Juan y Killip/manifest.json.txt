@@ -1,12 +1,12 @@
 {
-	"created": "1975-02-22",
-	"ident": "Screeuyn-ass-doon-edjin-Juan-y-Killip",
-	"name": "Screeuyn Ass Doon Edjin: 'Juan y Killip'",
-	"englishName": "John Killip",
-	"author": "Shorus y Crurie",
-	"original": "Manx",
-	"type": "Diary column 'Screeuyn Ass Doon Edjin'",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Screeuyn Voish Doon Edjin: Manx Star, 22nd Feb, 1975. Page 6.",
+  "created": "1975-02-22",
+  "ident": "Screeuyn-ass-doon-edjin-Juan-y-Killip",
+  "name": "Screeuyn Ass Doon Edjin: \u0027Juan y Killip\u0027",
+  "englishName": "John Killip",
+  "author": "Shorus y Crurie",
+  "original": "Manx",
+  "type": "Diary column \u0027Screeuyn Ass Doon Edjin\u0027",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Screeuyn Voish Doon Edjin: Manx Star, 22nd Feb, 1975. Page 6."
 }

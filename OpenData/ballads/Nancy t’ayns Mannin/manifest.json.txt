@@ -1,10 +1,10 @@
 {
-	"created": "1850-01-01",
-	"ident": "Nancy-tayns-Mannin",
-	"name": "Nancy t'ayns Mannin",
-	"notes": "Transcription & Translation; R. Teare",
-	"type": "Bannag",
-	"original": "Manx",
-	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
-	"iMuseum": "MS.00263.A",
+  "created": "1850-01-01",
+  "ident": "Nancy-tayns-Mannin",
+  "name": "Nancy t\u0027ayns Mannin",
+  "notes": "Transcription \u0026 Translation; R. Teare",
+  "type": "Bannag",
+  "original": "Manx",
+  "source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
+  "iMuseum": "MS.00263.A"
 }

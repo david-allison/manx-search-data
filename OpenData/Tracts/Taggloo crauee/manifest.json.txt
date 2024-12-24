@@ -1,14 +1,17 @@
 {
-	"createdCircaStart": "1809-01-01",
-	"createdCircaEnd": "1809-05-01",
-	"ident": "Taggloo-Crauee-1809",
-	"name": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane",
-	"englishName": "Three Dialogues between a Minister and one of his Parishioners",
-	"notes": "Significant notes. See Original document. Transcribed and edited by Christopher Lewin and Max W. Wheeler July 2021",
-	"original": "English",
-	"author": "Anonymous",
-	"type": "Tract",
-	"transcription": ["Christopher Lewin", "Max W. Wheeler"],
-	"source": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane/Three Dialogues between a Minister and one of his Parishioners (20th edition)",
-	"corpusSource": "Taggloo crauee B as G_final.docx",
+  "createdCircaStart": "1809-01-01",
+  "createdCircaEnd": "1809-05-01",
+  "ident": "Taggloo-Crauee-1809",
+  "name": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane",
+  "englishName": "Three Dialogues between a Minister and one of his Parishioners",
+  "notes": "Significant notes. See Original document. Transcribed and edited by Christopher Lewin and Max W. Wheeler July 2021",
+  "original": "English",
+  "author": "Anonymous",
+  "type": "Tract",
+  "transcription": [
+    "Christopher Lewin",
+    "Max W. Wheeler"
+  ],
+  "source": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane/Three Dialogues between a Minister and one of his Parishioners (20th edition)",
+  "corpusSource": "Taggloo crauee B as G_final.docx"
 }

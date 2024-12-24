@@ -1,10 +1,10 @@
 {
-	"created": "1850-01-01",
-	"ident": "Ec-yn-Oiel-Breeshey",
-	"name": "Ec yn Oie'l Breeshey",
-	"type": "Bannag",
-	"notes": "Transcription & Translation; R. Teare",
-	"source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
-	"original": "Manx",
-	"iMuseum": "MS.00263.A",
+  "created": "1850-01-01",
+  "ident": "Ec-yn-Oiel-Breeshey",
+  "name": "Ec yn Oie\u0027l Breeshey",
+  "type": "Bannag",
+  "notes": "Transcription \u0026 Translation; R. Teare",
+  "source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
+  "original": "Manx",
+  "iMuseum": "MS.00263.A"
 }

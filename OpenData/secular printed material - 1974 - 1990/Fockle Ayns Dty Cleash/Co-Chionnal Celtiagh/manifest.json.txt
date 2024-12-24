@@ -1,13 +1,12 @@
 {
-	"created": "1975-04-26",
-	"ident": "Screeuyn-Ass-Doon-Edjin-Co-Chionnal-Celtiagh",
-	"name": "Screeuyn Ass Doon Edjin: 'Co-Chionnal Celtiagh'",
-	"englishName": "A Celtic Conference",
-	"author": "Shorus y Creayrie",
-	"original": "Manx",
-	"notes": "Letter from Edinburgh.",
-	"transcription": "Rob Teare",
-	"translation": "Rob Teare",
-	"source":  "Manx Star, 26th April, 1975. Page 6. Fockle Ayns Dy Cleash.",
+  "created": "1975-04-26",
+  "ident": "Screeuyn-Ass-Doon-Edjin-Co-Chionnal-Celtiagh",
+  "name": "Screeuyn Ass Doon Edjin: \u0027Co-Chionnal Celtiagh\u0027",
+  "englishName": "A Celtic Conference",
+  "author": "Shorus y Creayrie",
+  "original": "Manx",
+  "notes": "Letter from Edinburgh.",
+  "transcription": "Rob Teare",
+  "translation": "Rob Teare",
+  "source": "Manx Star, 26th April, 1975. Page 6. Fockle Ayns Dy Cleash."
 }
-

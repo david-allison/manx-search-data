@@ -1,13 +1,12 @@
 {
-	"created": "1974-11-18",
-	"ident": "Fockle-Ayns-Dty-Cleash-Yn-Arrymagh-Thomas-Stephent",
-	"name": "Fockle Ayns Dty Cleash: 'Yn Arrymagh Thomas Stephen'",
-	"englishName": "The Reverend Thomas Stephen",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "The Rev. Thomas Stephen of Ballagary was Vicar of Marown. He also served Vicar-General from 1812 until he resigned in February 1824, ‘Having unfortunately contracted pecuniary obligations to a large amount, by becoming surety for some of his friends, who have since proved insolvent’. He himself filed for insolvency in June 1824. His poem ‘Cre ta Gloyr’ was published in the Manks Advertiser on July 1st 1824. His appointment as Vicar of Patrick was announced in the Manks Advertiser of July 5th, 1827. In A prospectus for Cymmdeithas Y Gwyneddigion re-published in the Manx Advertiser of April 13th 1830, the Rev. Thomas Stephen is listed as the ‘corresponding member’ for Manx. He died on Friday the 30th of April 1842 ‘He was in Douglas on the Friday, and preached to his own flock on the Sunday, previous to his death.’ (Manx Advertiser, May 3rd 1842).",
-	"Transcription": "RT",
-	"Translation": "RT",
-	"source":  "Manx Star, 18th November, 1974. Page 3. Fockle Ayns Dty Cleash.",
+  "created": "1974-11-18",
+  "ident": "Fockle-Ayns-Dty-Cleash-Yn-Arrymagh-Thomas-Stephent",
+  "name": "Fockle Ayns Dty Cleash: \u0027Yn Arrymagh Thomas Stephen\u0027",
+  "englishName": "The Reverend Thomas Stephen",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "The Rev. Thomas Stephen of Ballagary was Vicar of Marown. He also served Vicar-General from 1812 until he resigned in February 1824, \u2018Having unfortunately contracted pecuniary obligations to a large amount, by becoming surety for some of his friends, who have since proved insolvent\u2019. He himself filed for insolvency in June 1824. His poem \u2018Cre ta Gloyr\u2019 was published in the Manks Advertiser on July 1st 1824. His appointment as Vicar of Patrick was announced in the Manks Advertiser of July 5th, 1827. In A prospectus for Cymmdeithas Y Gwyneddigion re-published in the Manx Advertiser of April 13th 1830, the Rev. Thomas Stephen is listed as the \u2018corresponding member\u2019 for Manx. He died on Friday the 30th of April 1842 \u2018He was in Douglas on the Friday, and preached to his own flock on the Sunday, previous to his death.\u2019 (Manx Advertiser, May 3rd 1842).",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "Manx Star, 18th November, 1974. Page 3. Fockle Ayns Dty Cleash."
 }
-

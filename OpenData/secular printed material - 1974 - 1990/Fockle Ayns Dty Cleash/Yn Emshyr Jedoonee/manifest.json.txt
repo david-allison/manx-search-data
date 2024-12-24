@@ -1,11 +1,10 @@
 {
-	"created": "1974-09-02",
-	"ident": "Fockle-Ayns-Dy-Cleash-Yn-Emshyr-Jedoonee",
-	"name": "Fockle Ayns Dty Cleash: 'Yn Emshyr Jedoonee'",
-	"englishName": "The Weather on Sunday",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 2nd September, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-09-02",
+  "ident": "Fockle-Ayns-Dy-Cleash-Yn-Emshyr-Jedoonee",
+  "name": "Fockle Ayns Dty Cleash: \u0027Yn Emshyr Jedoonee\u0027",
+  "englishName": "The Weather on Sunday",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 2nd September, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

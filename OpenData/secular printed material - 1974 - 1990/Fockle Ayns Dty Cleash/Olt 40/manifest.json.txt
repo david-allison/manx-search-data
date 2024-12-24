@@ -1,11 +1,10 @@
 {
-	"created": "1975-01-20",
-	"ident": "Fockle-Ayns-Dty-Cleash-Olt-40",
-	"name": "Fockle Ayns Dty Cleash: 'Olt 40'",
-	"englishName": "Section 40",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 20th January, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1975-01-20",
+  "ident": "Fockle-Ayns-Dty-Cleash-Olt-40",
+  "name": "Fockle Ayns Dty Cleash: \u0027Olt 40\u0027",
+  "englishName": "Section 40",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 20th January, 1975. Page 6. Fockle Ayns Dty Cleash."
 }
-

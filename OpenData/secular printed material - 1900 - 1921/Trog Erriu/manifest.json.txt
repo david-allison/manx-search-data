@@ -1,12 +1,12 @@
 {
-	"created": "1900-10-06",
-	"ident": "Examiner-Trog-Erriu",
-	"name": "Trog Erriu",
-	"notes": "Patriotic Verse",
-	"author": "'Manning Dooie Ynsedagh (True Manxman; Student",
-	"original": "Manx",
-	"type": "song",
-	"transcription": "R. Teare",
-	"translation": "accompanies original",
-	"source":  "Isle of Man Examiner, Saturday, October 06, 1900; Page: 6",
+  "created": "1900-10-06",
+  "ident": "Examiner-Trog-Erriu",
+  "name": "Trog Erriu",
+  "notes": "Patriotic Verse",
+  "author": "\u0027Manning Dooie Ynsedagh (True Manxman; Student",
+  "original": "Manx",
+  "type": "song",
+  "transcription": "R. Teare",
+  "translation": "accompanies original",
+  "source": "Isle of Man Examiner, Saturday, October 06, 1900; Page: 6"
 }

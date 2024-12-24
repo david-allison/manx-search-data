@@ -1,8 +1,8 @@
 {
-	"created": "1913-05-03",
-	"ident": "A-Manx-Wedding",
-	"name": "Mr. Gill’s “Manx Wedding” translated into Manx Gaelic by H. P. Kelly.",
-	"notes": "a translation of W. H. Gill's 'A Manx Wedding' in 'A Manx Wedding and Other Songs, Pub; William H. Hooke. 1901.",
-	"original": "English",
-	"source": "Mr. Gill’s “Manx Wedding” translated into Manx Gaelic by H. P. Kelly. Isle of Man Examiner, Saturday, May 03, 1913; Page: 2 ",
+  "created": "1913-05-03",
+  "ident": "A-Manx-Wedding",
+  "name": "Mr. Gill\u2019s \u201CManx Wedding\u201D translated into Manx Gaelic by H. P. Kelly.",
+  "notes": "a translation of W. H. Gill\u0027s \u0027A Manx Wedding\u0027 in \u0027A Manx Wedding and Other Songs, Pub; William H. Hooke. 1901.",
+  "original": "English",
+  "source": "Mr. Gill\u2019s \u201CManx Wedding\u201D translated into Manx Gaelic by H. P. Kelly. Isle of Man Examiner, Saturday, May 03, 1913; Page: 2 "
 }

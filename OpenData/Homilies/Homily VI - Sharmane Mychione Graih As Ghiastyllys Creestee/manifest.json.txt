@@ -1,19 +1,18 @@
 {
-	"createdCircaStart": "1821-12-31",
-	"createdCircaEnd": "1830-01-01",
-	"ident": "Homily-VI-A-sermon-of-Christian-love-and-charity",
-	"name": "Homily VI: A sermon of Christian love and charity",
-	"manxName": "Homily VI. Sharmane Mychione Graih As Ghiastyllys Creestee",
-	"notes": "The Manx homilies were published separately, VI, VII & IX sometime in the 1820s (but almost certainly after 1821).",
-	"author": "Unknown.",
-	"original": "English",
-	"source":  "Sharmane Mychione Graih As Ghiastyllys Creestee. [translator unknown] Estimated date: 1820 – 1830. Prayer Book and Homily Society. London.",
-	"online source": {
-		"url": "https://books.google.im/books?id=sy3iBjK19lwC",
-		"text": "Google Books",
-	},
-	"English Source": "Homily VI.  A sermon of Christian love and charity [Edmund Bonner] 1817: (in; Sermons, or Homilies, appointed to be read in Churches ....) Prayer Book and Homily Society. London.",
-	"googleBooksId": "sy3iBjK19lwC",
-	"Transcription": "Max Wheeler 2021",
+  "createdCircaStart": "1821-12-31",
+  "createdCircaEnd": "1830-01-01",
+  "ident": "Homily-VI-A-sermon-of-Christian-love-and-charity",
+  "name": "Homily VI: A sermon of Christian love and charity",
+  "manxName": "Homily VI. Sharmane Mychione Graih As Ghiastyllys Creestee",
+  "notes": "The Manx homilies were published separately, VI, VII \u0026 IX sometime in the 1820s (but almost certainly after 1821).",
+  "author": "Unknown.",
+  "original": "English",
+  "source": "Sharmane Mychione Graih As Ghiastyllys Creestee. [translator unknown] Estimated date: 1820 \u2013 1830. Prayer Book and Homily Society. London.",
+  "online source": {
+    "url": "https://books.google.im/books?id=sy3iBjK19lwC",
+    "text": "Google Books"
+  },
+  "English Source": "Homily VI.  A sermon of Christian love and charity [Edmund Bonner] 1817: (in; Sermons, or Homilies, appointed to be read in Churches ....) Prayer Book and Homily Society. London.",
+  "googleBooksId": "sy3iBjK19lwC",
+  "Transcription": "Max Wheeler 2021"
 }
-

@@ -1,9 +1,9 @@
 {
-	"created": "1890-05-21",
-	"ident": "Manchester-Guardian-Advert-1890",
-	"name": "Manchester Guardian",
-	"notes": "a poster advertising the Manchester Guardian for sale in the IOM",
-	"original": "English",
-	"iMuseum": "MS140/*/YNC",
-	"source": "Printed poster by Messrs. Broadbent & Lynn, Newsagents, Ramsey dated May 21 1890, in A Manx Scrapbook MS140/*/YNC. Bilingual",
+  "created": "1890-05-21",
+  "ident": "Manchester-Guardian-Advert-1890",
+  "name": "Manchester Guardian",
+  "notes": "a poster advertising the Manchester Guardian for sale in the IOM",
+  "original": "English",
+  "iMuseum": "MS140/*/YNC",
+  "source": "Printed poster by Messrs. Broadbent \u0026 Lynn, Newsagents, Ramsey dated May 21 1890, in A Manx Scrapbook MS140/*/YNC. Bilingual"
 }

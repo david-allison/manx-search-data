@@ -1,19 +1,18 @@
 {
-	"createdCircaStart": "1821-12-31",
-	"createdCircaEnd": "1830-01-01",
-	"ident": "Homily-IX-An-exhortation-against-the-fear-of-death",
-	"name": "Homily IX: An exhortation against the fear of death",
-	"manxName": "Homily IX: Raue Noi Aggle Y Vaaish",
-	"notes": "The Manx homilies were published separately, VI, VII & IX sometime in the 1820s (but almost certainly after 1821).",
-	"author": "Unknown.",
-	"original": "English",
-	"source":  "Raue Noi Aggle Y Vaaish [translator unknown] Estimated date: 1820 – 1830, Prayer Book and Homily Society. London.",
-	"online source": {
-		"url": "https://books.google.im/books?id=PczC5L79MmcC",
-		"text": "Google Books",
-	},
-	"English Source": "Homily IX.  An exhortation against the fear of death [author unknown] 1810, Prayer Book and Homily Society. London.",
-	"googleBooksId": "PczC5L79MmcC",
-	"Transcription": "Max Wheeler 2021",
+  "createdCircaStart": "1821-12-31",
+  "createdCircaEnd": "1830-01-01",
+  "ident": "Homily-IX-An-exhortation-against-the-fear-of-death",
+  "name": "Homily IX: An exhortation against the fear of death",
+  "manxName": "Homily IX: Raue Noi Aggle Y Vaaish",
+  "notes": "The Manx homilies were published separately, VI, VII \u0026 IX sometime in the 1820s (but almost certainly after 1821).",
+  "author": "Unknown.",
+  "original": "English",
+  "source": "Raue Noi Aggle Y Vaaish [translator unknown] Estimated date: 1820 \u2013 1830, Prayer Book and Homily Society. London.",
+  "online source": {
+    "url": "https://books.google.im/books?id=PczC5L79MmcC",
+    "text": "Google Books"
+  },
+  "English Source": "Homily IX.  An exhortation against the fear of death [author unknown] 1810, Prayer Book and Homily Society. London.",
+  "googleBooksId": "PczC5L79MmcC",
+  "Transcription": "Max Wheeler 2021"
 }
-

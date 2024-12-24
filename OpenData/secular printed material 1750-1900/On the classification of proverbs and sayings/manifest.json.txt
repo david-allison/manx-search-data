@@ -1,13 +1,13 @@
 {
-	"created": "1894-09-01",
-	"ident": "On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man",
-	"name": "On the Classification of Proverbs and Sayings of the Isle of Man",
-	"original": "Manx",
-	"notes": "See Source Document for more information",
-	"author": "G. W. Wood",
-	"source": "Folklore Vol. 5, No. 3 (Sep., 1894), pp. 229-274",
-	"sourceDocument": {
-		"url": "https://www.jstor.org/stable/1253677",
-		"text": "JSTOR",
-	}
+  "created": "1894-09-01",
+  "ident": "On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man",
+  "name": "On the Classification of Proverbs and Sayings of the Isle of Man",
+  "original": "Manx",
+  "notes": "See Source Document for more information",
+  "author": "G. W. Wood",
+  "source": "Folklore Vol. 5, No. 3 (Sep., 1894), pp. 229-274",
+  "sourceDocument": {
+    "url": "https://www.jstor.org/stable/1253677",
+    "text": "JSTOR"
+  }
 }

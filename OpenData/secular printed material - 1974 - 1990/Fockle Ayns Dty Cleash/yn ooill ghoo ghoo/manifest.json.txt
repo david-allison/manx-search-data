@@ -1,11 +1,10 @@
 {
-	"created": "1974-06-17",
-	"ident": "Fockle-Ayns-Dty-Cleash-Yn-Ooill-Ghoo-Ghoo",
-	"name": "Fockle Ayns Dty Cleash: 'Yn Ooill Ghoo Ghoo'",
-	"englishName": "The Black Black Oil",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 17th June, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "created": "1974-06-17",
+  "ident": "Fockle-Ayns-Dty-Cleash-Yn-Ooill-Ghoo-Ghoo",
+  "name": "Fockle Ayns Dty Cleash: \u0027Yn Ooill Ghoo Ghoo\u0027",
+  "englishName": "The Black Black Oil",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 17th June, 1974. Page 6. Fockle Ayns Dty Cleash."
 }
-

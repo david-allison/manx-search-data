@@ -1,11 +1,10 @@
 {
-	"created": "1974-09-09",
-	"ident": "Fockle-Ayns-Dty-Cleash-Nyn-Moddey-Enoch-Powell",
-	"name": "Fockle Ayns Dty Cleash: 'Nyn Moddey / Enoch Powell'",
-	"englishName": "Our Dog / Enoch Powell",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"notes": "Transcription & Translation: RT",
-	"source":  "Manx Star, 9th September, 1974. Page 9. Fockle Ayns Dty Cleash.",
+  "created": "1974-09-09",
+  "ident": "Fockle-Ayns-Dty-Cleash-Nyn-Moddey-Enoch-Powell",
+  "name": "Fockle Ayns Dty Cleash: \u0027Nyn Moddey / Enoch Powell\u0027",
+  "englishName": "Our Dog / Enoch Powell",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "notes": "Transcription \u0026 Translation: RT",
+  "source": "Manx Star, 9th September, 1974. Page 9. Fockle Ayns Dty Cleash."
 }
-

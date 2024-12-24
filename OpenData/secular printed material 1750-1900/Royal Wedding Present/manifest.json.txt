@@ -1,10 +1,9 @@
 {
-	"created": "1893-11-11",
-	"ident": "IoM-Times-Manx-Royal-Wedding-Present",
-	"name": "Manx Royal Wedding Present",
-	"notes": "Inscription on a model of a Viking ship given as a wedding present to H.R.H. the Princess Victoria Mary",
-	"source": "Isle of Man Times, Saturday, November 11, 1893; Page: 20",
-	"original": "Manx",
-	"author": "Unknown, translation; Isle of Man Times",
-	
+  "created": "1893-11-11",
+  "ident": "IoM-Times-Manx-Royal-Wedding-Present",
+  "name": "Manx Royal Wedding Present",
+  "notes": "Inscription on a model of a Viking ship given as a wedding present to H.R.H. the Princess Victoria Mary",
+  "source": "Isle of Man Times, Saturday, November 11, 1893; Page: 20",
+  "original": "Manx",
+  "author": "Unknown, translation; Isle of Man Times"
 }

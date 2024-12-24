@@ -1,13 +1,12 @@
 {
-	"created": "1976-04-16",
-	"ident": "Noon-as-Noal-Juan-Kinvig",
-	"name": "Noon as Noal: Juan Kinvig",
-	"notes": "Biographical Piece by J. Gell.",
-	"author": "J. Gell. Introduction by 'Breagagh' (D. Fargher)",
-	"original": "Manx",
-	"type": "Manx Langauge Column",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Noon as Noal, Saturday, 16th April, 1977",
+  "created": "1976-04-16",
+  "ident": "Noon-as-Noal-Juan-Kinvig",
+  "name": "Noon as Noal: Juan Kinvig",
+  "notes": "Biographical Piece by J. Gell.",
+  "author": "J. Gell. Introduction by \u0027Breagagh\u0027 (D. Fargher)",
+  "original": "Manx",
+  "type": "Manx Langauge Column",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Noon as Noal, Saturday, 16th April, 1977"
 }
-

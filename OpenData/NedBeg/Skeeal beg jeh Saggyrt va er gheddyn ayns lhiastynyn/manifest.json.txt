@@ -1,6 +1,6 @@
 {
-	"created": "1899-09-06",
-	"ident": "NedBegSkeealBegJehSaggyrtVaErGheddynAynsLhiastynyn",
-	"name": "Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn",
-	"original": "Manx",
+  "created": "1899-09-06",
+  "ident": "NedBegSkeealBegJehSaggyrtVaErGheddynAynsLhiastynyn",
+  "name": "Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn",
+  "original": "Manx"
 }

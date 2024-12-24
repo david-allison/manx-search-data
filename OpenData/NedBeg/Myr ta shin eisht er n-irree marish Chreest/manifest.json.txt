@@ -1,5 +1,5 @@
 {
-	"created": "1899-06-11",
-	"ident": "NedBegMyrTaShinEishtErNIrreeMarishChreest",
-	"name": "Myr ta shin eisht er n’irree marish Chreest",
+  "created": "1899-06-11",
+  "ident": "NedBegMyrTaShinEishtErNIrreeMarishChreest",
+  "name": "Myr ta shin eisht er n\u2019irree marish Chreest"
 }

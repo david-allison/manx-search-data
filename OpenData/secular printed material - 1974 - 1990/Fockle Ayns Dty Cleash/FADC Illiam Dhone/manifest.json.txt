@@ -1,12 +1,12 @@
 {
-	"created": "1974-12-30",
-	"ident": "Fockle-Ayns-Dy-Cleash-Illiam-Dhone",
-	"name": "Fockle Ayns Dty Cleash: 'Illiam Dhone'",
-	"englishName": "Illiam Dhone (William Christian)",
-	"author": "Branlaadagh",
-	"original": "Manx",
-	"type": "Opinion column 'Fockle Ayns Dy Cleash'",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source":  "Fockle Ayns Dty Chleash: Manx Star, 30th December, 1974. Page 6.",
+  "created": "1974-12-30",
+  "ident": "Fockle-Ayns-Dy-Cleash-Illiam-Dhone",
+  "name": "Fockle Ayns Dty Cleash: \u0027Illiam Dhone\u0027",
+  "englishName": "Illiam Dhone (William Christian)",
+  "author": "Branlaadagh",
+  "original": "Manx",
+  "type": "Opinion column \u0027Fockle Ayns Dy Cleash\u0027",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Fockle Ayns Dty Chleash: Manx Star, 30th December, 1974. Page 6."
 }

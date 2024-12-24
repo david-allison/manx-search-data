@@ -1,9 +1,8 @@
 {
-	"created": "1845-12-20",
-	"ident": "Vanninee-Ghooghyssagh",
-	"name": "Vanninee Ghooghyssagh.",
-	"notes": "Transcription and translation; R.Teare; from a letter to the Manx Sun from'Eubonia'; Vanninee Ghooghyssagh, as Ooilley Shiuish Yoareeyn Feudagh, ta Cummal ayns Thalloo Vannin.",
-	"original": "Manx",
-	"source":  "Manx Sun, Saturday, December 20, 1845; Page 13.",
-	
+  "created": "1845-12-20",
+  "ident": "Vanninee-Ghooghyssagh",
+  "name": "Vanninee Ghooghyssagh.",
+  "notes": "Transcription and translation; R.Teare; from a letter to the Manx Sun from\u0027Eubonia\u0027; Vanninee Ghooghyssagh, as Ooilley Shiuish Yoareeyn Feudagh, ta Cummal ayns Thalloo Vannin.",
+  "original": "Manx",
+  "source": "Manx Sun, Saturday, December 20, 1845; Page 13."
 }
