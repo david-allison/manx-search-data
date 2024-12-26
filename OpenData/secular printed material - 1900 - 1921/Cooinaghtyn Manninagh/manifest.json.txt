@@ -1,25 +1,13 @@
 {
-	"created": "1911-06-10",
-	"ident": "Cooinaghtyn-Manninagh",
-	"name": "Cooinaghtyn Manninagh",
-	"English name": "Manx Reminiscences",
-	"notes": "The introduction of the book as follows: IN King William’s College Register, under the heading 'Entrances in January 1854,' is the following :—
-“CLAGUE, JOHN, born Oct. 10th, 1842. Left Midsummer, 1859. Son of H. Clague, Ballanorris, Arbory, I.O.M.Day boy. First Prizeman and Exhibitioner Guy’s Hospital, 1870. L.S.A., London, 1872. M.R.C.S. Eng., 1873. L.R.C.P. Lond., 1873. Surgeon to Household, 1888—1901. Surgeon, Castle Rushen Gaol, 1874— 1901. Medical Officer in charge of Troops, Castletown, I.O.M., 1874—1896. Surgeon to R.N. Reserve, 1884— 1901. Medical Officer, K. W. C., 1874—1901. Joint Compiler of the Manx National Song Book. Crofton, Castletown, I.O.M.”
-     Dr. Clague continued to act as a medical and surgical practitioner in the southern district of the Isle of Man up to the time of his death, on Sunday, August 23, 1908. He had interviewed and prescribed for a patient only a few minutes before he was suddenly called away.
-      From his earliest days he was deeply interested in everything connected with the land of his birth.
-      He collected a large number of almost forgotten Manx songs and airs, many of which have been published in the Manx National Song Book and the Manx National Music Book, which he helped to compile, along with the late Deemster Gill and Mr. W. H. Gill.
-      The inauguration of the Manx Language Society specially appealed to him. He saw that the mother tongue was rapidly dying out, and he was anxious to secure and place on record something that would show it in its purest style.
-     After a severe illness in 1901 he had more leisure than previously, and he spent a great deal of time with many of the old Manx folk, obtaining and writing down on the spot every-thing he could draw from them which threw light on the construction of the language.
-      His notes were afterwards carefully transcribed in volumes, of which he has left about thirty behind. The material for most of these was put into shape at Brookfield, where almost daily he spent many very happy hours at the work with Mr. and Mrs. Moore.
-     This volume of “Reminiscences” was the last, and was only just completed at the time of his death.
-     It has been very carefully revised by Mr. and Mrs. Moore, and it is hoped that students may be able to gather from it an idea of what Manx was when first it became a written language. The English translation is, as far as possible, a literal one.
-     Mr. Cyril Paton, of Streatham College, has rendered much kind and valuable assistance in seeing the sheets through the press.
-J.K.
-",
-	"original": "Manx",
-	"author": "Dr. John Clague",
-	"translator": "Dr. John Clague",
-	"transcribed by": "R. Teare",
-	"Type": "biographical, folklore, scientific, music",
-	"source": "'Manx Reminiscences by the Late Dr. John Clague, Crofton, Castletown, Isle of Man, Manx and English, Published by M. J. Blackwell, Castletown, 1911."
+  "created": "1911-06-10",
+  "ident": "Cooinaghtyn-Manninagh",
+  "name": "Cooinaghtyn Manninagh",
+  "English name": "Manx Reminiscences",
+  "notes": "The introduction of the book as follows: IN King William\u2019s College Register, under the heading \u0027Entrances in January 1854,\u0027 is the following :\u2014\r\n\u201CCLAGUE, JOHN, born Oct. 10th, 1842. Left Midsummer, 1859. Son of H. Clague, Ballanorris, Arbory, I.O.M.Day boy. First Prizeman and Exhibitioner Guy\u2019s Hospital, 1870. L.S.A., London, 1872. M.R.C.S. Eng., 1873. L.R.C.P. Lond., 1873. Surgeon to Household, 1888\u20141901. Surgeon, Castle Rushen Gaol, 1874\u2014 1901. Medical Officer in charge of Troops, Castletown, I.O.M., 1874\u20141896. Surgeon to R.N. Reserve, 1884\u2014 1901. Medical Officer, K. W. C., 1874\u20141901. Joint Compiler of the Manx National Song Book. Crofton, Castletown, I.O.M.\u201D\r\n     Dr. Clague continued to act as a medical and surgical practitioner in the southern district of the Isle of Man up to the time of his death, on Sunday, August 23, 1908. He had interviewed and prescribed for a patient only a few minutes before he was suddenly called away.\r\n      From his earliest days he was deeply interested in everything connected with the land of his birth.\r\n      He collected a large number of almost forgotten Manx songs and airs, many of which have been published in the Manx National Song Book and the Manx National Music Book, which he helped to compile, along with the late Deemster Gill and Mr. W. H. Gill.\r\n      The inauguration of the Manx Language Society specially appealed to him. He saw that the mother tongue was rapidly dying out, and he was anxious to secure and place on record something that would show it in its purest style.\r\n     After a severe illness in 1901 he had more leisure than previously, and he spent a great deal of time with many of the old Manx folk, obtaining and writing down on the spot every-thing he could draw from them which threw light on the construction of the language.\r\n      His notes were afterwards carefully transcribed in volumes, of which he has left about thirty behind. The material for most of these was put into shape at Brookfield, where almost daily he spent many very happy hours at the work with Mr. and Mrs. Moore.\r\n     This volume of \u201CReminiscences\u201D was the last, and was only just completed at the time of his death.\r\n     It has been very carefully revised by Mr. and Mrs. Moore, and it is hoped that students may be able to gather from it an idea of what Manx was when first it became a written language. The English translation is, as far as possible, a literal one.\r\n     Mr. Cyril Paton, of Streatham College, has rendered much kind and valuable assistance in seeing the sheets through the press.\r\nJ.K.\r\n",
+  "original": "Manx",
+  "author": "Dr. John Clague",
+  "translator": "Dr. John Clague",
+  "transcribed by": "R. Teare",
+  "Type": "biographical, folklore, scientific, music",
+  "source": "\u0027Manx Reminiscences by the Late Dr. John Clague, Crofton, Castletown, Isle of Man, Manx and English, Published by M. J. Blackwell, Castletown, 1911."
 }

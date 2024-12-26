@@ -1,10 +1,8 @@
 {
-"createdCircaStart": "1899-07-27",
-"createdCircaEnd": "1899-12-31",
-	"ident": "NedBeg-Ta-mee-er-clashtyn-yn-chenn-sleih-gra-nagh-noddagh-scaa-ferrish-ny-buggane-goll-harrish-ushtey-roie",
-	"name": "Ta mee er clashtyn yn çhenn sleih gra nagh noddagh scaa ferrish ny buggane goll harrish ushtey roie",
-	"original": "Manx",
-	"notes": "Written after
-202.     Va ben ginsh yn laa shoh chaie. 27.07.1899 (CL; “Sheean ayns y thie”)
-Assuming 1899"
+  "createdCircaStart": "1899-07-27",
+  "createdCircaEnd": "1899-12-31",
+  "ident": "NedBeg-Ta-mee-er-clashtyn-yn-chenn-sleih-gra-nagh-noddagh-scaa-ferrish-ny-buggane-goll-harrish-ushtey-roie",
+  "name": "Ta mee er clashtyn yn \u00E7henn sleih gra nagh noddagh scaa ferrish ny buggane goll harrish ushtey roie",
+  "original": "Manx",
+  "notes": "Written after\n202.     Va ben ginsh yn laa shoh chaie. 27.07.1899 (CL; \u201CSheean ayns y thie\u201D)\nAssuming 1899"
 }

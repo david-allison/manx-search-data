@@ -1,21 +1,17 @@
 {
-	"createdCircaStart": "1953-01-01",
-	"createdCircaEnd": "1953-12-31",
-	"ident": "UOSH-HOYFM-SA0002",
-	"name": "🎥 UOSH SA0002: Interview with Ned Maddrell about Cregneash and Douglas Fargher singing and talking about Manx Gaelic with others",
-	"extendedNotes": "Ned Maddrell talks about trades at Cregneash, how there was a shoe maker but not many smithies; people who lived in Cregneash including Illiam Ruy, Jem Quirk, Mr Carey; how his aunt would give him bread and butter and spread the butter with her finger; how Cregneash got its name; how they went to Laxey on a boat from Port St Mary; Sandy Todd's boat called 'New Leader'; stories of putting sods in windows; how he never saw the fairies because they were all dead before his time; the White Boys and how he played the Doctor; coal, sticks and gorse used as fuel on fires; crock kept outside for urine to use in wool processing; his mother spinning.
-
-The recording then breaks away to music ‘Hie Mee Stiagh’ where Douglas Fargher can be heard.  A new recording begins with several voices.  Douglas Fargher can be heard urging people to talk in Manx Gaelic, possibly Bernard Caine speaks.  Fargher interviews Brian Stowell (aged 17) who has been learning Manx for 8 months; how Brian and Bernard are going to Wales to the Celtic Congress; they speak some Welsh.  Mr Kelly, who works in Douglas as registrar, is asked some questions.  Singing, including 'Ny Kirre Fo Niaghtey' and 'Yn Venainshter Dewil'.",
-	"curatorNotes": "Yn Cheshaght Ghailckagh (Manx Society) Recordings.  This collection of recordings were made on paper tapes from 1951-1953 by members of YCG on a ‘Sound Mirror’ recording machine. The Machine was owned by YCG, purchased for them by member John Gell. Recording sessions usually took place on Sunday afternoon.  The recordings of the John Kneen Gaaue were usually undertaken in Bill Radcliffe’s house in Ramsey as Kneen had no electricity in his own home.  29 tapes were made in all (YCG nos 1-24, 29, 30, 32-34).
-(Information from Broderick, 'Language Death in the Isle of Man', 1999)
-",
-	"author": "Ned Maddrell, WR, Douglas Fargher, Brian Stowell",
-	"translated": "Paul Rogers, Christopher Lewin",
-	"transcribed": "Paul Rogers, Christopher Lewin",
-	"producedBy": "Yn Cheshaght Ghailckagh",
-	"objectName": "magnetic recording tape",
-	"original": "Manx",
-	"source":  "https://www.youtube.com/watch?v=KTIJMXOgtW8",
-	"sourceSHA1": "530e040acaa1b6770354fbf959aeadc8b98eaf1d  HOYFM_SA0002_s1_f1_v1.mp3",
-	"duration": "30:58",
+  "createdCircaStart": "1953-01-01",
+  "createdCircaEnd": "1953-12-31",
+  "ident": "UOSH-HOYFM-SA0002",
+  "name": "\uD83C\uDFA5 UOSH SA0002: Interview with Ned Maddrell about Cregneash and Douglas Fargher singing and talking about Manx Gaelic with others",
+  "extendedNotes": "Ned Maddrell talks about trades at Cregneash, how there was a shoe maker but not many smithies; people who lived in Cregneash including Illiam Ruy, Jem Quirk, Mr Carey; how his aunt would give him bread and butter and spread the butter with her finger; how Cregneash got its name; how they went to Laxey on a boat from Port St Mary; Sandy Todd\u0027s boat called \u0027New Leader\u0027; stories of putting sods in windows; how he never saw the fairies because they were all dead before his time; the White Boys and how he played the Doctor; coal, sticks and gorse used as fuel on fires; crock kept outside for urine to use in wool processing; his mother spinning.\n\nThe recording then breaks away to music \u2018Hie Mee Stiagh\u2019 where Douglas Fargher can be heard.  A new recording begins with several voices.  Douglas Fargher can be heard urging people to talk in Manx Gaelic, possibly Bernard Caine speaks.  Fargher interviews Brian Stowell (aged 17) who has been learning Manx for 8 months; how Brian and Bernard are going to Wales to the Celtic Congress; they speak some Welsh.  Mr Kelly, who works in Douglas as registrar, is asked some questions.  Singing, including \u0027Ny Kirre Fo Niaghtey\u0027 and \u0027Yn Venainshter Dewil\u0027.",
+  "curatorNotes": "Yn Cheshaght Ghailckagh (Manx Society) Recordings.  This collection of recordings were made on paper tapes from 1951-1953 by members of YCG on a \u2018Sound Mirror\u2019 recording machine. The Machine was owned by YCG, purchased for them by member John Gell. Recording sessions usually took place on Sunday afternoon.  The recordings of the John Kneen Gaaue were usually undertaken in Bill Radcliffe\u2019s house in Ramsey as Kneen had no electricity in his own home.  29 tapes were made in all (YCG nos 1-24, 29, 30, 32-34).\n(Information from Broderick, \u0027Language Death in the Isle of Man\u0027, 1999)\n",
+  "author": "Ned Maddrell, WR, Douglas Fargher, Brian Stowell",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=KTIJMXOgtW8",
+  "sourceSHA1": "530e040acaa1b6770354fbf959aeadc8b98eaf1d  HOYFM_SA0002_s1_f1_v1.mp3",
+  "duration": "30:58"
 }

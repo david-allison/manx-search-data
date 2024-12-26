@@ -1,10 +1,8 @@
 {
-	"createdCircaStart": "1899-09-06",
-	"createdCircaEnd": "1899-09-17",
-	"ident": "NedBeg-Oaylys-Son-ny-Beishtyn",
-	"name": "Oaylys Son ny Beishtyn",
-	"original": "Manx",
-	"notes": "Written Between
-108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)
-113.     Roish Nee Ad Geamagh Neem’s Clashtyn (i) (17.09.1899)",
+  "createdCircaStart": "1899-09-06",
+  "createdCircaEnd": "1899-09-17",
+  "ident": "NedBeg-Oaylys-Son-ny-Beishtyn",
+  "name": "Oaylys Son ny Beishtyn",
+  "original": "Manx",
+  "notes": "Written Between\n108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)\n113.     Roish Nee Ad Geamagh Neem\u2019s Clashtyn (i) (17.09.1899)"
 }

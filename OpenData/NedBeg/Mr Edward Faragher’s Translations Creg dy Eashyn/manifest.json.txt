@@ -1,15 +1,14 @@
-{	
-	"originally created": "1901-09-05",
-	"created": "1901-09-14",
-	"ident": "NedBeg-Mr-Edward-Faraghers-translations-Creg-dy-Eashyn",
-	"name": "Mr Edward Faragher’s Translations: Creg dy Eashyn",
-	"original": "English",
-	"source": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3",
-	"mnhNewsComponent": ["Ar00312"],
-	"notes": "
-	A translation of ‘Rock of Ages’, Augustus M. Toplady, The Gospel Magazine (UK), March 1777.\n
-	(See 127, and 168 (???) ‘Rock of Ages Cleft for Me for diplomatic transcriptions, normalised versions and translations of ‘Rock of Ages’, written in Neg Beg’s own hand.)\n
-	The second verse of this Manx version does not exactly match either verse 2 or 3 of the English original. The second verse in the Manx may be translated as 'I could cry night and day, I could beseech with much zeal, that which I could not now improve, It is You who must save me. Without a gift in this earthly world, Only holding to the cross.'",
-	"author": "Edward Faragher",
-	"notes by author": "A copy of the hymn “Rock of Ages,” which I translated into Manx about 35 years ago for Dr Dunkan Craig, in Kinsale, Ireland."
+{
+  "originally created": "1901-09-05",
+  "created": "1901-09-14",
+  "ident": "NedBeg-Mr-Edward-Faraghers-translations-Creg-dy-Eashyn",
+  "name": "Mr Edward Faragher\u2019s Translations: Creg dy Eashyn",
+  "original": "English",
+  "source": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3",
+  "mnhNewsComponent": [
+    "Ar00312"
+  ],
+  "notes": "\n\tA translation of \u2018Rock of Ages\u2019, Augustus M. Toplady, The Gospel Magazine (UK), March 1777.\n\n\t(See 127, and 168 (???) \u2018Rock of Ages Cleft for Me for diplomatic transcriptions, normalised versions and translations of \u2018Rock of Ages\u2019, written in Neg Beg\u2019s own hand.)\n\n\tThe second verse of this Manx version does not exactly match either verse 2 or 3 of the English original. The second verse in the Manx may be translated as \u0027I could cry night and day, I could beseech with much zeal, that which I could not now improve, It is You who must save me. Without a gift in this earthly world, Only holding to the cross.\u0027",
+  "author": "Edward Faragher",
+  "notes by author": "A copy of the hymn \u201CRock of Ages,\u201D which I translated into Manx about 35 years ago for Dr Dunkan Craig, in Kinsale, Ireland."
 }

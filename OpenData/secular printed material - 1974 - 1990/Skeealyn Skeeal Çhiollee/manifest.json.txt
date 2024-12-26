@@ -1,36 +1,14 @@
 {
-	"created": "1952-12-31",
-	"ident": "Skeealyn-Cheeil-Chiollee",
-	"name": "'Skeealyn Cheeil-Chiollee'",
-	"englishName": "Fireside Stories",
-	"Introduction by": "J. D. Qualtrough",
-	"author": "A.S.B. Davies",
-	"original": "English",
-	"additionalOriginal": "Welsh / English",
-	"notes": "A. S. B. Davies (1920-1979), the author of ‘Skeealyn Cheeil-Çhoillee’ was a Welsh scholar with interesest in all the Celtic languages. He had learnt at least some of his Manx from native speakers. He was also assisted in producing this collection of stories by John Gell and Bill Radcliffe. It seems likely that the stories were originally written in Welsh, but translated to English for the sake of assistance with translation. The idiom, word choices and grammar are very much different from the kind of Manx found in recordings of native speakers of his era, notable divergences being:
-
-—	The use of emphatic pronouns where non-emphatic pronouns would be expected.
-—	Unexpected mutation, such as;
-Lenition of the second element of a compound noun, regardless of the number or gender of the first element, for example; [skeeayln cheeill-çhiollee], [mullagh voalley].
-Lenition of dental consonants after [feer]. 
-Lention ‘carrying on’ (eg; [feer vie yesh]. 
-Change of [st] to [t] after the article.
-Change of [sl] to [cl] after [yn], eg; [yn clane skeeal], rather than [yn slane skeeal]. 
-—	The extensive use of the copula verbs [she] and [s’] in instances where the form is not found in the traditional language, such as [she] before an adjective, as [s’] before a noun.
-—	The use of phrases found in J.J. Kneen’s work, (eg; ‘Simple Lessons in Manx’, and ‘English-Manx Pronouncing Dictionary’) such as [s’cooin lhiam] ‘I remember’, [by choinnee lesh] ‘he remembered’, and [by vian lhiam] ‘I wished’, ‘I had a passion for’, ‘I wanted’. 
-—	Innovative productive use of [by] as a past or conditional tense for [she] and [s’]. 
-—	The coining of new words and phrases.
-—	The coining of new calque idioms, such as [cur nyn ging ry-cheilley crenaght] literally ‘putting our heads together (to see) how’.
-—	Extensive preference for synthetic verb forms. 
-—	Unexpected usage of ‘included object’ verb phrases (eg; [shen y yannoo]) following forms of [ve] ‘to be’. (In the traditional language this construction may follow modal verbs, but not [ve]).
-—	The use of ‘included object’ verb phrases (eg; [y yannoo] to translate infinitives in places where the plain verbal noun or [dy] + lenited verbal noun is expected. 
-—	The use of ‘included object’ verb phrases where the expected order [object, verb phrase] is reversed, eg; [nagh b’eeu diu edyr y hirrey cadley ayn] ‘it wouldn’t be worthwile for you at all to look for sleep in it’ instead of [myr nagh b’eeu diu edyr cadley y hirrey ayn].
-—	The use of prepositions in unexpected places, eg; [ymmodee dy lheid ny reddyn] ‘many such things’ instead of [ymmodee lheid ny reddyn], as likewise, the ommission of prepositions in places where they would be expected.
-—	The use of [ny + unlenited nominative feminine noun] for forming possessive genitive phrases, eg; [ny sheshaght].
-
-NB: The translation of the Speaker Qualtrough’s Introduction is provided within the text itself, likely by the author, or one of his editors.",
-	"Transcription": "RT", 
-	"Translation": "RT",
-	"source":  "'Skeealyn Cheeil-Chiollee', A. S. B. Davies, Lioaryn Yn Thie Thooee, Isle of Man, 1952.",
+  "created": "1952-12-31",
+  "ident": "Skeealyn-Cheeil-Chiollee",
+  "name": "\u0027Skeealyn Cheeil-Chiollee\u0027",
+  "englishName": "Fireside Stories",
+  "Introduction by": "J. D. Qualtrough",
+  "author": "A.S.B. Davies",
+  "original": "English",
+  "additionalOriginal": "Welsh / English",
+  "notes": "A. S. B. Davies (1920-1979), the author of \u2018Skeealyn Cheeil-\u00C7hoillee\u2019 was a Welsh scholar with interesest in all the Celtic languages. He had learnt at least some of his Manx from native speakers. He was also assisted in producing this collection of stories by John Gell and Bill Radcliffe. It seems likely that the stories were originally written in Welsh, but translated to English for the sake of assistance with translation. The idiom, word choices and grammar are very much different from the kind of Manx found in recordings of native speakers of his era, notable divergences being:\r\n\r\n\u2014\tThe use of emphatic pronouns where non-emphatic pronouns would be expected.\r\n\u2014\tUnexpected mutation, such as;\r\nLenition of the second element of a compound noun, regardless of the number or gender of the first element, for example; [skeeayln cheeill-\u00E7hiollee], [mullagh voalley].\r\nLenition of dental consonants after [feer]. \r\nLention \u2018carrying on\u2019 (eg; [feer vie yesh]. \r\nChange of [st] to [t] after the article.\r\nChange of [sl] to [cl] after [yn], eg; [yn clane skeeal], rather than [yn slane skeeal]. \r\n\u2014\tThe extensive use of the copula verbs [she] and [s\u2019] in instances where the form is not found in the traditional language, such as [she] before an adjective, as [s\u2019] before a noun.\r\n\u2014\tThe use of phrases found in J.J. Kneen\u2019s work, (eg; \u2018Simple Lessons in Manx\u2019, and \u2018English-Manx Pronouncing Dictionary\u2019) such as [s\u2019cooin lhiam] \u2018I remember\u2019, [by choinnee lesh] \u2018he remembered\u2019, and [by vian lhiam] \u2018I wished\u2019, \u2018I had a passion for\u2019, \u2018I wanted\u2019. \r\n\u2014\tInnovative productive use of [by] as a past or conditional tense for [she] and [s\u2019]. \r\n\u2014\tThe coining of new words and phrases.\r\n\u2014\tThe coining of new calque idioms, such as [cur nyn ging ry-cheilley crenaght] literally \u2018putting our heads together (to see) how\u2019.\r\n\u2014\tExtensive preference for synthetic verb forms. \r\n\u2014\tUnexpected usage of \u2018included object\u2019 verb phrases (eg; [shen y yannoo]) following forms of [ve] \u2018to be\u2019. (In the traditional language this construction may follow modal verbs, but not [ve]).\r\n\u2014\tThe use of \u2018included object\u2019 verb phrases (eg; [y yannoo] to translate infinitives in places where the plain verbal noun or [dy] \u002B lenited verbal noun is expected. \r\n\u2014\tThe use of \u2018included object\u2019 verb phrases where the expected order [object, verb phrase] is reversed, eg; [nagh b\u2019eeu diu edyr y hirrey cadley ayn] \u2018it wouldn\u2019t be worthwile for you at all to look for sleep in it\u2019 instead of [myr nagh b\u2019eeu diu edyr cadley y hirrey ayn].\r\n\u2014\tThe use of prepositions in unexpected places, eg; [ymmodee dy lheid ny reddyn] \u2018many such things\u2019 instead of [ymmodee lheid ny reddyn], as likewise, the ommission of prepositions in places where they would be expected.\r\n\u2014\tThe use of [ny \u002B unlenited nominative feminine noun] for forming possessive genitive phrases, eg; [ny sheshaght].\r\n\r\nNB: The translation of the Speaker Qualtrough\u2019s Introduction is provided within the text itself, likely by the author, or one of his editors.",
+  "Transcription": "RT",
+  "Translation": "RT",
+  "source": "\u0027Skeealyn Cheeil-Chiollee\u0027, A. S. B. Davies, Lioaryn Yn Thie Thooee, Isle of Man, 1952."
 }
-
