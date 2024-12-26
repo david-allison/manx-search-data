@@ -1,9 +1,7 @@
 {
-	"createdCircaStart": "1899-06-20",
-	"createdCircaEnd": "1899-07-17",
-	"ident": "NedBegShirShiuAsNeeShiuGeddyn",
-	"name": "Shir shiu as nee shiu geddyn",
-	"notes": "Written Between 
-98. Nee’m freayll arrey. (20.06.1899)	
-104. Jean Geamagh Orrym’s ayns Laa dy Heaghyn. (17.07.1899)"
+  "createdCircaStart": "1899-06-20",
+  "createdCircaEnd": "1899-07-17",
+  "ident": "NedBegShirShiuAsNeeShiuGeddyn",
+  "name": "Shir shiu as nee shiu geddyn",
+  "notes": "Written Between \n98. Nee\u2019m freayll arrey. (20.06.1899)\t\n104. Jean Geamagh Orrym\u2019s ayns Laa dy Heaghyn. (17.07.1899)"
 }

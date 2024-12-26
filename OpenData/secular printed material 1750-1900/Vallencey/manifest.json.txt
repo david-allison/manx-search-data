@@ -1,17 +1,11 @@
 {
-	"created": "1778-01-01",
-
-	"ident": "Ancient-Chronicle-of-Man-Vallency",
-	"name": "Mananan: An ancient Chronicle of Man, printed in the Manx, 1778.", 
-	"original": "Manx",
-	"notes": "Vallencey: \"     This is one example of the Manks being perfect Irish; it is written as pronounced, and every Irishman can understand it. The orthography is lost.—See two line in the proper Irish; the sound and the grammar are alike in both:
-
-Mananan beg bha Mac a Leirr,
-’Sfhein an chead ar ag robh riogh è
-Acht mor faor Dadann cur mian air,
-Go robh è fhein acht An-chriostigh.",
-	"author": "unknown",
-	"transcription": "R.Teare, from C. Vallency",
-	"translator": "C. Vallency",
-	"source": "Vallencey, Charles. COLLECTANEA DE REBUS HIBERNICUS. Vol. IV. Luke White, Dublin. 1786. III. Of the DEITIES of the PAGAN IRISH, P.510: & Notes: M, p.549",
+  "created": "1778-01-01",
+  "ident": "Ancient-Chronicle-of-Man-Vallency",
+  "name": "Mananan: An ancient Chronicle of Man, printed in the Manx, 1778.",
+  "original": "Manx",
+  "notes": "Vallencey: \u0022     This is one example of the Manks being perfect Irish; it is written as pronounced, and every Irishman can understand it. The orthography is lost.\u2014See two line in the proper Irish; the sound and the grammar are alike in both:\r\n\r\nMananan beg bha Mac a Leirr,\r\n\u2019Sfhein an chead ar ag robh riogh \u00E8\r\nAcht mor faor Dadann cur mian air,\r\nGo robh \u00E8 fhein acht An-chriostigh.",
+  "author": "unknown",
+  "transcription": "R.Teare, from C. Vallency",
+  "translator": "C. Vallency",
+  "source": "Vallencey, Charles. COLLECTANEA DE REBUS HIBERNICUS. Vol. IV. Luke White, Dublin. 1786. III. Of the DEITIES of the PAGAN IRISH, P.510: \u0026 Notes: M, p.549"
 }

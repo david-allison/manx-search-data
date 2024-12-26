@@ -1,12 +1,10 @@
 {
-	"created": "1872-02-21",
-	"ident": "Monas-Herald-Rev-Thos-Caine-Address",
-	"name": "Rev. Thos. Caine’s Address",
-	"author": "Rev. Thos. Caine",
-	"original": "Manx",
-	"notes": "This unique entertainment came off with great success on Monday night, in the Victoria Hall, when not less than 1,000 persons were present.
-The Rev THOS. CAINE, Vicar of Lonan, occupied the chair, and opened the proceedings by giving out the 150th hymn in the Wesleyan Manx Hymn Book :— “Er jeet dy cheilley ass y-noa.” After which he delivered the following short address :—
-",
-	"source":  "Mona's Herald, Wednesday, February 21, 1872; Page: 13",
-	"mnhNewsComponent": "Ar01315"
+  "created": "1872-02-21",
+  "ident": "Monas-Herald-Rev-Thos-Caine-Address",
+  "name": "Rev. Thos. Caine\u2019s Address",
+  "author": "Rev. Thos. Caine",
+  "original": "Manx",
+  "notes": "This unique entertainment came off with great success on Monday night, in the Victoria Hall, when not less than 1,000 persons were present.\r\nThe Rev THOS. CAINE, Vicar of Lonan, occupied the chair, and opened the proceedings by giving out the 150th hymn in the Wesleyan Manx Hymn Book :\u2014 \u201CEr jeet dy cheilley ass y-noa.\u201D After which he delivered the following short address :\u2014\r\n",
+  "source": "Mona\u0027s Herald, Wednesday, February 21, 1872; Page: 13",
+  "mnhNewsComponent": "Ar01315"
 }

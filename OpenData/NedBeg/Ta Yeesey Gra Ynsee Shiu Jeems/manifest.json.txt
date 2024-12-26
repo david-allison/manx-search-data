@@ -1,10 +1,8 @@
 {
-	"createdCircaStart": "1899-06-05",
-	"createdCircaEnd": "1899-06-10",
-	"ident": "NedBegTaYeeseyGraYnseeShiuJeems",
-	"name": "Ta Yeesey Gra “Ynsee Shiu Jeem’s”",
-	"original": "Manx",
-	"notes": "Written Between 
-89. Jean credjal ayns yn Çhiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)
-91. Lhig da’n soilshey eu soilshean (10.06.1899)",
-} 
+  "createdCircaStart": "1899-06-05",
+  "createdCircaEnd": "1899-06-10",
+  "ident": "NedBegTaYeeseyGraYnseeShiuJeems",
+  "name": "Ta Yeesey Gra \u201CYnsee Shiu Jeem\u2019s\u201D",
+  "original": "Manx",
+  "notes": "Written Between \n89. Jean credjal ayns yn \u00C7hiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)\n91. Lhig da\u2019n soilshey eu soilshean (10.06.1899)"
+}

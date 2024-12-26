@@ -1,10 +1,8 @@
 {
-	"createdCircaStart": "1899-10-20",
-	"createdCircaEnd": "1899-11-04",
-	"ident": "NedBeg-Ashlish-Feer-Aittyssagh",
-	"name": "Ashlish Feer Aittyssagh",
-	"original": "Manx",
-	"notes": "Written between
-117.     Padjer ayns Gaelg: O Uss ta Çhiarn Erskyn Dagh Nhee. (20.10.1899)
-119.     Padjer ayns Gaelg; O Ayr y Toilshey (04.11.1899)"
+  "createdCircaStart": "1899-10-20",
+  "createdCircaEnd": "1899-11-04",
+  "ident": "NedBeg-Ashlish-Feer-Aittyssagh",
+  "name": "Ashlish Feer Aittyssagh",
+  "original": "Manx",
+  "notes": "Written between\n117.     Padjer ayns Gaelg: O Uss ta \u00C7hiarn Erskyn Dagh Nhee. (20.10.1899)\n119.     Padjer ayns Gaelg; O Ayr y Toilshey (04.11.1899)"
 }

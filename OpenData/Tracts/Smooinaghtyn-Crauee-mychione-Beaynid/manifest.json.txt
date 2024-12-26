@@ -1,15 +1,12 @@
 {
-	"createdCircaStart": "1810-01-01",
-	"createdCircaEnd": "1819-12-31",
-	"ident": "Smooinaghtyn-Crauee-mychione-Beaynid-19th-Century",
-	"name": "Smooinaghtyn Crauee mychione Beaynid",
-	"englishName": "Serious Thoughts on Eternity",
-	"notes": "Serious Thoughts o Eternity (RTS No. 63) is in the Catalogue of the RTS for 1820, which goes up to 155 (First series), so No 63 likely to be from 1st decade of 19th c.
-
-Serious, or seriously, occurs 19 times in the original. It seems to have been somethong of a challenge to render into Manx. In the title it becomes crauee, then we have dowin x3, dy dowin x2, dy dowin smooinaghtagh (predicate), arrymagh x2, dy jeidjagh; a passage that would have appeared on p. 6 with seven occurrences of serious is omitted altogether, and two other cases of serious are not translated. Eternity is consistently rendered beaynid, but eternal is never rendered beayn, but always dy bragh farraghtyn or farraghtyn son dy bragh ‘everlasting’, though beayn is not rare in other texts of the period (early 19th century).
-",
-	"original": "English",
-	"type": "Tract",
-	"source": "Smooinaghtyn Crauee mychione Beaynid/Serious Thoughts o Eternity (RTS No. 63)",
-	"corupusSource": "Smooinaghtyn Crauee mychione Beaynid B as G.docx",
+  "createdCircaStart": "1810-01-01",
+  "createdCircaEnd": "1819-12-31",
+  "ident": "Smooinaghtyn-Crauee-mychione-Beaynid-19th-Century",
+  "name": "Smooinaghtyn Crauee mychione Beaynid",
+  "englishName": "Serious Thoughts on Eternity",
+  "notes": "Serious Thoughts o Eternity (RTS No. 63) is in the Catalogue of the RTS for 1820, which goes up to 155 (First series), so No 63 likely to be from 1st decade of 19th c.\n\nSerious, or seriously, occurs 19 times in the original. It seems to have been somethong of a challenge to render into Manx. In the title it becomes crauee, then we have dowin x3, dy dowin x2, dy dowin smooinaghtagh (predicate), arrymagh x2, dy jeidjagh; a passage that would have appeared on p. 6 with seven occurrences of serious is omitted altogether, and two other cases of serious are not translated. Eternity is consistently rendered beaynid, but eternal is never rendered beayn, but always dy bragh farraghtyn or farraghtyn son dy bragh \u2018everlasting\u2019, though beayn is not rare in other texts of the period (early 19th century).\n",
+  "original": "English",
+  "type": "Tract",
+  "source": "Smooinaghtyn Crauee mychione Beaynid/Serious Thoughts o Eternity (RTS No. 63)",
+  "corupusSource": "Smooinaghtyn Crauee mychione Beaynid B as G.docx"
 }

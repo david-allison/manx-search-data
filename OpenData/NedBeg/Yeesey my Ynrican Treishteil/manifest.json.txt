@@ -1,9 +1,7 @@
 {
-	"createdCircaStart": "1899-05-23",
-	"createdCircaEnd": "1899-06-01",
-	"ident": "NedBegYeeseyMyYnricanTreishteil",
-	"name": "Yeesey my Ynrican Treishteil",
-	"notes": "Written Between 
-77. Chreest T’er Choyrt Graih Dou. (23.05.1899)	
-85. Abyl dy hebbal shin fegooish foill (01.06.1899)"
+  "createdCircaStart": "1899-05-23",
+  "createdCircaEnd": "1899-06-01",
+  "ident": "NedBegYeeseyMyYnricanTreishteil",
+  "name": "Yeesey my Ynrican Treishteil",
+  "notes": "Written Between \n77. Chreest T\u2019er Choyrt Graih Dou. (23.05.1899)\t\n85. Abyl dy hebbal shin fegooish foill (01.06.1899)"
 }

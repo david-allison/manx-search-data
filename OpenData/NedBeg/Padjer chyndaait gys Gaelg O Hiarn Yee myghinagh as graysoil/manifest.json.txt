@@ -1,9 +1,7 @@
 {
-	"createdCircaStart": "1900-04-15",
-	"createdCircaEnd": "1900-11-17",
-	"ident": "NedBegPadjerChyndaaitGysGaelgOHiarnYeeMyghinaghAsGraysoil",
-	"name": "Padjer çhyndaait gys Gaelg O Hiarn Yee myghinagh as graysoil. 431 C Lioar Jiarg",
-	"notes": "Written Between
-152. Doonaght Chaisht (ii) 431 C Lioar Jiarg (1900-04-15)
-158. Padjer O uss hur baase son chloan sheelnaue. 431 C Lioar Jiarg (1900-11-17)"
+  "createdCircaStart": "1900-04-15",
+  "createdCircaEnd": "1900-11-17",
+  "ident": "NedBegPadjerChyndaaitGysGaelgOHiarnYeeMyghinaghAsGraysoil",
+  "name": "Padjer \u00E7hyndaait gys Gaelg O Hiarn Yee myghinagh as graysoil. 431 C Lioar Jiarg",
+  "notes": "Written Between\n152. Doonaght Chaisht (ii) 431 C Lioar Jiarg (1900-04-15)\n158. Padjer O uss hur baase son chloan sheelnaue. 431 C Lioar Jiarg (1900-11-17)"
 }

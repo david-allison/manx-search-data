@@ -1,10 +1,7 @@
 {
-	"createdCircaStart": "1907-07-27",
-	"createdCircaEnd": "1907-12-21",
-	"ident": "NedBeg-Cre-n-oyr-ta-dooyt-as-aggle-gaas",
-	"name": "Cre’n oyr ta dooyt as aggle gaase?",
-	"notes": "Translated from the English\n
-	Written Between:
-41.     Mannin ayns yn cheayn. 27.07.07
-43.     Ollick Reagh as Blein Vie Noa diu tra hig ee. (‘Screeuyn dys John Kewley 4) 21.12.1907"
+  "createdCircaStart": "1907-07-27",
+  "createdCircaEnd": "1907-12-21",
+  "ident": "NedBeg-Cre-n-oyr-ta-dooyt-as-aggle-gaas",
+  "name": "Cre\u2019n oyr ta dooyt as aggle gaase?",
+  "notes": "Translated from the English\n\n\tWritten Between:\n41.     Mannin ayns yn cheayn. 27.07.07\n43.     Ollick Reagh as Blein Vie Noa diu tra hig ee. (\u2018Screeuyn dys John Kewley 4) 21.12.1907"
 }

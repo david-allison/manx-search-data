@@ -1,14 +1,12 @@
 {
-	"created": "1923-05-16",
-	"ident": "Monas-Herald-London-Soc-Celtic",
-	"name": "Feature of London Society's Celtic Celebration",
-	"English name": "Feature of London Society's Celtic Celebration",
-	"notes": "A speech given to the London Manx Society. The Manx is not very good and the selling is eccentric in parts. 'An Address of Welcome in Manx. From a Special Correspondent. ... The above is a verbatim account of the speech of that famous Manx language expert, Mr William Radcliffe, to whom was deputed the task of welcoming the kindred Celtic Societies in London at the gathering of the London Manx Society, held recently. It is possibly the first occasion on which the Manx language has been used in the Metropolis by a speaker at a public meeting, and greatly interested the deputations present from the Scottish Clans Association, the Irish Folk-song Society and the Young Wales Society. It is only fair to state that Mr Radcliffe, at the conclusion of his Manx effort, extended a welcome in the more universal English tongue. Nevertheless the London Society is proud of the fact, that it has among its membership, one who was able to show to visiting Celts that though dying, the Manx Language is not yet quite dead. 
-D. C. CHRISTIAN.'
- ",
-	"original": "Manx",
-	"author": "William Radcliffe, recorded by D. C. Christian.",
-	"transcription": "R. Teare",
-	"translation": "R. Teare",
-	"source": "Mona's Herald, Wednesday, May 16, 1923; Page: 8",
+  "created": "1923-05-16",
+  "ident": "Monas-Herald-London-Soc-Celtic",
+  "name": "Feature of London Society\u0027s Celtic Celebration",
+  "English name": "Feature of London Society\u0027s Celtic Celebration",
+  "notes": "A speech given to the London Manx Society. The Manx is not very good and the selling is eccentric in parts. \u0027An Address of Welcome in Manx. From a Special Correspondent. ... The above is a verbatim account of the speech of that famous Manx language expert, Mr William Radcliffe, to whom was deputed the task of welcoming the kindred Celtic Societies in London at the gathering of the London Manx Society, held recently. It is possibly the first occasion on which the Manx language has been used in the Metropolis by a speaker at a public meeting, and greatly interested the deputations present from the Scottish Clans Association, the Irish Folk-song Society and the Young Wales Society. It is only fair to state that Mr Radcliffe, at the conclusion of his Manx effort, extended a welcome in the more universal English tongue. Nevertheless the London Society is proud of the fact, that it has among its membership, one who was able to show to visiting Celts that though dying, the Manx Language is not yet quite dead. \r\nD. C. CHRISTIAN.\u0027\r\n ",
+  "original": "Manx",
+  "author": "William Radcliffe, recorded by D. C. Christian.",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "Mona\u0027s Herald, Wednesday, May 16, 1923; Page: 8"
 }

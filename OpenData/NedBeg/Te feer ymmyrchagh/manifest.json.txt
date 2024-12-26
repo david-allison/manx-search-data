@@ -1,16 +1,14 @@
 {
-	"createdCircaStart": "1899-05-17",
-	"createdCircaEnd": "1899-05-23",
-	"ident": "NedBeg-TEh-Feer-Ymmyrchagh-Dooin-Dy-Ve-Toiggal",
-	"name": "T’eh feer ymmyrçhagh dooin dy ve toiggal c’red (er) ta’n sauçhys ain lhie.",
-	"author": "Edward Faragher",
-	"original": "Manx",
-	"notes": "Written Between 
-70. Arrane: Ta’n Imbagh Arree Nish ec Kione (17.05.1899) 
-76. Ean 16:27 (23.05.1899)",
-	"Standardised by": "Robert Teare",
-	"Transcription": "Robert Teare",
-	"Translation": "Robert Teare",
-	"iMuseum": "MS 341 C",
-	"source": "Yn Lioar Ghoo, MS 341 C",
+  "createdCircaStart": "1899-05-17",
+  "createdCircaEnd": "1899-05-23",
+  "ident": "NedBeg-TEh-Feer-Ymmyrchagh-Dooin-Dy-Ve-Toiggal",
+  "name": "T\u2019eh feer ymmyr\u00E7hagh dooin dy ve toiggal c\u2019red (er) ta\u2019n sau\u00E7hys ain lhie.",
+  "author": "Edward Faragher",
+  "original": "Manx",
+  "notes": "Written Between \n70. Arrane: Ta\u2019n Imbagh Arree Nish ec Kione (17.05.1899) \n76. Ean 16:27 (23.05.1899)",
+  "Standardised by": "Robert Teare",
+  "Transcription": "Robert Teare",
+  "Translation": "Robert Teare",
+  "iMuseum": "MS 341 C",
+  "source": "Yn Lioar Ghoo, MS 341 C"
 }
