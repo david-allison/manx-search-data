@@ -1,0 +1,12 @@
+{
+  "createdCircaStart": "1899-01-01",
+  "createdCircaEnd": "1899-12-31",
+  "ident": "NedBeg-Reddyn-ren-taghyrt-ayns-my-vea-hene",
+  "name": "Reddyn ren taghyrt ayns my vea hene",
+  "original": "Manx",
+  "notes": "References: Broderick, George. 1981. \\u2018Manx stories and reminiscences of Ned Beg Hom Ruy (introduction and texts)\\u2019. Zeitschrift f\\u00FCr celtische Philologie 38: 113-178.\nBroderick, George. 1982. \\u2018Manx stories and reminiscences of Ned Beg Hom Ruy (translation and notes)\\u2019. Zeitschrift f\\u00FCr celtische Philologie 39: 117-194.\nLewin, Christopher. 2014. Lioar-lhaih Ghaelgagh. Original Manx Gaelic Prose 1821-1907. Douglas: Culture Vannin.\nOED - Oxford English Dictionary. https://www.oed.com/\nMoore, Arthur W., Sophia Morrison and Edmund Goodwin (1924). A Vocabulary of the Anglo-Manx Dialect. London: Oxford University Press.",
+  "author": "Edward Faragher",
+  "digitisation": "Broderick (1981), Lewin (2014) text 3",
+  "translation": "Christoper Lewin",
+  "source": "MNHL MS 00431C"
+}
