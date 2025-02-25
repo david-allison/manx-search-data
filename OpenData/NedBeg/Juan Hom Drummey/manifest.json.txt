@@ -1,0 +1,12 @@
+{
+  "createdCircaStart": "1899-01-01",
+  "createdCircaEnd": "1899-12-31",
+  "ident": "NedBeg-Juan-Hom-Drummey",
+  "name": "Juan Hom Drummey",
+  "original": "Manx",
+  "notes": "References:\n\nBroderick, George. 1981. \u2018Manx stories and reminiscences of Ned Beg Hom Ruy (introduction and texts)\u2019. Zeitschrift f\u00FCr celtische Philologie 38: 113-178. \nBroderick, George. 1982. \u2018Manx stories and reminiscences of Ned Beg Hom Ruy (translation and notes)\u2019. Zeitschrift f\u00FCr celtische Philologie 39: 117-194.\nLewin, Christopher. 2014. Lioar-lhaih Ghaelgagh. Original Manx Gaelic Prose 1821-1907. Douglas: Culture Vannin.\nOED. Oxford English Dictionary.",
+  "author": "Edward Faragher",
+  "digitisation": "Broderick (1981), Lewin (2014) text 5",
+  "translation": "Christoper Lewin",
+  "source": "MNHL MS 00431C"
+}
