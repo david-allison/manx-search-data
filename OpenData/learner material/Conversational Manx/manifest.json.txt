@@ -1,0 +1,13 @@
+{
+  "created": "1954-04-19",
+  "ident": "Conversational-Manx-1954",
+  "name": "Conversational Manx",
+  "englishName": "Conversational Manx",
+  "introductionBy": "Frank Bell Kelly",
+  "author": "John Gell",
+  "original": "Bilingual",
+  "notes": "It is likely that the exemplar sentences were written first in Manx, but is the text is listed as English original as the notes are in English. The English translation of the John Gell\u0027s works is provided within the text itself, likely by the author himself. The original document includes a pronunciation guide for each exemplar sentence that is not included in this transcription. Some of the English is archaic and normalised English has been added by R. Teare to some translations - they appear within square brackets preceded by [NE:] (2025).",
+  "transcription": "RT",
+  "translation": "John Gell (Introduction by F. B. Kelly)",
+  "source": "\u0027Conversational Manxu0027 Juan y Gell / John Gell, Mona\\u0027s Herald, Easter, 1954."
+}
