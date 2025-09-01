@@ -1,0 +1,15 @@
+{
+  "createdCircaStart": "1900-01-01",
+  "createdCircaEnd": "1908-06-05",
+  "ident": "NedBeg-Ta-Roeder-er-ve-mennick-feshtey-mee",
+  "name": "Ta Roeder er ve mennick feyshtey mee.",
+  "English name": "Roeder has often asked me.",
+  "author": "Edward Faragher",
+  "original": "Manx",
+  "notes": "A transcription by Dr. John Clague  of a letter evidently written by Edward Faragher",
+  "Standardised by": "Robert Teare",
+  "Transcription": "Robert Teare",
+  "Translation": "Robert Teare",
+  "iMuseum": "MS 450/9A",
+  "source": "Dr John Clauge\u0027s Notebook, MS 450/9A"
+}
