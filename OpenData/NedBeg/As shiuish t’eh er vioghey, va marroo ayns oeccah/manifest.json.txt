@@ -1,5 +1,5 @@
 {
   "created": "1899-06-10",
   "ident": "NedBegAsShiuishTEhErVioghey",
-  "name": "As shiuish t\u2019eh er vioghey, va marroo ayns oeccah"
+  "name": "As Shiuish t\u2019eh er Vioghey, va Marroo ayns Peccah"
 }
