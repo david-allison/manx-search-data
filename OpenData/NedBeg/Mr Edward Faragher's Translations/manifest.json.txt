@@ -1,0 +1,12 @@
+{
+  "created": "1901-09-14",
+  "ident": "Mr-Edward-Faraghers-Translations",
+  "name": "Mr Edward Faragher\u2019s Translations",
+  "notes": "A copy of a letter from Edward Faragher to Mr E. S. Dodgson, with two pieces in Manx; a Manx carval from the family Bible translated into English, and a translation of the hymn \u0027Rock of Ages\u0027, that Faragher mentions was translated into Manx for Dr Dunkan Craig, Kinsale, Ireland. The second verse of the translation of \\u0027Rock of Ages\\u0027 is an amalgamation of the second and third verses of the four-verse Toplady original. Dr John Duncan Craig had a longstanding interest in minority languages, particularly Provencal. He had published \u0027A Handbook of the Provencal Language\u0027 in 1863\u0027, and later asked the poet Frederic Mistral to translate \u0027Rock of Ages\u0027 into Provencal. From 1865 until 1870, Craig served as Vicar of Kinsale and Rector of St Multose\u0027s, Kinsale. From 1865 onwards, thousands of Manx fishermen were based in Kinsale during the fishing season, including Edward Faragher. Craig helped raise the funds for the building of \u0027The Fisherman\u0027s Hall\u0027 on O\u0027Connell Street, which was used as an evangelical mission hall for Manx and Cornish fishermen. Craig was an ultra-evangelical evangelical clergyman who was also a member of the Irish Society and supported the use of Irish Language by the Church of Ireland. His \u0027Kinsale Tracts\u0027 pub; Nisbet \\u0026 Co., London, 1873, frequently quotes from \u0027Rock of Ages\u0027.",
+  "original": "Bilingual",
+  "Author": "Edward Faragher, with into by E. S. Dodgson.",
+  "Translator": "Edward Faragher",
+  "Transcribed by": "RT",
+  "Standardised Manx by": "RT",
+  "source": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3"
+}
