@@ -1,0 +1,13 @@
+{
+  "createdCircaStart": "1899-01-01",
+  "createdCircaEnd": "1907-12-31",
+  "ident": "Translation-2-20",
+  "name": "Translation 2.20",
+  "Author": "Unknown",
+  "Original": "English",
+  "Translator": "E. Faragher",
+  "Transcriber": "RT",
+  "Standardised Manx": "RT",
+  "notes": "A translation of an unknown poem, with Biblical references.",
+  "Source": "Loose papers in MS 01419A"
+}
