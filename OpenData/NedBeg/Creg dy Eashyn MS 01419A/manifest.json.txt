@@ -1,0 +1,12 @@
+{
+  "createdCircaStart": "1906-01-01",
+  "createdCircaEnd": "1906-12-31",
+  "ident": "NedBegCregdyEashyn",
+  "name": "Creg dy Eashyn MS 01419A",
+  "Original": "English",
+  "notes": "A stand alone version, perhaps a final version, of a translation of Rock of Ages by Toplady.. c.1906-12-31",
+  "Transliteration by": "Edward Faragher",
+  "Transcription": "RT.",
+  "Original Author": "Augustus Toplady (1740-1778), with later anon. additions",
+  "Source": "MS 01419A."
+}
