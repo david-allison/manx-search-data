@@ -1,0 +1,16 @@
+{
+  "created": "1952-01-20",
+  "ident": "UOSH-HOYFM-SA0003",
+  "name": "\uD83C\uDFA5 UOSH SA0003: Interview with John Kneen speaking Manx Gaelic",
+  "extendedNotes": "John Kneen in conversation, in Manx, with others.  They talk about the weather, a sunny day and how it won\u0027t be long until the summer; February considered to be the beginning of spring; walking to Bride on the beach; corn cut with a sickle; threshing done in the doorway; how women and children did a lot of the work while men went to the fishing; other work on the land, mowing, reaping and keeping cattle; reaping; houses made of sods; getting clay from pits to make walls and bricks; using stones to build houses; how people would build sod houses for poor people to stay in for two to three days; and how there are no longer any sod houses standing.",
+  "curatorNotes": "John Kneen, native Manx speaker (1852-1958).  John William (\u0027Bill\u0027) Radcliffe, Manx scholar (1917-1984).  Walter Clarke, Manx speaker and translator (1928-2007).  Douglas Faragher, Manx speaker.\n\nThis recording was made by Yn Cheshaght Ghailckagh (Manx Society) as part of a collection of recordings made on 29 paper tapes from 1951-1953 by members of Yn Cheshaght Ghailckagh on a \\u2018sound mirror\\u2019 recording machine. The machine was owned by Yn Cheshaght Ghailckagh, purchased for them by member John Gell.  Recording sessions usually took place on Sunday afternoon.  In most cases speakers were interviewed in their own homes, usually by two or more interviewers.",
+  "author": "John Kneen, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=wMtjYehmdyo",
+  "sourceSHA1": "666865093c863becfe0573214d840f4b2ded3204  HOYFM_SA0003_s1_f1_v1.mp3",
+  "duration": "30:59"
+}
