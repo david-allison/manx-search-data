@@ -1,0 +1,16 @@
+{
+  "created": "1951-11-30",
+  "ident": "UOSH-HOYFM-SA0001",
+  "name": "\uD83C\uDFA5 UOSH SA0001: Interview with John Kneen of Ballaugh speaking Manx Gaelic",
+  "extendedNotes": "John Kneen in conversation, in Manx, with John William (\u0027Bill\u0027) Radcliffe, Walter Clarke and Doug Faragher.  John and the others talk about his health; the weather; number of boats in Ramsey Bay; his upbringing born in Skylley Chreest (Kirk Andeas); his move to Jurby; working as a blacksmith for 60 years; retiring and living at Ballaugh Curraghs; how he expects to live to 100.\n\nInterviewer asks John Kneen about his schooldays and John talks about how he was at school in Jurby; teacher Dan Caley with club foot and whip; new school in Jurby; smithy apprenticeship, not paid but given food and clothing; blacksmith workshops in the north; making farm implements; wages; names and places of markets and fairs; hotels and pubs.\n\nInterviewer asks John Kneen to tell the story of how as a young boy he walked to Douglas with his father and how they rode home with Robbin Crellin on his coach.",
+  "curatorNotes": "Yn Cheshaght Ghailckagh (Manx Society).  John Kneen, native Manx speaker (1852-1958).  John William (\u0027Bill\u0027) Radcliffe, Manx scholar (1917-1984).  Walter Clarke, Manx speaker and translator (1928-2007).  Douglas Faragher, Manx speaker.\n\nThis recording was made by Yn Cheshaght Ghailckagh (Manx Society) as part of a collection of recordings made on 29 paper tapes from 1951-1953 by members of Yn Cheshaght Ghailckagh on a \u2018Sound Mirror\u2019 recording machine. The machine was owned by Yn Cheshaght Ghailckagh, purchased for them by member John Gell.  Recording sessions usually took place on Sunday afternoon.  In most cases speakers were interviewed in their own homes, usually by two or more interviewers.\n\n(Information from Broderick, \u0027Language Death in the Isle of Man\u0027, 1999.)",
+  "author": "John Kneen, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke and Doug Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=4u50GrqOn3c",
+  "sourceSHA1": "2a2878f11f5da72fef788a0c35db22bbe329bcba  HOYFM_SA0001_s1_f1_v1.mp3",
+  "duration": "31:23"
+}
