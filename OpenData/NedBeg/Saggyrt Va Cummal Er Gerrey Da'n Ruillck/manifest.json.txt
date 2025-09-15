@@ -1,0 +1,12 @@
+{
+  "createdCircaStart": "1900-01-01",
+  "createdCircaEnd": "1900-03-30",
+  "ident": "Va-Saggyrt-Cummal-Er-Gerrey-Da-Yn-Ruillick",
+  "name": "Va Saggyrt Cummal Er Gerrey Da Yn Ruillick",
+  "notes": "Written before an item dated 30.03.1900. Only one item in this collection is dated, all assumed to be c.1900.",
+  "original": "Manx",
+  "author": "Edward Faragher",
+  "translated By": "RT",
+  "transcribed By": "RT",
+  "Source": "Yn Lioar Veg; MNHL MS 00431C"
+}
