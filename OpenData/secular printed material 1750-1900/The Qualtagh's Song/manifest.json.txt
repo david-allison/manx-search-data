@@ -1,0 +1,11 @@
+{
+  "created": "1873-01-08",
+  "ident": "Qualtaghssong",
+  "name": "The Quaaltagh\u0027s Song",
+  "notes": "Manx Mottoes and a Version of the quaaltagh greeting",
+  "translation": "R.Teare 2025",
+  "author": "unknown",
+  "transcription": "RT 2025",
+  "source": "Mona\u0027ss Herald, Wednesday, January 08, 1873; Page: 5",
+  "original": "Manx"
+}
