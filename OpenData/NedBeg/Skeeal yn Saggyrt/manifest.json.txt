@@ -1,7 +1,7 @@
 {
   "createdCircaStart": "1899-01-01",
   "createdCircaEnd": "1899-12-30",
-  "ident": "skeealynsaggyrt",
+  "ident": "NedBeg-Skeeal-Yn-Saggyrt",
   "name": "Skeeal yn Saggyrt",
   "notes": "Other similar looking pages in the collection are dated 1899",
   "Original": "Manx",
