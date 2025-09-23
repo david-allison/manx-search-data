@@ -1,0 +1,10 @@
+{
+  "created": "1902-06-05",
+  "ident": "Acts-1902",
+  "name": "Slattysyn 1902",
+  "author": "unknown",
+  "Transcribed by": "RT",
+  "original": "English",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on June 5th 1902."
+}
