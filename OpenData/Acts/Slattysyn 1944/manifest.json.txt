@@ -3,7 +3,7 @@
   "ident": "Acts-1944",
   "name": "Slattysyn 1944",
   "author": "unknown",
-  "Transcribed": "RT"
+  "Transcribed": "RT",
   "original": "English",
   "iMuseum": "MS D200",
   "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1944."
