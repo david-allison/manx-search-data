@@ -1,0 +1,14 @@
+{
+  "created": "1907-09-07",
+  "ident": "Billy-beg-tom-beg-as-ny-mooinjer-veggey",
+  "name": "Billy Beg, as Thom beg, as ny Moonier-veggey.",
+  "englishName": "Billy Beg, Tom Beg, and the Fairies",
+  "notes": "This story also appears \u0027Manx Fairy Tales\u0027 by S. Morrison, but without the Manx translation. The article is introduced thus; A bit of Manx Folk-lore, by a Member of the \u201CHearth and Home\u201D Literary Guild. The following, by Miss Morrison, of Peel, appeared in a recent number of \u201CHearth and Home\u201D:\u2014 ",
+  "author": "S. Morrison",
+  "translator": "S. Morrison.",
+  "original": "Manx",
+  "type": "folklore",
+  "transcription": "R. Teare",
+  "source": "Billy Beg, Tom Beg, and the Fairies. / Billy Beg, as Thom Beg, as ny Mooinjer-Veggey. Peel City Guardian, Saturday, September 07, 1907; Page: 2",
+  "englishSource": "Billy Beg, Tom Beg, and the Fairies. / Billy Beg, as Thom Beg, as ny Mooinjer-Veggey. Peel City Guardian, Saturday, September 07, 1907; Page: 2"
+}
