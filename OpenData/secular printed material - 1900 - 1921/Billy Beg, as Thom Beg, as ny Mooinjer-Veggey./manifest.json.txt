@@ -10,5 +10,5 @@
   "type": "folklore",
   "transcription": "R. Teare",
   "source": "Billy Beg, Tom Beg, and the Fairies. / Billy Beg, as Thom Beg, as ny Mooinjer-Veggey.\" Peel City Guardian, Saturday, September 07, 1907; Page: 2",
-  "englishSource": "Billy Beg, Tom Beg, and the Fairies. / Billy Beg, as Thom Beg, as ny Mooinjer-Veggey." Peel City Guardian, Saturday, September 07, 1907; Page: 2"
+  "englishSource": "Billy Beg, Tom Beg, and the Fairies. / Billy Beg, as Thom Beg, as ny Mooinjer-Veggey.\" Peel City Guardian, Saturday, September 07, 1907; Page: 2"
 }
