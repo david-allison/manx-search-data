@@ -5,7 +5,7 @@
   "englishName": "Billy Beg, Tom Beg, and the Fairies",
   "notes": "This story also appears 'Manx Fairy Tales' by S. Morrison, but without the Manx translation. The article is introduced thus; A bit of Manx Folk-lore, by a Member of the “Hearth and Home" Literary Guild. The following, by Miss Morrison, of Peel, appeared in a recent number of " Hearth and Home":— ",
   "author": "S. Morrison",
-  "translator": "S. Morrison."
+  "translator": "S. Morrison.",
   "original": "Manx",
   "type": "folklore",
   "transcription": "R. Teare",
