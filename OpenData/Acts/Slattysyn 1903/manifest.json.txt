@@ -1,0 +1,9 @@
+{
+  "created": "1903-07-11",
+  "ident": "Acts-1903",
+  "name": "Slattysyn 1903",
+  "author": "unknown",
+  "original": "English",
+  "source": "Isle of Man Times, Saturday, July 11, 1903; Page: 3",
+  "notes": "Abstracts of the Acts of Tynwald promulgated on July 5th 1903. Parts of the description of the Trustees Act is missing from the Manx."
+}
