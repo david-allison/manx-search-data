@@ -1,0 +1,9 @@
+{
+  "created": "1904-09-27",
+  "ident": "Slattysyn-1904-2",
+  "name": "Slattysyn 1904-2",
+  "notes": "A Second set of Acts for 1904",
+  "original": "English",
+  "Transcription": "RT",
+  "source": "MS D200"
+}
