@@ -4,7 +4,7 @@
   "ident": "Yn-Chied-Lioar",
   "name": "Yn Child Liar gailckagh",
   "Author": "Stowell, Hugh, Rev Canon",
-  "notes": "A Manx Spelling / Reading book for Sunday schools, based on ‘The English Spelling-Book’ (1801) by William Fordyce Mavor, but without illustrations and with religious rather than secular material. The English translation makes use of the original English of the source material where it has been taken from liturgical or scriptural sources. Otherwise, the translations are by RT. The hyphenated word lists are transcribed as they appear in the original, but for ease of reading, the hyphens have been removed from lessons 4, 6, 12, 13 and from lesson 15 onwards.",
+  "notes": "A Manx Spelling / Reading book for Sunday schools, based on \u2018The English Spelling-Book\u2019 (1801) by William Fordyce Mavor, but without illustrations and with religious rather than secular material. The English translation makes use of the original English of the source material where it has been taken from liturgical or scriptural sources. Otherwise, the translations are by RT. The hyphenated word lists are transcribed as they appear in the original, but for ease of reading, the hyphens have been removed from lessons 4, 6, 12, 13 and from lesson 15 onwards.",
   "transcribed": "Rob Teare",
   "translated": "Rob Teare",
   "printer": "H. Teape, Tower Hill, London",
