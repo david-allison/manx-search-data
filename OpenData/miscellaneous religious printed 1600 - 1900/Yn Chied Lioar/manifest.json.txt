@@ -1,0 +1,14 @@
+{
+  "createdCircaStart": "1818-01-01",
+  "createdCircaEnd": "1818-12-31",
+  "ident": "Yn-Chied-Lioar",
+  "name": "Yn Child Liar gailckagh",
+  "Author": "Stowell, Hugh, Rev Canon",
+  "notes": "A Manx Spelling / Reading book for Sunday schools, based on \u2018The English Spelling-Book\u2019 (1801) by William Fordyce Mavor, but without illustrations and with religious rather than secular material. The English translation makes use of the original English of the source material where it has been taken from liturgical or scriptural sources. Otherwise, the translations are by RT. The hyphenated word lists are transcribed as they appear in the original, but for ease of reading, the hyphens have been removed from lessons 4, 6, 12, 13 and from lesson 15 onwards.",
+  "transcribed": "Rob Teare",
+  "translated": "Rob Teare",
+  "printer": "H. Teape, Tower Hill, London",
+  "publisher": "The Society for Support and Encouragement of Sunday Schools Throughout the Kingdom of Britain",
+  "original": "Manx",
+  "Source": "H. 140/N/STO M 04/02/045.12.05"
+}
