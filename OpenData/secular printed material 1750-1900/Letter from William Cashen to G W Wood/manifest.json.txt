@@ -1,0 +1,11 @@
+{
+  "created": "1892-04-05",
+  "ident": "Letter-William-Cashen-GWW-1892-04-05",
+  "name": "Letter from William Cashen to G. W. Wood",
+  "notes": "With thanks to Tim Swales",
+  "transcribed": "Tim Swales (2025)",
+  "translated": "Tim Swales (2025)",
+  "license": "CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "original": "Manx",
+  "iMuseum": "MS01399A"
+}
