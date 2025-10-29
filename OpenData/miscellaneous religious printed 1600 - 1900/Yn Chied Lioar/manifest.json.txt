@@ -9,6 +9,6 @@
   "translated": "Rob Teare",
   "printer": "H. Teape, Tower Hill, London",
   "publisher": "The Society for Support and Encouragement of Sunday Schools Throughout the Kingdom of Britain",
-  "original": "Manx"
+  "original": "Manx",
   "Source": "H. 140/N/STO M 04/02/045.12.05"
 }
