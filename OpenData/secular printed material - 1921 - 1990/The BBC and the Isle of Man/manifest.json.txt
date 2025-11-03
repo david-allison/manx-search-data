@@ -1,0 +1,12 @@
+{
+  "created": "1929-12-01",
+  "ident": "The-BBC-and-the-Isle-of-Man",
+  "name": "The BBC and the Isle of Man",
+  "author": "William Radcliffe / Compton MacKenzie",
+  "original": "Manx",
+  "notes": "\u0027Vox\u0027 was a weekly critical magazine devoted to broadcasting, founded in 1929. The editor was Compton MacKenzie (\u0027Whisky Galore\u0027).",
+  "type": "letter to a newspaper / editorial",
+  "transcription": "R. Teare",
+  "translation": "authors",
+  "source": "The B.B.C. and the Isle of Man. Vox 21 Dec. 1929. H140/B/YNC8"
+}
