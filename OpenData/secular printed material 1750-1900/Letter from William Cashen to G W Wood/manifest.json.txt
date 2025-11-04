@@ -5,6 +5,7 @@
   "notes": "With thanks to Tim Swales",
   "transcribed": "Tim Swales (2025)",
   "translated": "Tim Swales (2025)",
+  "corrected": "Rob Teare (2025)",
   "license": "CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "original": "Manx",
   "iMuseum": "MS01399A"
