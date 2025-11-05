@@ -1,9 +1,9 @@
 {
   "created": "1899-10-28",
-  "ident": "Yn-Ghailck",
+  "ident": "Yn-Ghailck-Examiner",
   "name": "Yn Ghailck",
-  "notes": "Announcement for The Examiner's Manx Language Column",
-  "original": "Manx, with English introduction",
+  "notes": "Announcement for The Examiner\u0027s Manx Language Column. Manx original with English introduction",
+  "original": "Manx",
   "Transcribed": "RT",
   "Translated": "RT",
   "source": "Isle of Man Examiner, Saturday, October 28, 1899; Page: 3l"
