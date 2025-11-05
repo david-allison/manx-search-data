@@ -1,0 +1,10 @@
+{
+  "created": "1899-10-28",
+  "ident": "Yn-Ghailck",
+  "name": "Yn Ghailck",
+  "notes": "Announcement for The Examiner's Manx Language Column",
+  "original": "Manx, with English introduction",
+  "Transcribed": "RT",
+  "Translated": "RT",
+  "source": "Isle of Man Examiner, Saturday, October 28, 1899; Page: 3l"
+}
