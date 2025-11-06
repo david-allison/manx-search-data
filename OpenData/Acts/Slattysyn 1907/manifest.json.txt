@@ -1,0 +1,10 @@
+{
+  "created": "1907-07-05",
+  "ident": "Acts-1907",
+  "name": "Slattysyn 1907",
+  "author": "unknown",
+  "original": "English",
+  "Transcribed": "RT",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Abstract of Act For Promulgation, July 5th 1907."
+}
