@@ -1,0 +1,8 @@
+{
+  "created": "1902-07-05",
+  "ident": "Slattysyn-1902",
+  "name": "Slattysyn 1902",
+  "notes": "Acts of Tynwald. Transcribed by R. Teare 2025",
+  "original": "English",
+  "source": "MS D200 ABSTRACTS OF ACTS FOR PROMULGATION. BROWN AND SONS, LIMITED  PRINTERS, DOUGLAS.1902."
+}
