@@ -1,0 +1,10 @@
+{
+  "created": "1909-07-05",
+  "ident": "Acts-1906",
+  "name": "Slattysyn 1906",
+  "author": "unknown",
+  "Transcribed": "RT",
+  "original": "English",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Tynwald Court, ST. JOHN’S 5th JULY, 1906. Abstracts of Acts For Promulgation."
+}
