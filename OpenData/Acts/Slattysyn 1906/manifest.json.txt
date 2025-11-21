@@ -6,5 +6,5 @@
   "Transcribed": "RT",
   "original": "English",
   "iMuseum": "MS D200",
-  "notes": "MS D200. Tynwald Court, ST. JOHN’S 5th JULY, 1906. Abstracts of Acts For Promulgation."
+  "notes": "MS D200. Tynwald Court, ST. JOHN\u2019S 5th JULY, 1906. Abstracts of Acts For Promulgation."
 }
