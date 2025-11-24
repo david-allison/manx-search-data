@@ -60,7 +60,7 @@ public static class DocumentsWithoutOriginal
         "NedBegTaMeeFeerWooisalDiuSonYnGhioot", "NedBegArraneMannanagh", "NedBegTaMeeJerkalDyVel",
         "NedBeg-Tan-earish-cha-feayr-gys-nagh-vel-mee-son-faaigail-yn-aile", "NedBeg-Ayr-yn-Toilshey",
         "ard-firrinyssyn", "Coyrle-da-manninee", 
-        "Translation-of-Psalm-113", "God-Save-The-King-Stowell", "Speech-Mr-Pitt", "bun-as-baare-slattys-noa",
+        "God-Save-The-King-Stowell", "Speech-Mr-Pitt", "bun-as-baare-slattys-noa",
         "Yn-Undaagagh", "Fencing-Tynwald-Court-1869", "Ellan-Vannin-1899", "yn-chaglym-manninagh",
         "Raaghyn-Creeney-Gaelgagh", "Manx-Conversation-Philip-Quayle", "Clague-Chemist", "Cre-ta-Gloyr-1824",
         "Godwins-Remarkable-Account",
