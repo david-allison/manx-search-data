@@ -1,0 +1,9 @@
+{
+  "created": "1905-07-05",
+  "ident": "Slattysyn-1905",
+  "name": "Slattysyn 1905",
+  "notes": "Two dates of promulgation, 29th of May, and 5th of July",
+  "original": "English",
+  "Transcription": "RT",
+  "source": "MS D200"
+}
