@@ -4,5 +4,6 @@
   "name": "Translation of Psalm 113",
   "notes": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
   "source": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
+  "original": "English",
   "mnhNewsComponent": "Ar00707"
 }
