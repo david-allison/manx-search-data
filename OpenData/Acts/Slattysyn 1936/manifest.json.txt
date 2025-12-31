@@ -1,0 +1,9 @@
+{
+  "created": "1936-07-06",
+  "ident": "Acts-1936",
+  "name": "Slattysyn 1936",
+  "author": "unknown, Manx read out by Archdeacon Kewley, likely author of the Manx",
+  "original": "English",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 6th 1936."
+}
