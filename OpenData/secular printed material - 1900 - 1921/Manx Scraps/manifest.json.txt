@@ -1,0 +1,13 @@
+{
+  "created": "1905-07-29",
+  "ident": "Manx-Scraps",
+  "name": "Manx Scraps",
+  "englishName": "Manx Scraps",
+  "notes": "'Two columns by Sophia Morrison containing proverbs, sayings and song fragments she had collected, published on the 8th and 29th of July 1905. No further editions of this column found. Some words are obscured in the imuseum copy, this is indicated by [...]. ",
+  "author": "Morrison. S.",
+  "original": "Manx",
+  "type": "folklore",
+  "transcription": "R. Teare",
+  "translation": "Author, with some additions in square brackets by R. Teare (2025)",
+  "source": "Isle of Man Examiner, Saturday, July 08, 1905; Page: 8 / Isle of Man Examiner, Saturday, July 29, 1905; Page: 8",
+}
