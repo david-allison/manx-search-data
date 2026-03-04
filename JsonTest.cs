@@ -43,7 +43,7 @@ public class JsonTest
     /// </summary>
     /// <param name="document"></param>
     [Theory]
-    public void CsvFileIsJalidJsonNet(OpenSourceDocument document)
+    public void CsvFileIsValidJsonNet(OpenSourceDocument document)
     {
         var path = document.LocationOnDisk + "/manifest.json.txt";
 
