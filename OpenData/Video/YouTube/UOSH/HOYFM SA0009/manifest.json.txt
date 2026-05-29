@@ -1,0 +1,17 @@
+{
+  "createdCircaStart": "1951-01-01",
+  "createdCircaEnd": "1953-12-31",
+  "ident": "UOSH-HOYFM-SA0009",
+  "name": "\uD83C\uDFA5 UOSH SA0009: Interview with Edward (\u0027Ned\u0027) Maddrell speaking Manx Gaelic",
+  "extendedNotes": "Ned Maddrell in conversation, in Manx, with others.  There is some interesting variation in Ned Maddrell\u0027s pronunciation of certain words e.g. \u0027geaishtagh\u0027, \u0027moghrey\u0027 from that used in Manx today.  Interviewers and Ned have a drink together and talk generally about what Ned has been doing that morning \u0027geaishtagh rish yn wireless\u0027; other native Manx speakers who have also been recorded by the interviewers and are known to Ned Maddrell are referred to, namely Sage Kinvig, John Kinvig (aka \u0027the Contractor\u0027), Tommy Leece from Skeerey Chreest, Rosien.  Ned tells them to omit \u0027Rosien\u0027 just say Skeerey Chreest when in the south.\n\nThey talk about an Irish boat wrecked six weeks ago; the Garrett family who lived on yn Colloo (the Calf), \u0027ram paitchyn keoi dy liooar\u0027 according to Ned; an Irish man called Mitchell (?) who also lived on yn Colloo and had a boat \u0027Leprechaun\u0027; the quality of the land on yn Colloo.  Ned is asked if Cow Harbour ever had a Manx name; if he ever fished for bollanyn (wrasse) to which he answers \u0027no\u0027, just\u0027 breck as skeddan\u0027 they are also catching \u0027partanyn as gimmee\u0027 these days which fetch a good price.  Ned says there were once goairyn keoi (wild goats) on yn Colloo; the health and age of acquaintances with Ned describing most of them as \u0027moal\u0027 and unable to get about to which an interviewer comments \u0027veagh eh marroo dy beagh eh ny smelley\u0027.\n\nNed\u0027s clock can be heard ticking loudly through the latter part of the recording and sounding the hour.",
+  "curatorNotes": "Edward Maddrell, last native speaker of Manx Gaelic (1877-1974).  John William (\u0027Bill\u0027) Radcliffe, Manx scholar (1917-1984).  Walter Clarke, Manx speaker and translator (1928-2007).  Douglas Faragher, Manx speaker.\n\nThis recording was made by Yn Cheshaght Ghailckagh (Manx Society) as part of a collection of recordings made on 29 paper tapes from 1951-1953 by members of Yn Cheshaght Ghailckagh on a \u2018sound mirror\u2019 recording machine. The machine was owned by Yn Cheshaght Ghailckagh, purchased for them by member John Gell.  Recording sessions usually took place on Sunday afternoon.  In most cases speakers were interviewed in their own homes, usually by two or more interviewers.\n\n(Information from Broderick, \u0027Language Death in the Isle of Man\u0027, 1999.)",
+  "author": "Edward (\u0027Ned\u0027) Maddrell, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=Ta__gjILa8s",
+  "sourceSHA1": "c6cdbc6dddee0742c4e95f21b1686024e48cac4a  HOYFM_SA0009_s1_f1_v1.mp3",
+  "duration": "31:31"
+}

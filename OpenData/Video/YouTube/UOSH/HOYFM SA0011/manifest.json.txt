@@ -1,0 +1,17 @@
+{
+  "createdCircaStart": "1952-01-01",
+  "createdCircaEnd": "1952-12-31",
+  "ident": "UOSH-HOYFM-SA0011",
+  "name": "\uD83C\uDFA5 UOSH SA0011: Conversation with Ned Maddrell of Glen Chass",
+  "extendedNotes": "Ned Maddrell of Glen Chass talking with J. W. \u0027Bill\u0027 Radcliffe, Walter Clarke and Doug Faragher.\n\nInformal conversation on a variety of subjects.  The sound quality is poor and there are lots of people talking over one another.  The conversation ends at 17 min. 4 sec. with the rest of the tape used to record a programme from Irish radio that includes folk songs.",
+  "curatorNotes": "Yn Cheshaght Ghailckagh (Manx Society) Recordings.  This collection of recordings were made on paper tapes from 1951-1953 by members of YCG on a \u2018Sound Mirror\u2019 recording machine. The Machine was owned by YCG, purchased for them by member John Gell. Recording sessions usually took place on Sunday afternoon. In most cases speakers were interviewed in their own homes, usually by two or more interviewers.  29 tapes were made in all (YCG nos 1-24, 29, 30, 32-34).\n(Information from Broderick, \u0027Language Death in the Isle of Man\u0027, 1999.)",
+  "author": "Ned Maddrell, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=rdLv_DTXqAQ",
+  "sourceSHA1": "128929fb5ab56fc338c6f59be78528a09c3a811d  HOYFM_SA0011_s1_f1_v1.mp3",
+  "duration": "31:10"
+}
