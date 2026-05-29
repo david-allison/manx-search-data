@@ -10,7 +10,7 @@
   "producedBy": "Yn Cheshaght Ghailckagh",
   "objectName": "magnetic recording tape",
   "original": "Manx",
-  "source": "https://www.youtube.com/watch?v=4u50GrqOn3c",
+  "source": "https://www.youtube.com/watch?v=EPZm8MizoLM",
   "sourceSHA1": "2a2878f11f5da72fef788a0c35db22bbe329bcba  HOYFM_SA0001_s1_f1_v1.mp3",
-  "duration": "31:23"
+  "duration": "31:24"
 }
