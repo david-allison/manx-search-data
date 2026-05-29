@@ -1,0 +1,16 @@
+{
+  "created": "1952-01-20",
+  "ident": "UOSH-HOYFM-SA0005",
+  "name": "\uD83C\uDFA5 UOSH SA0005: Interview with John Kneen speaking Manx Gaelic",
+  "extendedNotes": "John Kneen in conversation, in Manx, with others, made for the Manx Gaelic rather than the content.\n\nThey talk about Charles y Killey, who lived in Glen Mona, who John remembers seeing about Andreas when he was a child; Billy Paaie (?) from Andreas; Giat-y-Clieau, name for the Mountain Road; smoking tobacco; smuggling stories, including about Juan-y-Dock; Charlie Chalse at Ballaquane and how he was \u0027taken by the fairies\u0027; behaviour of the fairies, helping and healing people; how a woman would gather dust from the crossroads for a cure; story of two brothers arguing and a new blacksmith shop in Bride; farmer Teare; song beginning, \u0027Row shiu ec y maghey, niak shiu monney sleih\u0027; boat called \u0027Victor\u0027 built in Ramsey; story of Thurot and Elliot; thatched houses in the north; thatching houses using marram; the winters of the past; how there were very few people from outside the Isle of Man in the \u0027old days\u0027; Loaghtan sheep.\n\n[The sound recording is difficult to listen to near the end as the speed of the original recording increases.]",
+  "curatorNotes": "John Kneen, native Manx speaker (1852-1958).  John William (\u0027Bill\u0027) Radcliffe, Manx scholar (1917-1984).  Walter Clarke, Manx speaker and translator (1928-2007).  Douglas Faragher, Manx speaker.  Tom Braide, Manx language student (1920-1979).\n\nThis recording was made by Yn Cheshaght Ghailckagh (Manx Society) as part of a collection of recordings made on 29 paper tapes from 1951-1953 by members of Yn Cheshaght Ghailckagh on a \u2018sound mirror\u2019 recording machine. The machine was owned by Yn Cheshaght Ghailckagh, purchased for them by member John Gell.  Recording sessions usually took place on Sunday afternoon.  In most cases speakers were interviewed in their own homes, usually by two or more interviewers.",
+  "author": "John Kneen, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke, Douglas Faragher, Tom Braide",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=K8mhHwTB9R8",
+  "sourceSHA1": "97b2439bf25b16cf2206162ebae1275a55ce530e  HOYFM_SA0005_s1_f1_v1_EDIT.mp3",
+  "duration": "36:45"
+}

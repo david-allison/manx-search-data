@@ -1,0 +1,16 @@
+{
+  "created": "1952-01-20",
+  "ident": "UOSH-HOYFM-SA0004",
+  "name": "\uD83C\uDFA5 UOSH SA0004: Interview with John Kneen speaking Manx Gaelic",
+  "extendedNotes": "John Kneen in conversation, in Manx, with others, about visiting the fairies at Ballaugh.  John describes being \u0027taken by the fairies\u0027 on a 10 mile walk: description of walk home and houses, including occupants.  They talk about the fairy market; fairies flying to the Isle of Man from Ireland and Scotland; making knives and forks from cabbages; selling cattle,horses and pigs; Dooiney Oie, Fynnodderee, and Lhiannoo Shee; Cry of the Dooiney Oie, sign of bad weather; fairies waiting under bridge at Ballaugh interfering with people of the North going to Peel for herring, then drinking all the beer; Tarroo Ushtey, Buggane, and the Moddey Dhoo; how old folk competed to tell best fairy yarn; fairy boats made of rushes; fairy market; fairy looks; Shenn laa Nollick, cows kneeling, Myrhh blooming; fairies and the harvest moon.\n\nThey then talk about fishing superstitions; nicknames for creatures when at sea; unlucky things not to do: Ben Rein ny hoie.\n\nA story that mentions Kelly Chalse in Andreas; the White Boys who John made swords for; John\u0027s opinion of the interviewers Manx.\n\n[Attempt has been made to improve the quality of the original sound recording.  Despite this, the sound recording is difficult to listen to near the end as the speed of the original recording increases.]",
+  "curatorNotes": "John Kneen, native Manx speaker (1852-1958).  John William (\u0027Bill\u0027) Radcliffe, Manx scholar (1917-1984).  Walter Clarke, Manx speaker and translator (1928-2007).  Douglas Faragher, Manx speaker.  Tom Braide, Manx language student (1920-1979).\n\nThis recording was made by Yn Cheshaght Ghailckagh (Manx Society) as part of a collection of recordings made on 29 paper tapes from 1951-1953 by members of Yn Cheshaght Ghailckagh on a \u2018sound mirror\u2019 recording machine. The machine was owned by Yn Cheshaght Ghailckagh, purchased for them by member John Gell.  Recording sessions usually took place on Sunday afternoon.  In most cases speakers were interviewed in their own homes, usually by two or more interviewers.",
+  "author": "John Kneen, John William (\u0027Bill\u0027) Radcliffe, Walter Clarke, Douglas Faragher, Tom Braide",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=35S5hmAwTBA",
+  "sourceSHA1": "e3d839beb1d47c3f70370a3521f2b35070720079  HOYFM_SA0004_s1_f1_v1_EDIT.mp3",
+  "duration": "41:00"
+}

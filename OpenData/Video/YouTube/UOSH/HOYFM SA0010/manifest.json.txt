@@ -1,0 +1,17 @@
+{
+  "createdCircaStart": "1952-01-01",
+  "createdCircaEnd": "1952-12-31",
+  "ident": "UOSH-HOYFM-SA0010",
+  "name": "\uD83C\uDFA5 UOSH SA0010: Interview with Ned Maddrell of Glen Chass about fishing in the Isle of Man and the British Isles",
+  "extendedNotes": "Ned talks about an \u2018eairk booa\u2019 (cow horn) found on a beach which held the grease used when sewing sails with needles; fishing boat the \u0027Harriet\u0027, Maddrell her master and Maddrell\u2019s grandson attending Manx Gaelic classes; the \u0027Excelsior\u0027 and the men who fished speaking Manx; Niarbyl, Fleshwick and Bradda; Doug Faragher\u2019s grandmother who first took him to Fleshwick; Crebbins and Corkhills from Fleshwick, Bradda and Surby; herring; area of sea from Niarbyl to Bradda was the Baie Vooar; fishing boat the \u0027Willy\u0027 on it for a week at the start of the First World War; coming home from Barra on the \u0027Empress Queen\u0027; master Keig; women with beards. Walter Clarke mentions a Ramsey woman without any hair (\u0027t\u2019ad ooilley ersooyl cam er y twoaie\u0027, \u0027they\u2019re all odd in the North\u0027); jokes about the Southside being the best place to live. Ned suggests that Doug Faragher should live with him and speak Manx which leads to a humorous discussion about women and marriage.\n\nNed declines reciting a story about a young man courting a maiden.  Ned talks about Manx spoken when he was young; Harry Kelly of Cregneash and his two brothers and sister; Neddy Hom Ruy and his story of catching herring; bollan (ballan wrasse) and callig (pollock); money for mackerel in Ireland and a story about selling mackerel to an Irish woman; story about the master of a Manx boat who went ashore in Scotland to buy eggs; fishing experiences in Scotland; fishing around Shetland in the summer for herring; almost 100 boats that went from Port St Mary to fish in Ireland and Scotland and about 200 from Peel; only 2 boats from Ramsey the first time he went fishing for herring at Lerwick in Shetland, one was the \u0027Village Maid\u0027, whose master was William Ball who lived in the Gob Gorrym/Rue Point area and whose son was alive in Laxey and had a boat called \u2018Speeideilys\u2019.",
+  "curatorNotes": "Yn Cheshaght Ghailckagh (Manx Society) Recordings.  This collection of recordings were made on paper tapes from 1951-1953 by members of YCG on a \u2018Sound Mirror\u2019 recording machine. The Machine was owned by YCG, purchased for them by member John Gell. Recording sessions usually took place on Sunday afternoon. In most cases speakers were interviewed in their own homes, usually by two or more interviewers.  29 tapes were made in all (YCG nos 1-24, 29, 30, 32-34).\n(Information from Broderick, \u0027Language Death in the Isle of Man\u0027, 1999.)",
+  "author": "Ned Maddrell, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "transcribed": "Paul Rogers, Christopher Lewin",
+  "producedBy": "Yn Cheshaght Ghailckagh",
+  "objectName": "magnetic recording tape",
+  "original": "Manx",
+  "source": "https://www.youtube.com/watch?v=LqleRQlVZ2k",
+  "sourceSHA1": "70b8544fb1b4310e2d6d890a9ef63ce6d256f3ff  HOYFM_SA0010_s1_f1_v1.mp3",
+  "duration": "31:57"
+}
