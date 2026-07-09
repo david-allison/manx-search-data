@@ -4,6 +4,7 @@
   "ident": "Carn26NyH-AmericaneeAsUllee",
   "name": "Carn 026: Ny h-Americanee as Ullee.",
   "author": "Brian Mac Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1979"
 }

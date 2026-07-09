@@ -2,6 +2,7 @@
   "created": "1974-03-15",
   "ident": "Carn5BuilleyNoiParis",
   "name": "Carn 005: Builley Noi Paris",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Brian Mac Stoyll"
 }

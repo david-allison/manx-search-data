@@ -4,6 +4,7 @@
   "ident": "Carn75EuboniaSeyrErYChollooReesht",
   "name": "Carn 075: \u0022Eubonia Seyr\u0022 er y Cholloo Reesht",
   "author": "F. McArdle",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Autumn 1991"
 }

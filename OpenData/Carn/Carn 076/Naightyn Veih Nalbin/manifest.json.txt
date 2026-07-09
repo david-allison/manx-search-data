@@ -4,6 +4,7 @@
   "ident": "Carn76NaightynVeihNalbin",
   "name": "Carn 076: Naightyn Veih Nalbin",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": " Winter 1991/2 30th year Special with supplement"
 }

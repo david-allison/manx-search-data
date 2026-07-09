@@ -4,6 +4,7 @@
   "ident": "Carn126MraaneCeltiaghAynsShennaghysImpiroileeYnEashNoa",
   "name": "Carn 126: Mraane Celtiagh ayns Shennaghys Impiroilee yn Eash Noa",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 2004"
 }

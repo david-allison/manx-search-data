@@ -4,6 +4,7 @@
   "ident": "Carn33CeltieeErChellooishSostnagh",
   "name": "Carn 033: Celtiee er Chellooish Sostnagh.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1981"
 }

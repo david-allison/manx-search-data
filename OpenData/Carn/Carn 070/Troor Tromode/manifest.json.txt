@@ -4,6 +4,7 @@
   "ident": "Carn70TroorTromode",
   "name": "Carn 070: Troor Tromode",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1990"
 }

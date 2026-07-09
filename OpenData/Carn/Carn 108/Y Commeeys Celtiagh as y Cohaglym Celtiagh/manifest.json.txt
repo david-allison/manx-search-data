@@ -4,6 +4,7 @@
   "ident": "Carn108YCommeeysCeltiaghAsYCohaglymCeltiagh",
   "name": "Carn 108: Y Commeeys Celtiagh As Y Cohaglym Celtiagh",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Winter 1999/2000"
 }

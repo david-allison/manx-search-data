@@ -4,6 +4,7 @@
   "ident": "Carn53SostynVoght",
   "name": "Carn 053: Sostyn Voght",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1986"
 }

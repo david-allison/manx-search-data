@@ -4,6 +4,7 @@
   "ident": "Carn61DeineyKeoi",
   "name": "Carn 061: Deiney Keoi",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1988"
 }

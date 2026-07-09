@@ -4,6 +4,7 @@
   "ident": "Carn57ScannaneynAynsBretnish",
   "name": "Carn 057: Scannaneyn ayns Bretnish",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1987"
 }

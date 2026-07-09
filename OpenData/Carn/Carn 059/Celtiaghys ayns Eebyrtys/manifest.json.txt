@@ -4,6 +4,7 @@
   "ident": "Carn59CeltiaghysAynsEebyrtys",
   "name": "Carn 059: Celtiaghys ayns Eebyrtys.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Autumn 1987"
 }

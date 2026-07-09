@@ -4,6 +4,7 @@
   "ident": "Carn58ChengeyNyMayrey",
   "name": "Carn 058: Chengey ny Mayrey?",
   "author": "Robard y Charsalagh",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1987"
 }

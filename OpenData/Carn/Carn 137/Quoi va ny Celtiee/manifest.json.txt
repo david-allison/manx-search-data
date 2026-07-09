@@ -4,6 +4,7 @@
   "ident": "Carn137QuoiVaNyCeltiee",
   "name": "Carn 137: Quoi va ny Celtiee?",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 2007"
 }

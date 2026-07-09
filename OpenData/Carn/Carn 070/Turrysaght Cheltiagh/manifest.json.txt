@@ -4,6 +4,7 @@
   "ident": "Carn70TurrysaghtCheltiagh",
   "name": "Carn 070: Turrysaght Cheltiagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1990"
 }

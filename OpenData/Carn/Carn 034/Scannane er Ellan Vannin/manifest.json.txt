@@ -4,6 +4,7 @@
   "ident": "Carn34ScannaneErEllanVannin",
   "name": "Carn 034: Scannane er Ellan Vannin",
   "author": "Sean \u00D3 Quinn",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1981"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn147MusthaaBegElleyAynsMannin",
   "name": "Carn 147: Musthaa beg elley ayns Mannin",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "May 2010"
 }

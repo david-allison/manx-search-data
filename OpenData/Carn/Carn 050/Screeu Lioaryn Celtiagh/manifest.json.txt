@@ -4,6 +4,7 @@
   "ident": "Carn50ScreeuLioarynCeltiagh",
   "name": "Carn 050: Screeu Lioaryn Celtiagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1985"
 }

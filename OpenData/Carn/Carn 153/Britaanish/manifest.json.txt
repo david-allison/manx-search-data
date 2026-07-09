@@ -4,6 +4,7 @@
   "ident": "Carn153Britaanish",
   "name": "Carn 153: Britaanish",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer-Autumn 2012"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn112ChengeyElley",
   "name": "Carn 112: Chengey Elley",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Winter 2000/1"
 }

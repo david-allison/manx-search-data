@@ -4,6 +4,7 @@
   "ident": "Carn140ManninAsNalbin",
   "name": "Carn 140: Mannin as Nalbin",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 2008"
 }

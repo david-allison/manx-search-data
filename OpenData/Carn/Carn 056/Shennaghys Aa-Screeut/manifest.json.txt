@@ -4,6 +4,7 @@
   "ident": "Carn56ShennaghysAa-Screeut",
   "name": "Carn 056: Shennaghys Aa-Screeut",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Winter 1986"
 }

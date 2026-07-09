@@ -4,6 +4,7 @@
   "ident": "Carn45NiartNyScannaneyn",
   "name": "Carn 045: Niart ny Scannaneyn",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1984"
 }
