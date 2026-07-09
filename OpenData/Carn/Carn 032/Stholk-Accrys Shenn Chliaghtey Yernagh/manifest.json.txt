@@ -4,6 +4,7 @@
   "ident": "Carn32Stholk-AccrysShennChliaghteyYernagh",
   "name": "Carn 032: Stholk-Accrys Shenn Chliaghtey Yernagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Winter 1980"
 }

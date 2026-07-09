@@ -4,6 +4,7 @@
   "ident": "Carn41GaelgJiu",
   "name": "Carn 041: Gaelg Jiu",
   "author": "Colin Jerry",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1983"
 }

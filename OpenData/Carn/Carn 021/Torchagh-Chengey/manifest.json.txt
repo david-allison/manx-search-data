@@ -4,6 +4,7 @@
   "ident": "Carn21Torchagh-Chengey",
   "name": "Carn 021: Torchagh-Chengey.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1978 Special Poetry Issue"
 }

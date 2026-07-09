@@ -4,6 +4,7 @@
   "ident": "Carn74TheyDoNotContend",
   "name": "Carn 074: \u0022Since, indeed, they do not contend there is no resentment. \u0022",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1991"
 }

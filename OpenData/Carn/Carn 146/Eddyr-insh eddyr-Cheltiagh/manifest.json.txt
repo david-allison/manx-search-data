@@ -4,6 +4,7 @@
   "ident": "Carn146Eddyr-inshEddyr-Cheltiagh",
   "name": "Carn 146: Eddyr-insh eddyr-Cheltiagh",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "May 2010"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn130YMee-unnaneysOarpagh",
   "name": "Carn 130: Y Mee-unnaneys Oarpagh",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 2005"
 }

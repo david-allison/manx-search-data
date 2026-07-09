@@ -4,6 +4,7 @@
   "ident": "Carn73VeeishaghtAsChengaghyn",
   "name": "Carn 073: Veeishaght as Chengaghyn",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1991"
 }

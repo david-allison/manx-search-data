@@ -4,6 +4,7 @@
   "ident": "Carn115YVritaan-CheerCheltiagh",
   "name": "Carn 115: Y Vritaan - Cheer Cheltiagh",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Autumn 2001"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn14SlaneLhieuRishHarlandAsWolff",
   "name": "Carn 014: Slane Lhieu rish Harland as Wolff?",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1976"
 }

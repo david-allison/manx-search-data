@@ -4,6 +4,7 @@
   "ident": "Carn69CooinaghtVaaseIlliamDhone1990",
   "name": "Carn 069: Cooinaght Vaase Illiam Dhone 1990",
   "author": "Phil Gawne",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 1990"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn129ShennNoiNoaNyFirrinaghNoiFoalsey",
   "name": "Carn 129: Shenn noi Noa, ny Firrinagh noi Foalsey",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 2005"
 }

@@ -4,6 +4,7 @@
   "ident": "Carn63ManninAsYChorn",
   "name": "Carn 063: Mannin as Y Chorn.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Autumn 1988"
 }

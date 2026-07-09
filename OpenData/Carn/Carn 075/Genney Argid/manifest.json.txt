@@ -4,6 +4,7 @@
   "ident": "Carn75GenneyArgid",
   "name": "Carn 075: Genney Argid",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Autumn 1991"
 }

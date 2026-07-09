@@ -4,6 +4,7 @@
   "ident": "Carn30NaeearaghtNyHErin",
   "name": "Carn 030: Naeearaght ny hErin.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1980"
 }

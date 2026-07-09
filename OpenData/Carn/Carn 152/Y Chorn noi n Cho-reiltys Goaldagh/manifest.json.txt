@@ -4,6 +4,7 @@
   "ident": "Carn152YChornNoiNCho-reiltysGoaldagh",
   "name": "Carn 152: Y Chorn noi\u0027n Cho-reiltys Goaldaghe",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 2012"
 }

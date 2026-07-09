@@ -4,6 +4,7 @@
   "ident": "Carn20ThallooNyHAlbeyQuoiSLeshEh",
   "name": "Carn 020: Thalloo ny hAlbey: Quoi S\u0027lesh Eh?",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Winter 1977/8"
 }

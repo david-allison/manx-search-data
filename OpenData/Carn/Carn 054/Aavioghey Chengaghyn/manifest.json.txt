@@ -4,6 +4,7 @@
   "ident": "Carn54AaviogheyChengaghyn",
   "name": "Carn 054: Aavioghey Chengaghyn",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Summer 1986"
 }

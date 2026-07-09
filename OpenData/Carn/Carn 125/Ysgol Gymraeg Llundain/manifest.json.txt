@@ -4,6 +4,7 @@
   "ident": "Carn125CowragheyCheeraghyn",
   "name": "Carn 125: Cowraghey Cheeraghyn",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "notes": "Spring 2004"
 }
