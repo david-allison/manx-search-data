@@ -5,5 +5,6 @@
   "notes": "Temperance leaflet from circa 1845, printed by M.A.Quiggin",
   "translated": "Rob Teare 2021",
   "original": "Manx",
-  "source": "Manx Museum H.140/I"
+  "source": "Manx Museum H.140/I",
+  "uploaded by": "David Allison"
 }

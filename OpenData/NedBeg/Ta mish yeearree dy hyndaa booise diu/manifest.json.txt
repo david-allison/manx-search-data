@@ -3,5 +3,6 @@
   "createdCircaEnd": "1905-12-31",
   "ident": "NedBeg-Ta-mish-yeearree-dy-hyndaa-booise-diu",
   "name": "Ta mish yeearree dy hyndaa booise diu",
-  "notes": "Screeuyn gys Kewley: E. Faragher. MS 01135"
+  "notes": "Screeuyn gys Kewley: E. Faragher. MS 01135",
+  "uploaded by": "David Allison"
 }

@@ -9,5 +9,6 @@
   "type": "newspaper advertisement\u0027",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "The True Manxman, No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Page 16."
+  "source": "The True Manxman, No. 2. Vol I. TUESDAY, JANUARY 28, 1823. Page 16.",
+  "uploaded by": "Rob Teare"
 }

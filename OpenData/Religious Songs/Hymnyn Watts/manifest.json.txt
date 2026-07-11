@@ -8,5 +8,6 @@
   "author": "I. Watts",
   "translator": "G. Killey",
   "type": "Hymns",
-  "source": "Hymnyn ny arraneyn Moyllee son Paitchyn Liorish I. Watts. Published By P. White, 25, New-street, Bishopsgate; And Sold by J. Davis, 56, Paternoster-row; and J. Nisbet, Castle-street, Oxford-street. 1826."
+  "source": "Hymnyn ny arraneyn Moyllee son Paitchyn Liorish I. Watts. Published By P. White, 25, New-street, Bishopsgate; And Sold by J. Davis, 56, Paternoster-row; and J. Nisbet, Castle-street, Oxford-street. 1826.",
+  "uploaded by": "Rob Teare"
 }

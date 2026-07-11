@@ -1,5 +1,6 @@
 {
   "created": "1899-07-02",
   "ident": "NedBegTaNGhrianHoureeSoilshean",
-  "name": "Ta\u2019n Ghrian Houree Soilshean"
+  "name": "Ta\u2019n Ghrian Houree Soilshean",
+  "uploaded by": "David Allison"
 }

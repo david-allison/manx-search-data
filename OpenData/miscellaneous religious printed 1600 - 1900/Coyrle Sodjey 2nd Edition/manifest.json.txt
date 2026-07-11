@@ -11,5 +11,6 @@
   "sourceDocument": {
     "url": "https://www.researchgate.net/publication/369088900_Coyrle_Sodjey_2nd_edn_1761",
     "text": "Coyrle_Sodjey_2nd_edn_1761.pdf"
-  }
+  },
+  "uploaded by": "David Allison"
 }

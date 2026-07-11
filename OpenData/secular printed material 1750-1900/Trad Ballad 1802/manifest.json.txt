@@ -8,5 +8,6 @@
   "original": "Manx",
   "transcribed": "R. Teare",
   "translated": "R. Teare",
-  "author": "unknown"
+  "author": "unknown",
+  "uploaded by": "Rob Teare"
 }

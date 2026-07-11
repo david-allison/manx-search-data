@@ -8,5 +8,6 @@
   "original": "English",
   "type": "Tract",
   "source": "",
-  "corupusSource": "Banglaneyn.docx"
+  "corupusSource": "Banglaneyn.docx",
+  "uploaded by": "David Allison"
 }

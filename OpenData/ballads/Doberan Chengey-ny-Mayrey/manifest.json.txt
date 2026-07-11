@@ -6,5 +6,6 @@
   "type": "Poem",
   "author": "William Kennish",
   "original": "Manx",
-  "source": "Mona\u2019s Herald, Wednesday, February 26, 1845; Page 4. "
+  "source": "Mona\u2019s Herald, Wednesday, February 26, 1845; Page 4. ",
+  "uploaded by": "Rob Teare"
 }

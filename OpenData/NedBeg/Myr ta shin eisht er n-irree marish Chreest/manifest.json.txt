@@ -1,5 +1,6 @@
 {
   "created": "1899-06-11",
   "ident": "NedBegMyrTaShinEishtErNIrreeMarishChreest",
-  "name": "Myr ta shin eisht er n\u2019irree marish Chreest"
+  "name": "Myr ta shin eisht er n\u2019irree marish Chreest",
+  "uploaded by": "David Allison"
 }

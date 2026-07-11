@@ -4,5 +4,6 @@
   "name": "Kianlt-Booise",
   "notes": "An annonymous humorous vignette with accompanying translation.",
   "original": "Bilingual",
-  "source": "Isle of Man Examiner, Saturday, June 09, 1900; Page: 2"
+  "source": "Isle of Man Examiner, Saturday, June 09, 1900; Page: 2",
+  "uploaded by": "Rob Teare"
 }

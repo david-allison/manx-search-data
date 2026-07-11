@@ -7,5 +7,6 @@
   "original": "Manx",
   "Author": "Fred Moore",
   "transcription": "R. Teare",
-  "source": "Mona\u2019s Herald, Tuesday November 29, 1938. Bilingual"
+  "source": "Mona\u2019s Herald, Tuesday November 29, 1938. Bilingual",
+  "uploaded by": "Rob Teare"
 }

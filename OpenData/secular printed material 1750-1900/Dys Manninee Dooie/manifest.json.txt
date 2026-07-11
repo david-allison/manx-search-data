@@ -5,5 +5,7 @@
   "notes": "Original by \u2018Britannicus\u2019, Transcription \u0026 Translation (based on English version in same edition of Mona\u2019s Herald); R. Teare",
   "source": "Mona\u0027s Herald, Tuesday, February 07, 1837; Page: 3",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00316"
+  "mnhNewsComponent": "Ar00316",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

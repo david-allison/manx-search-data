@@ -9,5 +9,6 @@
   "original": "Manx",
   "type": "Biographical",
   "transcription": "Phil Kelly",
-  "source": "Pending. https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/DFC1.html"
+  "source": "Pending. https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/DFC1.html",
+  "uploaded by": "David Allison"
 }

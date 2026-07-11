@@ -4,5 +4,6 @@
   "name": "Creg dy Eashyn (Tom Moore)",
   "author": "Tom Moore",
   "original": "English",
-  "notes": "Translated by Tom Moore, comments by Ned Beg:\n\tTranslated by Tom Moore Brookfield March, 1907\nWhen you do see me let me know what\nyou Think of it.  I Think it good.\nThis has been sent to me by an old Friend, but I think it is not very clever. It is not rhyming and there are too many\nsyllables in some of the lines.\nPlease have a look at it and judge for \nyourself.\nEdward Faragher."
+  "notes": "Translated by Tom Moore, comments by Ned Beg:\n\tTranslated by Tom Moore Brookfield March, 1907\nWhen you do see me let me know what\nyou Think of it.  I Think it good.\nThis has been sent to me by an old Friend, but I think it is not very clever. It is not rhyming and there are too many\nsyllables in some of the lines.\nPlease have a look at it and judge for \nyourself.\nEdward Faragher.",
+  "uploaded by": "David Allison"
 }

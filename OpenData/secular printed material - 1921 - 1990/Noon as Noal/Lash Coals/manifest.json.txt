@@ -9,5 +9,6 @@
   "type": "Current Events \u0026 Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 21st August 1976"
+  "source": "Noon as Noal, Manx Star, Saturday, 21st August 1976",
+  "uploaded by": "Rob Teare"
 }

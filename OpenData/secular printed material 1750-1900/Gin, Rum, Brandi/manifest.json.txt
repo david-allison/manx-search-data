@@ -6,5 +6,6 @@
   "original": "Manx",
   "source": "Manx Sun, Saturday, September 26, 1874; Page: 10",
   "author": "John Ivon Mosley",
-  "mnhNewsComponent": "Ar01000"
+  "mnhNewsComponent": "Ar01000",
+  "uploaded by": "Rob Teare"
 }

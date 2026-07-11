@@ -4,5 +4,6 @@
   "name": "Carn 039: Studeyrys Yernagh sy Ghoal",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "author": "Brian y Stoyll"
+  "author": "Brian y Stoyll",
+  "uploaded by": "David Allison"
 }

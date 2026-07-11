@@ -6,5 +6,6 @@
   "author": "Colin y Jerree",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1990"
+  "notes": "Autumn 1990",
+  "uploaded by": "David Allison"
 }

@@ -7,5 +7,6 @@
   "original": "Manx",
   "Author": "P. Cain \u0026 H. P. Kelly",
   "transcription": "R. Teare",
-  "source": "Mona\u0027s Herald, Tuesday, May 04, 1937; Page: 5"
+  "source": "Mona\u0027s Herald, Tuesday, May 04, 1937; Page: 5",
+  "uploaded by": "Rob Teare"
 }

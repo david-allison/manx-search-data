@@ -10,5 +10,6 @@
   "Standardisation": "Robert Teare",
   "source": "Yn Lioar Ghoo, MS 341 C",
   "iMuseum": "MS 341 C",
-  "notes": "Bible: Malachi III 17. Written Between \n70. Arrane: Ta\u2019n Imbagh Arree Nish ec Kione (17.05.1899) \n76. Ean 16:27 (23.05.1899)"
+  "notes": "Bible: Malachi III 17. Written Between \n70. Arrane: Ta\u2019n Imbagh Arree Nish ec Kione (17.05.1899) \n76. Ean 16:27 (23.05.1899)",
+  "uploaded by": "David Allison"
 }

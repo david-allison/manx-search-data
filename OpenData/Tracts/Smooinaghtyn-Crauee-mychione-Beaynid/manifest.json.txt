@@ -8,5 +8,6 @@
   "original": "English",
   "type": "Tract",
   "source": "Smooinaghtyn Crauee mychione Beaynid/Serious Thoughts o Eternity (RTS No. 63)",
-  "corupusSource": "Smooinaghtyn Crauee mychione Beaynid B as G.docx"
+  "corupusSource": "Smooinaghtyn Crauee mychione Beaynid B as G.docx",
+  "uploaded by": "David Allison"
 }

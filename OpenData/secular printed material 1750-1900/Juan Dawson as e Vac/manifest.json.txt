@@ -7,5 +7,6 @@
   "author": "Juan Dawson",
   "original": "Manx",
   "translation": "RT",
-  "mnhNewsComponent": "Ar00806"
+  "mnhNewsComponent": "Ar00806",
+  "uploaded by": "Rob Teare"
 }

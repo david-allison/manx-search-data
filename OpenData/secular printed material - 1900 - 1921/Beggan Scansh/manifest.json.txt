@@ -4,5 +4,6 @@
   "name": "Beggan Scansh",
   "notes": "a humorous vignette. Author unknown",
   "original": "English",
-  "source": "Isle of Man Examiner, Saturday June 15, 1901. Bilingual"
+  "source": "Isle of Man Examiner, Saturday June 15, 1901. Bilingual",
+  "uploaded by": "Rob Teare"
 }

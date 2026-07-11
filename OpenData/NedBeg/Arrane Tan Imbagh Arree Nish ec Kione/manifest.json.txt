@@ -3,5 +3,6 @@
   "ident": "NedBegTanImbaghArreeNishEcKione",
   "name": "Ta\u2019n Imbagh Arree Nish ec Kione",
   "original": "Manx",
-  "type": "Arrane"
+  "type": "Arrane",
+  "uploaded by": "David Allison"
 }

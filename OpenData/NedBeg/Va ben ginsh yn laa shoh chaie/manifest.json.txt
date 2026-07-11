@@ -3,5 +3,6 @@
   "ident": "NedBegVaBenGinshYnLaaShohChaie",
   "name": "Va Ben Ginsh yn Laa Shoh Chaie",
   "notes": "(CL; \u201CSheean ayns y thie\u201D)",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

@@ -4,5 +4,6 @@
   "ident": "NedBeg-Lines-written-on-leaving-home-for-the-Irish-fishing",
   "name": "Lines written on leaving home for the Irish fishing. ",
   "original": "Manx",
-  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907."
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907.",
+  "uploaded by": "David Allison"
 }

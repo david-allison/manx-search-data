@@ -7,5 +7,6 @@
   "type": "Poem",
   "original": "Manx",
   "source": "Manx Sun, Saturday, July 05, 1862; Page: 20",
-  "mnhNewsComponent": "Ar02014"
+  "mnhNewsComponent": "Ar02014",
+  "uploaded by": "David Allison"
 }

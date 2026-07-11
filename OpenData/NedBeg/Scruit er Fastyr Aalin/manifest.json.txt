@@ -3,5 +3,6 @@
   "createdCircaEnd": "1899-06-14",
   "ident": "NedBegScruitErFastyrAalin",
   "name": "Scruit er Fastyr Aalin",
-  "notes": "Written Between\n94.     Arrane: Yn Fastyr Aalin Shoh ta Gerjagh Mee (12.06.1899)\t\n96.     Gow Shiu Boggey ayns yn \u00C7hiarn. (14.06.1899)"
+  "notes": "Written Between\n94.     Arrane: Yn Fastyr Aalin Shoh ta Gerjagh Mee (12.06.1899)\t\n96.     Gow Shiu Boggey ayns yn \u00C7hiarn. (14.06.1899)",
+  "uploaded by": "David Allison"
 }

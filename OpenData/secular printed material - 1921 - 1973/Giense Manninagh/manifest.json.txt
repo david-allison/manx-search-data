@@ -8,5 +8,6 @@
   "author": "Unknown",
   "transcription": "R. Teare",
   "translation": "Unknown",
-  "source": "Ramsey Courier, Friday, February 17, 1939; Page: 8"
+  "source": "Ramsey Courier, Friday, February 17, 1939; Page: 8",
+  "uploaded by": "Rob Teare"
 }

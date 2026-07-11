@@ -7,5 +7,6 @@
   "original": "Manx",
   "author": "Unkown",
   "transcription": "R. Teare",
-  "source": "Isle of Man Examiner, Saturday December 29, 1900. Bilingual"
+  "source": "Isle of Man Examiner, Saturday December 29, 1900. Bilingual",
+  "uploaded by": "Rob Teare"
 }

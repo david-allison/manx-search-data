@@ -9,5 +9,6 @@
   "type": "Folk Story",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, 18th December, 1976; Yn Drean Dhone"
+  "source": "Noon as Noal, 18th December, 1976; Yn Drean Dhone",
+  "uploaded by": "Rob Teare"
 }

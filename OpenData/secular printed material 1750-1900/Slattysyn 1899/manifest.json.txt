@@ -4,5 +4,6 @@
   "name": "Slattysyn 1899",
   "notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
   "original": "English",
-  "source": "Isle of Man Times, Saturday, July 22, 1899; page 13. Sentence starting \u0027The Burials Act Amendment Act\u0027"
+  "source": "Isle of Man Times, Saturday, July 22, 1899; page 13. Sentence starting \u0027The Burials Act Amendment Act\u0027",
+  "uploaded by": "Rob Teare"
 }

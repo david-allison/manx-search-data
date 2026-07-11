@@ -4,5 +4,6 @@
   "name": "Manx Conversation. Philip Quayle, Mona St., Peel.c.1935.",
   "notes": "Typed record of a conversation.",
   "translated": "Rob Teare 2021",
-  "source": "Manx Museum Folk Life Survey; FLS Q/33A"
+  "source": "Manx Museum Folk Life Survey; FLS Q/33A",
+  "uploaded by": "David Allison"
 }

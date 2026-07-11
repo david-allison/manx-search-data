@@ -9,5 +9,6 @@
   "transcription": "R. Teare",
   "translation": "R. Teare",
   "source": "H140/B/YNC8",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "Rob Teare"
 }

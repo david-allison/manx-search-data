@@ -9,5 +9,7 @@
   "type": "news column \u0027Coraa ny Gael\u0027",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "\u0027Coraa ny Gael\u0027, Mona\u0027s Herald, Tuesday, October 27, 1953; Page: 8"
+  "source": "\u0027Coraa ny Gael\u0027, Mona\u0027s Herald, Tuesday, October 27, 1953; Page: 8",
+  "proofread by": "Jane I",
+  "uploaded by": "Rob Teare"
 }

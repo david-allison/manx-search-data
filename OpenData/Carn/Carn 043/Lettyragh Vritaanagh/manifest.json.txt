@@ -6,5 +6,6 @@
   "author": "Patrick le Besco",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1983"
+  "notes": "Autumn 1983",
+  "uploaded by": "David Allison"
 }

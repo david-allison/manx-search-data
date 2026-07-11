@@ -5,5 +5,6 @@
   "name": "Carn 018: Seyrsnys ny hAlbey - ny Veg.",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1977"
+  "notes": "Summer 1977",
+  "uploaded by": "David Allison"
 }

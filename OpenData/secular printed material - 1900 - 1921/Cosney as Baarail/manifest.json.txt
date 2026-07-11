@@ -6,5 +6,6 @@
   "notes": "a bilingual humorous vignette.",
   "author": "unknown",
   "original": "Bilingual",
-  "source": "Isle of Man Examiner, Saturday, January 20, 1900; Page: 3"
+  "source": "Isle of Man Examiner, Saturday, January 20, 1900; Page: 3",
+  "uploaded by": "Rob Teare"
 }

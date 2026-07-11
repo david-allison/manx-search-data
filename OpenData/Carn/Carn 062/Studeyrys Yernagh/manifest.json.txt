@@ -6,5 +6,6 @@
   "author": "Brian y Stoyll",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1988 - incorrectly listed as 1968"
+  "notes": "Summer 1988 - incorrectly listed as 1968",
+  "uploaded by": "David Allison"
 }

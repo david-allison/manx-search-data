@@ -2,5 +2,6 @@
   "created": "1899-06-12",
   "ident": "NedBegYnFastyrAalinShohTaGerjaghMee",
   "name": "Yn Fastyr Aalin Shoh ta Gerjagh Mee",
-  "type": "Arrane"
+  "type": "Arrane",
+  "uploaded by": "David Allison"
 }

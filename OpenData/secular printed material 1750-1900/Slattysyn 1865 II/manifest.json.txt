@@ -5,5 +5,6 @@
   "notes": "Acts of Tynwald. Transcribed by R. Teare 2020",
   "source": "Mona\u0027s Herald, Wednesday, October 04, 1865; Page: 7",
   "original": "English",
-  "mnhNewsComponent": "Ar00715"
+  "mnhNewsComponent": "Ar00715",
+  "uploaded by": "Rob Teare"
 }

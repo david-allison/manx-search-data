@@ -7,5 +7,6 @@
   "original": "Manx",
   "author": "C. C. Craine \u0026 M. Braide",
   "transcription": "R. Teare",
-  "source": " Ramsey Courier, Friday, August 04, 1939; Page: 3"
+  "source": " Ramsey Courier, Friday, August 04, 1939; Page: 3",
+  "uploaded by": "David Allison"
 }

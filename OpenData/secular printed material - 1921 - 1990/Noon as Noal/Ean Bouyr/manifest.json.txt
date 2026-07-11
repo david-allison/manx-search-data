@@ -9,5 +9,6 @@
   "type": "Folk Story / Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 26th March, 1977 "
+  "source": "Noon as Noal, Manx Star, Saturday, 26th March, 1977 ",
+  "uploaded by": "Rob Teare"
 }

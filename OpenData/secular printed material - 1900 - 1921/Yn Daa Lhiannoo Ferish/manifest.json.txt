@@ -9,5 +9,6 @@
   "type": "folk story",
   "transcription": "R. Teare",
   "translation": "S. Morrison",
-  "source": "Yn Daa Lhiannoo Ferish. Isle of Man Examiner, Saturday, December 30, 1905; Page: 8"
+  "source": "Yn Daa Lhiannoo Ferish. Isle of Man Examiner, Saturday, December 30, 1905; Page: 8",
+  "uploaded by": "Rob Teare"
 }

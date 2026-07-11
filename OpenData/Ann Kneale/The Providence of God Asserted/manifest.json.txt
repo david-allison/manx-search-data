@@ -4,5 +4,6 @@
   "name": "Lioar Ann Kneale: The Providence of God Asserted / Coontey jeh Ben ayns Saustin.",
   "notes": "(English originals of and) Manx Versions of Methodist Tracts, written by Ann Kneale, of Regaby (Andreas), 1829",
   "transcribed \u0026 translated": "Rob Teare \u0026 Max Wheeler 2021",
-  "source": "English: Wesleyan Methodist Magazine, vol. XXIX, 1806, 30-32\nLetter from John Pawson /  Manx; Manx Museum MS 002182A; Lioar Ann Kneale."
+  "source": "English: Wesleyan Methodist Magazine, vol. XXIX, 1806, 30-32\nLetter from John Pawson /  Manx; Manx Museum MS 002182A; Lioar Ann Kneale.",
+  "uploaded by": "Rob Teare"
 }

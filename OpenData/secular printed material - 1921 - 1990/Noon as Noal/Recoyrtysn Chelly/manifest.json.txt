@@ -9,5 +9,6 @@
   "type": "Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Manx Star, Saturday, 26th February, 1977 "
+  "source": "Noon as Noal, Manx Star, Manx Star, Saturday, 26th February, 1977 ",
+  "uploaded by": "David Allison"
 }

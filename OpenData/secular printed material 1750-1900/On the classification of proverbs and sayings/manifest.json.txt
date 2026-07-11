@@ -9,5 +9,6 @@
   "sourceDocument": {
     "url": "https://www.jstor.org/stable/1253677",
     "text": "JSTOR"
-  }
+  },
+  "uploaded by": "David Allison"
 }

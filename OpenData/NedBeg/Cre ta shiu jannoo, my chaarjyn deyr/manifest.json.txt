@@ -4,5 +4,6 @@
   "ident": "NedBegCreTaShiuJannooMyChaarjynDeyr",
   "name": "Cre ta shiu jannoo, my chaarjyn deyr",
   "original": "Manx",
-  "notes": "Written Between \n70. Arrane: Ta\u2019n Imbagh Arree Nish ec Kione (17.05.1899) \n76. Ean 16:27 (23.05.1899)"
+  "notes": "Written Between \n70. Arrane: Ta\u2019n Imbagh Arree Nish ec Kione (17.05.1899) \n76. Ean 16:27 (23.05.1899)",
+  "uploaded by": "David Allison"
 }

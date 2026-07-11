@@ -9,5 +9,6 @@
   "type": "Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Manx Star, Saturday, 21st May, 1977 \u2018Thomaase Mac Cristen\u2019 "
+  "source": "Manx Star, Saturday, 21st May, 1977 \u2018Thomaase Mac Cristen\u2019 ",
+  "uploaded by": "Rob Teare"
 }

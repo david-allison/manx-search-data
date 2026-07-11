@@ -7,5 +7,6 @@
   "author": "unknown",
   "transcription": "RT 2025",
   "source": "Mona\u0027ss Herald, Wednesday, January 08, 1873; Page: 5",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "Rob Teare"
 }

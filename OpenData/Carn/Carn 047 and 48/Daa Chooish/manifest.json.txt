@@ -6,5 +6,6 @@
   "author": "Colin y Jerree",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Double Issue - Carn 47 and 48 Autumn/Winter 1984/5 Double issue"
+  "notes": "Double Issue - Carn 47 and 48 Autumn/Winter 1984/5 Double issue",
+  "uploaded by": "David Allison"
 }

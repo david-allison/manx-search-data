@@ -6,5 +6,6 @@
   "notes": "A sermon given by Archdeacon John Kewley. \u201CINTERESTING GAELIC REVIVAL.\r\nThe service vas promoted by \u201CYn Cheshaght Gailckagh\u201D (Anglice, Manx Language Society) The service commenced with the singing to the traditional Psalm tune of the Manx version of the Old Hundredth, \u201CO ooilley shiuish fir-vaghee\u2019n theihll.\u201D[1] Mr H. P. Kelly, who acted as parish clerk for the nonce, announced the hymn and read out the first verse. ... The other hymns were:  \u201CO Yee cur skianyn credjue dou.\u201D[2] \u201CTa farrane ayn ta lhieent lesh fuill,\u201D[3] and \u201CTar shiuish, ta nish cumraagyn dou,\u201D[4] sung respectively to the following tunes, \u201CHensbury\u201D,  \u201CMartyrdom\u201D, and \u201CGrosvenor,\u201D\u201D\r\n[1] \u201CO, all you inhabitants of the world.\u201D \r\n[2] \u201CO, God give me wings of faith.\u201D\r\n[3] \u201CThere is a spring that is filled with blood\u201D\r\n[4] \u201CCome ye, who are now my companions\u201D \r\n ",
   "original": "Manx",
   "transcription": "R.Teare",
-  "source": "Isle of Man Examiner, Saturday, July 12, 1919; Page: 6"
+  "source": "Isle of Man Examiner, Saturday, July 12, 1919; Page: 6",
+  "uploaded by": "Rob Teare"
 }

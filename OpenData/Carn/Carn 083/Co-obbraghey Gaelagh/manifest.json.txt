@@ -6,5 +6,6 @@
   "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Orry Crennell",
-  "notes": "Autumn 1993 - Misprinted as Winter 1993"
+  "notes": "Autumn 1993 - Misprinted as Winter 1993",
+  "uploaded by": "David Allison"
 }

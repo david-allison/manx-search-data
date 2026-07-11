@@ -6,5 +6,6 @@
   "author": "Sean \u00D3 Quinn",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1981"
+  "notes": "Summer 1981",
+  "uploaded by": "David Allison"
 }

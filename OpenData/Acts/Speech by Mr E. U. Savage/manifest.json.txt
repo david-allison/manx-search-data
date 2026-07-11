@@ -6,5 +6,6 @@
   "original": "Manx",
   "author": "Mr E.U. Savage",
   "mnhNewsComponent": "Ar00800",
-  "source": "Speech by MR E.U. SAVAGE to the Liverpool Manx Society: Isle of Man Examiner, Saturday, February 16, 1901; Page: 8"
+  "source": "Speech by MR E.U. SAVAGE to the Liverpool Manx Society: Isle of Man Examiner, Saturday, February 16, 1901; Page: 8",
+  "uploaded by": "Rob Teare"
 }

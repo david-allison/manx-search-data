@@ -6,5 +6,6 @@
   "author": "Edward Corkill",
   "original": "Manx",
   "source": "Mona\u0027s Herald, Saturday, March 16, 1867; Page: 3",
-  "mnhNewsComponent": "Ar00308"
+  "mnhNewsComponent": "Ar00308",
+  "uploaded by": "David Allison"
 }

@@ -5,5 +5,6 @@
   "author": "YAMYS MYLVAANTYN.",
   "original": "Manx",
   "type": "Story",
-  "source": "Isle of Man Examiner, Saturday, January 07, 1899; Page: 6"
+  "source": "Isle of Man Examiner, Saturday, January 07, 1899; Page: 6",
+  "uploaded by": "Rob Teare"
 }
