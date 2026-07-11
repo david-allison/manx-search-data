@@ -5,5 +5,7 @@
   "notes": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
   "source": "Manks Advertiser, Saturday, May 14. 1803; Page 7",
   "original": "English",
-  "mnhNewsComponent": "Ar00707"
+  "mnhNewsComponent": "Ar00707",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

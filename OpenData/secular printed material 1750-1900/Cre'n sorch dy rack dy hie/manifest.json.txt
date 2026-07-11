@@ -7,5 +7,6 @@
   "original": "Manx",
   "type": "Poem",
   "source": "Mona\u0027s Herald, Wednesday, August 19, 1868; Page: 3",
-  "mnhNewsComponent": "Ar00305"
+  "mnhNewsComponent": "Ar00305",
+  "uploaded by": "Rob Teare"
 }

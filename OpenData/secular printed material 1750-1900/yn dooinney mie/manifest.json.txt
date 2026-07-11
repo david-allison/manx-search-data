@@ -6,5 +6,7 @@
   "translated": "Rob Teare 2021",
   "source": "Manks Advertiser, Thursday, March 09, 1826; Page: 4",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00409"
+  "mnhNewsComponent": "Ar00409",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

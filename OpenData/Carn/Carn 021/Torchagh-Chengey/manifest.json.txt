@@ -6,5 +6,6 @@
   "author": "Brian y Stoyll",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1978 Special Poetry Issue"
+  "notes": "Spring 1978 Special Poetry Issue",
+  "uploaded by": "David Allison"
 }

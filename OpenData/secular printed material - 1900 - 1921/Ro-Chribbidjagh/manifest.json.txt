@@ -4,5 +4,6 @@
   "name": "Ro-Aashagh Ooilley-Cooidjagh (7 April 1900)",
   "notes": "a humorous bilingual vignette",
   "original": "Bilingual",
-  "source": "Isle of Man Examiner, Saturday, April 7, 1900; Page: 2"
+  "source": "Isle of Man Examiner, Saturday, April 7, 1900; Page: 2",
+  "uploaded by": "Rob Teare"
 }

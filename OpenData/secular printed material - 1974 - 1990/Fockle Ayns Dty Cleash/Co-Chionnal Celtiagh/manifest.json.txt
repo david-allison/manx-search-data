@@ -8,5 +8,6 @@
   "notes": "Letter from Edinburgh.",
   "transcription": "Rob Teare",
   "translation": "Rob Teare",
-  "source": "Manx Star, 26th April, 1975. Page 6. Fockle Ayns Dy Cleash."
+  "source": "Manx Star, 26th April, 1975. Page 6. Fockle Ayns Dy Cleash.",
+  "uploaded by": "David Allison"
 }

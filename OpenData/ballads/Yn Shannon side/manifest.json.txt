@@ -6,5 +6,6 @@
   "source": "Lioar Chlugaaish;  MS.00263.A. Circa 1850",
   "type": "Bannag",
   "original": "Manx",
-  "iMuseum": "MS.00263.A"
+  "iMuseum": "MS.00263.A",
+  "uploaded by": "Rob Teare"
 }

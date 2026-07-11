@@ -5,5 +5,7 @@
   "notes": "Transcription \u0026 Translation; R. Teare",
   "source": "Manks Advertiser, Thursday, December 13, 1821; Page: 2",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00203"
+  "mnhNewsComponent": "Ar00203",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

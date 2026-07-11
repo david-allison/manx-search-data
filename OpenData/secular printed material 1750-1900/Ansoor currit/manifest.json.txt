@@ -3,5 +3,6 @@
   "ident": "Ansoor-gys-y-screeuyn-currit-magh-mastey-sleih-Ghoolish",
   "name": "Ansoor gys y screeuyn currit magh mastey sleih Ghoolish, as cummaltee Vannin, fo\u2019n ennym Mannanagh, as Carrey da e Heer.",
   "original": "Unknown",
-  "author": "Charles Small"
+  "author": "Charles Small",
+  "uploaded by": "Rob Teare"
 }

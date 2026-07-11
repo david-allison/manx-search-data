@@ -10,5 +10,6 @@
   "mnhNewsComponent": "Ar00810",
   "transcription": "R. Teare",
   "source": "Yn Shag As Y Chraitnag. Isle of Man Examiner, Saturday, November 03, 1900; Page: 8",
-  "englishSource": "translation from \u0027THE CORMORANT AND THE BAT\u0027. Isle of Man Examiner, Saturday, November 10, 1900; Page: 8"
+  "englishSource": "translation from \u0027THE CORMORANT AND THE BAT\u0027. Isle of Man Examiner, Saturday, November 10, 1900; Page: 8",
+  "uploaded by": "Rob Teare"
 }

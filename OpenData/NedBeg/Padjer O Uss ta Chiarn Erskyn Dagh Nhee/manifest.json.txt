@@ -2,5 +2,6 @@
   "created": "1899-10-20",
   "ident": "NedBegOUssTaChiarnErskynDaghNhee",
   "name": "Padjer ayns Gaelg: O Uss ta \u00C7hiarn Erskyn Dagh Nhee",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

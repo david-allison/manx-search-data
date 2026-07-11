@@ -6,5 +6,6 @@
   "author": "Brian y Stoyll",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1977/8"
+  "notes": "Winter 1977/8",
+  "uploaded by": "David Allison"
 }

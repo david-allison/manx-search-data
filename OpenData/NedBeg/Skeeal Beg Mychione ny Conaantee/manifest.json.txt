@@ -3,5 +3,6 @@
   "createdCircaEnd": "1899-06-20",
   "ident": "NedBeg-Skeeal-Beg-Mychione-ny-Conaantee",
   "name": "Skeeal Beg Mychione ny Conaantee",
-  "notes": "Written Between\n96.     Gow Shiu Boggey ayns yn \u00C7hiarn. (14.06.1899)\n98.     Nee\u2019m freayll arrey. (20.06.1899)"
+  "notes": "Written Between\n96.     Gow Shiu Boggey ayns yn \u00C7hiarn. (14.06.1899)\n98.     Nee\u2019m freayll arrey. (20.06.1899)",
+  "uploaded by": "David Allison"
 }

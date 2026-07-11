@@ -5,5 +5,6 @@
   "name": "Carn 039: Sheeloghe Noa ny Manninee",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1982"
+  "notes": "Autumn 1982",
+  "uploaded by": "David Allison"
 }

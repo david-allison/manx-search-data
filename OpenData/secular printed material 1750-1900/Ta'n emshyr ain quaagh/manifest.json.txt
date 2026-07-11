@@ -6,5 +6,6 @@
   "type": "Poem",
   "original": "Manx",
   "source": "Isle of Man Examiner, Saturday, October 11, 1884; Page: 5",
-  "mnhNewsComponent": "Ar00510"
+  "mnhNewsComponent": "Ar00510",
+  "uploaded by": "David Allison"
 }

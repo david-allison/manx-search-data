@@ -8,5 +8,6 @@
   "type": "Letter",
   "author": "GILBERT D. SUTHERLAND",
   "transcription": "R.Teare",
-  "source": "Manxman, Saturday, September 11, 1897; Page: 34"
+  "source": "Manxman, Saturday, September 11, 1897; Page: 34",
+  "uploaded by": "Rob Teare"
 }

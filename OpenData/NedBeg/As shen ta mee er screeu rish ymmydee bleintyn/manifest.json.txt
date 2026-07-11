@@ -2,5 +2,7 @@
   "created": "1899-03-08",
   "ident": "NedBeg-As-shen-ta-mee-er-screeu-rish-ymmydee-bleintyn",
   "name": "As shen ta mee er screeu rish ymmydee bleintyn.",
-  "original": "Manx"
+  "original": "Manx",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "David Allison"
 }

@@ -5,5 +5,7 @@
   "notes": "Conversation between two Manxmen",
   "source": "Mona\u0027s Herald, Friday, December 27, 1833; Page: 3",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00301"
+  "mnhNewsComponent": "Ar00301",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

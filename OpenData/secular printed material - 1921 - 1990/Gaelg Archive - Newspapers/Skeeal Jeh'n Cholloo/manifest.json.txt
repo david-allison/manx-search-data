@@ -7,5 +7,6 @@
   "author": "Sean Tomas; Leisle O\u0027Cuirc",
   "original": "Manx",
   "transcription": "Phil Kelly",
-  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html"
+  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ4.html",
+  "uploaded by": "David Allison"
 }

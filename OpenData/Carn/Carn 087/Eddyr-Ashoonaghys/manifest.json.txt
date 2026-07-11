@@ -6,5 +6,6 @@
   "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Orree Crennell",
-  "notes": "Autumn 1994"
+  "notes": "Autumn 1994",
+  "uploaded by": "David Allison"
 }

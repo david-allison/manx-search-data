@@ -6,5 +6,6 @@
   "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Brian y Stoyll",
-  "notes": "Winter 1984 Special CL New Ireland Forum Submission"
+  "notes": "Winter 1984 Special CL New Ireland Forum Submission",
+  "uploaded by": "David Allison"
 }

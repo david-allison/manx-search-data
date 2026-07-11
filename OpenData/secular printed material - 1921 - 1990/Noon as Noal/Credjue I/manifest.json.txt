@@ -10,5 +10,6 @@
   "transcription": "R. Teare",
   "translation": "N/A",
   "iMuseum": "MS H140/L/STOF",
-  "source": "MS H140/L/STOF Credjue Earoo Nane"
+  "source": "MS H140/L/STOF Credjue Earoo Nane",
+  "uploaded by": "Rob Teare"
 }

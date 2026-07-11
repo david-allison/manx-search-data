@@ -4,5 +4,6 @@
   "ident": "NedBegTaYeeseyGraYnseeShiuJeems",
   "name": "Ta Yeesey Gra \u201CYnsee Shiu Jeem\u2019s\u201D",
   "original": "Manx",
-  "notes": "Written Between \n89. Jean credjal ayns yn \u00C7hiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)\n91. Lhig da\u2019n soilshey eu soilshean (10.06.1899)"
+  "notes": "Written Between \n89. Jean credjal ayns yn \u00C7hiarn Yeesey Chreest as bee oo er dty hauaill (05.06.1899)\n91. Lhig da\u2019n soilshey eu soilshean (10.06.1899)",
+  "uploaded by": "David Allison"
 }

@@ -10,5 +10,6 @@
   "type": "culinary",
   "transcription": "R. Teare",
   "source": "\u0027Manx Dishes\u0027 in THE MANX COOKERY BOOK \u2014 ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND. Sherratt \u0026 Hughes, Manchester \u0026 London, 1908. Pages: 172-203",
-  "englishSource": "\u0027Manx Dishes\u0027 in THE MANX COOKERY BOOK \u2014 ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND. Sherratt \u0026 Hughes, Manchester \u0026 London, 1908. Pages: 172-203, with some additions in square brackets by R. Teare (2024)"
+  "englishSource": "\u0027Manx Dishes\u0027 in THE MANX COOKERY BOOK \u2014 ISSUED IN AID OF THE PEEL CHURCH SPIRE REBUILDING FUND. Sherratt \u0026 Hughes, Manchester \u0026 London, 1908. Pages: 172-203, with some additions in square brackets by R. Teare (2024)",
+  "uploaded by": "Rob Teare"
 }

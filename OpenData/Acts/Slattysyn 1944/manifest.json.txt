@@ -6,5 +6,6 @@
   "Transcribed": "RT",
   "original": "English",
   "iMuseum": "MS D200",
-  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1944."
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1944.",
+  "uploaded by": "Rob Teare"
 }

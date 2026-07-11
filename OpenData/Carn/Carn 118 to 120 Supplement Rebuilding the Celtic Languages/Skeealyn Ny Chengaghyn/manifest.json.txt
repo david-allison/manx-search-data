@@ -6,5 +6,6 @@
   "author": "Brian Stowell",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Carn 118 to 120 Supplement Rebuilding the Celtic Languages"
+  "notes": "Carn 118 to 120 Supplement Rebuilding the Celtic Languages",
+  "uploaded by": "David Allison"
 }

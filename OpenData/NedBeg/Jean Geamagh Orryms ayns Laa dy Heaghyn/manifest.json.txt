@@ -1,5 +1,6 @@
 {
   "created": "1899-07-17",
   "ident": "NedBegJeanGeamaghOrrymsAynsLaaDyHeaghyn",
-  "name": "Jean Geamagh Orrym\u2019s ayns Laa dy Heaghyn"
+  "name": "Jean Geamagh Orrym\u2019s ayns Laa dy Heaghyn",
+  "uploaded by": "David Allison"
 }

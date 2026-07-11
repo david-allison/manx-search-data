@@ -9,5 +9,6 @@
   "type": "Biographical. Political.",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal,Manx Star, 14th May, 197 "
+  "source": "Noon as Noal,Manx Star, 14th May, 197 ",
+  "uploaded by": "Rob Teare"
 }

@@ -6,5 +6,6 @@
   "author": "Manninagh Dooie. Translation; A Countryman.",
   "type": "Letter",
   "original": "Manx",
-  "source": "Mona\u0027s Herald, Wednesday, December 30, 1846; Page: 3 English Translation; Mona\u0027s Herald, Wednesday, January 20, 1847; Page: 3"
+  "source": "Mona\u0027s Herald, Wednesday, December 30, 1846; Page: 3 English Translation; Mona\u0027s Herald, Wednesday, January 20, 1847; Page: 3",
+  "uploaded by": "Rob Teare"
 }

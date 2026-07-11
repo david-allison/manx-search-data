@@ -6,5 +6,6 @@
   "author": "Colin y Jerree",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": " Winter 1991/2 30th year Special with supplement"
+  "notes": " Winter 1991/2 30th year Special with supplement",
+  "uploaded by": "David Allison"
 }

@@ -9,5 +9,6 @@
   "type": "Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 9th April, 1977  "
+  "source": "Noon as Noal, Manx Star, Saturday, 9th April, 1977  ",
+  "uploaded by": "Rob Teare"
 }

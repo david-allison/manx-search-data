@@ -7,5 +7,7 @@
   "source": "Manks Advertiser, Thursday, March 28, 1816; Page: 3 corrected: Manks Advertiser, Thursday, April 04, 1816; Page: 3",
   "mnhNewsComponent": "Ar00317",
   "original": "Manx",
-  "additionalSource": "Ar00322"
+  "additionalSource": "Ar00322",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

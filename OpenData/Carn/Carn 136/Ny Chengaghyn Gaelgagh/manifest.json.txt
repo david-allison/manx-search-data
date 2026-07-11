@@ -6,5 +6,6 @@
   "author": "Brian Stowell",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 2006/7"
+  "notes": "Winter 2006/7",
+  "uploaded by": "David Allison"
 }

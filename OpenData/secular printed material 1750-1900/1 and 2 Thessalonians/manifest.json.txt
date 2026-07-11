@@ -6,5 +6,6 @@
   "source": "MS 5690C",
   "author": "Daniel Gelling, Vicar of Malew",
   "original": "English",
-  "transcribed": "Christopher Lewin"
+  "transcribed": "Christopher Lewin",
+  "uploaded by": "David Allison"
 }

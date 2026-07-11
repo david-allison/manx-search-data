@@ -9,5 +9,6 @@
   "type": "folk story",
   "transcription": "R. Teare",
   "translation": "S. Morrison, ed. R. Teare",
-  "source": "YN DOSSAN AALIN DY SMEIR-GHOO Isle of Man Examiner, Saturday, September 01, 1906; Page: 8"
+  "source": "YN DOSSAN AALIN DY SMEIR-GHOO Isle of Man Examiner, Saturday, September 01, 1906; Page: 8",
+  "uploaded by": "Rob Teare"
 }

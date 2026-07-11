@@ -15,5 +15,6 @@
   },
   "English Source": "Homily III.  A sermon of the salvation of mankind [Thomas Cranmer]. in; \u2018Sermons, or Homilies, appointed to be read in Churches ...\u2019 1810 \u0026 1817. Prayer Book and Homily Society. London.",
   "googleBooksId": "8vgd1dik_KkC",
-  "Transcription": "Max Wheeler 2021"
+  "Transcription": "Max Wheeler 2021",
+  "uploaded by": "David Allison"
 }

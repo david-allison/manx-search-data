@@ -6,5 +6,6 @@
   "Transcribed by": "RT",
   "original": "English",
   "iMuseum": "MS D200",
-  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on June 5th 1902."
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on June 5th 1902.",
+  "uploaded by": "Rob Teare"
 }

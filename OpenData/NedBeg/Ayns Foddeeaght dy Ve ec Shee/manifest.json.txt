@@ -4,5 +4,6 @@
   "ident": "nedbegAynsFoddeeaghtdyVeecShee",
   "name": "Ayns Foddeeaght dy Ve ec Shee",
   "original": "Manx",
-  "notes": "Written Between\n120.     Yn Nollick (10.12.1899)\n122.     Dy Bragh Marish yn \u00C7hiarn. (14.01.1900)"
+  "notes": "Written Between\n120.     Yn Nollick (10.12.1899)\n122.     Dy Bragh Marish yn \u00C7hiarn. (14.01.1900)",
+  "uploaded by": "Rob Teare"
 }

@@ -9,5 +9,6 @@
   "translation": "R. Teare",
   "original": "Manx",
   "type": "Carval",
-  "source": "Mona\u0027s Herald, Wednesday, December 24, 1873; Page: 7 \u0026 Mona\u0027s Herald, Thursday, January 01, 1874; Page: 15"
+  "source": "Mona\u0027s Herald, Wednesday, December 24, 1873; Page: 7 \u0026 Mona\u0027s Herald, Thursday, January 01, 1874; Page: 15",
+  "uploaded by": "Rob Teare"
 }

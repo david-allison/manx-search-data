@@ -8,5 +8,6 @@
   "notes": "References A.S.B. Davies; \u0027Juan Doo Shiaulteyr as Dad Skeeal Elley.\u0027 Castletown Press. Douglas. 1954.",
   "Transcription": "RT",
   "Translation": "RT",
-  "source": "Manx Star, 22th March, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "source": "Manx Star, 22th March, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "uploaded by": "Rob Teare"
 }

@@ -10,5 +10,6 @@
   "type": "Tract",
   "translated": "Rob Teare 2021",
   "source": "Manx Museum H.140/I",
-  "corupusSource": "Ard-firrinysyn (2)_MW.docx"
+  "corupusSource": "Ard-firrinysyn (2)_MW.docx",
+  "uploaded by": "David Allison"
 }

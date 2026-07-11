@@ -9,5 +9,6 @@
   "type": "folklore",
   "transcription": "R. Teare",
   "translation": "Author, with some additions in square brackets by R. Teare (2025)",
-  "source": "Isle of Man Examiner, Saturday, July 08, 1905; Page: 8 / Isle of Man Examiner, Saturday, July 29, 1905; Page: 8"
+  "source": "Isle of Man Examiner, Saturday, July 08, 1905; Page: 8 / Isle of Man Examiner, Saturday, July 29, 1905; Page: 8",
+  "uploaded by": "Rob Teare"
 }

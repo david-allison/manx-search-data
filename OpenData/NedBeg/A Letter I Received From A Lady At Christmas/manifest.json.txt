@@ -4,5 +4,6 @@
   "ident": "NedBeg-A-Letter-I-Received-From-A-Lady-At-Christmas",
   "name": "A Letter I Received From A Lady At Christmas",
   "original": "English",
-  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907"
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907",
+  "uploaded by": "David Allison"
 }

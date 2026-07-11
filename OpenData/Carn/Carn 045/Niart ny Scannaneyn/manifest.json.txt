@@ -6,5 +6,6 @@
   "author": "Brian y Stoyll",
   "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1984"
+  "notes": "Spring 1984",
+  "uploaded by": "David Allison"
 }
