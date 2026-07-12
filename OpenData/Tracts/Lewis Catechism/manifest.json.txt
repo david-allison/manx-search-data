@@ -9,5 +9,9 @@
   "type": "Tract",
   "source": "Lewis\u2019s Catechism in Manx Gaelic (1769)/John Lewis\u2019s The Church Catechism Explained (30th Edition)",
   "corupusSource": "Lewis Catechism B as G.docx",
-  "uploaded by": "David Allison"
+  "uploaded by": "David Allison",
+  "inlineSpeakerCodes": [
+    "Q",
+    "A"
+  ]
 }
