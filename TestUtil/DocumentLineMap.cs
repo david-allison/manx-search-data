@@ -15,6 +15,8 @@ namespace Manx_Search_Data.TestUtil
             Map(m => m.SubEnd).Optional();
             Map(m => m.Speaker).Optional();
             Map(m => m.Notes).Optional();
+            // a bare "Language" header would not say which column it describes
+            Map(m => m.Language).Name("ManxColumnLanguage").Optional();
         }
     }
 }

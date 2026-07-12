@@ -43,6 +43,13 @@ namespace Manx_Search_Data.TestUtil
         
         public string Original { get; set; }
 
+        /// <summary>
+        /// Speaker codes which may prefix the collection's Manx cells as `CODE.` / `CODE:`
+        /// markers (e.g. ["NM", "WR"] in interview transcriptions). Moved into
+        /// <see cref="DocumentLine.Speaker"/> at load time: see <see cref="DocumentLinePreparer"/>.
+        /// </summary>
+        public List<string> InlineSpeakerCodes { get; set; }
+
         internal abstract List<DocumentLine> LoadLocalFile();
         internal abstract List<string> LoadHeaders();
 
