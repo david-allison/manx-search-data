@@ -1,0 +1,38 @@
+# Human-skim decisions applied on top of the seed_language.py heuristic.
+# Columns: path (relative to OpenData) <TAB> 1-based CSV row <TAB> value <TAB> note
+# An empty value suppresses a false positive; a value forces that language.
+#
+# Ann Kneale documents contain blocks where the columns are swapped (the Manx
+# column holds English verse and vice versa). The heuristic misses the short
+# lines; these rows complete those blocks.
+Ann Kneale/A remarkable Conversion/document.csv	31	en	swapped columns: English verse in Manx column
+Ann Kneale/A remarkable Conversion/document.csv	32	en	swapped columns: English verse in Manx column
+Ann Kneale/A remarkable Conversion/document.csv	38	en	swapped columns: English verse in Manx column
+Ann Kneale/A remarkable Conversion/document.csv	39	en	swapped columns: English verse in Manx column
+Ann Kneale/Anecdote on Family Religion/document.csv	38	en	swapped columns: English verse in Manx column
+Ann Kneale/Anecdote on Family Religion/document.csv	40	en	swapped columns: English verse in Manx column
+Ann Kneale/Anecdote on Family Religion/document.csv	49	en	swapped columns: English verse in Manx column
+Ann Kneale/Rev. J. Godwin’s Remarkable Account/document.csv	21	en	swapped columns: English verse in Manx column
+Ann Kneale/Rev. J. Godwin’s Remarkable Account/document.csv	23	en	swapped columns: English verse in Manx column
+Ann Kneale/Rev. J. Godwin’s Remarkable Account/document.csv	31	en	swapped columns: English verse in Manx column
+Ann Kneale/The Beneficial Effect of Sunday Schools/document.csv	22	en	swapped columns: English verse in Manx column
+Ann Kneale/The Beneficial Effect of Sunday Schools/document.csv	34	en	swapped columns: English verse in Manx column
+Ann Kneale/The Providence of God Asserted/document.csv	35	en	swapped columns: English verse in Manx column
+Ann Kneale/The Providence of God Asserted/document.csv	39	en	swapped columns: English verse in Manx column
+Ann Kneale/The Providence of God Asserted/document.csv	46	en	swapped columns: English verse in Manx column
+# Code-switching rows which are genuinely half Manx, half English.
+# In the UOSH transcripts, 'en' is only for entirely English lines: a line
+# containing any Manx utterance (even one word, or a cited Manx form) is 'mixed'.
+# Manx place names used within an English sentence do not count as Manx.
+secular printed material - 1900 - 1921/Imbagh Boggoil (Old Version)/document.csv	5	mixed	"And your cellar lane lhune mie."
+secular printed material - 1900 - 1921/Imbagh Boggoil (Old Version)/document.csv	10	mixed	"Foddey vod shiu bio, and happy may you be,"
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	192	mixed	"Aye Cristeen is the Manx, he was Christian." - cites the Manx form
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	244	mixed	"Va. He had evil in his hand..." - opens in Manx
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	260	mixed	"Va, Hugh, Hughes-Games then..." - opens in Manx
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	481	mixed	"She. Cur ad in, in, in, in, in a row like, in a row."
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	538	mixed	"Sneeu. Magher, Magher Sneeu is it?"
+Video/YouTube/UOSH/HOYFM SA0005/document.csv	542	mixed	"Magher Sniaghtee, [coughs] well there's another..." - opens with the cited Manx name
+secular printed material - 1921 - 1990/Noon as Noal/Pooar veih - 4/document.csv	29	mixed	English quotation with Manx attribution "as eshyn"
+# 16th-century phonetic Manx (scores English on "do"/"is"/"in")
+secular printed material - 1974 - 1990/Fockle Ayns Dty Cleash/Feailley Houney/document.csv	11		phonetic Manx, not English
+secular printed material - 1974 - 1990/Fockle Ayns Dty Cleash/Feailley Houney/document.csv	21		phonetic Manx, not English
