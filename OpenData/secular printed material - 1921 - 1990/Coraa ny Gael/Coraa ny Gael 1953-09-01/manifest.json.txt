@@ -10,5 +10,5 @@
   "transcription": "R. Teare",
   "translation": "R. Teare",
   "source": "\u0027Coraa ny Gael\u0027, Mona\u0027s Herald, Tuesday, September 01, 1953; Page: 8",
-  "proofread by": "Jane I"
+  "proofread by": "Janeishly"
 }

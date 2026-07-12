@@ -10,6 +10,6 @@
   "transcription": "R. Teare",
   "translation": "R. Teare",
   "source": "\u0027Coraa ny Gael\u0027, Mona\u0027s Herald, Tuesday, June 15, 1954; Page: 5",
-  "proofread by": "Jane I",
+  "proofread by": "Janeishly",
   "uploaded by": "Rob Teare"
 }
