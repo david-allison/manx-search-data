@@ -7,5 +7,8 @@
   "author": "Daniel Gelling, Vicar of Malew",
   "original": "English",
   "transcribed": "Christopher Lewin",
-  "uploaded by": "David Allison"
+  "uploaded by": "David Allison",
+  "inlineReferences": [
+    "bracketed-citation"
+  ]
 }

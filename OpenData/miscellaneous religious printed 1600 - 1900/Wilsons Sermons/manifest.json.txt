@@ -10,5 +10,8 @@
     "url": "https://www.google.im/books/edition/Sharmaneyn_Lioar_1/t4QEAAAAQAAJ?hl=en\u0026gbpv=1\u0026dq=sharmaneyn%20lioar\u0026pg=PA1\u0026printsec=frontcover",
     "text": "Sharmaneyn liorish Thomase Wilson, D.D., chiarn aspick Sodor as Vannin dy kiaralagh chydait veih Bayrle gys Gailck lioar 1"
   },
-  "uploaded by": "David Allison"
+  "uploaded by": "David Allison",
+  "inlineReferences": [
+    "bracketed-number"
+  ]
 }
