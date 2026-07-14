@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2024-01-01",
+  "createdCircaEnd": "2024-12-31",
+  "ident": "manx-language-strategy-2022-2032-year-2-report",
+  "name": "Manx Language Strategy 2022-2032: Year 2 Report",
+  "author": "Jeebin, Manx Language Network",
+  "original": "English",
+  "notes": "Bilingual Year 2 report on the 2022-2032 Manx Language Strategy, prepared by Jeebin, the Manx Language Network, covering four strategic themes (resources; national and cultural identity; the Manx speaking community; lifelong learning) and a conclusion. One sentence about conference attendance (Celtic Knot conference, Waterford; Scottish language forum, Belfast) has no Manx translation in the original.",
+  "source": "Manx Language Strategy 2022-2032: Year 2 Report, Jeebin, Manx Language Network.",
+  "uploaded by": "David Allison"
+}
