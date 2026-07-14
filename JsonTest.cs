@@ -62,6 +62,6 @@ public class JsonTest
         // This modifies files in the test dir, not under source control.
         // Copy them over if you want to replace
         // File.WriteAllText(path, output);
-        Assert.AreEqual(input, output);
+        Assert.AreEqual(output, input);
     }
 }
