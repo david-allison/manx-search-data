@@ -14,5 +14,14 @@
   "source": "https://www.youtube.com/watch?v=Ta__gjILa8s",
   "sourceSHA1": "c6cdbc6dddee0742c4e95f21b1686024e48cac4a  HOYFM_SA0009_s1_f1_v1.mp3",
   "duration": "31:31",
-  "uploaded by": "David Allison"
+  "uploaded by": "David Allison",
+  "inlineRecordingEvents": [
+    "laughs",
+    "coughs",
+    "giggles",
+    "sniffs",
+    "belch",
+    "cough",
+    "clock chimes"
+  ]
 }
