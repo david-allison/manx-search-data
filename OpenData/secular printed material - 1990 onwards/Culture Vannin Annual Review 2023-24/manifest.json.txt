@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2024-01-01",
+  "createdCircaEnd": "2024-12-31",
+  "ident": "culture-vannin-annual-review-2023-24",
+  "name": "Culture Vannin Annual Review 2023-2024",
+  "author": "Culture Vannin",
+  "original": "English",
+  "notes": "Bilingual text of the Culture Vannin Annual Review for the 2023-24 financial year (April 2023 to March 2024): the title page, contents, the Chair\u0027s statement by Hon Chris Thomas MHK, who we are and what we do, celebrating our community\u0027s voices, development work and grant highlights, the Gaelic Broadcasting Committee\u0027s annual report, and the award of the Reih Bleeaney Vanannan to Adrian Corkill. Where the original\u0027s two columns drift a sentence out of step, the sentences have been re-paired so that each row matches; those rows are marked in \u0027Notes\u0027.",
+  "source": "Culture Vannin Annual Review 2023-2024, Culture Vannin, St John\u0027s, Isle of Man. https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}
