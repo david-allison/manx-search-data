@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2024-10-10",
+  "createdCircaEnd": "2024-12-31",
+  "ident": "nifty-fox-scribe-folk-arts-and-cultural-policy",
+  "name": "Nifty Fox Scribe - Folk Arts and Cultural Policy",
+  "author": "Paul Rogers",
+  "original": "English",
+  "notes": "Manx translation of the text on the illustrated scribe boards recording the event \u0027Folk Arts and Cultural Policy in the UK\u0027s Nations \u002B Regions and the Isle of Man\u0027, held on Thursday 10 October 2024. Bullet markers are dropped and each bullet given its own row. \u0027Cover\u0027 and \u0027Image 1\u0027 to \u0027Image 4\u0027 are the source\u0027s own board labels, marked in \u0027Notes\u0027.",
+  "source": "Nifty Fox Scribe Translation Source (English), \u0027Folk Arts and Cultural Policy in the UK\u0027s Nations \u002B Regions and the Isle of Man\u0027, Thursday 10 October 2024.",
+  "uploaded by": "David Allison"
+}
