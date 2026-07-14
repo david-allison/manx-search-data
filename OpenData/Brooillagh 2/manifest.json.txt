@@ -1,0 +1,12 @@
+{
+  "created": "2026-07-14",
+  "ident": "Brooillagh",
+  "name": "Brooillagh - Manx words and phrases within English text",
+  "English name": "Brooillagh - Manx words and phrases within English text",
+  "Original": "English",
+  "notes": "A collection of Manx words and phrases found within English text that do not warrant individual documents. The earliest example is from 1794.",
+  "original": "English",
+  "transcription": "RT",
+  "translation": "Source material / RT",
+  "source": "Sources for each entry are given in the notes. Sources and dates are given in the notes. M.A. is The Manks Advertiser, M.S. is The Manx Sun, M.H. is Mona\u0027s Herald, IoMT is Isle of Man Times, IomE is Isle of Man Examiner."
+}
