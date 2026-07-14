@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2022-01-01",
+  "createdCircaEnd": "2022-12-31",
+  "ident": "culture-vannin-annual-report-2021-22",
+  "name": "Culture Vannin Annual Report 2021-2022",
+  "author": "Culture Vannin",
+  "original": "English",
+  "notes": "Bilingual extracts from the Culture Vannin Annual Report for the 2021-22 financial year: the Chair\u0027s statement (Smooinaghtyn veih\u0027n Chaairliagh ain) by Chris Thomas MHK, the 40th anniversary of the Manx Heritage Foundation Act, development work highlights, grant highlights including the 40th anniversary grants scheme, the Gaelic Broadcasting Committee\u0027s annual report, and the award of the Reih Bleeaney Vanannan to Nigel Crowe.",
+  "source": "Culture Vannin Annual Report 2021-2022, Culture Vannin, St John\u0027s, Isle of Man. https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}
