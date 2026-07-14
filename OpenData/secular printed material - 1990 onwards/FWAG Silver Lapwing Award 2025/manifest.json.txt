@@ -1,0 +1,12 @@
+{
+  "createdCircaStart": "2025-06-18",
+  "createdCircaEnd": "2025-06-18",
+  "ident": "fwag-silver-lapwing-award-2025",
+  "name": "FWAG Association 46th Silver Lapwing Award 2025",
+  "author": "FWAG Association",
+  "translated by": "Paul Rogers",
+  "original": "English",
+  "notes": "Bilingual programme for the 46th Silver Lapwing Award, presented by the FWAG Association at Ballagawne Farm, Ballabeg, Isle of Man on 18 June 2025. Introduces hosts and 2024 winners David and Rob Cooil of Ballagawne Farm, includes a welcome from Chair Chris Butler, profiles the five 2025 finalists (Andrew Bott of Finches Farm, Joe and Rachel Horler of Maundrils Farm, Nicholas Whatt of Vine House Farm, Simon and Claire Bainbridge of Donkin Rigg, and John Billington of Kemsey Manor), and thanks sponsors Frontier and Land App.",
+  "source": "46th Silver Lapwing Award programme, FWAG Association, Ballagawne Farm, Ballabeg, Isle of Man, 18 June 2025. https://www.fwag.org.uk",
+  "uploaded by": "David Allison"
+}
