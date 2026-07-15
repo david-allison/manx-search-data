@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2023-01-01",
+  "createdCircaEnd": "2023-12-31",
+  "ident": "strateysh-son-y-ghaelg-coontey-yn-chied-vlein",
+  "name": "Strateysh son y Ghaelg: Coontey yn Chied Vlein 2022-2032",
+  "author": "Jeebin (Manx Language Network)",
+  "original": "English",
+  "notes": "Bilingual interim report on the first year of the second joint Manx Language Strategy (2022-2032), prepared by Jeebin (the Manx Language Network). Covers the four strategy themes - appropriate and accessible resources; Manx as an important part of national and cultural identity; Manx for the Manx speaking community; and lifelong learning of the Manx language - with progression and future work reported for Bunscoill Ghaelgagh, Mooinjer Veggey, Culture Vannin, Yn Skimmee Gaelgagh, Possan Ronsee Gaelgagh, Manx National Heritage and the Gaelic Broadcasting Committee.",
+  "source": "Strateysh son y Ghaelg: Coontey yn Chied Vlein 2022-2032, prepared by Jeebin (Manx Language Network). https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}
