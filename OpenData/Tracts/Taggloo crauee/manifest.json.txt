@@ -14,9 +14,5 @@
   ],
   "source": "Taggloo Crauee eddyr Bochil Anmey as Fer jeh e Hioltane/Three Dialogues between a Minister and one of his Parishioners (20th edition)",
   "corpusSource": "Taggloo crauee B as G_final.docx",
-  "uploaded by": "David Allison",
-  "inlineSpeakerCodes": [
-    "B",
-    "F"
-  ]
+  "uploaded by": "David Allison"
 }
