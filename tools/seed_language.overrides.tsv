@@ -36,3 +36,6 @@ secular printed material - 1921 - 1990/Noon as Noal/Pooar veih - 4/document.csv	
 # 16th-century phonetic Manx (scores English on "do"/"is"/"in")
 secular printed material - 1974 - 1990/Fockle Ayns Dty Cleash/Feailley Houney/document.csv	11		phonetic Manx, not English
 secular printed material - 1974 - 1990/Fockle Ayns Dty Cleash/Feailley Houney/document.csv	21		phonetic Manx, not English
+# English rows the heuristic misses (too short / no function words)
+NedBeg/Skeealyn Ferrish/document.csv	6	en	"One Mary one." - refrain of the quoted English song
+NedBeg/Skeealyn Ferrish/document.csv	8	en	"One Mary one.”" - refrain of the quoted English song
