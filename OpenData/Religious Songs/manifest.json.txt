@@ -2,7 +2,7 @@
   "created": "1880-12-22",
   "ident": "Pass-under-the-rod",
   "name": "Pass under the rod",
-  "notes": "Free translation of Mary S. B. Dana\u0027s \u0027Pass Under the Rod. Sacred Song.\u0027 by a Manxman in Illinois.",
+  "notes": "This poem is described in Mona\u2019s Herald as a \u201CTranslation of those beautiful verses by Mary S. B. Dana, \u2018Passing Under the Rod.\u2019 by a Manxman, in Illinois.\u201D It is not a very close translation, Dana\u2019s version has an extra verse and each verse ends with the line \u201CI love thee \u2014 I love thee \u2014 pass under the rod!\u201D. \u2014\u201CPass Under the Rod. Sacred Song.\u201D Words by Mrs. Dana. Music by Mrs. Sue Ingersoll Scott. Pub; John Church Jr. Cincinnati. 1862.",
   "original": "English",
   "author": "W. in Illinois",
   "type": "Hymn",
