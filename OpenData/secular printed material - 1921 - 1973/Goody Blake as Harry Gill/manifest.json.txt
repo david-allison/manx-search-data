@@ -1,0 +1,13 @@
+{
+  "created": "1942-12-01",
+  "ident": "Goody-Blake-as-Harry-Gill",
+  "name": "Goody Blake as Harry Gill",
+  "English name": "Goody Blake and Harry Gill",
+  "notes": "The introduction to this piece reads: 'A Manx Version of Wordsworth's ‘Goody Blake and Harry Gill’ edited by C. I. PATON. The following Manx version of a poem by William Wordsworth is taken from a manuscript formerly in the possession of Dr. Clague of Castletown. It was given to the Library of the Manx Museum by the late Archdeacon Kewley (MS. 429/8A). The name of the translator is, unfortunately, not recorded, but his work is regarded as a fine example of nineteenth-century Manx Gaelic. Indeed it is a considerable improvement on the prosaic original of the famous poet. The latter is not printed here as it is readily available in Wordsworth's Collected Poems. The story of Harry Gill is based on an incident recorded by Erasmus Darwin, c. 1790 [Erasmus Darwin, ' Zoonomia,' 3rd edn. IV, 68.], to illustrate the effects of imagination. The farmer kept his bed for above twenty years for fear of the cold air, till at length he died.'",
+  "original": "Manx, although based closely on an English original",
+  "author": "Unknown / William Wordsworth (in notes)",
+  "transcription": "R. Teare",
+  "translation": "R.Teare. / William Wordsworth (where lines match). The complete Wordsworth original on which it is based is included in the notes.",
+  "source": "Journal of The Manx Museum, Tuesday, December 01, 1942; Page: 22
+Chengey ny Mayrey: Samples of Manx Gaelic."
+}
