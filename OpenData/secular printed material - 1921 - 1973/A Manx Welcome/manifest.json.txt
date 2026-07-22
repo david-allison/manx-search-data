@@ -1,0 +1,13 @@
+{
+  "created": "1921-08-13",
+  "ident": "Welcome-to-the-Delegates",
+  "name": "Welcome to the Delegates",
+  "type": "Speech",
+  "englishName": "Welcome to the Delegates",
+  "notes": "THE MANX WELCOME TO THE DELEGATES. We reproduce, also, the greeting given to the members of the recent Celtic Congress at their opening meeting on July 6th, and uttered on behalf of the Manx Society by its President, Mr H. Percy Kelly, B.A. :—",
+  "original": "Manx",
+  "author": "H. Percy Kelly",
+  "transcription": "R. Teare",
+  "translator": "H. Percy Kelly",
+  "source": "WELCOME TO THE DELEGATES  Isle of Man Examiner, Saturday, August 13, 1921; Page: 2]"
+}
