@@ -1,0 +1,12 @@
+{
+  "created": "1943-12-01",
+  "ident": "The-Old-Times-by-Thomas Moore",
+  "name": "The Old Times by Thomas Moore",
+  "English name": "The Old Times by Thomas Moore",
+  "notes": ""The Old Times. by Thomas Moore of Port Erin. Edited [Translated and annoted] by C. I. PATON. THOMAS MOORE of Brookfield, Port Erin, and his wife were almost the last of the native speakers of the Guilck in Port Erin. Born in 1836, Mr. Moore died on 3rd January, 1923, his wife having died the previous year. In writing his Cooinaghtyn Manninagh, Dr. Clague received considerable help from Mr. Moore and his portrait is given in that volume.  While the following notes on old Manx life contain little that is not already known, their interest lies in their having been written by one who personally recollected the things he wrote of in his mother tongue." The piece was published in two parts, the first on June 01 1943, the second (beginning with the section 'Goll hug yn Skeddan' on December 01 1943.'",
+  "original": "Manx",
+  "author": "Thomas Moore of Port Erin",
+  "transcription": "R. Teare",
+  "translation": "C. I. Paton / Dr. J. Clague",
+  "source": "Journal of The Manx Museum, Tuesday, June 01, 1943; Page: 14, Chengey ny Mayrey: Samples of Manx Gaelic; The Old Times by Thomas Moore, and Journal of The Manx Museum, Tuesday, December 01, 1943; Page: 19, Chengey ny Mayrey: Samples of Manx Gaelic Moore's Notes on 'The Old Times'."
+}
