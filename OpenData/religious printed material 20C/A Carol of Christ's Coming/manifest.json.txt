@@ -1,0 +1,14 @@
+{
+  "created": "1945-01-01",
+  "ident": "a-carol-of-christs-coming",
+  "name": "A Carol of Christ's Coming",
+  "first line": "Yn oyr t'er hayrn shin cooidjagh jiu",
+   "author': "Unknown",
+  "editor': "C. I. Paton",
+  "translator': "C. I. Paton",
+  "transcription": "R.Teare",
+  "original": "Manx",
+  "notes": ""'A Carol of Christ's Coming' An Unpublished Carval Edited and Translated by C. I. PATON. The following carval is taken from a most interesting ms. book which was lent to me in 1918 by the late Archdeacon, the Venerable John Kewley. It is now in the Library of the Manks Museum. Besides the carvals, it contains a section of hymns, all probably translated from English originals, though I have been unable to identify more than eighteen out of the thirty which this book contains. Only six of them have been published in any surviving Manks hymn book, though the others may, for all we know, have been taken from Daniel Cowley's Hymn Book (printed previous to 1795) of which no copy has been found. An inscription at the end of these hymns runs, “John Bridson of Portaballa His Hymn Book Pen Hand and Eink January 30 1790.”, and the latest date in the book is 1797. It belonged at one time, I have been told, to a cobbler, a carolsinger, whose surname I have forgotten, but as he was known as “Harry-y-Furt” he may have been connected with Ballafurt which is not far from Arragon Mooar in Santan. Portaballa is also near the latter farm. The book is bound in brown cardboard covers, stitched onto a coarse canvas or sailcloth back, evidently home-bound : size 6 x 3 x 2 inches." This carval is of social history interest as it criticises the rowdy behaviour of Oie'l Voirrey attendees.
+",
+  "source": "Journal of The Manx Museum, Monday, January 01, 1945; Page: 35"
+}
