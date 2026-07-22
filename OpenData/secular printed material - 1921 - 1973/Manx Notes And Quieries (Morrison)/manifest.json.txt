@@ -1,0 +1,13 @@
+{
+  "created": "1905-02-25",
+  "ident": "Manx-Notes-and Queries-by-Morrison",
+  "name": "Manx Notes and Queries by Morrison",
+  "type": "folklore",
+  "englishName": "The Archdeacon\u0027s Manx Sermon",
+  "notes": "A selection of verse, and vignettes, includes a 'bird song story' — teaching the sound of a raven's call. 'MANX NOTES AND QUERIES Manx Proverbs Edited by Miss S. Morrison, Peel, to whome communication may be addressed.' Contains no proverbs.",
+  "original": "Manx",
+  "author": "S. Morison",
+  "transcription": "R. Teare",
+  "translator": "S. Morrison",
+  "source": "Isle of Man Examiner, Saturday, February 25, 1905; Page: 8"
+}
