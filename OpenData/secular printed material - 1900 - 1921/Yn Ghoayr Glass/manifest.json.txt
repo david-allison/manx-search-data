@@ -1,0 +1,13 @@
+{
+  "created": "1905-11-04",
+  "ident": "Yn-Ghoayr-Glass",
+  "name": "Yn Ghoayr Glass",
+  "englishName": "The Gray Goat",
+  "notes": "A fox-as-trickster folk story.",
+  "author": "S. Morrison",
+  "original": "Manx",
+  "type": "folk story",
+  "transcription": "R. Teare",
+  "translation": "S. Morrison",
+  "source": "Manx Language Column: Isle of Man Examiner, Saturday, November 04, 1905; Page: 8"
+}
