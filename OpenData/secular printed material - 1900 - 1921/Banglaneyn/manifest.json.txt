@@ -1,0 +1,12 @@
+{
+  "created": "1903-01-03",
+  "ident": "Banglaneyn",
+  "name": "Banglaneyn",
+  "English name": "Banglaneyn",
+  "notes": "A letter to the Manx Sun",
+  "original": "Manx",
+  "author": "'Fieaueyder'",
+  "transcribed": "RT",
+  "translation": "'Fieaueyder'",
+  "source": "Banglaneyn. Manx Sun, Saturday, January 03, 1903; Page: 7"
+}
