@@ -29,7 +29,7 @@ namespace Manx_Search_Data
             List<string> names = documents.Select(x => x.Name).ToList();
             List<string> distinctNames = names.Distinct().ToList();
 
-            CollectionAssert.AreEquivalent(names, distinctNames, $"All '{nameof(Document.Name)}s should be distinct");
+            Assert.That(names, Is.EquivalentTo(distinctNames), $"All '{nameof(Document.Name)}s should be distinct");
         }
 
         [Test]
@@ -38,7 +38,7 @@ namespace Manx_Search_Data
             List<string> ids = documents.Select(x => x.Ident).ToList();
             List<string> distinctIds = ids.Distinct().ToList();
 
-            CollectionAssert.AreEquivalent(ids, distinctIds, $"All '{nameof(Document.Ident)}s should be distinct");
+            Assert.That(ids, Is.EquivalentTo(distinctIds), $"All '{nameof(Document.Ident)}s should be distinct");
         }
 
         [Test]
