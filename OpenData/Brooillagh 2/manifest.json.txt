@@ -1,5 +1,5 @@
 {
-  "created": "2026-07-14",
+  "notesCitations": true,
   "ident": "Brooillagh",
   "name": "Brooillagh - Manx words and phrases within English text",
   "English name": "Brooillagh - Manx words and phrases within English text",

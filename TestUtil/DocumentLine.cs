@@ -1,4 +1,6 @@
-﻿namespace Manx_Search_Data.TestUtil
+﻿using System;
+
+namespace Manx_Search_Data.TestUtil
 {
     public class DocumentLine
     {
@@ -9,6 +11,11 @@
         public string? Speaker { get; set; }
         public string Notes { get; set; }
         public int? Page { get; set; }
+
+        /// <summary>The line's own date, where it has one apart from its document's:
+        /// in a fragments collection (<see cref="NotesCitationDates"/>) each line
+        /// dates from its note's citation.</summary>
+        public DateTime? Date { get; set; }
         /// <summary>The language of the Manx column: "gv" unless the row is untranslated
         /// English/Latin/mixed matter. Read from the sparse `ManxColumnLanguage` CSV column;
         /// at load time "gv" replaces a blank/absent value.</summary>

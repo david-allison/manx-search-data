@@ -17,6 +17,11 @@ public static class DocumentLinePreparer
 {
     public static void Prepare(Document document, List<DocumentLine> lines)
     {
+        if (document.NotesCitations)
+        {
+            NotesCitationDates.Apply(document, lines);
+        }
+
         var speakerCode = BuildSpeakerCodeRegex(document.InlineSpeakerCodes);
 
         foreach (var line in lines)
