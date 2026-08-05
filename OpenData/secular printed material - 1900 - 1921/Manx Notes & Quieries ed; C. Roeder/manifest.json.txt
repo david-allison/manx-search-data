@@ -1,0 +1,13 @@
+{
+  "created": "1904.05.14",
+  "ident": "Manx-Notes-And-Queries-Edited-by-Roeder",
+  "name": "Manx Notes and Queries Ed; C. Roeder",
+  "notes": "Manx language sections from Manx Notes and Queries edited by Charles Roeder, originally published as (mostly) weekly series in the Isle of Manx Examiner from September 21st 1901 to May 14th 1904. The full series edited by Roeder was published in book form in September 1904, after which  Sophia Morrison took over as editor of the Isle of Man Examiner series. In the notes, [IoME] is [Isle of Man Examiner]",
+  "author": "various, including \\u0027Juan Cruin\\u0027, J. J. Kneen and Charles Roeder himself",
+  "Editor": "Charles Roeder",
+  "original": "Manx",
+  "type": "various",
+  "transcription": "R. Teare",
+  "translation": "accompanies original, or translated by RT from extant material",
+  "source": "From Isle of Man Examiner, starting Isle of Man Examiner, Saturday, September 21, 1901; Page: 3, ending Isle of Man Examiner, Saturday, May 14, Page 8. See notes for publication details of each article. "
+}
