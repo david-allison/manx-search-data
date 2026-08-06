@@ -2,6 +2,7 @@ using Manx_Search_Data.TestData;
 using Manx_Search_Data.TestUtil;
 using NUnit.Framework;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Manx_Search_Data
@@ -9,10 +10,10 @@ namespace Manx_Search_Data
     /// <summary>
     /// The fragments-collection contract (Brooillagh, Manx Notes &amp; Queries): a
     /// manifest declaring "notesCitations" is one CSV of lines gleaned from many
-    /// sources, each line dated by the citation in its Notes cell, lines without one
-    /// belonging to the last cited fragment. These tests keep every line datable - a
-    /// citation the parser cannot read would silently date its fragment to the
-    /// previous one.
+    /// sources, each content row dating itself in its Date cell, its Notes citing
+    /// the source as the transcriber found it. These lints hold the column to the
+    /// schema and to the citations - an unreadable, missing or drifted date would
+    /// otherwise silently misdate its fragment.
     /// </summary>
     [TestFixture]
     public class NotesCitationTests
@@ -37,31 +38,82 @@ namespace Manx_Search_Data
                 string.Join("\n", unreadable.Select(x => $"  row {x.Row}: {x.Notes}")));
         }
 
-        /// <summary>The document's lines dated as production dates them. A scratch
-        /// document takes the derived range: the shared datapoint must stay as its
-        /// manifest loaded it (<see cref="TheManifestOmitsCreated"/>).</summary>
-        private static System.Collections.Generic.List<DocumentLine> PreparedLines(Document document)
-        {
-            var lines = document.LoadLocalFile();
-            DocumentLinePreparer.Prepare(new OpenSourceDocument { NotesCitations = true }, lines);
-            return lines;
-        }
+        /// <summary>Rows with any content: the trailing all-blank rows Excel
+        /// leaves behind need no date</summary>
+        private static bool HasContent(DocumentLine line) =>
+            !string.IsNullOrWhiteSpace(line.Manx)
+            || !string.IsNullOrWhiteSpace(line.English)
+            || !string.IsNullOrWhiteSpace(line.Notes);
 
         [Theory]
-        public void EveryLineIsDated(Document document)
+        public void EveryRowDatesItself(Document document)
         {
             Assume.That(document.NotesCitations, "not a fragments collection");
 
-            var lines = PreparedLines(document);
-
-            var undated = lines
-                .Select((line, index) => (line.Date, Row: index + 2))
-                .Where(x => x.Date == null)
+            var undated = document.LoadLocalFile()
+                .Select((line, index) => (line, Row: index + 2))
+                .Where(x => HasContent(x.line) && NotesCitationDates.ParseExplicitDate(x.line.DateCell) == null)
                 .ToList();
 
             Assert.That(undated, Is.Empty,
-                "Lines before the first citation cannot be dated - give the first fragment " +
-                $"a cited note. Undated rows: {string.Join(", ", undated.Select(x => x.Row))}");
+                "Every content row needs a readable Date cell - \"21/09/1901\" (day first), " +
+                "or a bare year where that is all the source gives:\n" +
+                string.Join("\n", undated.Select(x => string.IsNullOrWhiteSpace(x.line.DateCell)
+                    ? $"  row {x.Row}: blank"
+                    : $"  row {x.Row}: unreadable \"{x.line.DateCell}\"")));
+        }
+
+        /// <summary>Where a row's note carries a readable citation, the Date cell
+        /// must say the same: a disagreement is a fill-down slip or a mistyped
+        /// date, and the citation is the source of truth</summary>
+        [Theory]
+        public void TheDateColumnAgreesWithItsCitations(Document document)
+        {
+            Assume.That(document.NotesCitations, "not a fragments collection");
+
+            var disagreements = document.LoadLocalFile()
+                .Select((line, index) => (line, Cited: NotesCitationDates.Parse(line.Notes), Row: index + 2))
+                .Where(x => x.Cited != null
+                            && NotesCitationDates.ParseExplicitDate(x.line.DateCell) != x.Cited)
+                .ToList();
+
+            Assert.That(disagreements, Is.Empty,
+                "The Date cell disagrees with the note's citation:\n" +
+                string.Join("\n", disagreements.Select(x =>
+                    $"  row {x.Row}: Date \"{x.line.DateCell}\" but the note cites {x.Cited:dd/MM/yyyy} ({x.line.Notes?.Trim()})")));
+        }
+
+        /// <summary>A row may only change date when its note cites the new one: an
+        /// uncited change is an Excel fill-down slipping into a date series</summary>
+        [Theory]
+        public void ADateChangeIsCited(Document document)
+        {
+            Assume.That(document.NotesCitations, "not a fragments collection");
+
+            DateTime? previous = null;
+            var uncited = new List<(int Row, string Cell)>();
+            foreach (var (line, row) in document.LoadLocalFile().Select((line, index) => (line, Row: index + 2)))
+            {
+                if (!HasContent(line))
+                {
+                    continue;
+                }
+                var date = NotesCitationDates.ParseExplicitDate(line.DateCell);
+                if (date == null)
+                {
+                    continue; // EveryRowDatesItself reports these
+                }
+                if (date != previous && NotesCitationDates.Parse(line.Notes) != date)
+                {
+                    uncited.Add((row, line.DateCell));
+                }
+                previous = date;
+            }
+
+            Assert.That(uncited, Is.Empty,
+                "The date changed without a citation for the new one - each fragment's " +
+                "first row cites its source, the rest carry its date down:\n" +
+                string.Join("\n", uncited.Select(x => $"  row {x.Row}: {x.Cell}")));
         }
 
         [Theory]
@@ -69,17 +121,15 @@ namespace Manx_Search_Data
         {
             Assume.That(document.NotesCitations, "not a fragments collection");
 
-            var lines = PreparedLines(document);
-
-            var implausible = lines
-                .Select((line, index) => (line.Date, line.Notes, Row: index + 2))
+            var implausible = document.LoadLocalFile()
+                .Select((line, index) => (Date: NotesCitationDates.ParseExplicitDate(line.DateCell), line.DateCell, Row: index + 2))
                 .Where(x => x.Date != null
                             && (x.Date.Value.Year < 1500 || x.Date.Value.Year > DateTime.Now.Year))
                 .ToList();
 
             Assert.That(implausible, Is.Empty,
                 "A fragment cannot predate Manx print or postdate its transcription:\n" +
-                string.Join("\n", implausible.Select(x => $"  row {x.Row}: {x.Notes}")));
+                string.Join("\n", implausible.Select(x => $"  row {x.Row}: {x.DateCell}")));
         }
 
         /// <summary>The collection's date range is the span of its lines: a manifest
