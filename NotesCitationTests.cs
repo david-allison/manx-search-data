@@ -118,10 +118,14 @@ namespace Manx_Search_Data
                 string.Join("\n", uncited.Select(x => $"  row {x.Row}: {x.Cell}")));
         }
 
-        /// <summary>The legend Brooillagh's manifest gives its citations, plus the
-        /// sources it cites beyond it (R.C. and P.C. have no attested expansion,
-        /// and stay as written). The last match in the note wins, like its
-        /// date.</summary>
+        /// <summary>The corpus's citation vocabulary, mapped to the Source names
+        /// the rows use. The first five are the abbreviations the Brooillagh
+        /// manifest's legend documents. R.C. and P.C. no longer appear in the
+        /// notes (expanded in place to Ramsey Courier and Peel City Guardian) but
+        /// stay documented here, and would be expanded and checked again if
+        /// written. A full-name source without an entry is still checked: the
+        /// note must contain the Source text (<see cref="NamesTheSource"/>). The
+        /// last match in the note wins, like its date.</summary>
         private static readonly (Regex Citation, string Source)[] KnownSources =
         {
             (new Regex(@"M\.\s?H\."), "Mona's Herald"),
@@ -129,8 +133,10 @@ namespace Manx_Search_Data
             (new Regex(@"M\.\s?A\."), "The Manks Advertiser"),
             (new Regex("IoMT"), "Isle of Man Times"),
             (new Regex("Io[mM]E"), "Isle of Man Examiner"),
-            (new Regex(@"R\.C\."), "R.C."),
-            (new Regex(@"P\.C\."), "P.C."),
+            (new Regex(@"R\.C\."), "Ramsey Courier"),
+            (new Regex(@"P\.C\."), "Peel City Guardian"),
+            (new Regex("Ramsey Courier"), "Ramsey Courier"),
+            (new Regex("Peel City Guardian"), "Peel City Guardian"),
             (new Regex("Ramsey Weekly News"), "Ramsey Weekly News"),
             (new Regex("Manxman"), "Manxman"),
             (new Regex("A Tour Through the Isle of Man"), "A Tour Through the Isle of Man"),
@@ -162,6 +168,12 @@ namespace Manx_Search_Data
             }
             return last?.Source;
         }
+
+        /// <summary>Whether the note names the source in full, apostrophe styles
+        /// ignored ("St Matthew's" / "St Matthew’s")</summary>
+        private static bool NamesTheSource(string note, string source) =>
+            !string.IsNullOrWhiteSpace(note)
+            && note.Replace('’', '\'').Contains(source.Replace('’', '\''));
 
         [Theory]
         public void EveryRowNamesItsSource(Document document)
@@ -197,8 +209,9 @@ namespace Manx_Search_Data
                     $"  row {x.Row}: Source \"{x.line.Source}\" but the note cites \"{x.Cited}\" ({x.line.Notes?.Trim()})")));
         }
 
-        /// <summary>A row may only change source when its note says why: an
-        /// uncited change is a fill-down slip</summary>
+        /// <summary>A row may only change source when its note says which one: by
+        /// its full name, or by an abbreviation the legend expands. An uncited
+        /// change is a fill-down slip.</summary>
         [Theory]
         public void ASourceChangeIsCited(Document document)
         {
@@ -212,7 +225,9 @@ namespace Manx_Search_Data
                 {
                     continue; // EveryRowNamesItsSource reports blanks
                 }
-                if (line.Source != previous && string.IsNullOrWhiteSpace(line.Notes))
+                if (line.Source != previous
+                    && CitedSource(line.Notes) != line.Source
+                    && !NamesTheSource(line.Notes, line.Source))
                 {
                     uncited.Add((row, line.Source));
                 }
@@ -220,9 +235,8 @@ namespace Manx_Search_Data
             }
 
             Assert.That(uncited, Is.Empty,
-                "The source changed on a row whose note does not say where the new " +
-                "fragment is from - each fragment's first row cites its source, the " +
-                "rest carry it down:\n" +
+                "The source changed on a row whose note does not name the new one - " +
+                "each fragment's first row cites its source, the rest carry it down:\n" +
                 string.Join("\n", uncited.Select(x => $"  row {x.Row}: {x.Source}")));
         }
 
