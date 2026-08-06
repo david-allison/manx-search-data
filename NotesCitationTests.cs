@@ -4,16 +4,18 @@ using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data
 {
     /// <summary>
     /// The fragments-collection contract (Brooillagh, Manx Notes &amp; Queries): a
     /// manifest declaring "notesCitations" is one CSV of lines gleaned from many
-    /// sources, each content row dating itself in its Date cell, its Notes citing
-    /// the source as the transcriber found it. These lints hold the column to the
-    /// schema and to the citations - an unreadable, missing or drifted date would
-    /// otherwise silently misdate its fragment.
+    /// sources, each content row dating itself in its Date cell and naming the
+    /// publication it came from in its Source cell (acronyms expanded), its Notes
+    /// citing the source as the transcriber found it. These lints hold the columns
+    /// to the schema and to the citations - an unreadable, missing or drifted
+    /// value would otherwise silently misattribute its fragment.
     /// </summary>
     [TestFixture]
     public class NotesCitationTests
@@ -114,6 +116,114 @@ namespace Manx_Search_Data
                 "The date changed without a citation for the new one - each fragment's " +
                 "first row cites its source, the rest carry its date down:\n" +
                 string.Join("\n", uncited.Select(x => $"  row {x.Row}: {x.Cell}")));
+        }
+
+        /// <summary>The legend Brooillagh's manifest gives its citations, plus the
+        /// sources it cites beyond it (R.C. and P.C. have no attested expansion,
+        /// and stay as written). The last match in the note wins, like its
+        /// date.</summary>
+        private static readonly (Regex Citation, string Source)[] KnownSources =
+        {
+            (new Regex(@"M\.\s?H\."), "Mona's Herald"),
+            (new Regex(@"M\.\s?S\."), "The Manx Sun"),
+            (new Regex(@"M\.\s?A\."), "The Manks Advertiser"),
+            (new Regex("IoMT"), "Isle of Man Times"),
+            (new Regex("Io[mM]E"), "Isle of Man Examiner"),
+            (new Regex(@"R\.C\."), "R.C."),
+            (new Regex(@"P\.C\."), "P.C."),
+            (new Regex("Ramsey Weekly News"), "Ramsey Weekly News"),
+            (new Regex("Manxman"), "Manxman"),
+            (new Regex("A Tour Through the Isle of Man"), "A Tour Through the Isle of Man"),
+            (new Regex("Mona Miscellany"), "Mona Miscellany"),
+            (new Regex("Memorials of Eleanor Elliott"), "Memorials of Eleanor Elliott"),
+            (new Regex("Flyer for a bring-and-buy sale"), "Flyer for a bring-and-buy sale in St Matthew's New School"),
+            (new Regex("Yn Cheshaght Gailckagh Old Xmas Programme"), "Yn Cheshaght Gailckagh Old Xmas Programme"),
+            (new Regex(@"Advert for W\. M\. Corlett"), "Advert for W. M. Corlett's North-star Boot and Shoe Depot"),
+        };
+
+        /// <summary>The source the note cites, expanded per <see cref="KnownSources"/>;
+        /// null for a gloss or an unrecognised citation</summary>
+        private static string CitedSource(string note)
+        {
+            if (string.IsNullOrWhiteSpace(note))
+            {
+                return null;
+            }
+            (int Index, string Source)? last = null;
+            foreach (var (citation, source) in KnownSources)
+            {
+                foreach (Match match in citation.Matches(note))
+                {
+                    if (last == null || match.Index > last.Value.Index)
+                    {
+                        last = (match.Index, source);
+                    }
+                }
+            }
+            return last?.Source;
+        }
+
+        [Theory]
+        public void EveryRowNamesItsSource(Document document)
+        {
+            Assume.That(document.NotesCitations, "not a fragments collection");
+
+            var unnamed = document.LoadLocalFile()
+                .Select((line, index) => (line, Row: index + 2))
+                .Where(x => HasContent(x.line) && string.IsNullOrWhiteSpace(x.line.Source))
+                .ToList();
+
+            Assert.That(unnamed, Is.Empty,
+                "Every content row needs a Source - the publication or work the fragment " +
+                $"came from, acronyms expanded. Rows: {string.Join(", ", unnamed.Select(x => x.Row))}");
+        }
+
+        /// <summary>Where a row's note cites a known source, the Source cell must
+        /// name its expansion: a disagreement is a fill-down slip, or an acronym
+        /// left unexpanded</summary>
+        [Theory]
+        public void TheSourceColumnAgreesWithItsCitations(Document document)
+        {
+            Assume.That(document.NotesCitations, "not a fragments collection");
+
+            var disagreements = document.LoadLocalFile()
+                .Select((line, index) => (line, Cited: CitedSource(line.Notes), Row: index + 2))
+                .Where(x => x.Cited != null && x.line.Source != x.Cited)
+                .ToList();
+
+            Assert.That(disagreements, Is.Empty,
+                "The Source cell disagrees with the note's citation:\n" +
+                string.Join("\n", disagreements.Select(x =>
+                    $"  row {x.Row}: Source \"{x.line.Source}\" but the note cites \"{x.Cited}\" ({x.line.Notes?.Trim()})")));
+        }
+
+        /// <summary>A row may only change source when its note says why: an
+        /// uncited change is a fill-down slip</summary>
+        [Theory]
+        public void ASourceChangeIsCited(Document document)
+        {
+            Assume.That(document.NotesCitations, "not a fragments collection");
+
+            string previous = null;
+            var uncited = new List<(int Row, string Source)>();
+            foreach (var (line, row) in document.LoadLocalFile().Select((line, index) => (line, Row: index + 2)))
+            {
+                if (!HasContent(line) || string.IsNullOrWhiteSpace(line.Source))
+                {
+                    continue; // EveryRowNamesItsSource reports blanks
+                }
+                if (line.Source != previous && string.IsNullOrWhiteSpace(line.Notes))
+                {
+                    uncited.Add((row, line.Source));
+                }
+                previous = line.Source;
+            }
+
+            Assert.That(uncited, Is.Empty,
+                "The source changed on a row whose note does not say where the new " +
+                "fragment is from - each fragment's first row cites its source, the " +
+                "rest carry it down:\n" +
+                string.Join("\n", uncited.Select(x => $"  row {x.Row}: {x.Source}")));
         }
 
         [Theory]
