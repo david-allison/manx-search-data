@@ -18,6 +18,7 @@ namespace Manx_Search_Data.TestUtil
             // a bare "Language" header would not say which column it describes
             Map(m => m.Language).Name("ManxColumnLanguage").Optional();
             Map(m => m.DateCell).Name("Date").Optional();
+            Map(m => m.Source).Optional();
         }
     }
 }
