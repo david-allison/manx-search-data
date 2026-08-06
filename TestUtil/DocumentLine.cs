@@ -19,6 +19,12 @@ namespace Manx_Search_Data.TestUtil
         /// load time.</summary>
         public string DateCell { get; set; }
 
+        /// <summary>The publication or work the row's fragment came from ("Mona's
+        /// Herald"), acronyms expanded where their expansion is known; the citation
+        /// in Notes stays as the transcriber wrote it ("[M.H., 05/05/1858]").
+        /// Required on every content row of a fragments collection.</summary>
+        public string Source { get; set; }
+
         /// <summary>The line's own date, where it has one apart from its document's:
         /// in a fragments collection (<see cref="NotesCitationDates"/>) each line
         /// dates from its Date cell, or - in files predating the column - from its

@@ -157,8 +157,8 @@ namespace Manx_Search_Data
             return stringWriter.ToString();
         }
 
-        private static (string, string, double?, double?, string, string, int?, string, string) AsTuple(DocumentLine x) =>
-            (x.English, x.Manx, x.SubStart, x.SubEnd, x.Speaker, x.Notes, x.Page, x.Language, x.DateCell);
+        private static (string, string, double?, double?, string, string, int?, string, string, string) AsTuple(DocumentLine x) =>
+            (x.English, x.Manx, x.SubStart, x.SubEnd, x.Speaker, x.Notes, x.Page, x.Language, x.DateCell, x.Source);
 
         private static OpenSourceDocument AssumeOpenSource(Document definition)
         {
