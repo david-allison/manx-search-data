@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text.RegularExpressions;
 
 namespace Manx_Search_Data.TestUtil;
@@ -9,11 +10,13 @@ namespace Manx_Search_Data.TestUtil;
 /// file like Brooillagh is one CSV of lines gleaned from many sources, each line's
 /// real source cited in its Notes cell ("[M.H., 05/05/1858]" - Mona's Herald;
 /// "[1] IoME, Sat, Sep 21, 1901; Page: 3" - Isle of Man Examiner;
-/// "[Mona Miscellany; ...; 1869]" for a book). The citation's date is the line's
-/// date; a line without one (the rest of a quoted song, or a prose note) belongs
-/// to the last cited fragment. The collection's own date range is then the span
-/// of its lines - without this, every 1794 attestation would carry the year the
-/// transcription was typed up.
+/// "[Mona Miscellany; ...; 1869]" for a book). Each row's explicit `Date` cell is
+/// its date; a citation in the note is read only for files predating the column,
+/// a line with neither belonging to the last dated fragment. The collection's own
+/// date range is then the span of its lines - without this, every 1794
+/// attestation would carry the year the transcription was typed up. The data
+/// repo's lint also parses the citations to check the Date column agrees with
+/// them as written.
 /// </summary>
 /// <remarks>Copied 1:1 from manx-corpus-search (CorpusSearch/Model/NotesCitationDates.cs)
 /// so this repository lints citations against the exact semantics production loads
@@ -152,11 +155,34 @@ public static class NotesCitationDates
                && ParseFullDate(note) == null;
     }
 
+    /// <summary>The row's explicit `Date` cell: "21/09/1901" (day first, matching
+    /// the citations), or a bare "1869" where only the year is known (a book
+    /// fragment). Null for a blank or unreadable cell - the data repo's lint
+    /// requires a readable value on every content row, so unreadable only occurs
+    /// in files predating the column (or mangled outside the schema), where the
+    /// note's citation takes over.</summary>
+    public static DateTime? ParseExplicitDate(string cell)
+    {
+        var text = cell?.Trim();
+        if (string.IsNullOrEmpty(text))
+        {
+            return null;
+        }
+        if (DateTime.TryParseExact(text, "d/M/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out var date))
+        {
+            return date;
+        }
+        return int.TryParse(text, out var year) && year is >= 1500 and <= 2099
+            ? new DateTime(year, 1, 1)
+            : null;
+    }
+
     /// <summary>
-    /// Dates each line from its note's citation, lines without one inheriting the
-    /// last cited date, and settles the collection's own date range to the span of
-    /// its lines (a manifest "created" - the transcription date - is overridden:
-    /// the fragments are older than their typing-up).
+    /// Dates each line: the explicit `Date` cell where the file has the column,
+    /// else the note's citation, lines without either inheriting the last date;
+    /// then settles the collection's own date range to the span of its lines (a
+    /// manifest "created" - the transcription date - is overridden: the fragments
+    /// are older than their typing-up).
     /// </summary>
     public static void Apply(Document document, IEnumerable<DocumentLine> lines)
     {
@@ -165,7 +191,7 @@ public static class NotesCitationDates
         DateTime? latest = null;
         foreach (var line in lines)
         {
-            current = Parse(line.Notes) ?? current;
+            current = ParseExplicitDate(line.DateCell) ?? Parse(line.Notes) ?? current;
             line.Date = current;
             if (current == null)
             {

@@ -125,5 +125,46 @@ namespace Manx_Search_Data
         {
             Assert.That(NotesCitationDates.LooksDatedButUnparsed(note), Is.True);
         }
+
+        // The explicit Date cell's schema: day-first like the citations, or a bare
+        // year where that is all a book fragment has
+        [TestCase("21/09/1901", "1901-09-21")]
+        [TestCase("5/2/1901", "1901-02-05")] // single digits as Excel writes them
+        [TestCase(" 21/09/1901 ", "1901-09-21")]
+        [TestCase("1869", "1869-01-01")]
+        public void AnExplicitDateCellParses(string cell, string expected)
+        {
+            Assert.That(NotesCitationDates.ParseExplicitDate(cell), Is.EqualTo(DateTime.Parse(expected)));
+        }
+
+        [TestCase(null)]
+        [TestCase("")]
+        [TestCase("   ")]
+        [TestCase("1901-09-21")] // not the schema: Excel rewrites ISO dates on save
+        [TestCase("09/21/1901")] // month-first: a mangled cell must not misdate the line
+        [TestCase("31/02/1904")] // no such calendar day
+        [TestCase("190")] // no such year
+        [TestCase("Sep 21, 1901")] // citations belong in Notes
+        public void AnUnreadableDateCellIsNull(string cell)
+        {
+            Assert.That(NotesCitationDates.ParseExplicitDate(cell), Is.Null);
+        }
+
+        /// <summary>The explicit cell is authoritative; the citation only dates
+        /// rows in files predating the column</summary>
+        [Test]
+        public void TheDateCellOutranksTheCitation()
+        {
+            var lines = new System.Collections.Generic.List<DocumentLine>
+            {
+                new() { Manx = "ta", DateCell = "22/09/1901", Notes = "[1] IoME, Sat, Sep 21, 1901; Page: 3" },
+                new() { Manx = "ta", DateCell = "", Notes = "[3] IoME, Sat, Sep 28, 1901; Page: 3" },
+            };
+
+            DocumentLinePreparer.Prepare(new OpenSourceDocument { NotesCitations = true }, lines);
+
+            Assert.That(lines[0].Date, Is.EqualTo(new DateTime(1901, 9, 22)));
+            Assert.That(lines[1].Date, Is.EqualTo(new DateTime(1901, 9, 28)), "a blank cell falls back to the citation");
+        }
     }
 }

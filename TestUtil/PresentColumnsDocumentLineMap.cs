@@ -19,6 +19,7 @@ namespace Manx_Search_Data.TestUtil
             if (headers.Contains("Speaker")) Map(m => m.Speaker);
             if (headers.Contains("Notes")) Map(m => m.Notes);
             if (headers.Contains("ManxColumnLanguage")) Map(m => m.Language).Name("ManxColumnLanguage");
+            if (headers.Contains("Date")) Map(m => m.DateCell).Name("Date");
         }
     }
 }
