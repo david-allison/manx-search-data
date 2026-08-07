@@ -75,7 +75,7 @@ public static class NotesCitationDates
     /// month-name), else its closing bare year (a book cites no day), else null (a
     /// prose note, or none). The last, not the first: prose may precede the citation
     /// ("[... said to have run aground ... [M.H., 01/01/1896]").</summary>
-    public static DateTime? Parse(string? note)
+    public static DateTime? Parse(string note)
     {
         if (string.IsNullOrWhiteSpace(note))
         {
@@ -88,7 +88,7 @@ public static class NotesCitationDates
             return fullDate;
         }
 
-        Match? lastYear = null;
+        Match lastYear = null;
         foreach (Match match in BareYear.Matches(note))
         {
             lastYear = match;
@@ -148,7 +148,7 @@ public static class NotesCitationDates
     /// date: a mistyped citation which would otherwise silently date the line to
     /// the previous fragment, or fall back to its bare year. The lint fails on
     /// these.</summary>
-    public static bool LooksDatedButUnparsed(string? note)
+    public static bool LooksDatedButUnparsed(string note)
     {
         return !string.IsNullOrWhiteSpace(note)
                && (DateFragment.IsMatch(note) || MonthDayFragment.IsMatch(note))
