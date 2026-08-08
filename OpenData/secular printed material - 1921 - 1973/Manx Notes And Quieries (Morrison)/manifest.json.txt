@@ -3,7 +3,6 @@
   "ident": "Manx-Notes-and-Queries-by-Morrison",
   "name": "Manx Notes and Queries by Morrison",
   "type": "folklore",
-  "englishName": "The Archdeacon\u0027s Manx Sermon",
   "notes": "A selection of verse, and vignettes, includes a \u0027bird song story\u0027 \u2014 teaching the sound of a raven\u0027s call. \u0027MANX NOTES AND QUERIES Manx Proverbs Edited by Miss S. Morrison, Peel, to whome communication may be addressed.\u0027 Contains no proverbs.",
   "original": "Manx",
   "author": "S. Morison",
