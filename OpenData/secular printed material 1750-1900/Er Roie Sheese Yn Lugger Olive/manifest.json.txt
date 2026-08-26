@@ -1,13 +1,13 @@
 {
   "created": "1874-10-15",
   "ident": "Lugger-Olive",
-  "name": "Er Roie cheese yn Lugger Olive",
-  "name": "On the Running Down of the Lugger Olive by the Ship Oakworth",
+  "name": "Er Roie Sheese yn Lugger Olive",
+  "englishName": "On the Running Down of the Lugger Olive by the Ship Oakworth",
   "author": "John Quirk, Carnegreie / Edward Faragher, Rushen",
-  "notes": "A lament for the loss of the lugger 'Olive', run down by the steamer 'Oakworth' in 1874. Quirk describes it as 'A sort of Translation from Mr Edward Fargher's versee', and is indeed more a transliteration than a translation. Faragher's poem'On the Running Down of the Lugger Loive by the Ship Oakworth', on which Quirk's version is based, appeared in Mona's Herald on October 1st 1874. Quirk writes to the Editor of Mona's Herald; 'SIR,—In compliance with a request expressed in the Herald of the 1st instant, I send you these lines which may be interesting to some of your readers.'",
-  "translator": "None — Edward Faragher's original is used together with John Quirk's transliteration",
-  "original": "Manx (a transliteration from English)",
+  "notes": "A lament for the loss of the lugger \u0027Olive\u0027, run down by the steamer \u0027Oakworth\u0027 in 1874. Quirk describes it as \u0027A sort of Translation from Mr Edward Fargher\u0027s versee\u0027, and is indeed more a transliteration than a translation. Faragher\u0027s poem\u0027On the Running Down of the Lugger Loive by the Ship Oakworth\u0027, on which Quirk\u0027s version is based, appeared in Mona\u0027s Herald on October 1st 1874. Quirk writes to the Editor of Mona\u0027s Herald; \u0027SIR,\u2014In compliance with a request expressed in the Herald of the 1st instant, I send you these lines which may be interesting to some of your readers.\u0027. This is marked as a Manx original, but is a transliteration from the English.",
+  "translator": "None \u2014\u00A0Edward Faragher\u0027s original is used together with John Quirk\u0027s transliteration",
+  "original": "Manx",
   "type": "Poem / Lament",
   "transcription": "RT",
-  "source": "Er Roie Sheese Yn Lugger Olive: Mona's Herald, Thursday, October 15, 1874; Page: 5, and On the Running Down of the Lugger Olive by the Ship Oakworth; Mona's Herald, Thursday, October 01, 1874; Page: 4",
-}.
+  "source": "Er Roie Sheese Yn Lugger Olive: Mona\u0027s Herald, Thursday, October 15, 1874; Page: 5, and On the Running Down of the Lugger Olive by the Ship Oakworth; Mona\u0027s Herald, Thursday, October 01, 1874; Page: 4"
+}
