@@ -1,0 +1,10 @@
+{
+  "created": "1887-03-30",
+  "ident": "Cre-ta-Dooinney",
+  "name": "Cre ta Dooinney?",
+  "English name": "What is Man?",
+  "type": "religious poem on the fall of man?",
+  "notes": "Transcription and translation; R.Teare.",
+  "source": "Mona\\u0027s Herald, Wednesday, March 30, 1887; Page: 2",
+  "original": "Manx"
+}
