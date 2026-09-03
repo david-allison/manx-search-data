@@ -1,0 +1,11 @@
+{
+  "created": "1898-07-30",
+  "ident": "NedBeg-I-embrace-the-present-opportunity",
+  "name": "I embrace the present opportunity",
+  "original": "Manx",
+  "author": "Edward Faragher",
+  "transcribed": "RT",
+  "translated": "E. Faragher.",
+  "notes": "A letter in reply to C. Roeder. Standardised spellings of Manx and English in square brackets. Where entries given \\u0027no meaning\\u0027 occur and there is a commonly assumed meaning it is added in square brackets.",
+  "source": "E. Faragher\\u0027s letters to C. Roeder MS 1246/13A."
+}
