@@ -1,0 +1,13 @@
+{
+  "created": "1902-05-04",
+  "ident": "Morrison-Gur-eh-mie-mooar-diu-son-cur-nyn-ennym-stiagh ",
+  "type": "Letter",
+  "original": "Manx",
+  "author": "Sophia Morrison"
+  "name": "Morrison: Gur eh mie mooar diu, son cur nyn ennym stiagh",
+  "englishName": "Morrison: Thank you very much for submitting your name",
+  "notes": "On headed notepaper of the Manx Language Society",
+  "Transcribed":"R.Teare"
+  "Translated": "R.Teare"
+  "iMuseum": "MS 1399A"
+}
