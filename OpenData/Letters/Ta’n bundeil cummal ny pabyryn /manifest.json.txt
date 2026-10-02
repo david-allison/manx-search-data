@@ -1,0 +1,13 @@
+{
+  "created": "1894-11-24",
+  "ident": "Tan-bundeil-cummal-ny-pabyryn ",
+  "type": "Letter",
+  "author": "William Quayle",
+  "original": "Manx",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "name": "Ta’n bundeil cummal ny pabyryn; Letters; W. Quayle to G. W. Wood",
+  "englishName": "The bundle containing the papers",
+  "notes": "(Letters to G. W. Wood of Laxey / Bailey-ny-Miljyn to G. W. Wood",
+  "iMuseum": "MS 1399 A"
+}
