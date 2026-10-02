@@ -1,0 +1,12 @@
+{
+  "created": "1921-01-05",
+  "ident": "Thomas-Moore-My-Charrey-deyr-mainshter-Wood",
+  "type": "Letter",
+  "original": "Manx",
+  "name": "My Charrey deyr mainshter Wood",
+  "englishName": "My Dear Friend Mister Wood",
+  "Transcribed": "R. Teare"
+  "Translated": "R. Teare"
+  "notes": "Letter to G. W. Wood. beginning My Charrey deyr mainshter Wood",
+  "iMuseum": "MS 01399A"
+}
