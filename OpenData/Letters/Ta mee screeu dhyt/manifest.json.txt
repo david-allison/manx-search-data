@@ -1,0 +1,13 @@
+{
+  "created": "1899-12-21",
+  "ident": "Ta-mee-screeu-dhyt-Clague-to--Wood",
+  "type": "Letter",
+  "Author": "Dr. John Clague",
+  "original": "Manx / English",
+  "Transcribed": "R. Teare",
+  "Translated": "R. Teare",
+  "name": "Ta mee screeu dhyt — J. Clague to G. W. Wood)",
+  "englishName": "I am writing to you ... letters; Dr. J. Clague to G. W. Wood",
+  "notes": "Written in Clague's hand. Two letters included, the first in English only, to G. W. Wood..",
+  "iMuseum": "MS 1399A"
+}
