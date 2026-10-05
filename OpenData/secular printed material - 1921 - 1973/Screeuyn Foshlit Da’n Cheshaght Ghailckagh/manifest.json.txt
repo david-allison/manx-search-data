@@ -1,0 +1,12 @@
+{
+  "created": "1941-03-31",
+  "ident": "Screeuyn-Foshlit",
+  "name": "Screeuyn Foshlit Da’n Cheshaght Ghailckagh",
+  "English name": "An Open Letter To The Manx Language Society",
+  "notes": "The two versions are not close translations.",
+  "original": "Manx / English",
+  "author": "J. Gell",
+  "transcription": "R. Teare",
+  "translation": "J. Gell",
+  "source": "MS 140/YNC"
+}
