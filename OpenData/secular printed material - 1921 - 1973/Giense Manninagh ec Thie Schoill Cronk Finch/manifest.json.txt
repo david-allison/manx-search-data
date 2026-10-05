@@ -1,0 +1,12 @@
+{
+  "created": "1928-02-01",
+  "ident": "Giense-Manninagh-ec-Thie-schoill-Cronk-Finch",
+  "name": "Giense Manninagh Ec Thie-Schoill Cronk Finch",
+  "English name": "Manx Giense at Cronk Finch Schoolhouse.",
+  "notes": "Programme for the YCG giense of 1928 at Cronk Finch Schoolhouse",
+  "original": "Manx",
+  "author": "Margaid Inney Frere",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "MS140/*/YNC"
+}
