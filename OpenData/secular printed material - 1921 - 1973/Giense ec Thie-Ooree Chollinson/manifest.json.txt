@@ -1,0 +1,12 @@
+{
+  "created": "1935-02-18",
+  "ident": "Giense-ec-Thie-Ooree-Chollinson-1935",
+  "name": "Giense ec Thie-Ooree Chollinson 1935",
+  "English name": "Giense at Collinson's Cafe 1935",
+  "notes": "Report of the YCG giense of 1935",
+  "original": "Manx",
+  "author": "Unknown",
+  "transcription": "R. Teare",
+  "translation": "R. Teare",
+  "source": "MS140/*/YNC"
+}
