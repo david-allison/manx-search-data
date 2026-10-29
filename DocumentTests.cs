@@ -33,7 +33,7 @@ namespace Manx_Search_Data
             // if a comma is deleted from a CSV, then the document is invalid
             var document = TestOnlyDocs.Load("MissingFinalComma");            
         
-            Assert.Throws<CsvHelper.MissingFieldException>(() => document.LoadLocalFile());
+            Assert.Throws<CsvHelper.CsvFormatException>(() => document.LoadLocalFile());
         }
 
         [Test]

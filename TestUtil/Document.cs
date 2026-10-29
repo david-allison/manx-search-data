@@ -1,9 +1,6 @@
 ﻿using CsvHelper;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
-using System.Linq;
 
 namespace Manx_Search_Data.TestUtil
 {
@@ -62,13 +59,22 @@ namespace Manx_Search_Data.TestUtil
         internal abstract List<DocumentLine> LoadLocalFile();
         internal abstract List<string> LoadHeaders();
 
+        internal static readonly CsvReaderOptions CsvOptions = new()
+        {
+            Separator = ',',
+            MalformedData = CsvMalformedDataHandling.Throw,
+            MissingField = CsvMissingFieldHandling.Throw,
+        };
+
         protected static List<DocumentLine> LoadCsv(string path)
         {
-            using var reader = new StreamReader(path);
-            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-
-            csv.Context.RegisterClassMap<DocumentLineMap>();
-            return csv.GetRecords<DocumentLine>().ToList();
+            using var csv = CsvReader.FromFile(path, CsvOptions);
+            var lines = new List<DocumentLine>();
+            while (csv.Read())
+            {
+                lines.Add(csv.GetRecord<DocumentLine>());
+            }
+            return lines;
         }
 
 
