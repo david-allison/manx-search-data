@@ -4,7 +4,6 @@ using Manx_Search_Data.TestUtil;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 
@@ -127,16 +126,13 @@ namespace Manx_Search_Data
 
             string written = WriteCsv(lines, headers);
 
-            using (var headerReader = new CsvReader(new StringReader(written), CultureInfo.InvariantCulture))
+            using (var headerReader = CsvReader.FromText(written, Document.CsvOptions))
             {
-                headerReader.Read();
-                headerReader.ReadHeader();
-                Assert.That(headerReader.HeaderRecord.Contains("ManxColumnLanguage"), Is.EqualTo(headers.Contains("ManxColumnLanguage")),
+                Assert.That(headerReader.Headers.Contains("ManxColumnLanguage"), Is.EqualTo(headers.Contains("ManxColumnLanguage")),
                     "reserialization must not add or remove the 'ManxColumnLanguage' column");
             }
 
-            using var csv = new CsvReader(new StringReader(written), CultureInfo.InvariantCulture);
-            csv.Context.RegisterClassMap<DocumentLineMap>();
+            using var csv = CsvReader.FromText(written, Document.CsvOptions);
             var reparsed = csv.GetRecords<DocumentLine>().ToList();
 
             Assert.That(reparsed, Has.Count.EqualTo(lines.Count));
@@ -149,10 +145,9 @@ namespace Manx_Search_Data
         private static string WriteCsv(IEnumerable<DocumentLine> lines, ICollection<string> headers)
         {
             using var stringWriter = new StringWriter();
-            using (var csv = new CsvWriter(stringWriter, CultureInfo.InvariantCulture))
+            using (var csv = CsvWriter.Create(stringWriter, leaveOpen: true))
             {
-                csv.Context.RegisterClassMap(new PresentColumnsDocumentLineMap(headers));
-                csv.WriteRecords(lines);
+                csv.WriteRecords(lines, new PresentColumnsDocumentLineWriter(headers));
             }
             return stringWriter.ToString();
         }
