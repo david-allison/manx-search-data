@@ -1,11 +1,7 @@
 {
   "created": "1783-01-01",
   "ident": "WilsonSermonsI",
-<<<<<<< HEAD
   "name": "Sharmaneyn Wilson Lioar I [1-21]",
-=======
-  "name": "Sharmaneyn Wilson Lioar I [1-20]",
->>>>>>> master
   "translated": "Henry Corlett",
   "author": "Thomase Wilson DD Lord Bishop of Sodor and Man between 1697 and 1755",
   "original": "English",
