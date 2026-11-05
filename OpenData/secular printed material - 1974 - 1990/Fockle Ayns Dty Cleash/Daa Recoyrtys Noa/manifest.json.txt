@@ -6,5 +6,6 @@
   "author": "Branlaadagh",
   "original": "Manx",
   "notes": "Transcription \u0026 Translation: RT",
-  "source": "Manx Star, 22nd July, 1974. Page 6. Fockle Ayns Dty Cleash."
+  "source": "Manx Star, 22nd July, 1974. Page 6. Fockle Ayns Dty Cleash.",
+  "uploaded by": "Rob Teare"
 }

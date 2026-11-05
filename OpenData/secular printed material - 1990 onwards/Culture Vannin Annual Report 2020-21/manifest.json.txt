@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2021-01-01",
+  "createdCircaEnd": "2021-12-31",
+  "ident": "culture-vannin-annual-report-2020-21",
+  "name": "Culture Vannin Annual Report 2020-2021",
+  "author": "Culture Vannin",
+  "original": "English",
+  "notes": "Bilingual extracts from the Culture Vannin Annual Report for the 2020-21 financial year: the Chair\u0027s statement (Goan y Chaairliagh) by Christopher Thomas MHK, development work highlights, grant highlights, and the award of the Reih Bleeaney Vanannan to Peter Kelly. Two bullet points in \u0027Helping others to learn about Manx culture\u0027 appear only in English in the original.",
+  "source": "Culture Vannin Annual Report 2020-2021, Culture Vannin, St John\u0027s, Isle of Man. https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}

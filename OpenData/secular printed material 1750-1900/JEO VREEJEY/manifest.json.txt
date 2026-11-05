@@ -7,5 +7,6 @@
   "translated": "Rob Teare 2021 (Suggested translation)",
   "type": "Traditionary Ballad",
   "source": "Coontey-Ghiare jeh Ellan Vannin, ayns Gailck; Joe Bridson: 17.12.1760, print edition: Manx Society Vol XX; Manx Miscellanies I. 1871.",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "Rob Teare"
 }

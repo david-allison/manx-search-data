@@ -2,5 +2,6 @@
   "created": "1899-09-06",
   "ident": "NedBegSkeealBegJehSaggyrtVaErGheddynAynsLhiastynyn",
   "name": "Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

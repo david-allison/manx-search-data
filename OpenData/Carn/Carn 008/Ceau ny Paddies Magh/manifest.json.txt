@@ -3,5 +3,6 @@
   "ident": "Carn8CeauNyPaddiesMagh",
   "name": "Carn 008: Ceau ny Paddies Magh.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx"
 }

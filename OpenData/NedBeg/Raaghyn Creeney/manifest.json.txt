@@ -9,5 +9,6 @@
   "Translation": "Robert Teare",
   "Standardisation": "Robert Teare",
   "source": "Yn Lioar Yiarg, MS 341 C",
-  "iMuseum": "MS 341 C"
+  "iMuseum": "MS 341 C",
+  "uploaded by": "David Allison"
 }

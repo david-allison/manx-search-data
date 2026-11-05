@@ -8,5 +8,6 @@
   "transcription": "R. Teare.",
   "translation": "R. Teare.",
   "notes": "Pieces of Manx recorded on signs to greet the Duke of Edinburgh. The Manx is not standard; eg; \u0027Yn Theay Vannin\u0027 for \u0027Ta Theay Vannin\u0027 \u0026 \u0027sosthyns shultayr Prince\u0027 for \u0027Prince-Shiolteyr Hostyn\u0027,   ",
-  "source": "Mona\u0027s Herald, Wednesday, February 01, 1882; Page: 4"
+  "source": "Mona\u0027s Herald, Wednesday, February 01, 1882; Page: 4",
+  "uploaded by": "Rob Teare"
 }

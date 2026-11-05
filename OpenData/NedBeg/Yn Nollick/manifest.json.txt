@@ -2,5 +2,7 @@
   "created": "1899-12-10",
   "ident": "NedBegYnNollick",
   "name": "Yn Nollick",
-  "original": "Manx"
+  "original": "Manx",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "David Allison"
 }

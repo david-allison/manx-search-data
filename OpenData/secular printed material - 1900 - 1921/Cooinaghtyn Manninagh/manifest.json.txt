@@ -9,5 +9,6 @@
   "translator": "Dr. John Clague",
   "transcribed by": "R. Teare",
   "Type": "biographical, folklore, scientific, music",
-  "source": "\u0027Manx Reminiscences by the Late Dr. John Clague, Crofton, Castletown, Isle of Man, Manx and English, Published by M. J. Blackwell, Castletown, 1911."
+  "source": "\u0027Manx Reminiscences by the Late Dr. John Clague, Crofton, Castletown, Isle of Man, Manx and English, Published by M. J. Blackwell, Castletown, 1911.",
+  "uploaded by": "Rob Teare"
 }

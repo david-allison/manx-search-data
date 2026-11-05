@@ -4,6 +4,8 @@
   "ident": "Carn131AaviogheyChengaghynLiorishEllyn",
   "name": "Carn 131: Aavioghey Chengaghyn Liorish Ellyn",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 2005"
+  "notes": "Autumn 2005",
+  "uploaded by": "David Allison"
 }

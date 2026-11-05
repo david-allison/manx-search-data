@@ -9,5 +9,6 @@
   "author": "J.Kewley",
   "transcription": "R. Teare",
   "translator": "unknown \u2014\u00A0likely J. Kewley",
-  "source": "Isle of Man Examiner, Friday, September 21, 1923; Page: 7"
+  "source": "Isle of Man Examiner, Friday, September 21, 1923; Page: 7",
+  "uploaded by": "Rob Teare"
 }

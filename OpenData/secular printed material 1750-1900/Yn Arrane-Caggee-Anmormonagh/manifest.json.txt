@@ -7,5 +7,6 @@
   "author": "J. Ivon. Mosley",
   "original": "Manx",
   "source": "Manx Sun, Saturday, September 06, 1862; Page: 18",
-  "mnhNewsComponent": "Ar01807"
+  "mnhNewsComponent": "Ar01807",
+  "uploaded by": "David Allison"
 }

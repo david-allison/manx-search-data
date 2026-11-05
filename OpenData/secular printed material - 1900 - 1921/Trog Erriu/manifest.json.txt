@@ -8,5 +8,6 @@
   "type": "song",
   "transcription": "R. Teare",
   "translation": "accompanies original",
-  "source": "Isle of Man Examiner, Saturday, October 06, 1900; Page: 6"
+  "source": "Isle of Man Examiner, Saturday, October 06, 1900; Page: 6",
+  "uploaded by": "David Allison"
 }

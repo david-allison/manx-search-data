@@ -8,5 +8,6 @@
   "author": "Edward Faragher",
   "digitisation": "Broderick (1981), Lewin (2014) text 3",
   "translation": "Christoper Lewin",
-  "source": "MNHL MS 00431C"
+  "source": "MNHL MS 00431C",
+  "uploaded by": "David Allison"
 }

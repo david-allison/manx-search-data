@@ -5,5 +5,6 @@
   "original": "Manx",
   "notes": "A wanted poster issued on behalf of Governor Loch, also published in the Manx Sun",
   "source": "Manx Sun, Saturday, March 28, 1863; Page: 12",
-  "mnhNewsComponent": "Ar01203"
+  "mnhNewsComponent": "Ar01203",
+  "uploaded by": "David Allison"
 }

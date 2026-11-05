@@ -8,5 +8,6 @@
   "type": "Newspaper column",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Manx Star, Saturday, 14th August, 1976"
+  "source": "Manx Star, Saturday, 14th August, 1976",
+  "uploaded by": "Rob Teare"
 }

@@ -4,6 +4,8 @@
   "ident": "Carn106Jee-VeanagheyKiartNyKialg",
   "name": "Carn 106: Jee-Veanaghey Kiart, Ny Kialg?",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1999"
+  "notes": "Summer 1999",
+  "uploaded by": "David Allison"
 }

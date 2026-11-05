@@ -4,6 +4,8 @@
   "ident": "Carn65ChengaghynCeltiaghAynsScoillyn",
   "name": "Carn 065: Chengaghyn Celtiagh ayns Scoillyn",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1989"
+  "notes": "Spring 1989",
+  "uploaded by": "David Allison"
 }

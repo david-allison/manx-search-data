@@ -4,6 +4,8 @@
   "ident": "Carn68SostynCheltiagh",
   "name": "Carn 068: Sostyn Cheltiagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1989/90"
+  "notes": "Winter 1989/90",
+  "uploaded by": "David Allison"
 }

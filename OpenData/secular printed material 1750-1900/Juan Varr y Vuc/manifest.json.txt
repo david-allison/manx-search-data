@@ -9,5 +9,6 @@
   "transcription": "R. Teare",
   "translation": "unknown",
   "type": "Folk Story",
-  "source": "Ramsey Weekly News, Saturday, July 08, 1899; Page: 7"
+  "source": "Ramsey Weekly News, Saturday, July 08, 1899; Page: 7",
+  "uploaded by": "Rob Teare"
 }

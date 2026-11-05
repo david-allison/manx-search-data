@@ -9,5 +9,6 @@
   "original": "English",
   "source": "Tract 174 \u0027Valley-beg Ayns Sleityn y Rank\u0027 Printed by G. Jefferson. Douglas. 1823",
   "English Source": "Tract 174 \u0027The Village in the Mountains\u0027 The Religious Tract Society. 1820-1823",
-  "Transcription": "Max Wheeler 2021"
+  "Transcription": "Max Wheeler 2021",
+  "uploaded by": "Rob Teare"
 }

@@ -7,5 +7,6 @@
   "translated": "Tim Swales (2025)",
   "license": "CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "original": "Manx",
-  "iMuseum": "MS9495"
+  "iMuseum": "MS9495",
+  "uploaded by": "David Allison"
 }

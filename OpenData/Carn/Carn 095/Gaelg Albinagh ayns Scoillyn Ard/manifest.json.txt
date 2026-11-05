@@ -4,6 +4,8 @@
   "ident": "Carn95GaelgAlbinaghAynsScoillynArd",
   "name": "Carn 095: Gaelg Albinagh ayns Scoillyn Ard",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1996"
+  "notes": "Autumn 1996",
+  "uploaded by": "David Allison"
 }

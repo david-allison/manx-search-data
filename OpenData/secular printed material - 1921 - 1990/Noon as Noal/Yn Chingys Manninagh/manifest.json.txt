@@ -9,5 +9,6 @@
   "type": "Manx Langauge Column",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 8th January, 1977"
+  "source": "Noon as Noal, Manx Star, Saturday, 8th January, 1977",
+  "uploaded by": "Rob Teare"
 }

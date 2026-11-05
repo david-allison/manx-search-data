@@ -4,6 +4,8 @@
   "ident": "Carn78AshoonynAsMynlughtyn",
   "name": "Carn 078: Ashoonyn as Mynlughtyn",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1992"
+  "notes": "Summer 1992",
+  "uploaded by": "David Allison"
 }

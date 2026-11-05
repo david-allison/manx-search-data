@@ -4,6 +4,8 @@
   "ident": "Carn98YnChynskyl-Eiraght",
   "name": "Carn 098: Yn Chynskyl-Eiraght",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1997"
+  "notes": "Summer 1997",
+  "uploaded by": "David Allison"
 }

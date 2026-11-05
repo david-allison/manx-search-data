@@ -4,6 +4,8 @@
   "ident": "Carn144CohaglymCeltiagh2009",
   "name": "Carn 144: Cohaglym Celtiagh 2009",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "October 2009"
+  "notes": "October 2009",
+  "uploaded by": "David Allison"
 }

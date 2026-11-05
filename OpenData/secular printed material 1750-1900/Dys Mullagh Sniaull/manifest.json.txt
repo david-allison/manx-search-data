@@ -6,5 +6,6 @@
   "author": "Thom y Fidder/Thomm Beg",
   "original": "Manx",
   "translation": "Isle of Man Examiner",
-  "source": "Isle of Man Examiner, Saturday, December 16, 1899; Page: 2 \u0026 Saturday, December 23, 1899; Page: 3 with Translation."
+  "source": "Isle of Man Examiner, Saturday, December 16, 1899; Page: 2 \u0026 Saturday, December 23, 1899; Page: 3 with Translation.",
+  "uploaded by": "Rob Teare"
 }

@@ -7,5 +7,6 @@
   "research project": "British Academy and Leverhulme Trust Small Project Grant, \u2018Variation and change in the language of Manx sermons\u2019, Department of Welsh and Celtic Studies, Aberystwyth University. Additional funding from Culture Vannin.",
   "author": "William Crebbin",
   "original": "English",
-  "source": "MNH manuscript MS-00174.6"
+  "source": "MNH manuscript MS-00174.6",
+  "uploaded by": "Rob Teare"
 }

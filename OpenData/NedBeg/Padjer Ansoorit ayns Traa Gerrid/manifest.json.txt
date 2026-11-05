@@ -2,5 +2,6 @@
   "created": "1899-07-18",
   "ident": "NedBegPadjerAnsooritAynsTraaGerrid",
   "name": "Padjer Ansoorit ayns Traa Gerrid",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

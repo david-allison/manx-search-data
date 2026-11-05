@@ -7,5 +7,7 @@
   "type": "Poem",
   "mnhNewsComponent": "Ar00400",
   "original": "Manx",
-  "source": "Manks Advertiser, Thursday, June 19, 1823; Page 4."
+  "source": "Manks Advertiser, Thursday, June 19, 1823; Page 4.",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "David Allison"
 }

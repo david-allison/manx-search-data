@@ -10,5 +10,6 @@
   "mnhNewsComponent": "Ar00807",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Gyn-Oayl: Peel City Guardian, Saturday, June 18, 1910; Page: 8"
+  "source": "Gyn-Oayl: Peel City Guardian, Saturday, June 18, 1910; Page: 8",
+  "uploaded by": "Rob Teare"
 }

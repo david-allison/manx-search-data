@@ -5,5 +5,6 @@
   "notes": "Brief typed notes of an interview with Mr Clague, chemist.",
   "interviewers": "Leslie Quirk and Miss Cregeen",
   "translated": "Rob Teare 2021",
-  "source": "Manx Museum Folk Life Survey; FLS Q/31A"
+  "source": "Manx Museum Folk Life Survey; FLS Q/31A",
+  "uploaded by": "David Allison"
 }

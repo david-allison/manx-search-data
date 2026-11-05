@@ -4,6 +4,8 @@
   "ident": "Carn150BarriaghtPharteeAshoonaghNalbin",
   "name": "Carn 150: Barriaght Phartee Ashoonagh Nalbin",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 2011"
+  "notes": "Summer 2011",
+  "uploaded by": "David Allison"
 }

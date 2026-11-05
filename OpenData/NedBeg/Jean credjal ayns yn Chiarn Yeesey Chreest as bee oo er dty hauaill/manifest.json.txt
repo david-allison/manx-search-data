@@ -2,5 +2,6 @@
   "created": "1899-06-05",
   "ident": "NedBegJeanCredjalAynsYnChiarn",
   "name": "Jean credjal ayns yn \u00C7hiarn Yeesey Chreest as bee oo er dty hauaill",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

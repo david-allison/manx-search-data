@@ -5,5 +5,6 @@
   "notes": "Manx and English versions ",
   "author": "English- McFarlan, R.; Manx- Kneen. J. J.",
   "source": "Isle of Man Examiner, Saturday, March 11, 1899; Page: 6 \u0026 Saturday, March 18, 1899; Page: 6. English taken from verses of MacPherson\u0027s Ossianic poem Carthon as published in \u0027The Poems of Ossian in the Original Gaelic with a translation into Latin by the late Robert MacFarlan,A.M. etc. The Highland Society of London. 1807.",
-  "original": "English"
+  "original": "English",
+  "uploaded by": "Rob Teare"
 }

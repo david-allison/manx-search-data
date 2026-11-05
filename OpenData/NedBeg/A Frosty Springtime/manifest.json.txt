@@ -2,5 +2,6 @@
   "created": "1908-07-18",
   "ident": "NedBeg-A-Frosty-Springtime",
   "name": "Ned Beg - 59. \u2018A Frosty Springtime\u2019.",
-  "notes": "Isle of Man Examiner, Saturday, July 18, 1908; Page: 2"
+  "notes": "Isle of Man Examiner, Saturday, July 18, 1908; Page: 2",
+  "uploaded by": "David Allison"
 }

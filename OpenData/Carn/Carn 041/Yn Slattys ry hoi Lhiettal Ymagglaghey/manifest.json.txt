@@ -4,6 +4,8 @@
   "ident": "Carn41YnSlattysRyHoiLhiettalYmagglaghey",
   "name": "Carn 041: Yn Slattys ry hoi Lhiettal Ymagglaghey",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1983"
+  "notes": "Spring 1983",
+  "uploaded by": "David Allison"
 }

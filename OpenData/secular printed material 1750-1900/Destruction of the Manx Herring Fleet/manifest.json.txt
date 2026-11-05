@@ -10,5 +10,6 @@
   "original": "Manx",
   "Original Notes": "See \u201CArrane mysh ny baatyn va caillit ec Doolish \u2019sy vlein 1787. Septr. 20th\u201D C. 1850 for a manuscript version",
   "source": "printed single page document in the \u0027Manx Ballads and Carvals\u0027 collection, MNH Library (J.48.2592.)",
-  "Proofread": "English; Not yet. Manx; Not yet"
+  "Proofread": "English; Not yet. Manx; Not yet",
+  "uploaded by": "Rob Teare"
 }

@@ -4,6 +4,8 @@
   "ident": "Carn80TaDooinney-BaneLoayrtLeshChengeyGhollagagh",
   "name": "Carn 080: Ta Dooinney-Bane Loayrt Lesh Chengey Ghollagagh",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1992/3"
+  "notes": "Winter 1992/3",
+  "uploaded by": "David Allison"
 }

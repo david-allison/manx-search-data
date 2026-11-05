@@ -1,5 +1,7 @@
 {
   "created": "1899-06-10",
   "ident": "NedBegLhigdanSoilsheyEuSoilshean",
-  "name": "Lhig da\u2019n soilshey eu soilshean"
+  "name": "Lhig da\u2019n soilshey eu soilshean",
+  "uploaded by": "David Allison",
+  "standardised by": "James Harrison"
 }

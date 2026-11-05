@@ -5,5 +5,7 @@
   "notes": "Our Manks Correspondent: Manks Advertiser, Thursday, June 10, 1824; Page: 3. Transcribed \u0026 translated R.Teare 2020",
   "source": "Manks Advertiser, Thursday, June 10, 1824; Page: 3. Heading: From Our Manks Correspondent. Bottom of col 2",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00302"
+  "mnhNewsComponent": "Ar00302",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

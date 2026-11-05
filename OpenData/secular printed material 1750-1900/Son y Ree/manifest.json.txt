@@ -5,5 +5,6 @@
   "type": "Poem",
   "original": "Manx",
   "notes": "Poem printed without any information concerning date or author - but title translates as \u0027For the King\u0027 so likely pre 1837.Translation; RT 2021.",
-  "source": "Mona\u0027s Herald, Wednesday, March 18, 1891; Page: 2 - though likely older as the monarch had been Queen Victoria since 1837"
+  "source": "Mona\u0027s Herald, Wednesday, March 18, 1891; Page: 2 - though likely older as the monarch had been Queen Victoria since 1837",
+  "uploaded by": "Rob Teare"
 }

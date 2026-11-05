@@ -4,6 +4,8 @@
   "ident": "Carn132AghtynNoaRyHoiGynsagheyChengaghyn",
   "name": "Carn 132: Aghtyn Noa ry hoi gynsaghey chengaghyn",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 2005"
+  "notes": "Winter 2005",
+  "uploaded by": "David Allison"
 }

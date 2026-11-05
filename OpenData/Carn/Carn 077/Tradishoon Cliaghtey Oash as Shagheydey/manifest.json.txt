@@ -4,6 +4,8 @@
   "ident": "Carn77TradishoonCliaghteyOashAsShagheydey",
   "name": "Carn 077: Tradishoon, Cliaghtey, Oash as Shagheydey",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1992"
+  "notes": "Spring 1992",
+  "uploaded by": "David Allison"
 }

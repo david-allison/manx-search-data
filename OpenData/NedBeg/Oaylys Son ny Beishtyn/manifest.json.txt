@@ -4,5 +4,6 @@
   "ident": "NedBeg-Oaylys-Son-ny-Beishtyn",
   "name": "Oaylys Son ny Beishtyn",
   "original": "Manx",
-  "notes": "Written Between\n108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)\n113.     Roish Nee Ad Geamagh Neem\u2019s Clashtyn (i) (17.09.1899)"
+  "notes": "Written Between\n108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)\n113.     Roish Nee Ad Geamagh Neem\u2019s Clashtyn (i) (17.09.1899)",
+  "uploaded by": "David Allison"
 }

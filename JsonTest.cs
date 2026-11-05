@@ -43,7 +43,7 @@ public class JsonTest
     /// </summary>
     /// <param name="document"></param>
     [Theory]
-    public void CsvFileIsJalidJsonNet(OpenSourceDocument document)
+    public void CsvFileIsValidJsonNet(OpenSourceDocument document)
     {
         var path = document.LocationOnDisk + "/manifest.json.txt";
 
@@ -62,6 +62,6 @@ public class JsonTest
         // This modifies files in the test dir, not under source control.
         // Copy them over if you want to replace
         // File.WriteAllText(path, output);
-        Assert.AreEqual(input, output);
+        Assert.That(input, Is.EqualTo((string)output));
     }
 }

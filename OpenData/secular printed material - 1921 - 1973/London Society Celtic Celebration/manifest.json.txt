@@ -8,5 +8,6 @@
   "author": "William Radcliffe, recorded by D. C. Christian.",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Mona\u0027s Herald, Wednesday, May 16, 1923; Page: 8"
+  "source": "Mona\u0027s Herald, Wednesday, May 16, 1923; Page: 8",
+  "uploaded by": "Rob Teare"
 }

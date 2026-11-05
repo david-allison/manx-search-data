@@ -7,5 +7,6 @@
   "author": "Shorys Y Crayl",
   "original": "Manx",
   "transcription": "Phil Kelly",
-  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/GK1.html"
+  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/GK1.html",
+  "uploaded by": "David Allison"
 }

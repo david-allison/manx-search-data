@@ -1,0 +1,10 @@
+{
+  "created": "1947-07-05",
+  "ident": "Acts-1946",
+  "name": "Slattysyn 1946",
+  "author": "unknown",
+  "Transcribed": "RT",
+  "original": "English",
+  "iMuseum": "MS D200",
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 5th 1946."
+}

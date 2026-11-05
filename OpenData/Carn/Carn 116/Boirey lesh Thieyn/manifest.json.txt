@@ -4,6 +4,8 @@
   "ident": "Carn116BoireyLeshThieyn",
   "name": "Carn 116: Boirey lesh Thieyn",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 2001/2"
+  "notes": "Winter 2001/2",
+  "uploaded by": "David Allison"
 }

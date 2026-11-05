@@ -4,6 +4,8 @@
   "ident": "Carn109VelEhFeeuDyVeCoontitDyH-oikoilMyrMynlught",
   "name": "Carn 109: Vel eh feeu dy ve coontit dy h-oikoil myr mynlught?",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 2000"
+  "notes": "Spring 2000",
+  "uploaded by": "David Allison"
 }

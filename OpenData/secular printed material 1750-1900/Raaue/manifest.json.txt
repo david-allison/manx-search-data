@@ -5,5 +5,6 @@
   "original": "Manx",
   "author": "Editorial",
   "notes": "Temperance editorial against allowing pubs to open on Sundays.",
-  "source": "Mona\u0027s Herald, Wednesday, March 09, 1864; Page: 10  "
+  "source": "Mona\u0027s Herald, Wednesday, March 09, 1864; Page: 10  ",
+  "uploaded by": "David Allison"
 }

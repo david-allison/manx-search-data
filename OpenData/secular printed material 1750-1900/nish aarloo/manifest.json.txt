@@ -5,5 +5,6 @@
   "notes": "Advertisement of religious books in Manx; Transcribed \u0026 translated R.Teare 2020",
   "source": "Manx Liberal, Saturday, March 20, 1847; Page 2.",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00226"
+  "mnhNewsComponent": "Ar00226",
+  "uploaded by": "Rob Teare"
 }

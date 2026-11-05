@@ -4,6 +4,8 @@
   "ident": "Carn60SmooinaghtynErMyLaghynSeyrey",
   "name": "Carn 060: Smooinaghtyn Er My Laghyn Seyrey",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1987/88"
+  "notes": "Winter 1987/88",
+  "uploaded by": "David Allison"
 }

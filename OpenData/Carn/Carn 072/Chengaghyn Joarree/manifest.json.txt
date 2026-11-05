@@ -4,6 +4,8 @@
   "ident": "Carn72ChengaghynJoarree",
   "name": "Carn 072: Chengaghyn Joarree",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1990/91"
+  "notes": "Winter 1990/91",
+  "uploaded by": "David Allison"
 }

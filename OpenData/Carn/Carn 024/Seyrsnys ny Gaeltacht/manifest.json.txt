@@ -4,6 +4,8 @@
   "ident": "Carn24SeyrsnysNyGaeltacht",
   "name": "Carn 024: Seyrsnys ny Gaeltacht",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1978"
+  "notes": "Winter 1978",
+  "uploaded by": "David Allison"
 }

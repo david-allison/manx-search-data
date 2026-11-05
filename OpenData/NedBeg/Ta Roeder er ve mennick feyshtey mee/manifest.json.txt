@@ -11,5 +11,6 @@
   "Transcription": "Robert Teare",
   "Translation": "Robert Teare",
   "iMuseum": "MS 450/9A",
-  "source": "Dr John Clauge\u0027s Notebook, MS 450/9A"
+  "source": "Dr John Clauge\u0027s Notebook, MS 450/9A",
+  "uploaded by": "Rob Teare"
 }

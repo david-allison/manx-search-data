@@ -8,5 +8,6 @@
   "type": "letter to a newspaper / editorial",
   "transcription": "R. Teare",
   "translation": "authors",
-  "source": "The B.B.C. and the Isle of Man. Vox 21 Dec. 1929. H140/B/YNC8"
+  "source": "The B.B.C. and the Isle of Man. Vox 21 Dec. 1929. H140/B/YNC8",
+  "uploaded by": "Rob Teare"
 }

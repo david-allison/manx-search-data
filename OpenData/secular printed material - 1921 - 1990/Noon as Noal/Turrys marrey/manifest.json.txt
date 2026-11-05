@@ -9,5 +9,6 @@
   "type": "Biographical / Maritime",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 25th June, 1977 \u0027Turrys Marrey My Yiass\u0027"
+  "source": "Noon as Noal, Manx Star, Saturday, 25th June, 1977 \u0027Turrys Marrey My Yiass\u0027",
+  "uploaded by": "Rob Teare"
 }

@@ -6,5 +6,6 @@
   "original": "Manx",
   "author": "\u0027Manxman\u0027",
   "notes": "The translation that accompanies this piece is not literal. Newspaper introduces the piece thus:  To the Editor of Mona\u0027s Herald. Sir,\u2014I forward the following for insertion in the\u00A0Mona\u0027s Herald.\u00A0The herring being of great value to the people of the Isle of Man, as upon the fishing industry a large number of its inhabitants depend for a living, I think the following old native rhyme might interest many of your readers.-\u2014Yours, etc., Manxman.",
-  "source": "Mona\u0027s Herald, Wednesday, September 19, 1888; Page: 3"
+  "source": "Mona\u0027s Herald, Wednesday, September 19, 1888; Page: 3",
+  "uploaded by": "Rob Teare"
 }

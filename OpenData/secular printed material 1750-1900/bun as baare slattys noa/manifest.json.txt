@@ -7,5 +7,7 @@
   "mnhNewsComponent": [
     "Ar00209",
     "Ar00310"
-  ]
+  ],
+  "proofread by": "Max Wheeler",
+  "uploaded by": "David Allison"
 }

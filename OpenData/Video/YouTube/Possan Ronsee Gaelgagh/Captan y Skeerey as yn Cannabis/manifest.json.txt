@@ -8,5 +8,6 @@
   "translated": "Rob Teare 2023",
   "transcribed": "Rob Teare 2023",
   "original": "Manx",
-  "source": "https://www.youtube.com/watch?v=XYmgHWRKhec"
+  "source": "https://www.youtube.com/watch?v=XYmgHWRKhec",
+  "uploaded by": "David Allison"
 }

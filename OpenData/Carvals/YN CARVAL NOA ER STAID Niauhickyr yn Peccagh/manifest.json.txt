@@ -9,5 +9,6 @@
   "type": "printed carval",
   "original": "Manx",
   "Proofread": "Not yet",
-  "source": "Manx Museum MS 154A"
+  "source": "Manx Museum MS 154A",
+  "uploaded by": "Rob Teare"
 }

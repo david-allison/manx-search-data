@@ -4,6 +4,8 @@
   "ident": "Carn36CrooLoayreyderynDooghyssagh",
   "name": "Carn 036: Croo Loayreyderyn Dooghyssagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1981"
+  "notes": "Winter 1981",
+  "uploaded by": "David Allison"
 }

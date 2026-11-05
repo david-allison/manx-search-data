@@ -3,5 +3,6 @@
   "createdCircaEnd": "1907-06-25",
   "ident": "NedBeg-Resooney-rhym-pene-i",
   "name": "Resooney rhym pene (i)",
-  "notes": "(Included in a letter to Kewley).\n\tWritten Between\n29.     A song composed when harvest was over and the cold of winter had come. 03.04.1907 \n40.     Ta mee feer wooisal diu son yn ghioot (Screeuyn dys Kewley 5). 25.06.1907"
+  "notes": "(Included in a letter to Kewley).\n\tWritten Between\n29.     A song composed when harvest was over and the cold of winter had come. 03.04.1907 \n40.     Ta mee feer wooisal diu son yn ghioot (Screeuyn dys Kewley 5). 25.06.1907",
+  "uploaded by": "David Allison"
 }

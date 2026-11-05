@@ -7,5 +7,6 @@
   "translator": "A.W. Moore",
   "type": "Poem",
   "original": "Manx",
-  "source": "Manx Ballads \u0026 Music Ed; A.W.Moore M.A.; G \u0026 R Johnson; Douglas; 1896."
+  "source": "Manx Ballads \u0026 Music Ed; A.W.Moore M.A.; G \u0026 R Johnson; Douglas; 1896.",
+  "uploaded by": "Rob Teare"
 }

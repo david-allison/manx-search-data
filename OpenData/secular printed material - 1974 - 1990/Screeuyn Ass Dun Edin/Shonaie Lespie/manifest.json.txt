@@ -8,5 +8,6 @@
   "type": "Diary column \u0027Skeealyn ass Ellan Arran\u0027",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Screeuyn Voish Doon Edjin: Manx Star, 25th April, 1975. Page 6."
+  "source": "Screeuyn Voish Doon Edjin: Manx Star, 25th April, 1975. Page 6.",
+  "uploaded by": "Rob Teare"
 }

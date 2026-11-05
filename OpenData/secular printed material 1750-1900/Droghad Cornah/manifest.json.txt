@@ -6,5 +6,6 @@
   "author": "Tomm-y-Fidder",
   "original": "Manx",
   "type": "Story",
-  "source": "Peel City Guardian, Saturday, April 22, 1899; Page: 4"
+  "source": "Peel City Guardian, Saturday, April 22, 1899; Page: 4",
+  "uploaded by": "Rob Teare"
 }

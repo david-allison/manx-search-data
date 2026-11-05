@@ -7,5 +7,6 @@
   "author": "\u0027J.T.L. QUIRK",
   "original": "Manx",
   "transcription": "Phil Kelly",
-  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ3.html"
+  "source": "https://archive.gaelg.im/www.gaelg.iofm.net/ARTICLE/LQ/LTQ3.html",
+  "uploaded by": "David Allison"
 }

@@ -10,5 +10,6 @@
   "type": "Poem",
   "transcription": "R. Teare",
   "translation": "in original",
-  "source": "Isle of Man Examiner, Saturday, December 31, 1898; Page: 6"
+  "source": "Isle of Man Examiner, Saturday, December 31, 1898; Page: 6",
+  "uploaded by": "Rob Teare"
 }

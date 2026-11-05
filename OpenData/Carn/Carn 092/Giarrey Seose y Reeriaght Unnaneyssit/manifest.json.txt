@@ -4,6 +4,8 @@
   "ident": "Carn92ChengaghynAsReiltyssyn",
   "name": "Carn 092: Chengaghyn as Reiltyssyn",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1995/6"
+  "notes": "Winter 1995/6",
+  "uploaded by": "David Allison"
 }

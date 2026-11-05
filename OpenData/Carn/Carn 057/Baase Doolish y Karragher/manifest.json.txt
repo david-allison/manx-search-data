@@ -4,6 +4,8 @@
   "ident": "Carn57BaaseDoolishYKarragher",
   "name": "Carn 057: Baase Doolish y Karragher",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1987"
+  "notes": "Spring 1987",
+  "uploaded by": "David Allison"
 }

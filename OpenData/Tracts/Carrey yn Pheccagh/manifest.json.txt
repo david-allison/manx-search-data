@@ -8,5 +8,6 @@
   "original": "English",
   "type": "Tract",
   "source": "Carrey yn Pheccagh",
-  "corupusSource": "Carrey yn Pheccagh B as G.docx"
+  "corupusSource": "Carrey yn Pheccagh B as G.docx",
+  "uploaded by": "David Allison"
 }

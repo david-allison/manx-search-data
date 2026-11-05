@@ -8,5 +8,8 @@
   "transcribed": "R. Teare",
   "author": "H. Stowell",
   "original": "English",
-  "source": "Manx Museum H.140/H/STO"
+  "source": "Manx Museum H.140/H/STO",
+  "inlineReferences": [
+    "bracketed-number"
+  ]
 }

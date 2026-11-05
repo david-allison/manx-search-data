@@ -1,5 +1,6 @@
 {
   "created": "1907-02-15",
   "ident": "NedBegASongComposedWhenHarvestWasOver2",
-  "name": "A song composed when harvest was over and the cold of winter had come (2)"
+  "name": "A song composed when harvest was over and the cold of winter had come (2)",
+  "uploaded by": "David Allison"
 }

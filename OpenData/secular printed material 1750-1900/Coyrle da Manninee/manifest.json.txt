@@ -4,5 +4,6 @@
   "name": "Coyrle da Manninee",
   "notes": "Political Essay. Translation: RT",
   "source": "Mona\u0027s Herald, Friday, February 06, 1835; Page: 2",
-  "mnhNewsComponent": "Ar00214"
+  "mnhNewsComponent": "Ar00214",
+  "uploaded by": "Rob Teare"
 }

@@ -6,5 +6,6 @@
   "original": "Manx",
   "Transcription": "RT",
   "Translation": "RT",
-  "source": "Isle of Man Examiner, Saturday, December 24, 1898; Page: 6"
+  "source": "Isle of Man Examiner, Saturday, December 24, 1898; Page: 6",
+  "uploaded by": "Rob Teare"
 }

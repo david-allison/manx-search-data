@@ -4,6 +4,8 @@
   "ident": "Carn107Chaghnoaylleeaght-FyssereeAynsNalbin",
   "name": "Carn 107: Chaghnoaylleeaght-Fysseree Ayns Nalbin",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1999"
+  "notes": "Autumn 1999",
+  "uploaded by": "David Allison"
 }

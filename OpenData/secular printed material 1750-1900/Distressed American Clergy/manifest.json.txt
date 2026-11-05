@@ -10,5 +10,6 @@
   "original": "English",
   "Original Notes": "The last letter is a Manx translation of an English letter, but we don\u0027t have a copy of the English original in the printed pamphlet",
   "source": "Manx Museum MS 224A / Lib Scacc",
-  "Proofread": "English; RT. Manx; Not yet"
+  "Proofread": "English; RT. Manx; Not yet",
+  "uploaded by": "Rob Teare"
 }

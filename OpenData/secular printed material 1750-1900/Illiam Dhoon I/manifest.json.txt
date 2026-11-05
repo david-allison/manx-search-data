@@ -5,5 +5,6 @@
   "notes": "Transcription, normalisation \u0026 Translation; R. Teare",
   "source": "Mona\u0027s Herald, Friday, August 08, 1834; Page: 3",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00308"
+  "mnhNewsComponent": "Ar00308",
+  "uploaded by": "Rob Teare"
 }

@@ -4,5 +4,6 @@
   "name": "Fencing Tynwald Court 1869",
   "notes": "A wanted poster issued on behalf of Governor Loch, also published in the Manx Sun",
   "source": "Mona\u0027s Herald, Wednesday, June 30, 1869; Page: 2",
-  "mnhNewsComponent": "Ar00203"
+  "mnhNewsComponent": "Ar00203",
+  "uploaded by": "Rob Teare"
 }

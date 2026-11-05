@@ -8,5 +8,6 @@
   "type": "song",
   "transcription": "R. Teare",
   "translation": "accompanies original",
-  "source": "THE \u201CMANX FAIRY\u201D STEAMER. Ramsey Weekly News, Saturday, April 08, 1899; Page: 6"
+  "source": "THE \u201CMANX FAIRY\u201D STEAMER. Ramsey Weekly News, Saturday, April 08, 1899; Page: 6",
+  "uploaded by": "Rob Teare"
 }

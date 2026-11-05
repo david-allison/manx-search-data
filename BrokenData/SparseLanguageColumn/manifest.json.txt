@@ -1,0 +1,6 @@
+{
+	"created": "2026-07-12",
+	"ident": "SparseLanguageColumn",
+	"name": "SparseLanguageColumn",
+	"notes": "A valid document with the optional sparse 'ManxColumnLanguage' column. Not broken: exists to test the column round-trips. See HANDOFF-manx-search-data.md"
+}

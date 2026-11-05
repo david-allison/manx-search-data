@@ -7,5 +7,6 @@
   "author": "Watterson; Station-Master.",
   "transcription": "R. Teare.",
   "original": "Manx",
-  "translation": "IOM Times"
+  "translation": "IOM Times",
+  "uploaded by": "Rob Teare"
 }

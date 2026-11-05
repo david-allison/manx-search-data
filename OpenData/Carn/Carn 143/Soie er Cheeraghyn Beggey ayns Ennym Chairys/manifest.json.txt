@@ -4,6 +4,8 @@
   "ident": "Carn143SoieErCheeraghynBeggeyAynsEnnymChairys",
   "name": "Carn 143: Soie er Cheeraghyn Beggey ayns Ennym Chairys",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 2009"
+  "notes": "Summer 2009",
+  "uploaded by": "David Allison"
 }

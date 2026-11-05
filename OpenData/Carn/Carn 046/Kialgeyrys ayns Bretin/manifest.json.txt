@@ -3,7 +3,9 @@
   "createdCircaEnd": "1984-12-31",
   "ident": "Carn46KialgeyrysAynsBretin",
   "name": "Carn 046: Kialgeyrys ayns Bretin",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Brian Mac Stoyll",
-  "notes": "Summer 1984"
+  "notes": "Summer 1984",
+  "uploaded by": "David Allison"
 }

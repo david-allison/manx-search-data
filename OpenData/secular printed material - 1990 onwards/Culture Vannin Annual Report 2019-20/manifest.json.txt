@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2020-01-01",
+  "createdCircaEnd": "2020-12-31",
+  "ident": "culture-vannin-annual-report-2019-20",
+  "name": "Culture Vannin Annual Report 2019-2020",
+  "author": "Culture Vannin",
+  "original": "English",
+  "notes": "Bilingual extracts from the Culture Vannin Annual Report for the 2019-20 financial year: the Chair\u0027s statement (Goan veih\u0027n Chaarliagh ain) by Chris Thomas MHK, \u0027Who we are and what we do\u0027, development work highlights, grant highlights (festivals and events, skills development, film/book/CD projects), the #treisht2020 projects, the award of the Reih Bleeaney Vanannan to Stephen Miller, and the Gaelic Broadcasting Committee report.",
+  "source": "Culture Vannin Annual Report 2019-2020, Culture Vannin, St John\u0027s, Isle of Man. https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}

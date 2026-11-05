@@ -7,5 +7,6 @@
   "translation": "R. Teare",
   "transcribed by": "R. Teare",
   "name": "Shenn Raaghyn / Raaghyn Shenn Sleih",
-  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907. There are two versions, one titled \u0027Shenn Raaghyn\u0027 (Old Sayings) and the other titled \u0027Raaghyn Shenn Sleih\u0027 (Old People\u0027s Sayings). Where there are differences in the wording the version in \u0027Raaghyn Shenn Sleih\u0027 is in parenthesis."
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907. There are two versions, one titled \u0027Shenn Raaghyn\u0027 (Old Sayings) and the other titled \u0027Raaghyn Shenn Sleih\u0027 (Old People\u0027s Sayings). Where there are differences in the wording the version in \u0027Raaghyn Shenn Sleih\u0027 is in parenthesis.",
+  "uploaded by": "Rob Teare"
 }

@@ -9,5 +9,6 @@
   "Transcription": "Robert Teare",
   "Translation": "Robert Teare",
   "iMuseum": "MS 341 C",
-  "source": "Yn Lioar Ghoo, MS 341 C"
+  "source": "Yn Lioar Ghoo, MS 341 C",
+  "uploaded by": "David Allison"
 }

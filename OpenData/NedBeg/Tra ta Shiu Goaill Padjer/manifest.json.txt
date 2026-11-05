@@ -3,5 +3,6 @@
   "createdCircaEnd": "1899-09-06",
   "ident": "NedBeg-Tra-ta-Shiu-Goaill-Padjer",
   "name": "Tra ta Shiu Goaill Padjer",
-  "notes": "Written Between\n106.     Gaelg. Ta\u2019n Ghrian Houree Soilshean. (02.07.1899)\n108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899)."
+  "notes": "Written Between\n106.     Gaelg. Ta\u2019n Ghrian Houree Soilshean. (02.07.1899)\n108.     Skeeal beg jeh Saggyrt va er gheddyn ayns lhiastynyn (06.09.1899).",
+  "uploaded by": "David Allison"
 }

@@ -33,7 +33,7 @@ namespace Manx_Search_Data
             // if a comma is deleted from a CSV, then the document is invalid
             var document = TestOnlyDocs.Load("MissingFinalComma");            
         
-            Assert.Throws<CsvHelper.MissingFieldException>(() => document.LoadLocalFile());
+            Assert.Throws<CsvHelper.CsvFormatException>(() => document.LoadLocalFile());
         }
 
         [Test]
@@ -76,6 +76,9 @@ namespace Manx_Search_Data
         [Theory]
         public void DefinitionHasDate(Document definition)
         {
+            // a fragments collection (NotesCitationTests) dates from its lines' citations
+            Assume.That(!definition.NotesCitations, "dated per line by its notes' citations");
+
             Assert.That(definition.CreatedCircaStart, Is.Not.Null, $"Either '{nameof(Document.Created)}' or '{nameof(Document.CreatedCircaStart)}' must be set");
             Assert.That(definition.CreatedCircaEnd, Is.Not.Null, $"Either '{nameof(Document.Created)}' or '{nameof(Document.CreatedCircaEnd)}' must be set");
         }
@@ -83,6 +86,8 @@ namespace Manx_Search_Data
         [Theory]
         public void DefinitionDatesAreValid(Document definition)
         {
+            Assume.That(!definition.NotesCitations, "dated per line by its notes' citations");
+
             Assert.That(definition.CreatedCircaStart, Is.LessThanOrEqualTo(definition.CreatedCircaEnd), $"'{nameof(Document.CreatedCircaStart)}' was greater than '{nameof(Document.CreatedCircaEnd)}'");
         }
 

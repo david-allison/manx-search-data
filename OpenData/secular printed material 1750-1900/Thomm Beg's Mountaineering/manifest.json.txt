@@ -6,5 +6,6 @@
   "source": "Isle of Man Examiner, Saturday, August 20, 1898; Page: 2",
   "author": "Thomm Beg",
   "original": "Manx",
-  "translator": "Thomm Beg"
+  "translator": "Thomm Beg",
+  "uploaded by": "Rob Teare"
 }

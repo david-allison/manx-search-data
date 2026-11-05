@@ -6,5 +6,6 @@
   "type": "Poem",
   "author": "Rev. T. Stephen",
   "source": "Manks Advertiser, Thursday, July 01, 1824, Page 3. Original translation.",
-  "mnhNewsComponent": "Ar00307"
+  "mnhNewsComponent": "Ar00307",
+  "uploaded by": "Rob Teare"
 }

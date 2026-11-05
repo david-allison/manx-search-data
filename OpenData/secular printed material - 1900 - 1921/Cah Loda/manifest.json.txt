@@ -8,5 +8,6 @@
   "original": "English",
   "transcription": "RT",
   "translation": "J.J. Kneen",
-  "source": "Isle of Man Examiner, Saturday, March 25, 1899;Page: 6 / June 03 1899, Isle of Man Examiner, Saturday, April 01, 1899; Page: 2, / Isle of Man Examiner, Saturday, April 08, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 15, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 22, 1899; Page: 2 / Isle of Man Examiner, Saturday, May 06, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 13, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 20, 1899; Page: 2 / Isle of Man Examiner, Saturday, June 03, 1899; Page: 3"
+  "source": "Isle of Man Examiner, Saturday, March 25, 1899;Page: 6 / June 03 1899, Isle of Man Examiner, Saturday, April 01, 1899; Page: 2, / Isle of Man Examiner, Saturday, April 08, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 15, 1899; Page: 2 / Isle of Man Examiner, Saturday, April 22, 1899; Page: 2 / Isle of Man Examiner, Saturday, May 06, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 13, 1899; Page: 3 / Isle of Man Examiner, Saturday, May 20, 1899; Page: 2 / Isle of Man Examiner, Saturday, June 03, 1899; Page: 3",
+  "uploaded by": "Rob Teare"
 }

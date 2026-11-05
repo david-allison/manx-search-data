@@ -4,6 +4,8 @@
   "ident": "Carn29LosteyThieynAynsBretin",
   "name": "Carn 029: Lostey Thieyn ayns Bretin.",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Spring 1980"
+  "notes": "Spring 1980",
+  "uploaded by": "David Allison"
 }

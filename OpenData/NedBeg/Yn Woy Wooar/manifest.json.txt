@@ -8,5 +8,6 @@
   "author": "Edward Faragher",
   "transcribed by": "RT",
   "Translated by": "RT",
-  "source": "Yn Lioar Veg, MS 00431C"
+  "source": "Yn Lioar Veg, MS 00431C",
+  "uploaded by": "Rob Teare"
 }

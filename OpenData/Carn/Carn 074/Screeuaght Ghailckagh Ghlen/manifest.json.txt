@@ -4,6 +4,8 @@
   "ident": "Carn74ScreeuaghtGhailckaghGhlen",
   "name": "Carn 074: Screeuaght Ghailckagh Ghlen",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1991"
+  "notes": "Summer 1991",
+  "uploaded by": "David Allison"
 }

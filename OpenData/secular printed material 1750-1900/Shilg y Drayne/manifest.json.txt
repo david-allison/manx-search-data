@@ -9,5 +9,6 @@
   "type": "Folk Song",
   "transcribed": "R. Teare",
   "translator": "R. Teare (with reference to tradition English sources)",
-  "source": "Ramsey Courier, Tuesday, March 10, 1896; Page: 3 \u0026 Ramsey Courier, Tuesday, September 29, 1896; Page: 3:"
+  "source": "Ramsey Courier, Tuesday, March 10, 1896; Page: 3 \u0026 Ramsey Courier, Tuesday, September 29, 1896; Page: 3:",
+  "uploaded by": "Rob Teare"
 }

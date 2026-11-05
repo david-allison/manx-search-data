@@ -5,5 +5,6 @@
   "author": "unknown, Manx read out by Archdeacon Kewley, likely author of the Manx",
   "original": "English",
   "iMuseum": "MS D200",
-  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 6th 1936."
+  "notes": "MS D200. Abstracts of the Acts of Tynwald proclamated on July 6th 1936.",
+  "uploaded by": "Rob Teare"
 }

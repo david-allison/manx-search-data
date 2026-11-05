@@ -5,5 +5,6 @@
   "translator": "Isle of Man Examiner",
   "notes": "Address at T.E. Brown Lecture \u0027Manx Characters\u0027",
   "original": "Manx",
-  "source": "Isle of Man Times, Tuesday, January 31, 1893; Page: 4"
+  "source": "Isle of Man Times, Tuesday, January 31, 1893; Page: 4",
+  "uploaded by": "David Allison"
 }

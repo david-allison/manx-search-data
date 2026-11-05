@@ -14,5 +14,6 @@
   },
   "English Source": "Homily VII. Against swearing and perjury [author unknown] 1810: in Sermons or Homilies appointed to be read in Churches .... Oxford: Clarendon Press.",
   "googleBooksId": "WpxcjviiUcoC",
-  "Transcription": "Max Wheeler 2021"
+  "Transcription": "Max Wheeler 2021",
+  "uploaded by": "David Allison"
 }

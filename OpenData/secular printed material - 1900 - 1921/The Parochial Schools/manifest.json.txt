@@ -9,5 +9,6 @@
   "notes": "This paragraph appears at the end of a letter (the rest of which is in English) defending the Island\u2019s Parochial School system. Replies to the letter include \u2018A Voice from Buggane Gob-ny-Scoot\u2019 in Mona\u2019s Herald, Wednesday, January 08, 1845; Page:7, (included here) and correspondence from \u2018A Traveller\u2019 in Mona\u0027s Herald, Wednesday, January 29, 1845; Page: 3.",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "\u2018The Parochial Schools\u2019 : Mona\u0027s Herald, Wednesday, Dec. 25, 1844; Page: 4"
+  "source": "\u2018The Parochial Schools\u2019 : Mona\u0027s Herald, Wednesday, Dec. 25, 1844; Page: 4",
+  "uploaded by": "Rob Teare"
 }

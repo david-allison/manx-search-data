@@ -4,6 +4,8 @@
   "ident": "Carn103CaggaghynChellveeish",
   "name": "Carn 103: Caggaghyn Chellveeish",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1998"
+  "notes": "Autumn 1998",
+  "uploaded by": "David Allison"
 }

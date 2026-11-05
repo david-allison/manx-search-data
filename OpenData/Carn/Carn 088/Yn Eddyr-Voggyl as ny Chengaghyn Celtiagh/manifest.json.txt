@@ -4,6 +4,8 @@
   "ident": "Carn88YnEddyr-VoggylAsNyChengaghynCeltiagh",
   "name": "Carn 088: Yn Eddyr-Voggyl as ny Chengaghyn Celtiagh",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1994/5"
+  "notes": "Winter 1994/5",
+  "uploaded by": "David Allison"
 }

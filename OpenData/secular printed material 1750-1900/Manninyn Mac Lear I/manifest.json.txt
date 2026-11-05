@@ -5,5 +5,7 @@
   "notes": "Transcription and translation; R.Teare; from an letter in Mona\u2019s Herald from \u2018Manninyn Mac Lear\u2019.",
   "source": "Mona\u0027s Herald, Friday, June 06, 1834; Page: 3",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00304"
+  "mnhNewsComponent": "Ar00304",
+  "proofread by": "Max Wheeler",
+  "uploaded by": "Rob Teare"
 }

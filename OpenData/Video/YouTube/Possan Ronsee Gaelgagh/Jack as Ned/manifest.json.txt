@@ -9,5 +9,6 @@
   "translated": "Rob Teare 2024",
   "transcribed": "Rob Teare 2024",
   "original": "Manx",
-  "source": "https://www.youtube.com/watch?v=LYfVg7fAw7w"
+  "source": "https://www.youtube.com/watch?v=LYfVg7fAw7w",
+  "uploaded by": "David Allison"
 }

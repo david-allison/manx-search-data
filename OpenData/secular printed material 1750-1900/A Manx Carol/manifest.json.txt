@@ -8,5 +8,6 @@
   "type": "Religious Song",
   "transcribed": "R. Teare",
   "translator": "R. Teare",
-  "source": "Mona Miscellany; Edited by W. Harrison: Manx Society Vol. XVI; 1869"
+  "source": "Mona Miscellany; Edited by W. Harrison: Manx Society Vol. XVI; 1869",
+  "uploaded by": "Rob Teare"
 }

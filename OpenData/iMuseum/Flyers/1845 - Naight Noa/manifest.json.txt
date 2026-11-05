@@ -5,5 +5,6 @@
   "name": "NAIGHT NOA!",
   "iMuseum": "M7.11.0 (H140/D12)",
   "original": "Manx",
-  "notes": "\u2018NAIGHT NOA\u2019;  a real or perhaps satirical flyer for a brothel in Douglas from the mid nineteenth century is kept in the Manx Museum Library [M7.11.0 (H140/D12)]. The accompanying file notes say \u2018 c.1845\u2019"
+  "notes": "\u2018NAIGHT NOA\u2019;  a real or perhaps satirical flyer for a brothel in Douglas from the mid nineteenth century is kept in the Manx Museum Library [M7.11.0 (H140/D12)]. The accompanying file notes say \u2018 c.1845\u2019",
+  "uploaded by": "David Allison"
 }

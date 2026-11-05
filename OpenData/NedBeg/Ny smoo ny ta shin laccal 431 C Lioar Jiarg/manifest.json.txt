@@ -3,5 +3,6 @@
   "createdCircaEnd": "1901-01-05",
   "ident": "NedBegNySmooNyTaShinLaccal",
   "name": "Ny smoo ny ta shin laccal. 431 C Lioar Jiarg",
-  "notes": "Written Between\n159.     T\u2019ou cur dooin prowalyn dagh laa O Yee. 431 C Lioar Jiarg (1900-11-24)\n161.     Ren Wellington keayrt ginsh 431 C Lioar Jiarg (1901-01-05)"
+  "notes": "Written Between\n159.     T\u2019ou cur dooin prowalyn dagh laa O Yee. 431 C Lioar Jiarg (1900-11-24)\n161.     Ren Wellington keayrt ginsh 431 C Lioar Jiarg (1901-01-05)",
+  "uploaded by": "David Allison"
 }

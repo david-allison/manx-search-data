@@ -6,5 +6,6 @@
   "type": "Ballad",
   "original": "Manx",
   "source": "Mona\u0027s Herald, Wednesday, February 21, 1872",
-  "mnhNewsComponent": "Ar00604"
+  "mnhNewsComponent": "Ar00604",
+  "uploaded by": "Rob Teare"
 }

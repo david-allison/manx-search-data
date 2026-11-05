@@ -10,5 +10,6 @@
   "transcription": "R. Teare",
   "translation": "R. Teare",
   "mnhNewsComponent": "Ar00340",
-  "source": "Isle of Man Examiner, Saturday, January 27, 1900; Page: 3"
+  "source": "Isle of Man Examiner, Saturday, January 27, 1900; Page: 3",
+  "uploaded by": "David Allison"
 }

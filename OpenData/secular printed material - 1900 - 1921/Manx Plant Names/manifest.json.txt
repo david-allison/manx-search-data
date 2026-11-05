@@ -1,0 +1,12 @@
+{
+  "created": "1908-07-01",
+  "ident": "Manx-Plant-Names-by-Miss-S-Morrison",
+  "name": "Manx Plant Names by Miss S. Morrison",
+  "englishName": "Manx Plant Names by Miss S. Morrison",
+  "author": "Sophia Morrison",
+  "original": "Bilingual",
+  "type": "word list",
+  "transcription": "R. Teare",
+  "translation": "Sophia Morrison",
+  "source": "\u2018A List of Manx Plant Names Compiled by Miss S. Morrison,\u2019 pages 19 \u2013 23 in \u2018Manx Wild Flowers by Miss Dodd, Mr. P. G. Ralfe, and Mr. L. Quayle, with a List of Manx Plant Names By Miss S. Morrison; Peel: W. K. Palmer, \u201CGuardian\u201D Office, Michael Street. 1908. [MS.H140/A/58]"
+}

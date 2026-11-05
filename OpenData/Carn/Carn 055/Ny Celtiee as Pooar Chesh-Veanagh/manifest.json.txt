@@ -4,6 +4,8 @@
   "ident": "Carn55NyCeltieeAsPooarChesh-Veanagh",
   "name": "Carn 055: Ny Celtiee as Pooar Chesh-Veanagh",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1986"
+  "notes": "Autumn 1986",
+  "uploaded by": "David Allison"
 }

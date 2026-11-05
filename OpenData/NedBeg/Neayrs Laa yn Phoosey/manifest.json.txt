@@ -2,5 +2,6 @@
   "created": "1899-09-17",
   "ident": "NedBegNeayrsLaaYnPhoosey",
   "name": "Neayr\u2019s Laa yn Phoosey",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

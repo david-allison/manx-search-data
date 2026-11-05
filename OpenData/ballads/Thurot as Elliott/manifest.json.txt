@@ -5,5 +5,6 @@
   "original": "Manx",
   "notes": "Ballad about a naval battle off Jurby Head. Another version in A. W. Moore\u0027s Manx Ballads (1896). Transcription \u0026 Translation; R. Teare",
   "source": "Mona\u0027s Herald, Wednesday, January 10, 1872; Page: 6",
-  "mnhNewsComponent": "Ar00603"
+  "mnhNewsComponent": "Ar00603",
+  "uploaded by": "Rob Teare"
 }

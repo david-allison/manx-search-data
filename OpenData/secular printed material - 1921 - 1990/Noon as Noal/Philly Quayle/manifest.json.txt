@@ -9,5 +9,6 @@
   "type": "Biographical",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Noon as Noal, Manx Star, Saturday, 30th October 1976; \u0027Phillie Mac y Phaill\u0027"
+  "source": "Noon as Noal, Manx Star, Saturday, 30th October 1976; \u0027Phillie Mac y Phaill\u0027",
+  "uploaded by": "Rob Teare"
 }

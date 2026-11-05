@@ -8,5 +8,6 @@
   "original": "English",
   "type": "Tract",
   "source": "",
-  "corupusSource": "Joseph Boght B as G.docx"
+  "corupusSource": "Joseph Boght B as G.docx",
+  "uploaded by": "David Allison"
 }

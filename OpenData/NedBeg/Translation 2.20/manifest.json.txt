@@ -9,5 +9,6 @@
   "Transcriber": "RT",
   "Standardised Manx": "RT",
   "notes": "A translation of an unknown poem, with Biblical references.",
-  "Source": "Loose papers in MS 01419A"
+  "Source": "Loose papers in MS 01419A",
+  "uploaded by": "Rob Teare"
 }

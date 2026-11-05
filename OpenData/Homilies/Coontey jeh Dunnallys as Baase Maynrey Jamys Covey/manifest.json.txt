@@ -9,5 +9,6 @@
   "original": "English",
   "source": "Coontey jeh Dunnallys as Baase Maynrey Jamys Covey [translator unknown] Estimated date: 1830 \u2013 1837. R. Tilling, Circus-street, Liverpool.",
   "English Source": "An Account of the Bravery and Happy Death of James Covey. 1830: THE RELIGIOUS TRACT SOCIETY, London.",
-  "Transcription": "Max Wheeler \u0026 Christopher Lewin 2021"
+  "Transcription": "Max Wheeler \u0026 Christopher Lewin 2021",
+  "uploaded by": "Rob Teare"
 }

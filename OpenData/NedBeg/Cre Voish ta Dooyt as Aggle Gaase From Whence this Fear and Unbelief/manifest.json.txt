@@ -5,5 +5,6 @@
   "name": "Cre Voish ta Dooyt as Aggle Gaase",
   "englishName": "From Whence this Fear and Unbelief",
   "iMuseum": "MS 01419A",
-  "notes": "I translated this hymn also. I had a copy of it written in manx and english for My Mother and some more old folks in Cregnaish:\nOriginal by Augustus Toplady\n\nIn \u0022Loose Papers\u0022, assumed to be dated 1906-1907"
+  "notes": "I translated this hymn also. I had a copy of it written in manx and english for My Mother and some more old folks in Cregnaish:\nOriginal by Augustus Toplady\n\nIn \u0022Loose Papers\u0022, assumed to be dated 1906-1907",
+  "uploaded by": "David Allison"
 }

@@ -8,5 +8,6 @@
   "Translator": "Edward Faragher",
   "Transcribed by": "RT",
   "Standardised Manx by": "RT",
-  "source": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3"
+  "source": "Isle of Man Examiner, Saturday, September 14, 1901; Page: 3",
+  "uploaded by": "Rob Teare"
 }

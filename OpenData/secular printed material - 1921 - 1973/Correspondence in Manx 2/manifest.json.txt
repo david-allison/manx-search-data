@@ -8,5 +8,6 @@
   "author": "J. Gell",
   "transcription": "R. Teare",
   "translation": "J. Gell",
-  "source": "Mona\u0027s Herald, Tuesday, January 24, 1939; Page: 7 "
+  "source": "Mona\u0027s Herald, Tuesday, January 24, 1939; Page: 7 ",
+  "uploaded by": "David Allison"
 }

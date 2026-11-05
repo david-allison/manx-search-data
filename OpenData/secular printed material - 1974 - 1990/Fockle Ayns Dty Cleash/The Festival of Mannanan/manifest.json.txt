@@ -8,5 +8,6 @@
   "notes": "",
   "Transcription": "RT",
   "Translation": "RT",
-  "source": "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "source": "Manx Star, 21st June, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "uploaded by": "Rob Teare"
 }

@@ -8,5 +8,6 @@
   "type": "humorous vignette",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Ramsey Weekly News, Saturday, August 04, 1900; Page: 7 "
+  "source": "Ramsey Weekly News, Saturday, August 04, 1900; Page: 7 ",
+  "uploaded by": "Rob Teare"
 }

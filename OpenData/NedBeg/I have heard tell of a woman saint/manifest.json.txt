@@ -1,0 +1,11 @@
+{
+  "created": "1897-04-07",
+  "ident": "NedBeg-I-have-heard-tell-of-a-woman-saint",
+  "type": "Letter",
+  "original": "Bilingual",
+  "name": "I have heard tell of a woman saint",
+  "englishName": "I have heard tell of a woman saint",
+  "notes": "Originally transcribed in Sophia Morrison\\u2019s hand, of from selections from letters, in a notebook entitled \\u2018Peel History Book\\u2018. The author is Edward Faragher (Ned Beg Hom Ruy),the selections are almost certainly from letters written to C. Roeder. [Anecdotes of legendary history in the making]\\u2018 MS 05433 B. Sympathetic Manx spelling \\u0026 punctuation).",
+  "transcribed": "RT",
+  "Source": "Peel History Book [Anecdotes of legendary history in the making] MS 05433 B"
+}

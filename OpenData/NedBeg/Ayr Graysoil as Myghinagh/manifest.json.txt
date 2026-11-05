@@ -4,5 +4,6 @@
   "ident": "NedBeg-Ayr-Graysoil-as-Myghinagh",
   "name": "Ayr Graysoil as Myghinagh",
   "original": "Manx",
-  "notes": "Written Before:\n70.     Arrane: Ta\u2019n Imbagh Arree Nish ec Kione 17.05.1899\nAssumed to be 1899"
+  "notes": "Written Before:\n70.     Arrane: Ta\u2019n Imbagh Arree Nish ec Kione 17.05.1899\nAssumed to be 1899",
+  "uploaded by": "David Allison"
 }

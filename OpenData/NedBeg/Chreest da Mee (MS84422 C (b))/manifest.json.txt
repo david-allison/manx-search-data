@@ -4,5 +4,6 @@
   "ident": "NedBeg-Chreest-da-Mee",
   "name": "Chreest da Mee (MS84422 C (b))",
   "iMuseum": "MS84422 C (b)",
-  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907"
+  "notes": "In \u0022Loose Papers\u0022, assumed to be dated 1906-1907",
+  "uploaded by": "David Allison"
 }

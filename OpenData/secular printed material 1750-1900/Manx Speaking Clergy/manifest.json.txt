@@ -5,5 +5,6 @@
   "notes": "Phrases extracted from a letter by \u2018Friend\u2019 to the Manx Liberal, Saturday, February 08, 1840; Page: 3 Transcribed \u0026 translated R.Teare 2020",
   "source": "Manx Liberal, Saturday, February 08, 1840; Page: 3.",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00308"
+  "mnhNewsComponent": "Ar00308",
+  "uploaded by": "Rob Teare"
 }

@@ -8,5 +8,6 @@
   "notes": "The\u0027fainey\u0027 was a gold ring lapel badge awarded to and worn by fluent Manx speakers.",
   "Transcription": "RT",
   "Translation": "RT",
-  "source": "Manx Star, 6th September, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "source": "Manx Star, 6th September, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "uploaded by": "Rob Teare"
 }

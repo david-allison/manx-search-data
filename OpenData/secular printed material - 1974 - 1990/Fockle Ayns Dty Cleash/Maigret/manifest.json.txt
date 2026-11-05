@@ -8,5 +8,6 @@
   "notes": "Contains a short translation of the beginning of \u0027La Premi\u00E8re enqu\u00EAte de Maigret\u0027 (\u0027Maigret\u0027s First Case\u0027) by Georges Simenon. Presses de la Cit\u00E9. Paris. 1948.",
   "Transcription": "RT",
   "Translation": "RT",
-  "source": "Manx Star, 29th March, 1975. Page 6. Fockle Ayns Dty Cleash."
+  "source": "Manx Star, 29th March, 1975. Page 6. Fockle Ayns Dty Cleash.",
+  "uploaded by": "Rob Teare"
 }

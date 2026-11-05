@@ -8,5 +8,6 @@
   "notes": "Charms for various conditions",
   "original": "Manx",
   "type": "Folklore",
-  "source": "Mona Miscellany; Manx Society Vol. XVI; 1869 Edited by W. Harrison"
+  "source": "Mona Miscellany; Manx Society Vol. XVI; 1869 Edited by W. Harrison",
+  "uploaded by": "Rob Teare"
 }

@@ -7,5 +7,6 @@
   "original": "English",
   "type": "Tract",
   "source": "Padjer y Looder; ny Baght er ny Choyrt er e Loo (c. 1822)/Liverpool Religious Tract Society, No. 70.  The Swearer\u2019s Prayer; or his Oath Explained (c. 1820)",
-  "corupusSource": "Padjer y Looder B as G.docx"
+  "corupusSource": "Padjer y Looder B as G.docx",
+  "uploaded by": "David Allison"
 }

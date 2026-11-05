@@ -6,5 +6,6 @@
   "author": "None Provided",
   "source": "Mona\u2019s Herald, Tuesday, January 26, 1841; Page: 2",
   "original": "Manx",
-  "mnhNewsComponent": "Ar00207"
+  "mnhNewsComponent": "Ar00207",
+  "uploaded by": "Rob Teare"
 }

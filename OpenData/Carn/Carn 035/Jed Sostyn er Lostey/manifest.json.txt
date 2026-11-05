@@ -4,6 +4,8 @@
   "ident": "Carn35JedSostynErLostey",
   "name": "Carn 035: Jed Sostyn er Lostey?",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1981"
+  "notes": "Autumn 1981",
+  "uploaded by": "David Allison"
 }

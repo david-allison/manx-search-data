@@ -6,5 +6,6 @@
   "author": "Various",
   "original": "Manx",
   "source": "Mona\u0027s Herald, Wednesday, January 10, 1872; Page: 6",
-  "mnhNewsComponent": "Ar00600"
+  "mnhNewsComponent": "Ar00600",
+  "uploaded by": "Rob Teare"
 }

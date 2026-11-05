@@ -4,6 +4,8 @@
   "ident": "Carn55NaightynVoishBretyn",
   "name": "Carn 055: Naightyn Voish Bretyn",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1986"
+  "notes": "Autumn 1986",
+  "uploaded by": "David Allison"
 }

@@ -1,0 +1,11 @@
+{
+  "createdCircaStart": "2023-01-01",
+  "createdCircaEnd": "2023-12-31",
+  "ident": "culture-vannin-annual-report-2022-23",
+  "name": "Culture Vannin Annual Report 2022-2023",
+  "author": "Culture Vannin",
+  "original": "English",
+  "notes": "Bilingual extracts from the Culture Vannin Annual Report for the 2022-23 financial year: the Chair\u0027s statement (Smooinaghtyn veih\u0027n Chaairliagh ain) by Chris Thomas MHK marking the 40th anniversary of the Manx Heritage Foundation Act, who we are and what we do, celebrating the importance of research (including \u0027150 Years of Education for all\u0027), development work highlights, grant highlights, the Gaelic Broadcasting Committee\u0027s annual report, and the award of the Reih Bleeaney Vanannan to Fiona McArdle.",
+  "source": "Culture Vannin Annual Report 2022-2023, Culture Vannin, St John\u0027s, Isle of Man. https://www.culturevannin.im",
+  "uploaded by": "David Allison"
+}

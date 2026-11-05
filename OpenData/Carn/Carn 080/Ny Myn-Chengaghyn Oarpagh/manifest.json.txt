@@ -4,6 +4,8 @@
   "ident": "Carn80NyMyn-ChengaghynOarpagh",
   "name": "Carn 080: Ny Myn-Chengaghyn Oarpagh",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1992/3"
+  "notes": "Winter 1992/3",
+  "uploaded by": "David Allison"
 }

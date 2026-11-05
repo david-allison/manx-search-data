@@ -12,5 +12,6 @@
   "editing": "Max W. Wheeler",
   "type": "Tract",
   "iMuseum": "M 45701/6",
-  "source": "Douglas Public Library Religious Tracts in the Manks Language (M 45701/6)"
+  "source": "Douglas Public Library Religious Tracts in the Manks Language (M 45701/6)",
+  "uploaded by": "David Allison"
 }

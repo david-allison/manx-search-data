@@ -4,6 +4,8 @@
   "ident": "Carn94FilmynAsChellveeishCheltiagh",
   "name": "Carn 094: Filmyn as Chellveeish Cheltiagh",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1996"
+  "notes": "Summer 1996",
+  "uploaded by": "David Allison"
 }

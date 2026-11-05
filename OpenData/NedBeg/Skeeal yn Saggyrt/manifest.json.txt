@@ -8,5 +8,6 @@
   "author": "Edward Faragher",
   "transcribed by": "RT",
   "Translated by": "RT",
-  "source": "Loose papers MS 00431C"
+  "source": "Loose papers MS 00431C",
+  "uploaded by": "Rob Teare"
 }

@@ -6,5 +6,6 @@
   "type": "Poem",
   "original": "Manx",
   "author": "Unknown. William Style - according to Rev J. T. Clarke.",
-  "source": "Mona\u0027s Herald, Wednesday, May 29, 1872; Page: 11"
+  "source": "Mona\u0027s Herald, Wednesday, May 29, 1872; Page: 11",
+  "uploaded by": "Rob Teare"
 }

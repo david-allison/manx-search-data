@@ -7,5 +7,6 @@
   "author": "unknown",
   "transcription": "R.Teare, from C. Vallency",
   "translator": "C. Vallency",
-  "source": "Vallencey, Charles. COLLECTANEA DE REBUS HIBERNICUS. Vol. IV. Luke White, Dublin. 1786. III. Of the DEITIES of the PAGAN IRISH, P.510: \u0026 Notes: M, p.549"
+  "source": "Vallencey, Charles. COLLECTANEA DE REBUS HIBERNICUS. Vol. IV. Luke White, Dublin. 1786. III. Of the DEITIES of the PAGAN IRISH, P.510: \u0026 Notes: M, p.549",
+  "uploaded by": "Rob Teare"
 }

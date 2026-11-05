@@ -5,5 +5,6 @@
   "notes": "\u0027Mottoes\u0027 on banners put up to welcome the Duke of Edinburgh",
   "original": "Manx",
   "source": "Mona\u0027s Herald, Wednesday, February 01, 1882; Page: 4",
-  "translation": "RT"
+  "translation": "RT",
+  "uploaded by": "David Allison"
 }

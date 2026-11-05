@@ -8,5 +8,6 @@
   "type": "humorous vignette",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Isle of Man Examiner, Saturday, July 07, 1900; Page: 7"
+  "source": "Isle of Man Examiner, Saturday, July 07, 1900; Page: 7",
+  "uploaded by": "Rob Teare"
 }

@@ -9,5 +9,6 @@
   "author": "Wm. Radcliffe",
   "transcription": "R. Teare",
   "translation": "Wm. Radcliffe",
-  "source": "Ramsey Courier, Friday, September 19, 1930; Page: 3"
+  "source": "Ramsey Courier, Friday, September 19, 1930; Page: 3",
+  "uploaded by": "Rob Teare"
 }

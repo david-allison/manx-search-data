@@ -10,5 +10,6 @@
   "mnhNewsComponent": "Ar00502",
   "transcription": "R. Teare",
   "translation": "R. Teare",
-  "source": "Yn Ree: Isle of Man Times, Saturday, June 04, 1910; Page: 5"
+  "source": "Yn Ree: Isle of Man Times, Saturday, June 04, 1910; Page: 5",
+  "uploaded by": "Rob Teare"
 }

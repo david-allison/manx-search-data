@@ -4,5 +4,6 @@
   "ident": "NedBeg-The-supposed-soliliquy-of-Alexander-Selkirk",
   "name": "The supposed soliliquy of Alexander Selkirk.",
   "original": "English",
-  "notes": "Original in English by W Cowper. Translation is based on the Manx\nIn \u0022Loose Papers\u0022, assumed to be dated 1906-1907"
+  "notes": "Original in English by W Cowper. Translation is based on the Manx\nIn \u0022Loose Papers\u0022, assumed to be dated 1906-1907",
+  "uploaded by": "David Allison"
 }

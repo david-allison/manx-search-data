@@ -10,5 +10,6 @@
   "type": "Traditionary Ballad",
   "original": "Manx",
   "iMuseum": "MS 05072B",
-  "source": "MS 05072B John Kelly C.1770"
+  "source": "MS 05072B John Kelly C.1770",
+  "uploaded by": "Rob Teare"
 }

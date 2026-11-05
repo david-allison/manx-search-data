@@ -4,6 +4,8 @@
   "ident": "Carn79SeoseLeshAlbinish",
   "name": "Carn 079: Seose lesh Albinish",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Autumn 1992"
+  "notes": "Autumn 1992",
+  "uploaded by": "David Allison"
 }

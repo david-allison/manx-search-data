@@ -4,6 +4,8 @@
   "ident": "Carn62YnRaadErOaieRereNIREX",
   "name": "Carn 062: Yn Raad Er Oaie Rere NIREX",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1988"
+  "notes": "Summer 1988",
+  "uploaded by": "David Allison"
 }

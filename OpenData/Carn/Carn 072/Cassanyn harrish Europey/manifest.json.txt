@@ -4,6 +4,8 @@
   "ident": "Carn72CassanynHarrishEuropey",
   "name": "Carn 072: Cassanyn harrish Europey",
   "author": "Colin y Jerree",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 1990/91"
+  "notes": "Winter 1990/91",
+  "uploaded by": "David Allison"
 }

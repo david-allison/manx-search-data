@@ -4,6 +4,8 @@
   "ident": "Carn11LhiettalBreeLoayrtysNyYerneeAynsSostyn",
   "name": "Carn 011: Lhiettal Bree-loayrtys ny Yernee ayns Sostyn",
   "author": "Brian y Stoyll",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "November 1975"
+  "notes": "November 1975",
+  "uploaded by": "David Allison"
 }

@@ -3,7 +3,9 @@
   "createdCircaEnd": "1982-12-31",
   "ident": "Carn37CleayshynFollit",
   "name": "Carn 037: Cleayshyn Follit",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
   "author": "Brian y Stoyll",
-  "notes": "Spring 1982"
+  "notes": "Spring 1982",
+  "uploaded by": "David Allison"
 }

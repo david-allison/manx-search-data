@@ -1,5 +1,6 @@
 {
   "created": "1899-05-23",
   "ident": "NedBegChreestTerChoyrtGraihDou",
-  "name": "Chreest T\u2019er Choyrt Graih Dou"
+  "name": "Chreest T\u2019er Choyrt Graih Dou",
+  "uploaded by": "David Allison"
 }

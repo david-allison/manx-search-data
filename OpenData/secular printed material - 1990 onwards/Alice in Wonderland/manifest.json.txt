@@ -10,5 +10,6 @@
   "notes": "This is the second, 2006 edition of Brian Stowell\u0027s translation of Lewis Carroll\u0027s  \u0027Alices\u0027s Adventures in Wonderland\u0027, first published in English by Macmillan in 1865. The first edition of Stowell\u0027s translation was published in 1990. A third edition was published in 2010. No doubt due to the proliferation of double-entendre and word-play the translation is not entirely literal. The translation is of the first edition of \u0027Alices\u0027s Adventures in Wonderland\u0027, although a few annotated additions from later editions also appear.",
   "Transcription": "RT",
   "Translation": "Brian Stowell",
-  "source": "\u0027Ealish ayns Cheer ny Yindyssyn\u0027, Lewis Carroll, translated by Brian Stowell,  Yn \u00C7heshaght Ghailckagh, Isle of Man, 2006."
+  "source": "\u0027Ealish ayns Cheer ny Yindyssyn\u0027, Lewis Carroll, translated by Brian Stowell,  Yn \u00C7heshaght Ghailckagh, Isle of Man, 2006.",
+  "uploaded by": "Rob Teare"
 }

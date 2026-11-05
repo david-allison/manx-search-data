@@ -4,6 +4,8 @@
   "ident": "Carn78YnAghtDyYannooBlebeeyn",
   "name": "Carn 078: Yn Aght dy Yannoo Blebeeyn",
   "author": "Orree Crennell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Summer 1992"
+  "notes": "Summer 1992",
+  "uploaded by": "David Allison"
 }

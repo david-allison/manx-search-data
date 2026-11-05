@@ -4,6 +4,8 @@
   "ident": "Carn148Yn-chummalSeoseAsNyCheeraghynCeltiagh",
   "name": "Carn 148: Yn-chummal seose as ny cheeraghyn Celtiagh",
   "author": "Brian Stowell",
+  "transcribed": "Phil Kelly",
   "original": "Manx",
-  "notes": "Winter 2010"
+  "notes": "Winter 2010",
+  "uploaded by": "David Allison"
 }

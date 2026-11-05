@@ -7,5 +7,6 @@
   "transcribed": "Phil Kelly",
   "translated": "Google Translate / Phil Kelly",
   "printer": "R. Tilling, of Liverpool",
-  "original": "Manx"
+  "original": "Manx",
+  "uploaded by": "David Allison"
 }

@@ -2,5 +2,6 @@
   "created": "1907-07-27",
   "ident": "NedBegManninAynsYnCheayn",
   "name": "Mannin ayns yn cheayn",
-  "notes": "Included in a letter to Kewley"
+  "notes": "Included in a letter to Kewley",
+  "uploaded by": "David Allison"
 }

@@ -1,9 +1,6 @@
 ﻿using CsvHelper;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
-using System.Linq;
 
 namespace Manx_Search_Data.TestUtil
 {
@@ -43,16 +40,41 @@ namespace Manx_Search_Data.TestUtil
         
         public string Original { get; set; }
 
+        /// <summary>
+        /// Speaker codes which may prefix the collection's Manx cells as `CODE.` / `CODE:`
+        /// markers (e.g. ["NM", "WR"] in interview transcriptions). Moved into
+        /// <see cref="DocumentLine.Speaker"/> at load time: see <see cref="DocumentLinePreparer"/>.
+        /// </summary>
+        public List<string> InlineSpeakerCodes { get; set; }
+
+        /// <summary>
+        /// The collection is fragments from many sources (Brooillagh), each line's
+        /// Notes cell citing its real source and date ("[M.H., 05/05/1858]"). Lines
+        /// date from their citations at load time - a line without one belongs to the
+        /// last cited fragment - and the collection's own date range becomes the span
+        /// of its lines. See <see cref="NotesCitationDates"/>.
+        /// </summary>
+        public bool NotesCitations { get; set; }
+
         internal abstract List<DocumentLine> LoadLocalFile();
         internal abstract List<string> LoadHeaders();
 
+        internal static readonly CsvReaderOptions CsvOptions = new()
+        {
+            Separator = ',',
+            MalformedData = CsvMalformedDataHandling.Throw,
+            MissingField = CsvMissingFieldHandling.Throw,
+        };
+
         protected static List<DocumentLine> LoadCsv(string path)
         {
-            using var reader = new StreamReader(path);
-            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-
-            csv.Context.RegisterClassMap<DocumentLineMap>();
-            return csv.GetRecords<DocumentLine>().ToList();
+            using var csv = CsvReader.FromFile(path, CsvOptions);
+            var lines = new List<DocumentLine>();
+            while (csv.Read())
+            {
+                lines.Add(csv.GetRecord<DocumentLine>());
+            }
+            return lines;
         }
 
 
